@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-docs/btp-business-application-studio)](https://api.reuse.software/info/github.com/SAP-docs/btp-business-application-studio)
+
 # Contributions to SAP Business Application Studio Documentation
 
 Found a mistake in our documentation? Always wanted to add a step in one of our procedures that could save many others a lot of time? Then you're at the right place! All contributions made to the Markdown files in the [docs](docs) directory are reviewed, and if deemed valuable be added to our [official documentation on SAP Help Portal](https://help.sap.com/webcomponents/products/SAP%20Business%20Application%20Studio/9d1db9835307451daa8c930fbd9ab264/8f46c6e6f86641cc900871c903761fd4.html). The easiest way is to start there, and choose _Edit_ to find the right Markdown file to contribute to.
