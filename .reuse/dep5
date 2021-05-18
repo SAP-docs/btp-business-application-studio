@@ -1,8 +1,8 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: btp-bas-docs
+Upstream-Name: btp-business-application-studio
 Upstream-Contact: Paola Laufer (paola.laufer@sap.com)
-Source: https://github.com/sap-docs/btp-bas-docs
+Source: https://github.com/sap-docs/btp-business-application-studio
 
 Files: *
-Copyright:  2021 SAP SE or an SAP affiliate company and btp-bas-docs contributors
+Copyright:  2021 SAP SE or an SAP affiliate company and btp-business-application-studio contributors
 License: CC-BY-4.0
