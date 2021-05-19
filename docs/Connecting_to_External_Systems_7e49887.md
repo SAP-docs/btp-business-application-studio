@@ -10,7 +10,7 @@ For applications that do not need to run on Cloud Foundry, establish a connectio
 
 ## Context
 
-You can access on-premise SAP ABAP systems using a built-in Web Proxy. Your dev space includes a built-in Web Proxy \(http://localhost:8887\) that allows you access to on-premise systems. It is already configured with the HTTP\_PROXY and the HTTPS\_PROXY environment variables. The proxy requires destination configuration to your on-premise system from your Cloud Foundry Subaccount.
+You can access on-premise SAP ABAP systems using a built-in Web Proxy. Your dev space includes a built-in Web Proxy \(`http://localhost:8887`\) that allows you access to on-premise systems. It is already configured with the HTTP\_PROXY and the HTTPS\_PROXY environment variables. The proxy requires destination configuration to your on-premise system from your Cloud Foundry Subaccount.
 
 
 
