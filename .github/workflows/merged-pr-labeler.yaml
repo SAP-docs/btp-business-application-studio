@@ -1,0 +1,41 @@
+name: Merged pull request labeler
+
+# What the execution context is:
+# The merging (not just closing) of a pull request.
+
+# What it does:
+# Assigns the 'valuable contribution' label.
+
+# Why we need it:
+# To mark a valuable pull request contribution, and thus to cause the
+# SAP Community profile URL requester to be triggered.
+
+# What's important to know:
+# In order to have this workflow trigger another, a PAT is required,
+# rather than a regular token. The label to assign is defined at the
+# start of the job, in the LABEL environment variable.
+
+on:
+  pull_request_target:
+    types: [closed]
+
+jobs:
+
+  assign-label-on-merge:
+    if: contains(github.repositoryUrl, 'github.com') && github.event.pull_request.merged
+    env:
+      LABEL: "contribution"
+    runs-on: ubuntu-20.04
+
+    steps:
+
+      - id: checkout
+        name: Check out the repo
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.PAT }}
+
+      - id: assign_label
+        run: |
+          echo -n ${{ secrets.PAT }} | gh auth login --with-token
+          gh pr edit ${{ github.event.number }} --add-label "$LABEL"
