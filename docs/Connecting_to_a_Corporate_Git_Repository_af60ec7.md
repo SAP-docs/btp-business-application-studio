@@ -52,14 +52,14 @@ Make sure to use the exact same host and port as defined in the destination URL 
     <tr>
     <th>
 
-Field
+    Field
 
 
     
     </th>
     <th>
 
-Value
+    Value
 
 
     
@@ -68,30 +68,14 @@ Value
     <tr>
     <td>
 
- *Back-end Type* 
+     *Back-end Type* 
 
 
     
     </td>
     <td>
 
- *Non-SAP System* 
-
-
-    
-    </td>
-    </tr>
-    <tr>
-    <td>
-
-*Protocol*
-
-
-    
-    </td>
-    <td>
-
- *HTTPS* 
+     *Non-SAP System* 
 
 
     
@@ -100,30 +84,14 @@ Value
     <tr>
     <td>
 
- *Internal Host / Port* 
+    *Protocol*
 
 
     
     </td>
     <td>
 
-Enter the internal host and port for your Git system.
-
-
-    
-    </td>
-    </tr>
-    <tr>
-    <td>
-
- *Host / Port* 
-
-
-    
-    </td>
-    <td>
-
-Enter a virtual host and port for your Git system. You can use the same host and port as for the virtual host and port.
+     *HTTPS* 
 
 
     
@@ -132,34 +100,66 @@ Enter a virtual host and port for your Git system. You can use the same host and
     <tr>
     <td>
 
- *Principal Type* 
+     *Internal Host / Port* 
 
 
     
     </td>
     <td>
 
- *None* 
+    Enter the internal host and port for your Git system.
+
+
+    
+    </td>
+    </tr>
+    <tr>
+    <td>
+
+     *Host / Port* 
+
+
+    
+    </td>
+    <td>
+
+    Enter a virtual host and port for your Git system. You can use the same host and port as for the virtual host and port.
+
+
+    
+    </td>
+    </tr>
+    <tr>
+    <td>
+
+     *Principal Type* 
+
+
+    
+    </td>
+    <td>
+
+     *None* 
 
 
     
     </td>
     </tr>
     </table>
-
+    
 
     <table>
     <tr>
     <th>
 
-Field
+    Field
 
 
     
     </th>
     <th>
 
-Value
+    Value
 
 
     
@@ -168,30 +168,14 @@ Value
     <tr>
     <td>
 
- *Enabled* 
+     *Enabled* 
 
 
     
     </td>
     <td>
 
-Checked
-
-
-    
-    </td>
-    </tr>
-    <tr>
-    <td>
-
- *URL Path* 
-
-
-    
-    </td>
-    <td>
-
- ***/*** 
+    Checked
 
 
     
@@ -200,21 +184,37 @@ Checked
     <tr>
     <td>
 
- *Access Policy* 
+     *URL Path* 
 
 
     
     </td>
     <td>
 
- *Path and all sub-paths* 
+     ***/*** 
+
+
+    
+    </td>
+    </tr>
+    <tr>
+    <td>
+
+     *Access Policy* 
+
+
+    
+    </td>
+    <td>
+
+     *Path and all sub-paths* 
 
 
     
     </td>
     </tr>
     </table>
-
+    
 3.  Upload your organization's Git server certificate to the cloud connector \(if your Git server is using certificate-based authentication\).
 4.  If you defined a custom identity provider, make sure that you have configured the assertion-based attributes mapping for this identity provider. For more information, see [Configure Trust to the SAML Identity Provider](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/dc618538d97610148155d97dcd123c24.html#loiob6cfc4bb4bff4ace90afc71b0962fcb5).
 5.  Define your corporate Git destination. For more information, see [Connect to ABAP Systems](https://help.sap.com/viewer/825270ffffe74d9f988a0f0066ad59f0/CF/en-US/5c3debce758a470e8342161457fd6f70.html).
@@ -228,14 +228,14 @@ Checked
         <tr>
         <th>
 
-Property
+        Property
 
 
         
         </th>
         <th>
 
-Value
+        Value
 
 
         
@@ -244,30 +244,14 @@ Value
         <tr>
         <td>
 
-WebIDEEnabled
+        WebIDEEnabled
 
 
         
         </td>
         <td>
 
-true
-
-
-        
-        </td>
-        </tr>
-        <tr>
-        <td>
-
-HTML5.DynamicDestination
-
-
-        
-        </td>
-        <td>
-
-true
+        true
 
 
         
@@ -276,23 +260,39 @@ true
         <tr>
         <td>
 
-HTML5.Timeout
-
-\(Optional property\)
+        HTML5.DynamicDestination
 
 
         
         </td>
         <td>
 
-60000
+        true
+
+
+        
+        </td>
+        </tr>
+        <tr>
+        <td>
+
+        HTML5.Timeout
+
+        \(Optional property\)
+
+
+        
+        </td>
+        <td>
+
+        60000
 
 
         
         </td>
         </tr>
         </table>
-
+        
         ![](images/Create_destination_for_Git_328ecee.png)
 
 
