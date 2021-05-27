@@ -8,11 +8,10 @@ Trial accounts are intended for personal exploration, and not for production use
 
 > ### Note:  
 > SAP Business Application Studio is available on Trial in the Singapore, Frankfurt, and US East \(VA\) regions.
-> 
-> -   ***Provider = Amazon Web Services \(AWS\)*** and ***Region = Europe \(Frankfurt\)*** or ***Region = US East \(VA\)***
-> 
-> -   ***Provider = Microsoft Azure*** and ***Region = Singapore*** 
-
+> Provider | Supported Regions
+> ------------ | -------------
+> **Amazon Web Services \(AWS\)** | Europe \(Frankfurt\) or US East
+> **Microsoft Azure** | Singapore
 
 
 <a name="loio2cf6ec025fd640289eeef32021a30824__section_e2l_4b3_vkb"/>
