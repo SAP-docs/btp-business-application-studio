@@ -12,3 +12,4 @@ The *Welcome* page is displayed when you open your dev space or enter ***Welcome
 -   Links to your recently opened projects.
 -   Sample applications relevant for your dev space.
 
+Note: Please ensure that you are in your production and not in the trial account environment
