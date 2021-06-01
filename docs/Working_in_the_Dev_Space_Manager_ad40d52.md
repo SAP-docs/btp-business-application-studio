@@ -24,7 +24,7 @@ You can generate a dev space to create and manage applications. You can select t
 
 
 > ### Note:  
-> The maximum size limit of the dev space is 6GB for productive accounts and 2GB for trial accounts. Exceeding this limit may cause loss of data and other problems, including the inability to start the dev space.
+> The maximum size limit of the dev space is 6GB for productive accounts and 2GB for trial accounts. Exceeding this limit may cause loss of data and other problems, including the inability to start the dev space. Note that additional [restrictions](Restrictions_a45742a.md) apply to dev spaces in trial accounts.
 
 
 
