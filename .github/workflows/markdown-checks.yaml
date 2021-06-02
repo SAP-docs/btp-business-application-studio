@@ -29,6 +29,14 @@ jobs:
       name: Check out the repository content
       uses: actions/checkout@v2
 
+    - id: check_files_changed
+      uses: dorny/paths-filter@v2
+      with:
+        list-files: 'escape'
+        filters: |
+          changed:
+            - 'docs/**'
+
     - id: add_matcher
       name: Add the matcher for markdownlint style message output
       run: "echo ::add-matcher::.github/workflows/markdownlint/problem-matcher.json"
@@ -42,9 +50,10 @@ jobs:
           markdownlint-cli markdownlint-rule-titlecase
 
     - id: run_linter
+      if: steps.check_files_changed.outputs.changed_files
       name: Run linter with specific rules, on the docs/ content
       run: |
         npx markdownlint \
           --config .github/workflows/markdownlint/config.yaml \
           --rules markdownlint-rule-titlecase \
-          docs/
+          ${{ steps.check_files_changed.outputs.changed_files }}
