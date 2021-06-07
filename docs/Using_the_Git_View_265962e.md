@@ -42,6 +42,8 @@ Hover over the section title to see additional actions.
 
 -   Click ![](images/unstage_changes_icon_684e1d1.png) to unstage all files in the section.
 
+Hover over the files in this section to see additional actions:
+
 -   Click ![](images/unstage_changes_icon_684e1d1.png) to unstage the changes in the file.
 -   Click ![](images/open_file_icon_2380fb5.png) to open the file.
 
@@ -55,6 +57,8 @@ Hover over the section title to see additional actions.
 
 -   Click ![](images/discard_changes_icon_b9f9b23.png) to discard all changes.
 -   Click ![](images/stage_changes_icon_10076b2.png) to stage all changes.
+
+Hover over the files in this section to see additional actions:
 
 -   Click ![](images/discard_changes_icon_b9f9b23.png) to discard the changes in the file.
 -   Click ![](images/open_file_icon_2380fb5.png) to open the file.
@@ -94,6 +98,8 @@ There is also a *Synchronize Changes* action in the status bar, next to the bran
 
 You can create and check out branches directly within the IDE by using the ***Git: Checkout*** command in the command palette.
 
+To create a new branch:
+
 1.  Click on the active branch name in the status bar. The command palette opens.
 2.  Enter a name for the new branch. A new branch is created and checked out.
 
@@ -102,6 +108,8 @@ You can create and check out branches directly within the IDE by using the ***Gi
 <a name="loio265962e20eee43f499516de9011ac2e3__section_trx_bbg_zlb"/>
 
 ## Gutter Indicators
+
+If you open a folder that is a Git repository and begin making changes, annotations are added to the gutter and to the overview ruler.
 
 -   A red triangle indicates where lines have been deleted.
 

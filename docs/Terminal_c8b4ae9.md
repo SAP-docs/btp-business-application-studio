@@ -10,5 +10,7 @@ With access to the terminal, you can use any tool that is pre-installed on your 
 
 To open the terminal in SAP Business Application Studio, select *Terminal* \> *New Terminal* from the menu bar.
 
-![](images/Terminal-_Eran_8688ec3.jpg)
+To open the terminal at a specific directory, right-click the desired file in the *File Explorer*, and select *Open in Terminal*.
+
+![](images/Terminal_51f4bd7.png)
 

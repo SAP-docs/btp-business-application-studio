@@ -30,8 +30,12 @@ You can also filter objects to focus on the application components that are rele
 
 ## Creating a Data Model or a Service
 
+To create a data model:
+
 -   From the Storyboard toolbar, click the *Create a data model* icon \(![](images/Creeate_Data_Model_6d37d34.png)\), or in the *CAP DATA MODELS AND SERVICES* section, select the *Data Models* folder and click *Create a Data Model* from the context menu.
 
+
+To create a service:
 
 -   From the Storyboard toolbar, click the *Create a service* icon \(![](images/Create_a_Service_66bf5f2.png)\), or in the *CAP DATA MODELS AND SERVICES* section, select the *Services* folder and click *Create a Service* from the context menu.
 

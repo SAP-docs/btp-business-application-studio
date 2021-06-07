@@ -67,6 +67,8 @@ This removes internet access to the applications running on the respective dev s
 
 ## Configuring Port Notification Settings
 
+You can define which ports should omit a notification when an application is being run.
+
 1.  In SAP Business Application Studio, open the *Preferences* view.
 2.  Search for ***Ports***.
 3.  From the list of preferences, select *Ports*.

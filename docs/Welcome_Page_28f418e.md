@@ -8,6 +8,8 @@ The *Welcome* page provides you contextual links useful to users at the beginnin
 
 The *Welcome* page is displayed when you open your dev space or enter ***Welcome*** in the command palette.
 
+It is composed of three main sections:
+
 -   Quick access to common activities that are relevant for your dev space.
 -   Links to your recently opened projects.
 -   Sample applications relevant for your dev space.

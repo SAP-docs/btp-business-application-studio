@@ -18,6 +18,8 @@ See [Working with SAP Business Application Studio](https://help.sap.com/viewer/c
 > 
 > To find out your SAP Business Application Studio IP address, see [SAP Business Application Studio Availability](SAP_Business_Application_Studio_Availability_8509485.md).
 
+The SAP HANA Native Application scenario contains the following predefined extensions:
+
 -   **SAP HANA Calculation View Editor**
 
     Allows you to edit and manage SAP HANA calculation views. The extension includes the SAP HANA calculation view editor, the synonym editor, and the analytical privilege editor.
@@ -43,6 +45,8 @@ See [Working with SAP Business Application Studio](https://help.sap.com/viewer/c
     See [Modeling Guide for SAP Web IDE and SAP Business Application Studio](https://help.sap.com/viewer/cc7ebd3f344a4cdda20966a7617f52d8/2.0_SPS05/en-US/b72a6833d8d54aa2be4c199ac4db6996.html)
 
 -   **MTA Tools**
+
+    Allows you to perform operations such as build, deployment, and validation on multitarget applications. The following tools will be installed as part of the extension:
 
     -   Cloud Foundry environment CLI
 

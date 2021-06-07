@@ -6,13 +6,19 @@ Build business services and business applications and extend SAP S/4HANA using S
 
 See [SAP Business Application Studio in Capire](https://cap.cloud.sap/docs/get-started/tools#bastudio).
 
+The Full Stack Cloud Application scenario contains the following predefined extensions:
+
 -   **CDS Tools**
 
     Allows you to develop applications based on CDS using the CDS command line and tools.
 
+    Includes enhanced code editors and database management capabilities. The following tool is installed as part of the extension:
+
     -   CDS Command Line Tools v1.4.3
 
 -   **Java Tools**
+
+    Allows you to develop, test, and run Java applications. Includes debugging capabilities and enhanced code editors. The following tools are installed as part of the extension:
 
     -   SapMachine11
 
@@ -27,6 +33,8 @@ See [SAP Business Application Studio in Capire](https://cap.cloud.sap/docs/get-s
 
 -   **MTA Tools**
 
+    Allows you to perform operations such as build, deployment, and validation on multitarget applications. The following tools are installed as part of the extension:
+
     -   Cloud Foundry environment CLI
 
     -   Cloud Foundry environment deployment plugin
@@ -38,6 +46,8 @@ See [SAP Business Application Studio in Capire](https://cap.cloud.sap/docs/get-s
     See [MTA Tools](https://help.sap.com/viewer/209802f55bfd47fcaccecf1241df99f8/Cloud/en-US).
 
 -   **SAP Fiori Tools**
+
+    Allows you to simplify the development of SAP Fiori elements applications by providing extensions that can help you create applications, visualize navigation, automatically generate code, and more. The following extensions are installed:
 
     -   Fiori elements Yeoman Generator
 
@@ -52,6 +62,9 @@ See [SAP Business Application Studio in Capire](https://cap.cloud.sap/docs/get-s
     See [SAP Fiori Tools](https://help.sap.com/viewer/product/SAP_FIORI_tools/Latest/en-US).
 
 -   **SAP Fiori Freestyle Tools**
+
+    Allows you to optimize your SAP Fiori-based development. This extension provides SAP Fiori templates with the following tools:
+
     -   UI5 CLI
 
     -   Grunt CLI

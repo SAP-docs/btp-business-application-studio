@@ -27,7 +27,10 @@ To work with the Git view in SAP Business Application Studio, you need to store 
 
 You can use a **Personal Access Token** \(PAT\) instead of a password.
 
-For example, you can create a PAT in GitHub following [these intructions](http://help.sap.com/disclaimer?site=https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token). Other Git providers will have different ways of creating PATs.
+For example, you can create a PAT in GitHub following [these instructions](http://help.sap.com/disclaimer?site=https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token). Other Git providers will have different ways of creating PATs.
+
+> ### Note:  
+> PATs are an alternative to using passwords for authentication to Git, and as such, they should be frequently renewed.
 
 
 
@@ -144,6 +147,8 @@ Make sure to use the exact same host and port as defined in the destination URL 
     </tr>
     </table>
     
+    For the system you just added, specify the resources to enable, using the following settings:
+
 
     <table>
     <tr>

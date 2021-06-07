@@ -57,6 +57,8 @@ Create service instance in your current Cloud Foundry org and space. You can lat
 
 ## Create a User-Provided Service Instance
 
+With a user-provided service instance, you can use services that are not available in the marketplace.
+
 1.  In the command palette, select ***CF: Select a space from your allowed space***.
 2.  Provide a service instance name. The name must be unique, if you enter an already existing name, the creation fails.
 3.  Provide your credentials. The credentials will be exposed in the VCAP\_SERVICES environment variable for bound applications.
@@ -110,6 +112,8 @@ You can create a list of frequently used Cloud Foundry targets. You can then mov
 1.  From the left side menu, click ![](images/Targets_View_199a1bc.png) \(*Cloud Foundry: Targets*\). The *CLOUD FOUNDRY: TARGETS* view opens.
 2.  Click ![](images/New_Target_e1681d1.png) \(*Create a Cloud Foundry Target*\) to create a new target entry. The target is based on the current org and space to which you are connected.
 3.  Provide a name for the target.
+
+You can change the current target in 3 different ways:
 
 -   Login to Cloud Foundry using a different endpoint.
 -   Select a different organization and space within the current endpoint.

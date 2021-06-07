@@ -4,6 +4,8 @@
 
 SAP Business Application Studio implements security standards and best practices to guarantee secured solution.
 
+For example:
+
 -   Enforce authentication and authorization
 
 -   Encrypt communication

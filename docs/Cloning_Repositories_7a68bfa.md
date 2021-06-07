@@ -10,6 +10,8 @@ Add an existing project to your local workpace by cloning its repository from Gi
 
 3.  Type `git clone`, and then paste your URL.
 
+    For example:
+
     > ### Sample Code:  
     > ```
     > $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY

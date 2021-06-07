@@ -8,6 +8,8 @@ In the layout editor, you can bind properties of controls or control aggregation
 
 ## Prerequisites
 
+You have defined a data set for the view that you are working on, by doing one of the following:
+
 -   If you are opening a view that has no data set defined for it, the *Data Binding* dialog box opens, where you can define a data set.
 
 -   Select the view, and define the data set from the dropdown list.

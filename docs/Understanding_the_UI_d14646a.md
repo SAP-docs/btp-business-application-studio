@@ -14,6 +14,8 @@ The Git view consists of three major sections. The top section is for authoring 
 
 ![](images/Understanding_the_UI_780859a.jpg)
 
+Below this, you find the commit section, which lists the changed files by their name and separates them in two groups:
+
 -   *STAGED CHANGES* - A list of the files that have been staged. Click ![](images/Open_FIle_b4801d1.png) to open the selected file, or ![](images/Git_Unstage_ed68173.png) to unstage it.
 
     ![](images/Git_Staged_Files_8ed2f2f.png)
@@ -24,6 +26,8 @@ The Git view consists of three major sections. The top section is for authoring 
 
      ![](images/Changes_section_cc4026e.png)
 
+
+The files can be in any of the following statuses:
 
 -   *A* - A new file that has been staged.
 -   *U* - An unstaged file. An unstaged change can be reverted by clicking on the *Discard Changes* action next to the file location.

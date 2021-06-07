@@ -17,5 +17,5 @@ SAP Business Application Studio allows you to use any type of Yeoman generator i
 
 3.  If you already have an open workspace, at the conclusion of the wizard, choose if you want to open the artifact in a new workspace or add it to the existing one, thus moving to multi-root mode.
 
-If you do not find a wizard that suits your development needs, you can search for more wizards using the [29a2acca4fdc496e99fcb1b18b990574.md]().
+If you do not find a wizard that suits your development needs, you can search for more wizards using the [29a2acca4fdc496e99fcb1b18b990574.md](29a2acca4fdc496e99fcb1b18b990574.md).
 

@@ -22,6 +22,8 @@ When creating a new dev space, select the dev space type that best fits the appl
 
 ## Configure Your Dev Space Settings
 
+You can configure your preferred settings for working in the dev space:
+
 1.  Open your dev space.
 2.  Go to *File* \> *Settings*.
 3.  Configure your settings:
@@ -40,6 +42,8 @@ You can create, delete, stop, and start dev spaces. You can also download dev sp
 <a name="loio6053df8bca3946f098bc9f89e49d7317__Additional_Tools_section"/>
 
 ## Using Additional Tools
+
+It is possible to install additional tools on a dev space or consume additional software components for developing applications using the terminal, the dedicated UI, or directly in the code.
 
 > ### Note:  
 > SAP provides you with a mechanism to access third party sites to view and download open-source, 3rd party or its own tools, libraries, or software components \(“Extensions”\) to dev spaces in SAP Business Application Studio. Using this mechanism, you can view and install Extensions at your own risk.

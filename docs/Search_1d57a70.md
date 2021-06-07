@@ -4,6 +4,8 @@
 
 There are different Search capabilities in SAP Business Application Studio.
 
+You can perform a search from the Search view or from the Find widget in the editor.
+
 -   To open the Search view, select *View* \> *Search*.
 
     ![](images/Search_View_faae923.jpg)
@@ -53,6 +55,8 @@ Use a comma ***,*** to separate multiple patterns.
 
 Paths must use forward slashes.
 
+You can also use glob syntax:
+
 -   ***\**** to match one or more characters in a path segment
 
 -   ***?*** to match on one character in a path segment
@@ -79,6 +83,8 @@ You can search and replace across files. Expand the Search input field to displa
 When you type text into the Replace input field, you will see a diff display of the pending changes. You can replace across all files from the Replace input field, replace all in one file or replace a single change.
 
 **Advanced Search and Replace Options**
+
+In addition to search and replace with plain text, there are also advanced search options:
 
 -   Match Case
 

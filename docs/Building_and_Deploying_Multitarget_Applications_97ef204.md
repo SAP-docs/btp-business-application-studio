@@ -58,6 +58,8 @@ The terminal opens showing the output of the build. Once the build is complete, 
 -   Your dev space must contain a multitarget application.
 -   Your workspace must contain an MTA archive \(MTAR\) file.
 
+There are several ways for deploying multitarget applications to SAP Cloud Foundry:
+
 -   From the context menu.
     1.  Right-click on the relevant MTAR file.
     2.  Choose *Deploy MTA Archive*.

@@ -26,6 +26,8 @@ You can create configuration settings for running your projects.
     > ### Note:  
     > If you configured profiles for your application in the application's YAML file or in another profile-specific YAML file \(`<application>-<profile>.yaml`\), you can create a run configuration that activates and uses them.
     > 
+    > In addition, you can specify YAML files that point to addittional Spring Boot profiles for which you can create run configurations.
+    > 
     > 1.  Go to *File* \> *Settings* \> *Open Preferences*.
     > 2.  Search for *CAP* \> *Run Configurations* \> *Spring Boot Profile Configuration Files*.
     > 3.  Add the relevant YAML files in the field provided, separated by commas.

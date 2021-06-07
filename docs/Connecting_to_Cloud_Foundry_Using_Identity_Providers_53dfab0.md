@@ -6,7 +6,7 @@ Connect to Cloud Foundry using the UI or the command line.
 
 The manner in which you can connect to Cloud Foundry depends on the identity provider \(IdP\) you use.
 
- <a name="loio53dfab0d97d0476b8327d0ab63342e62__table_amt_d3x_gpb"/>Comparison Between the Different Identity Providers for Cloud Foundry Login in SAP Business Application Studio
+<a name="loio53dfab0d97d0476b8327d0ab63342e62__table_amt_d3x_gpb"/>Comparison Between the Different Identity Providers for Cloud Foundry Login in SAP Business Application Studio
 
 
 <table>

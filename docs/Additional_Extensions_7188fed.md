@@ -8,10 +8,12 @@ Each dev space contains a group of extensions that enhance its exiting functiona
 
 The extensions may be used to add specific tools or to add an additional scenario to the dev space.
 
+The list below shows a selection of our most used additional extensions.
+
 > ### Note:  
 > To learn about the predefined extensions, see [Dev Space Types](Dev_Space_Types_4142f78.md).
 
- <a name="loio7188fed1e3764dbc8f71f0d8650d7b68__table_pyd_ngh_2mb"/>Scenario Extensions
+<a name="loio7188fed1e3764dbc8f71f0d8650d7b68__table_pyd_ngh_2mb"/>Scenario Extensions
 
 
 <table>
@@ -123,7 +125,7 @@ See [SAP Workflow Management](https://help.sap.com/viewer/e157c391253b4ecd93647b
 </tr>
 </table>
 
- <a name="loio7188fed1e3764dbc8f71f0d8650d7b68__table_rl4_bkh_5nb"/>Tool Extensions
+<a name="loio7188fed1e3764dbc8f71f0d8650d7b68__table_rl4_bkh_5nb"/>Tool Extensions
 
 
 <table>
@@ -172,6 +174,8 @@ Java Tools
 
 </td>
 <td>
+
+Allows you to develop, test, and run Java applications. Includes debugging capabilities and enhanced code editors. The following tools are installed as part of the extension:
 
 -   SapMachine 11
 
@@ -226,6 +230,8 @@ MTA Tools
 
 </td>
 <td>
+
+Allows you to perform operations such as build, deployment, and validation on multitarget applications. The following tools are installed as part of the extension:
 
 -   Cloud Foundry environment CLI
 

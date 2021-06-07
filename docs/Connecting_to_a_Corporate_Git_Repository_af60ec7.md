@@ -147,6 +147,8 @@ Make sure to use the exact same host and port as defined in the destination URL 
     </tr>
     </table>
     
+    For the system you just added, specify the resources to enable, using the following settings:
+
 
     <table>
     <tr>

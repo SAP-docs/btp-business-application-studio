@@ -55,6 +55,8 @@ You can create configuration settings for running your projects.
 In the *Run Configurations* view, you can see the available dependencies as defined in the `package.json` file. You can bind or unbind these dependencies to a specific Cloud Foundry service instance or to your local database.
 
 > ### Note:  
+> The following Cloud Foundry service types are supported for binding:
+> 
 > -   `hana` \( `managed-hana` is not supported\)
 >     -   PSA-based SAP HANA
 >     -   HaaS \(if configured as "Available for all IPs"\)
@@ -114,6 +116,8 @@ The dependency is bound to the service.
 > ### Note:  
 > -   After the dependency is bound to a service, the environment file is populated with all the environment variables required to connect to Cloud Foundry.
 
+To unbind the resource:
+
 1.  Open the *Run Configurations* view.
 2.  Select the desired configuration.
 3.  Select the desired dependency.
@@ -135,6 +139,8 @@ To bind the dependency to an external OData service using a destination:
 5.  Select the desired destination.
 
 The dependency is bound to the destination.
+
+To mock all OData services that are not bound to a destination:
 
 1.  Turn on the property to mock external OData services.
 

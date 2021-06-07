@@ -18,6 +18,8 @@ To create an SAP Business Application Studio extension:
     > ### Note:  
     > Make sure to replace the placeholders in the file with the relevant information.
 
+    The extension definition file includes two main parts:
+
     -   The extension metadata.
 
     -   The list of components that are part of the extension: VS Code extensions, Yeoman generators, and global NPM packages.

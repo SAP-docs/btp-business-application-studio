@@ -6,6 +6,8 @@ The Service Center provides a central entry point to explore services from vario
 
 The services can be used as data sources in your application and application development can be triggered from the Service Center.
 
+To explore services, perform the following steps:
+
 1.  From the left side menu, click ![](images/Service_Center-_icon_0ce7c7b.jpg) \(Service Center\) or select *View* \> *Service Center* from the menu bar.
 
     When the Service Center opens, the SAP Business Application Studio subaccount is displayed. Login occurs automatically, using the SAP Business Application Studio user credentials.

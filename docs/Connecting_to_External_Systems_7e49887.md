@@ -27,6 +27,22 @@ You can access on-premise SAP ABAP systems using a built-in Web Proxy. Your dev 
 
     <table>
     <tr>
+    <th>
+
+    Property
+
+
+    
+    </th>
+    <th>
+
+    Value
+
+
+    
+    </th>
+    </tr>
+    <tr>
     <td>
 
     **`WebIDEEnabled`**
@@ -64,6 +80,22 @@ You can access on-premise SAP ABAP systems using a built-in Web Proxy. Your dev 
 
 
     <table>
+    <tr>
+    <th>
+
+    Destination Type
+
+
+    
+    </th>
+    <th>
+
+    Properties
+
+
+    
+    </th>
+    </tr>
     <tr>
     <td>
 

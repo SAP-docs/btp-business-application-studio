@@ -5,7 +5,7 @@
 Here's a checklist for setting up your system so you can develop applications using SAP Business Application Studio.
 
 > ### Note:  
-> If you are woking in a trial account, follow the procedure in [Getting Started with a Trial Account](Getting_Started_with_a_Trial_Account_48ed55e.md).
+> If you are working in a trial account, follow the procedure in [Getting Started with a Trial Account](Getting_Started_with_a_Trial_Account_48ed55e.md).
 
 
 <table>
@@ -74,7 +74,7 @@ When you create a subaccount in the SAP BTP, Cloud Foundry environment, a Cloud 
 </td>
 <td>
 
- [Create a Subaccount in the Cloud Foundry Environment \[Feature Set A\]](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/05280a123d3044ae97457a25b3013918.html) 
+[Create a Subaccount](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/05280a123d3044ae97457a25b3013918.html)
 
 
 
@@ -83,34 +83,7 @@ When you create a subaccount in the SAP BTP, Cloud Foundry environment, a Cloud 
 <tr>
 <td>
 
- **Create spaces** 
-
-
-
-</td>
-<td>
-
-You can create and delete spaces in a Cloud Foundry organization using the SAP BTP cockpit or the console client \(Cloud Foundry command line interface\).
-
-We recommend at least one space for a development team working on the same project \(that is, one space per project\).
-
-For staging/test and production organizations, one space is sufficient.
-
-
-
-</td>
-<td>
-
-[Create Spaces](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/2f6ed22ccf424dae84345f4500c2d8ea.html)
-
-
-
-</td>
-</tr>
-<tr>
-<td>
-
- **Assign members to your Cloud Foundry organizations and spaces** 
+ **Assign members to your Cloud Foundry organizations and spaces.** 
 
 
 
@@ -119,7 +92,7 @@ For staging/test and production organizations, one space is sufficient.
 
 Enable your developers to work with your SAP BTP, Cloud Foundry environments.
 
-Your developers should be assigned to the space developer role to be able to use the space from SAP Business Application Studio.
+Your developers need to be assigned to the space developer role to be able to use the space from SAP Business Application Studio.
 
 
 
@@ -135,7 +108,34 @@ Your developers should be assigned to the space developer role to be able to use
 <tr>
 <td>
 
- **Subscribe to SAP Business Application Studio** 
+**Configure entitlements for your global account**.
+
+Relevant for Feature Set B accounts only.
+
+To check if your global account belongs to Feature Set A or Feature Set B, see [Cloud Management Tools — Feature Set Overview](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/caf4e4e23aef4666ad8f125af393dfb2.html).
+
+
+
+</td>
+<td>
+
+Assign entitlements to subaccounts by adding service plans and distribute the quotas available in your global account to your subaccounts using the SAP BTP cockpit.
+
+
+
+</td>
+<td>
+
+[Configure Entitlements and Quotas for Subaccounts](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/5ba357b4fa1e4de4b9fcc4ae771609da.html)
+
+
+
+</td>
+</tr>
+<tr>
+<td>
+
+ **Subscribe to SAP Business Application Studio.** 
 
 
 
@@ -158,7 +158,7 @@ You need to subscribe to the SAP Business Application Studio.
 <tr>
 <td>
 
-**Grant user permissions**
+**Grant user permissions.**
 
 
 
@@ -172,7 +172,7 @@ To enable working with SAP Business Application Studio, developers need to be as
 </td>
 <td>
 
- [Manage Authorizations](Manage_Authorizations_01e69c5.md) 
+ [Manage Authorizations and Roles](Manage_Authorizations_and_Roles_01e69c5.md) 
 
 
 
@@ -181,7 +181,7 @@ To enable working with SAP Business Application Studio, developers need to be as
 <tr>
 <td>
 
-**OPTIONAL: Enable identity provider \(IdP\)-based authentication for SAP Business Application Studio applications \(optional\)**
+**OPTIONAL: Enable identity provider \(IdP\)-based authentication for SAP Business Application Studio applications \(optional\).**
 
 
 
@@ -201,8 +201,57 @@ If you define a custom identity provider for your subaccount, be sure to configu
 
 </td>
 </tr>
-</table>
+<tr>
+<td>
 
--   **[Connecting to External Systems](Connecting_to_External_Systems_7e49887.md)**  
-For applications that do not need to run on Cloud Foundry, establish a connection to an external system by creating one destination for multi-usage.
+**OPTIONAL: Connect to your Git source control system.**
+
+
+
+</td>
+<td>
+
+ SAP Business Application Studio allows you to connect to public and corporate Git repositories.
+
+
+
+</td>
+<td>
+
+[Connect to Your Git Source Control System](Connect_to_Your_Git_Source_Control_System_e7a42bc.md)
+
+
+
+</td>
+</tr>
+<tr>
+<td>
+
+**OPTIONAL: Create spaces.**
+
+RElevant for developers who want to work in Cloud Foundry runtime.
+
+
+
+</td>
+<td>
+
+You can create and delete spaces in a Cloud Foundry organization using the SAP BTP cockpit or the console client \(Cloud Foundry command-line interface\).
+
+We recommend at least 1 space for a development team working on the same project \(that is, 1 space per project\).
+
+For staging/test and production organizations, 1 space is sufficient.
+
+
+
+</td>
+<td>
+
+[Create Spaces](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/2f6ed22ccf424dae84345f4500c2d8ea.html)
+
+
+
+</td>
+</tr>
+</table>
 

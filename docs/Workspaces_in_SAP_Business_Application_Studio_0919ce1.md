@@ -10,6 +10,8 @@ In SAP Business Application Studio, a workspace is created for you as part of th
 
 You can choose to create a new workspace or for each project, or you can set up a multi-root environment.
 
+It is important to work with your project under the root or in multi-root mode and refrain from opening a parent folder because:
+
 -   Many extensions use the workspace root as the point of reference to project artifacts. For example, some extensions look for the `package.json` in the root only.
 
 -   In some cases, code completion \(and other language services\) might point you incorrectly to resources from different projects, as the language extension does not understand that there are two different projects under same root.
@@ -61,6 +63,8 @@ In multi-root you can save the settings, launch and task configuration per works
 
 ### Creating a Multi-Root Environment
 
+To set a project as multi-root:
+
 1.  Create the project following the wizard steps.
 
 2.  Upon completion of the wizard, you are asked to open the project in a new workspace or to add it to an existing workspace. Click *Add to Workspace*.
@@ -68,6 +72,8 @@ In multi-root you can save the settings, launch and task configuration per works
 
 
 ### Adding Folders Manually
+
+If you want to add folders manually to your workspace:
 
 1.  In the file explorer, click the workspace's More Actions icon.
 
@@ -83,6 +89,8 @@ You can also add folders to a workspace using the *Git: Clone* command from the 
 
 ### Adding Files Manually
 
+If you want to add files manually to your workspace:
+
 1.  Select the folder to which you want to add the file.
 2.  Click the workspace's More Actions icon.
 
@@ -95,6 +103,8 @@ You can also add folders to a workspace using the *Git: Clone* command from the 
 
 
 ### Changing Workspace Location
+
+To move your workspace file to a new location:
 
 1.  From the *File* menu, select *Save Workspace As*.
 2.  Select the desired workspace location.

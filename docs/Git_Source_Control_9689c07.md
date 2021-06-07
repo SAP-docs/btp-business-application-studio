@@ -19,6 +19,8 @@ You can perform all your Git tasks using the terminal, but SAP Business Applicat
 
 ## Workflow
 
+Using Git is easy. The basic workflow is as follows:
+
 1.  **Clone:** Clone a repository from a remote Git source control system. All the information about the repository is copied, and a local master branch is created and is visible in your workspace. If the remote repository has several branches, you can create additional local branches based on those remote branches.
 
 2.  **Develop:** Once you have the code, you can develop – add files, delete files, modify files. Your changes are visible in the status table of the *Git* pane. When you are ready, you can stage your changes and commit them.
@@ -44,7 +46,7 @@ General overview of the Git view in SAP Business Application Studio.
 
 [Using the Git View](Using_the_Git_View_265962e.md)
 
-[08993e87b4b44c0cafedd6f143212ced.md]()
+[08993e87b4b44c0cafedd6f143212ced.md](08993e87b4b44c0cafedd6f143212ced.md)
 
 [Connect to Your Git Source Control System](Connect_to_Your_Git_Source_Control_System_e7a42bc.md)
 

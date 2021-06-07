@@ -6,6 +6,8 @@ Develop SAP Fiori applications based on various environments: Cloud Foundry, ABA
 
 See, [Developing and Extending SAP Fiori Applications](https://help.sap.com/viewer/584e0bcbfd4a4aff91c815cefa0bce2d/Cloud/en-US).
 
+The SAP Fiori scenario contains the following predefined extensions:
+
 -   **Fiori Application**
 
     Allows you to create a fiori application, using the a wizard for creating new projects from template.
@@ -13,6 +15,9 @@ See, [Developing and Extending SAP Fiori Applications](https://help.sap.com/view
     See [Create an SAP Fiori Project](https://help.sap.com/viewer/584e0bcbfd4a4aff91c815cefa0bce2d/Cloud/en-US/46664de4d6944471b6c29a0681bfd0fc.html).
 
 -   **Fiori Freestyle Tools**
+
+    Allows you to optimize your Fiori-based development. This extension provides Fiori templates with the following tools:
+
     -   UI5 CLI
 
     -   Grunt CLI
@@ -27,6 +32,8 @@ See, [Developing and Extending SAP Fiori Applications](https://help.sap.com/view
 
 -   **MTA Tools**
 
+    Allows you to perform operations such as build, deployment, and validation on multitarget applications. The following tools will be installed as part of the extension:
+
     -   Cloud Foundry environment CLI
 
     -   Cloud Foundry environment deployment plugin
@@ -38,6 +45,8 @@ See, [Developing and Extending SAP Fiori Applications](https://help.sap.com/view
     See [MTA Tools](https://help.sap.com/viewer/209802f55bfd47fcaccecf1241df99f8/Cloud/en-US).
 
 -   **SAP Fiori Tools**
+
+    Allows you to simplify the development of SAP Fiori elements applications by providing extensions that can help you create applications, visualize navigation, automatically generate code and more. The following extensions will be installed:
 
     -   Fiori elements Yeoman Generator
 
@@ -61,6 +70,8 @@ See, [Developing and Extending SAP Fiori Applications](https://help.sap.com/view
 
     Allows you to create an SAP Fiori worklist and master details applications, using the Yeoman generator.
 
+
+See the following topics for more information:
 
 -   [Developing SAP Fiori applications with SAP Fiori tools](https://help.sap.com/viewer/17d50220bcd848aa854c9c182d65b699/Latest/en-US/f09752ebcf63473e9194ea29ca232e56.html)
 -   [Developing an SAP Fiori Application for Cloud Foundry](https://help.sap.com/viewer/584e0bcbfd4a4aff91c815cefa0bce2d/Cloud/en-US/61c7416594984034a5676e63a6494ba1.html)

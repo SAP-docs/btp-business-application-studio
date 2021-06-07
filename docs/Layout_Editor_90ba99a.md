@@ -27,11 +27,13 @@ The buttons on the layout editor toolbar allow you to:
 
 -   Change the device format of the canvas to smartphone, tablet, or desktop view.
 
--   -   The pane on the left side includes the *Controls* and *Outline* tabs.
+-   Expand and collapse the panes to the right and left of the canvas.
 
--   The pane on the right side includes the *Properties* pane.
+    -   The pane on the left side includes the *Controls* and *Outline* tabs.
 
-    The pane on the right side includes the *Properties* and *Events* panes.
+    -   The pane on the right side includes the *Properties* pane.
+
+        The pane on the right side includes the *Properties* and *Events* panes.
 
 -   Undo and redo actions.
 

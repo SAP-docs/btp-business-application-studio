@@ -19,6 +19,8 @@ Before you can work in SAP Business Application Studio, the account administrato
 
 
 
+As an administrator, you can perform the following tasks:
+
 -   [Subscribe to SAP Business Application Studio](Subscribe_to_SAP_Business_Application_Studio_b53e261.md)
 -   [Manage Authorizations](Manage_Authorizations_4168f83.md)
 -   [Restart a Dev Space](Restart_a_Dev_Space_1f54583.md)

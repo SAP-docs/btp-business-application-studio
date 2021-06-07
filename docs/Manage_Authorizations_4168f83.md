@@ -71,6 +71,8 @@ Role collections are user-related authorizations that restrict access to resourc
 
 ## Assign Role Collections to Users
 
+You can assign and unassign role collections to and from users.
+
 1.  Display a list of all users.
 
     ```

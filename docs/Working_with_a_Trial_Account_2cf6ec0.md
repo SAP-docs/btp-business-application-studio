@@ -8,10 +8,61 @@ Trial accounts are intended for personal exploration, and not for production use
 
 > ### Note:  
 > SAP Business Application Studio is available on Trial in the Singapore, Frankfurt, and US East \(VA\) regions.
-> Provider | Supported Regions
-> ------------ | -------------
-> **Amazon Web Services \(AWS\)** | Europe \(Frankfurt\) or US East
-> **Microsoft Azure** | Singapore
+> 
+> If you do not have a subaccount in these regions, you need to create a new subaccount with the following settings:
+> 
+> 
+> <table>
+> <tr>
+> <th>
+> 
+> Provider
+> 
+> 
+> 
+> </th>
+> <th>
+> 
+> Supported Regions
+> 
+> 
+> 
+> </th>
+> </tr>
+> <tr>
+> <td>
+> 
+> Amazon Web Services \(AWS\)
+> 
+> 
+> 
+> </td>
+> <td>
+> 
+> Europe \(Frankfurt\) or US East \(VA\)
+> 
+> 
+> 
+> </td>
+> </tr>
+> <tr>
+> <td>
+> 
+> Microsoft Azure
+> 
+> 
+> 
+> </td>
+> <td>
+> 
+> Singapore
+> 
+> 
+> 
+> </td>
+> </tr>
+> </table>
+
 
 
 <a name="loio2cf6ec025fd640289eeef32021a30824__section_e2l_4b3_vkb"/>
@@ -26,4 +77,6 @@ See [What's New in SAP Business Application Studio](https://help.sap.com/viewer/
 Set up your trial system to develop applications using SAP Business Application Studio.
 -   **[Restrictions](Restrictions_a45742a.md)**  
 
+-   **[Creating a New Subaccount](Creating_a_New_Subaccount_c44668e.md)**  
+Your trial account comes with a default subaccount that contains all the relevant roles and authorizations. You can create additional subaccounts, if needed.
 

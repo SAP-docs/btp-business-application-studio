@@ -2,7 +2,7 @@
 
 # What is SAP Business Application Studio 
 
-SAP Business Application Studio is a new SAP Business Technology Platform \(BTP\) service in SAP Cloud Foundry that offers a modern development environment tailored for efficient development of business applications for the SAP Intelligent Enterprise.
+SAP Business Application Studio is a new SAP Business Technology Platform \(BTP\) service that offers a modern development environment tailored for efficient development of business applications for the SAP Intelligent Enterprise.
 
 Available as a cloud service, SAP Business Application Studio provides a desktop-like experience similar to leading IDEs, with command line and optimized editors. At the heart of SAP Business Application Studio are the dev spaces, which are like isolated virtual machines in the cloud containing tailored tools and preinstalled runtimes per business scenario, such as SAP Fiori, SAP S/4HANA extensions, Workflow, Mobile and more. This simplifies and saves time in setting up your development environment and allows you to efficiently develop, test, build, and run your solution locally or in the cloud.
 
@@ -27,6 +27,8 @@ In SAP Business Application Studio, you are provided with one or more dev spaces
 The dev space is an isolated development environment providing a local-like development experience. Among other tools, it provides terminal access to the file system so you can run various commands, you can test-run your application in the dev space itself without deploying to the target runtime \(Cloud Foundry\), almost as if you were working on your own desktop.
 
 Unlike other desktop IDEs, SAP Business Application Studio is equipped with various tools specially built for developing business applications in the SAP ecosystem.
+
+These tools cover the end-to-end development cycle:
 
 -   Clone an existing project with a Git client or create new project using templates.
 
@@ -55,5 +57,7 @@ The following browsers are supported for working in SAP Business Application Stu
 -   Microsoft Edge
 
 
-You can find the regions where SAP Business Application Studio is available in the [Service Catalog](https://discovery-center.cloud.sap/servicessearch/Business%20Application%20studio). Choose the list view \(![](images/Lists_view_e402086.png)\) to see the details.
+You can find the regions where SAP Business Application Studio is available in the *Pricing* tab of the [Discovery Center](https://discovery-center.cloud.sap/#/serviceCatalog/business-application-studio?region=all&tab=service_plan&licenseModel=cpea).
+
+![](images/Regions_cacf286.png)
 

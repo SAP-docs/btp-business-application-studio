@@ -24,7 +24,10 @@ You can generate a dev space to create and manage applications. You can select t
 
 
 > ### Note:  
-> The maximum size limit of the dev space is 6GB for productive accounts and 2GB for trial accounts. Exceeding this limit may cause loss of data and other problems, including the inability to start the dev space. Note that additional [restrictions](Restrictions_a45742a.md) apply to dev spaces in trial accounts.
+> The maximum size limit of the dev space is 6 GB for productive accounts and 4 GB for trial accounts. Exceeding this limit may cause loss of data and other problems, including the inability to start the dev space. Note that additional restrictions apply to dev spaces in trial accounts. See [Restrictions](Restrictions_a45742a.md).
+
+> ### Note:  
+> The maximum size limit of the dev space is 10 GB for productive accounts and 4 GB for trial accounts. Exceeding this limit may cause loss of data and other problems, including the inability to start the dev space. Note that additional restrictions apply to dev spaces in trial accounts. See [Restrictions](Restrictions_a45742a.md).
 
 
 
@@ -35,6 +38,8 @@ You can generate a dev space to create and manage applications. You can select t
 If you don't need to work with your dev space for a while, you can stop your dev space. When your dev space is running, it consumes memory, energy, and CPU. If you don't use your dev space and it sits idle for too long, the dev space will be stopped.
 
 When you restart your stopped dev space, all content in your dev space, including files and settings, remain and will be available. If you want to apply updates to extensions and bug fixes, you must stop your dev space and start it again.
+
+You can also delete your dev space.
 
 > ### Note:  
 > By creating a dev space, you create a project and file system for yourself. If you delete your dev space, it can't be recovered. We recommend syncing, backing up, and saving your project to the Git Repository.
@@ -59,6 +64,8 @@ To add extentions, the dev space must be in the stopped state.
 
 ## Download Dev Space Content
 
+You can download the dev space content in the following situations:
+
 -   When your dev space is in the *RUNNING* state to save the dev space contents.
 -   When your dev space is in the *ERROR* state to recover your data and move the contents to another dev space.
 
@@ -69,13 +76,17 @@ After the download begins, the dev space state changes to *STARTING*. The dev sp
 When the download is complete, the `tar` file appears, which contains the dev space content.
 
 > ### Note:  
-> After the dev space content is exported, check the total size of the dev space before uploading it to make sure that the size does not exceed 6GB.
+> After the dev space content is exported, check the total size of the dev space before uploading it to make sure that the size does not exceed 6 GB.
+> 
+> After the dev space content is exported, check the total size of the dev space before uploading it to make sure that the size does not exceed 10 GB.
 
 
 
 <a name="loioad40d52d0bea4d79baaf9626509caf33__section_kjb_krb_hmb"/>
 
 ## Import Dev Space Content
+
+After downloading the dev space content, you can import the content to another dev space by performing the following steps:
 
 1.  Create a new dev space and open it.
 2.  Open the project folder.

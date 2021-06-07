@@ -41,6 +41,8 @@ Run a Java module on the local Apache Tomcat server and allow binding the module
 In the *Run Configurations* view, you can see the resources that are defined in the MTA descriptor. You can bind or unbind these resources to a specific Cloud Foundry service instance.
 
 > ### Note:  
+> The following Cloud Foundry service types are supported for binding:
+> 
 > -   `hana` \( `managed-hana` is not supported\)
 >     -   PSA-based SAP HANA
 >     -   HaaS \(if configured as "Available for all IPs"\)
@@ -72,6 +74,8 @@ This updates the resource's configuration files. See the *Advanced Options* sect
 If you are binding to an SAP HANA service, a new connection called `'<my_service_instance name>'` is added to the SQLTools view where your tables and data are displayed.
 
 Unbinding the resource removes all of the changes made to the configuration files.
+
+To unbind the resource:
 
 1.  Open the *Run Configurations* view.
 2.  Select the desired configuration.

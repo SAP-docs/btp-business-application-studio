@@ -27,10 +27,12 @@ You can consume an SAP service from your application.
 
 4.  Select the location of your data source.
 
-    -   1.  From the list of sources \(destinations\) displayed, select the relevant source: *System URL*, *Service URL*, or *Catalog System URL*.
+    -   If your data source resides within one of your SAP systems:
 
-2.  If you selected *System URL*, enter the path to the specific service.
-3.  If you selected *Catalog System URL*, select the desired service from the list of exposed services displayed.
+        1.  From the list of sources \(destinations\) displayed, select the relevant source: *System URL*, *Service URL*, or *Catalog System URL*.
+
+        2.  If you selected *System URL*, enter the path to the specific service.
+        3.  If you selected *Catalog System URL*, select the desired service from the list of exposed services displayed.
     -   If your data source resides in the SAP API Business Hub:
         1.  Select the relevant API package \(API Business Hub destination\).
         2.  Select the desired API from the list displayed.
@@ -44,6 +46,8 @@ You can consume an SAP service from your application.
 <a name="loiod5e99dc93434400a9b725537491a650c__result_vrf_25t_3jb"/>
 
 ## Results
+
+Once you select a data source, the metadata is retrieved and output is created depending on the project type you chose.
 
 -   If you bound a service for a Business Application project, a folder called `external` is created. This folder contains 2 subfolders:
     -   `edmx` - Contains the retrieved data

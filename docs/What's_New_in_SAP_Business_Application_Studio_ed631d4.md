@@ -135,6 +135,108 @@ Service Center
 </td>
 <td>
 
+The V4 services are now supported in the Service Center catalog. See [Service Center](https://help.sap.com/webcomponents/products/SAP%20Business%20Application%20Studio/9d1db9835307451daa8c930fbd9ab264/1e8ec75c9c784b51a91c7370f269ff98.html?locale=en-US&version=Cloud).
+
+
+
+</td>
+<td>
+
+New
+
+
+
+</td>
+<td>
+
+2021-06-06
+
+
+
+</td>
+</tr>
+<tr>
+<td>
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td>
+
+Extension Suite - Development Efficiency
+
+
+
+</td>
+<td>
+
+-   Cloud Foundry
+
+
+
+</td>
+<td>
+
+SAPUI5 Adaptation Projects
+
+
+
+</td>
+<td>
+
+You can now use Cloud Foundry business services as base apps for creating an SAPUI5 Adaptation Project and deploy the built project to the Cloud Foundry environment. See [Create an Adaptation Project on Cloud Foundry.](https://help.sap.com/viewer/584e0bcbfd4a4aff91c815cefa0bce2d/Cloud/en-US/019b0c38a6b043d1a66b11d992eed290.html) 
+
+
+
+</td>
+<td>
+
+New
+
+
+
+</td>
+<td>
+
+2021-05-26
+
+
+
+</td>
+</tr>
+<tr>
+<td>
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td>
+
+Extension Suite - Development Efficiency
+
+
+
+</td>
+<td>
+
+-   Cloud Foundry
+
+
+
+</td>
+<td>
+
+Service Center
+
+
+
+</td>
+<td>
+
 You can now add a service to a CAP project from the Service Center. See [Service Center](https://help.sap.com/viewer/9d1db9835307451daa8c930fbd9ab264/Cloud/en-US/1e8ec75c9c784b51a91c7370f269ff98.html).
 
 
@@ -288,7 +390,7 @@ Theia
 </td>
 <td>
 
- SAP Business Application Studio has been updated to include fixes and improvements that are part of [Eclipse Theia 1.12.0](#v1120---3252020).
+ SAP Business Application Studio has been updated to include fixes and improvements that are part of [Eclipse Theia 1.12.0](https://github.com/eclipse-theia/theia/blob/master/CHANGELOG.md#v1120---3252020).
 
 
 
@@ -501,7 +603,7 @@ You can now perform the following actions when creating a calculation view using
 -   Display an intermediate data preview directly from calculation-view nodes.
 
 
-See [SAP HANA Cloud, SAP HANA Database Developer Guide for Cloud Foundry Multitarget Applications](https://help.sap.com/viewer/c2b99f19e9264c4d9ae9221b22f6f589/Latest/en-US/f8e431e3cdc14516b4ba8c9932afd1f4.html).
+[SAP HANA Cloud, SAP HANA Database Developer Guide for Cloud Foundry Multitarget Applications](https://help.sap.com/viewer/c2b99f19e9264c4d9ae9221b22f6f589/Latest/en-US/f8e431e3cdc14516b4ba8c9932afd1f4.html)
 
 
 
@@ -807,7 +909,7 @@ Theia
 </td>
 <td>
 
- SAP Business Application Studio has been updated to include fixes and improvements that are part of [Eclipse Theia 1.11.0](#v1110---2252021).
+ SAP Business Application Studio has been updated to include fixes and improvements that are part of [Eclipse Theia 1.11.0](https://github.com/eclipse-theia/theia/blob/master/CHANGELOG.md#v1110---2252021).
 
 
 
@@ -1215,7 +1317,7 @@ Theia
 </td>
 <td>
 
- SAP Business Application Studio has been updated to include fixes and improvements that are part of [Eclipse Theia 1.10.0](#v1100---1282021).
+ SAP Business Application Studio has been updated to include fixes and improvements that are part of [Eclipse Theia 1.10.0](https://github.com/eclipse-theia/theia/blob/master/CHANGELOG.md#v1100---1282021).
 
 
 
@@ -1572,7 +1674,7 @@ Theia
 </td>
 <td>
 
- SAP Business Application Studio has been updated to include fixes and improvements that are part of [Eclipse Theia 1.9.0](#v190---16122020).
+ SAP Business Application Studio has been updated to include fixes and improvements that are part of [Eclipse Theia 1.9.0](https://github.com/eclipse-theia/theia/blob/master/CHANGELOG.md#v190---16122020).
 
 
 
@@ -1929,7 +2031,7 @@ Theia
 </td>
 <td>
 
- SAP Business Application Studio has been updated to include fixes and improvements that are part of [Eclipse Theia 1.8.0](#v180---26112020).
+ SAP Business Application Studio has been updated to include fixes and improvements that are part of [Eclipse Theia 1.8.0](https://github.com/eclipse-theia/theia/blob/master/CHANGELOG.md#v180---26112020).
 
 
 
@@ -2082,7 +2184,7 @@ Theia
 </td>
 <td>
 
- SAP Business Application Studio has been updated to include fixes and improvements that are part of [Eclipse Theia 1.7.0](#v170---29102020).
+ SAP Business Application Studio has been updated to include fixes and improvements that are part of [Eclipse Theia 1.7.0](https://github.com/eclipse-theia/theia/blob/master/CHANGELOG.md#v170---29102020).
 
 
 
@@ -2235,7 +2337,7 @@ Theia
 </td>
 <td>
 
- SAP Business Application Studio has been updated to include fixes and improvements that are part of [Eclipse Theia 1.6.0](#v160---24092020).
+ SAP Business Application Studio has been updated to include fixes and improvements that are part of [Eclipse Theia 1.6.0](https://github.com/eclipse-theia/theia/blob/master/CHANGELOG.md#v160---24092020).
 
 
 
@@ -2490,7 +2592,7 @@ Theia
 </td>
 <td>
 
- SAP Business Application Studio has been updated to include fixes and improvements that are part of [Eclipse Theia 1.5.0](#v150---27082020).
+ SAP Business Application Studio has been updated to include fixes and improvements that are part of [Eclipse Theia 1.5.0](https://github.com/eclipse-theia/theia/blob/master/CHANGELOG.md#v150---27082020).
 
 
 
