@@ -11,9 +11,8 @@ name: Merged pull request labeler
 # SAP Community profile URL requester to be triggered.
 
 # What's important to know:
-# In order to have this workflow trigger another, a PAT is required,
-# rather than a regular token. The label to assign is defined at the
-# start of the job, in the LABEL environment variable.
+# The label to assign is defined at the start of the job, in the LABEL
+# environment variable. The label is not assigned if the actor is an administrator.
 
 on:
   pull_request_target:
@@ -46,5 +45,12 @@ jobs:
         name: Authenticate gh to repo
         run: echo -n ${{ steps.token_gen.outputs.app_token }} | gh auth login --with-token
 
+      - id: determine_permission
+        name: Look up actor's repository permission level
+        run: |
+          permission="$(gh api --jq .permission "/repos/$GITHUB_REPOSITORY/collaborators/$GITHUB_ACTOR/permission")"
+          echo "repo_permission=$permission" >> $GITHUB_ENV
+
       - id: assign_label
+        if: env.repo_permission != 'admin'
         run: gh pr edit ${{ github.event.number }} --add-label "$LABEL"
