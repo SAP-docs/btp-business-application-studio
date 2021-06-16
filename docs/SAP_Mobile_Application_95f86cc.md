@@ -4,7 +4,7 @@
 
 The Mobile Development Kit \(MDK\) lets you customize, deploy, and manage your customized iOS and Android apps in the cloud.
 
-See, [Mobile Development Kit](https://help.sap.com/doc/f53c64b93e5140918d676b927a3cd65b/Cloud/en-US/docs-en/guides/getting-started/mdk/bas.html).
+See, [Mobile Development Kit](https://help.sap.com/doc/f53c64b93e5140918d676b927a3cd65b/Cloud/en-US/docs-en/guides/getting-started/mdk/overview.html).
 
 The SAP Mobile Application scenario contains the following predefined extensions:
 
