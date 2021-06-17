@@ -12,7 +12,7 @@ Available as a cloud service, SAP Business Application Studio provides a desktop
 
 ## Scenarios
 
-SAP Business Application Studio provides a tailored-made development environment for various development scenarios, such as SAP Fiori, SAP S/4HANA extension, and Workflow. With each of these scenarios, you can create different types of applications.
+SAP Business Application Studio provides a tailor-made development environment for various development scenarios, such as SAP Fiori, SAP S/4HANA extension, and Workflow. With each of these scenarios, you can create different types of applications.
 
 In the [Dev Space Types](Dev_Space_Types_4142f78.md) section, you can learn about each scenario.
 
