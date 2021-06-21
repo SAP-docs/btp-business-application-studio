@@ -158,11 +158,6 @@ You can access on-premise SAP ABAP systems using a built-in Web Proxy. Your dev 
 
         If you don't have any Cloud Connector to use, you can set up a Cloud Connector on your local machine/VM by following [this tutorial](https://developers.sap.com/tutorials/cp-connectivity-install-cloud-connector.html).
 
-        > ### Note:  
-        > Some corporate proxies or network policies may block the Cloud Connector from connecting SAP Business Application Studio and the on-premise system. Make sure that you have an internet connection to the SAP Business Application Studio connectivity service host, to which you can connect your Cloud Connector.
-        > 
-        > To find the SAP Business Application Studio connectivity service host for your region, see [SAP Business Application Studio Availability](SAP_Business_Application_Studio_Availability_8509485.md).
-
     2.  Add a new property with *WebIDEEnabled* as the name and *true* as the value.
 
 6.  Choose *Save*.

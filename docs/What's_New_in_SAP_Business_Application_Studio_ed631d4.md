@@ -135,6 +135,363 @@ Service Center
 </td>
 <td>
 
+You can now create an SAP Fiori application from the Service Center. See [Service Center](https://help.sap.com/webcomponents/products/SAP%20Business%20Application%20Studio/9d1db9835307451daa8c930fbd9ab264/1e8ec75c9c784b51a91c7370f269ff98.html?locale=en-US&version=Cloud).
+
+
+
+</td>
+<td>
+
+New
+
+
+
+</td>
+<td>
+
+2021-06-21
+
+
+
+</td>
+</tr>
+<tr>
+<td>
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td>
+
+Extension Suite - Digital Process Automation
+
+
+
+</td>
+<td>
+
+-   Cloud Foundry
+
+
+
+</td>
+<td>
+
+Theia
+
+
+
+</td>
+<td>
+
+SAP Business Application Studio has been updated to include fixes and improvements that are part of [Eclipse Theia 1.13.0](https://github.com/eclipse-theia/theia/blob/master/CHANGELOG.md#v1130---4292021).
+
+
+
+</td>
+<td>
+
+Changed
+
+
+
+</td>
+<td>
+
+2021-06-21
+
+
+
+</td>
+</tr>
+<tr>
+<td>
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td>
+
+Extension Suite - Development Efficiency
+
+
+
+</td>
+<td>
+
+-   Cloud Foundry
+
+
+
+</td>
+<td>
+
+SAP HANA
+
+
+
+</td>
+<td>
+
+When using the SAP HANA Native Application development tools to create a database artifact, the last-used path is now stored as a workspace setting, which you can edit and configure manually, too. See *Add Database Artifacts to your SAP HANA Cloud Database Application* in the [SAP HANA Cloud, SAP HANA Database Developer Guide for Cloud Foundry Multitarget Applications](https://help.sap.com/viewer/c2b99f19e9264c4d9ae9221b22f6f589/Latest/en-US/f8e431e3cdc14516b4ba8c9932afd1f4.html).
+
+
+
+</td>
+<td>
+
+New
+
+
+
+</td>
+<td>
+
+2021-06-21
+
+
+
+</td>
+</tr>
+<tr>
+<td>
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td>
+
+Extension Suite - Development Efficiency
+
+
+
+</td>
+<td>
+
+-   Cloud Foundry
+
+
+
+</td>
+<td>
+
+SAP HANA
+
+
+
+</td>
+<td>
+
+You can now use the SAP HANA calculation view graphical editor to reference and include objects outside of a project much more easily. See [SAP HANA Cloud, SAP HANA Database Modeling Guide for SAP Business Application Studio](https://help.sap.com/viewer/d625b46ef0b445abb2c2fd9ba008c265/latest/en-US).
+
+
+
+</td>
+<td>
+
+New
+
+
+
+</td>
+<td>
+
+2021-06-21
+
+
+
+</td>
+</tr>
+<tr>
+<td>
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td>
+
+Extension Suite - Development Efficiency
+
+
+
+</td>
+<td>
+
+-   Cloud Foundry
+
+
+
+</td>
+<td>
+
+SAP HANA
+
+
+
+</td>
+<td>
+
+You can now use the *Replace data source* dialog in the SAP HANA calculation view graphical editor to configure and edit data sources more easily. See [SAP HANA Cloud, SAP HANA Database Modeling Guide for SAP Business Application Studio](https://help.sap.com/viewer/d625b46ef0b445abb2c2fd9ba008c265/latest/en-US).
+
+
+
+</td>
+<td>
+
+New
+
+
+
+</td>
+<td>
+
+2021-06-21
+
+
+
+</td>
+</tr>
+<tr>
+<td>
+
+SAP Business Application Studio
+
+
+
+</td>
+<td>
+
+Extension Suite - Development Efficiency
+
+
+
+</td>
+<td>
+
+-   Cloud Foundry
+
+
+
+</td>
+<td>
+
+SAP HANA
+
+
+
+</td>
+<td>
+
+You can now use the SAP HANA calculation view graphical editor to replace a data source with an existing node within a calculation view. See [SAP HANA Cloud, SAP HANA Database Modeling Guide for SAP Business Application Studio](https://help.sap.com/viewer/d625b46ef0b445abb2c2fd9ba008c265/latest/en-US).
+
+
+
+</td>
+<td>
+
+New
+
+
+
+</td>
+<td>
+
+2021-06-21
+
+
+
+</td>
+</tr>
+<tr>
+<td>
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td>
+
+Extension Suite - Development Efficiency
+
+
+
+</td>
+<td>
+
+-   Cloud Foundry
+
+
+
+</td>
+<td>
+
+SAP HANA
+
+
+
+</td>
+<td>
+
+You can now use the SAP HANA calculation view graphical editor to change the order of variables and parameters in the semantics node of a calculation view. See [SAP HANA Cloud, SAP HANA Database Modeling Guide for SAP Business Application Studio](https://help.sap.com/viewer/d625b46ef0b445abb2c2fd9ba008c265/latest/en-US).
+
+
+
+</td>
+<td>
+
+New
+
+
+
+</td>
+<td>
+
+2021-06-21
+
+
+
+</td>
+</tr>
+<tr>
+<td>
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td>
+
+Extension Suite - Development Efficiency
+
+
+
+</td>
+<td>
+
+-   Cloud Foundry
+
+
+
+</td>
+<td>
+
+Service Center
+
+
+
+</td>
+<td>
+
 The V4 services are now supported in the Service Center catalog. See [Service Center](https://help.sap.com/webcomponents/products/SAP%20Business%20Application%20Studio/9d1db9835307451daa8c930fbd9ab264/1e8ec75c9c784b51a91c7370f269ff98.html?locale=en-US&version=Cloud).
 
 

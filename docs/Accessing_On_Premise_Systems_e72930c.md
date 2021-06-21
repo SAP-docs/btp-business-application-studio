@@ -15,12 +15,6 @@ The proxy requires destination configuration to your on-premise system from your
 ## Defining On Premise Systems for the Web Proxy
 
 1.  Your administrator must create a destination and configure the [Cloud Connector](https://help.sap.com/viewer/cca91383641e40ffbe03bdc78f00f681/Cloud/en-US/e6c7616abb5710148cfcf3e75d96d596.html) so that as a developer, you can access on premise systems.
-
-    > ### Note:  
-    > Some corporate proxies or network policies may block the Cloud Connector from connecting SAP Business Application Studio and the on-premise system. Make sure that you have an internet connection to the SAP Business Application Studio connectivity service host, to which you can connect your Cloud Connector.
-    > 
-    > To find the SAP Business Application Studio connectivity service host for your region, see [SAP Business Application Studio Availability](SAP_Business_Application_Studio_Availability_8509485.md).
-
 2.  In SAP Business Application Studio, open a terminal and execute the following command:
 
     ```

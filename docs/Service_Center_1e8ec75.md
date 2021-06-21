@@ -42,9 +42,9 @@ To explore services, perform the following steps:
     You can click on each service in the list to see the service properties, including the service name, protocol, URL, status, and entity details.
 
 6.  After you're logged in, you can create a project from a service within the system:
-    1.  Click *Service Actions* \> *Create Project from a Service*.
+    1.  Click *Service Actions* \> *Create a project from a service*.
 
-        The template wizard displays the projects that can be created from a service, for example, an HTML5 project. See [Create an HTML5 Project](https://help.sap.com/viewer/0e2ec06ee34742fd9054fabe09c12d35/Cloud/en-US/e46be902c7b54f9baaab1870ca553303.html)
+        The template wizard displays the projects that can be created from a service, for example, an HTML5 project or an SAP Fiori application. See [Create an HTML5 Project](https://help.sap.com/viewer/0e2ec06ee34742fd9054fabe09c12d35/Cloud/en-US/e46be902c7b54f9baaab1870ca553303.html) or [SAP Fiori Elements](https://help.sap.com/viewer/17d50220bcd848aa854c9c182d65b699/Latest/en-US/1488469a315c442fa116ab4449d4ad27.html) for more information.
 
     2.  Use the template wizard to create the relevant project.
 7.  You can add a new system to your SAP Business Application Studio subaccount:
