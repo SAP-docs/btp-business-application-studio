@@ -4,7 +4,7 @@
 
 This guide contains the security elements for SAP Business Application Studio.
 
-It includes infomration on the following:
+It includes information on the following:
 
 -   [Architectural Overview](Architectural_Overview_c93afb5.md)
 
