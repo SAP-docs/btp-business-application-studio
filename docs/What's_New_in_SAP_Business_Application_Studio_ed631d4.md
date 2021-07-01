@@ -128,6 +128,57 @@ Extension Suite - Development Efficiency
 </td>
 <td>
 
+Free Tier
+
+
+
+</td>
+<td>
+
+The SAP Business Application Studio free tier is now available. See [Application Plans](https://help.sap.com/viewer/9d1db9835307451daa8c930fbd9ab264/Cloud/en-US/2c72917df87e47c290e061a556d92398.html).
+
+
+
+</td>
+<td>
+
+New
+
+
+
+</td>
+<td>
+
+2021-07-01
+
+
+
+</td>
+</tr>
+<tr>
+<td>
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td>
+
+Extension Suite - Development Efficiency
+
+
+
+</td>
+<td>
+
+-   Cloud Foundry
+
+
+
+</td>
+<td>
+
 Service Center
 
 

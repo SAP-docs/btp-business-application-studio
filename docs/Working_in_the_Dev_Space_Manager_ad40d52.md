@@ -24,10 +24,7 @@ You can generate a dev space to create and manage applications. You can select t
 
 
 > ### Note:  
-> The maximum size limit of the dev space is 6 GB for productive accounts and 4 GB for trial accounts. Exceeding this limit may cause loss of data and other problems, including the inability to start the dev space. Note that additional restrictions apply to dev spaces in trial accounts. See [Restrictions](Restrictions_a45742a.md).
-
-> ### Note:  
-> The maximum size limit of the dev space is 10 GB for productive accounts and 4 GB for trial accounts. Exceeding this limit may cause loss of data and other problems, including the inability to start the dev space. Note that additional restrictions apply to dev spaces in trial accounts. See [Restrictions](Restrictions_a45742a.md).
+> The maximum size limit of the dev space is 10 GB for productive accounts in the standard-edition plan, and 4 GB for trial accounts and accounts using the free plan. Exceeding this limit may cause loss of data and other problems, including the inability to start the dev space. Note that additional restrictions apply to dev spaces in trial accounts. See [Restrictions](Restrictions_a45742a.md).
 
 
 
@@ -76,8 +73,6 @@ After the download begins, the dev space state changes to *STARTING*. The dev sp
 When the download is complete, the `tar` file appears, which contains the dev space content.
 
 > ### Note:  
-> After the dev space content is exported, check the total size of the dev space before uploading it to make sure that the size does not exceed 6 GB.
-> 
 > After the dev space content is exported, check the total size of the dev space before uploading it to make sure that the size does not exceed 10 GB.
 
 
@@ -89,11 +84,16 @@ When the download is complete, the `tar` file appears, which contains the dev sp
 After downloading the dev space content, you can import the content to another dev space by performing the following steps:
 
 1.  Create a new dev space and open it.
-2.  Open the project folder.
-3.  Select the project folder and click *File* \> *Upload Files*.
-4.  From the *Downloads* folder, choose the file with the dev space content.
-5.  Open the terminal.
-6.  Enter the following command to uncompress the uploaded file:
+2.  Click *Open Folder*.
+
+    The `user` folder is selected by default.
+
+3.  Click *Open*.
+4.  Click the `projects` folder to select it.
+5.  Click *File* \> *Upload Files*.
+6.  From the *Downloads* folder, choose the file with the dev space content.
+7.  Right-click the `projects` folder and select ***Open in Terminal***.
+8.  Enter the following command to uncompress the uploaded file:
 
     ```
     tar xvzf <yourFileName>.tar.gz

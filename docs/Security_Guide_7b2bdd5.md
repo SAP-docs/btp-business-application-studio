@@ -10,6 +10,8 @@ It includes information on the following:
 
 -   [Standards and Best Practices](Standards_and_Best_Practices_2937779.md)
 
+-   [Connecting to Cloud Foundry Using Identity Providers](Connecting_to_Cloud_Foundry_Using_Identity_Providers_53dfab0.md)
+
 
 -   **[Architectural Overview](Architectural_Overview_c93afb5.md)**  
 
