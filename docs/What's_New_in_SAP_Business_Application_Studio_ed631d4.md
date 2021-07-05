@@ -128,6 +128,57 @@ Extension Suite - Development Efficiency
 </td>
 <td>
 
+HTML5 Application Development
+
+
+
+</td>
+<td>
+
+You can now create, run, build, and deploy a React.js HTML5 application to the Cloud Foundry environment. See [Developing an HTML5 Application for Cloud Foundry](https://help.sap.com/viewer/0e2ec06ee34742fd9054fabe09c12d35/Cloud/en-US/3daa8d63fccb40959cdd0f52aab2d931.html).
+
+
+
+</td>
+<td>
+
+New
+
+
+
+</td>
+<td>
+
+2021-07-04
+
+
+
+</td>
+</tr>
+<tr>
+<td>
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td>
+
+Extension Suite - Development Efficiency
+
+
+
+</td>
+<td>
+
+-   Cloud Foundry
+
+
+
+</td>
+<td>
+
 Free Tier
 
 

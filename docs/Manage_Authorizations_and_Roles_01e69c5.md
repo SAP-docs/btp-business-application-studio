@@ -2,14 +2,21 @@
 
 # Manage Authorizations and Roles
 
-To develop using SAP Business Application Studio or manage data stored by the tool, the relevant role needs to be assigned by the subaccount administrator.
+The subaccount administrator can assign a role to the user for developing with SAP Business Application Studio or for managing data.
+
+Role collections are user-related authorizations that restrict access to resources and services based on defined user permissions. They consist of individual roles. The roles are based on role templates. For SAP Business Application Studio there are 3 relevant role templates available: Developer role, Extension Deployer role, and Administrator role:
 
 -   To allow development using SAP Business Application Studio, the developer must be assigned the Developer role.
+
+    The Developer role allows developers to develop applications using SAP Business Application Studio.
+
 -   To allow administrator operations using SAP Business Application Studio, the relevant user must be assigned the Administrator role.
+
+    The Administrator role allows administrators to manage \(export and delete\) user data and to restart a user's dev space. See [Export and Download Personal Data from Specific Users](Export_and_Download_Personal_Data_from_Specific_Users_8091e47.md), [Delete Personal Data](Delete_Personal_Data_03da2fa.md), and [Restart a Dev Space](Restart_a_Dev_Space_1f54583.md).
+
 -   To allow a developer to create an SAP Business Application Studio extension, the relevant user must be assigned the Extension Deployer role.
 
-    The Developer and Administrator role collections together with their corresponding templates are created automatically when you subscribe to SAP Business Application Studio.
-
+The Developer and Administrator role collections together with their corresponding role templates are created automatically when you subscribe to SAP Business Application Studio.
 
 
 
@@ -45,21 +52,18 @@ You can create an administrator role collection and a developer role collection 
 
 ## Assigning Permissions
 
-Role collections are user-related authorizations that restrict access to resources and services based on defined user permissions. They consist of individual roles. The roles are based on role templates. For SAP Business Application Studio there are 3 relevant role templates available: Developer role, Extension Deployer role, and Administrator role:
-
--   The Developer role allows developers to load and develop applications using SAP Business Application Studio.
--   The Extension Deployer role allows developers to create an SAP Business Application Studio extension.
--   The Administrator role allows administrators to manage \(export and delete\) user data.
-
 You can assign permissions as follows:
 
 1.  In the SAP BTP cockpit, navigate to your subaccount.
 2.  From the Navigation area, choose *Security* \> *Trust Configuration*.
 3.  Select the default IdP by clicking on the name attribute. The name might be *SAP ID Service* or *Default Identity provider*.
 4.  Enter the e-mail of the user to whom you want to give permissions.
-5.  Choose *Show Assignments*.
-6.  Choose *Assign Role Collection*.
-7.  From the *Role Collection* dropdown list, select the relevant role collection.
+5.  Click *Show Assignments*.
+6.  Click *Assign Role Collection*.
+7.  From the *Assign Role Collection* dropdown list, select the relevant role collection:
+    -   Select `Business_Application_Studio_Developer` to assign a role collection to a developer.
+    -   Select `Business_Application_Studio_Administrator` to assign a role collection to an administrator.
+    -   Select `Business_Application_Studio_Extension_Deployer` to assign a role collection to an extension developer.
 
 To assign permissions to groups, follow the instructions in the [Map Role Collections to User Groups](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/51acfc82c0c54db59de0a528f343902c.html) topic.
 

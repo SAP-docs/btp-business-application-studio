@@ -19,7 +19,7 @@ Before you can work in SAP Business Application Studio, the account administrato
 -   **[Application Plans](Application_Plans_2c72917.md)**  
 SAP Business Application Studio provides 2 types of application plans: free and standard-edition. Both plans are provided only in Enterprise accounts.
 -   **[Manage Authorizations and Roles](Manage_Authorizations_and_Roles_01e69c5.md)**  
-To develop using SAP Business Application Studio or manage data stored by the tool, the relevant role needs to be assigned by the subaccount administrator.
+The subaccount administrator can assign a role to the user for developing with SAP Business Application Studio or for managing data.
 -   **[Connecting to External Systems](Connecting_to_External_Systems_7e49887.md)**  
 For applications that do not need to run on Cloud Foundry, establish a connection to an external system by creating one destination for multi-usage.
 -   **[Connect to Your Git Source Control System](Connect_to_Your_Git_Source_Control_System_e7a42bc.md)**  
@@ -31,5 +31,5 @@ You can export and download personal data from specific users from your workspac
 -   **[Delete Personal Data](Delete_Personal_Data_03da2fa.md)**  
 You can delete personal data stored in your workspace.
 -   **[SAP Business Application Studio Availability](SAP_Business_Application_Studio_Availability_8509485.md)**  
-You can find the regions where SAP Business Application Studio is available.
+You can find the regions where SAP Business Application Studio is available and the relevant IP addresses.
 

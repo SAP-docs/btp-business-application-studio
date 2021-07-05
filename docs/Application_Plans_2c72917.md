@@ -38,11 +38,25 @@ You can use different plans in separate subaccounts.
 
 To upgrade the application subscription from the free plan to the standard-edition plan:
 
-1.  Save the content of all the dev spaces created in SAP Business Application Studio from the subaccount where you want to upgrade the subscription. For example, developers can upload projects to a Git repository or export the dev spaces.
-2.  In the SAP BTP cockpit, unsubscribe from the SAP Business Application Studio application.
+1.  Open your global account in the cockpit.
+2.  Go to your subaccount.
+3.  In the navigation area, choose *Instances and Subscriptions*.
 
-    > ### Caution:  
-    > All dev spaces created in SAP Business Application Studio from this subaccount and their content will be removed.
+    A list of the applications to which your subaccount is subscribed in the Cloud Foundry environment is displayed.
 
-3.  Follow the instructions in [Subscribe to SAP Business Application Studio](Subscribe_to_SAP_Business_Application_Studio_6331319.md) and select the standard-edition plan.
+4.  Search for SAP Business Application Studio.
+5.  Select the ellipsis at the end of the subscription row, and from the menu, select *Update*.
+
+    ![](images/upgrade_plan_0e07bae.png)
+
+6.  In the wizard that opens, select *standard-edition plan* and click *Update Subscription*.
+
+> ### Note:  
+> -   The content of the existing dev spaces is not affected by the update.
+> 
+> -   No changes are made to the user permissions.
+> 
+> -   The free tier restrictions are not applied anymore.
+> 
+> -   Restart your dev space to see the extended disk space.
 
