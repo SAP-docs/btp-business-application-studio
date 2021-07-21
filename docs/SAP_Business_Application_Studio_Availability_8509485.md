@@ -4,7 +4,11 @@
 
 You can find the regions where SAP Business Application Studio is available and the relevant IP addresses.
 
-**Outbound IP Address**
+
+
+<a name="loio8509485251814213876223e332bfdcbb__section_iv4_wwz_hqb"/>
+
+## Outbound IP Address
 
 Use an SAP Business Application Studio outbound IP address when connecting from SAP Business Application Studio to an outside service.
 
@@ -70,9 +74,9 @@ eu10
 
 18.158.7.155
 
-18.194.253.116
-
 18.192.47.220
+
+18.194.253.116
 
 
 
@@ -107,6 +111,74 @@ eu10-trial
 18.193.190.210
 
 18.193.190.236
+
+
+
+</td>
+</tr>
+<tr>
+<td>
+
+Europe \(Frankfurt\)
+
+
+
+</td>
+<td>
+
+AWS
+
+
+
+</td>
+<td>
+
+eu11
+
+
+
+</td>
+<td>
+
+18.185.27.129
+
+3.122.202.117
+
+3.65.47.134
+
+
+
+</td>
+</tr>
+<tr>
+<td>
+
+Europe \(Frankfurt\)
+
+
+
+</td>
+<td>
+
+AWS
+
+
+
+</td>
+<td>
+
+eu12
+
+
+
+</td>
+<td>
+
+18.158.167.104
+
+18.158.197.80
+
+18.198.185.172
 
 
 
@@ -548,7 +620,11 @@ ap21-trial
 
 \*NAT IPs \(egress, IPs for requests from an SAP Business Application Studio dev space\)
 
-**Inbound IP Address**
+
+
+<a name="loio8509485251814213876223e332bfdcbb__section_nkt_twz_hqb"/>
+
+## Inbound IP Address
 
 Use an SAP Business Application Studio inbound IP address when connecting from a system outside of SAP Business Application Studio to your dev spaces within SAP Business Application Studio.
 
@@ -626,23 +702,19 @@ https://connectivity.eu10.applicationstudio.cloud.sap
 
 
 </td>
-<td rowspan="16">
+<td>
 
-> ### Note:  
-> SAP Business Application Studio doesn't currently support static inbound IPs.
+18.159.70.155
 
-To determine the inbound IP address, perform the following steps:
+18.159.232.22
 
-1.  Open the command prompt.
-2.  Enter the following command:
+18.156.27.245
 
-    ```
-    $ nslookup <connectivity_service_host>
-    ```
+18.193.62.167
 
+52.58.227.227
 
-> ### Note:  
-> The inbound IPs may change over time. If you have trouble connecting from an outside system to SAP Business Application Studio, perform the steps above to determine the new inbound IP address.
+3.66.10.126
 
 
 
@@ -665,14 +737,125 @@ AWS
 </td>
 <td>
 
-eu10-trial
+eu11
 
 
 
 </td>
 <td>
 
-https://connectivity.eu10cf.trial.applicationstudio.cloud.sap
+https://connectivity.eu11.applicationstudio.cloud.sap
+
+
+
+</td>
+<td>
+
+18.158.123.221
+
+18.193.170.223
+
+18.157.124.219
+
+35.156.170.248
+
+3.64.94.185
+
+3.68.127.205
+
+
+
+</td>
+</tr>
+<tr>
+<td>
+
+Europe \(Frankfurt\)
+
+
+
+</td>
+<td>
+
+AWS
+
+
+
+</td>
+<td>
+
+eu12
+
+
+
+</td>
+<td>
+
+https://connectivity.eu12.applicationstudio.cloud.sap
+
+
+
+</td>
+<td>
+
+3.124.78.26
+
+3.64.186.38
+
+35.157.83.247
+
+18.198.238.190
+
+3.66.52.233
+
+3.126.7.208
+
+
+
+</td>
+</tr>
+<tr>
+<td>
+
+Europe \(Frankfurt\)
+
+
+
+</td>
+<td>
+
+AWS
+
+
+
+</td>
+<td>
+
+cry10cf.int
+
+
+
+</td>
+<td>
+
+https://connectivity.cry10cf.int.applicationstudio.cloud.sap
+
+
+
+</td>
+<td>
+
+18.192.167.232
+
+18.198.211.102
+
+18.196.140.56
+
+18.193.50.247
+
+18.156.62.37
+
+3.68.133.153
 
 
 
@@ -707,32 +890,19 @@ https://connectivity.us10.applicationstudio.cloud.sap
 
 
 </td>
-</tr>
-<tr>
 <td>
 
-US East \(N. Virginia\)
+100.24.163.249
 
+54.243.145.188
 
+18.210.189.221
 
-</td>
-<td>
+44.193.236.153
 
-AWS
+3.91.126.136
 
-
-
-</td>
-<td>
-
-us10-trial
-
-
-
-</td>
-<td>
-
-https://connectivity.us10cf.trial.applicationstudio.cloud.sap
+34.236.221.171
 
 
 
@@ -767,6 +937,23 @@ https://connectivity.ap10.applicationstudio.cloud.sap
 
 
 </td>
+<td>
+
+13.238.41.41
+
+54.153.190.7
+
+52.63.88.22
+
+54.252.50.184
+
+3.105.22.230
+
+13.210.109.84
+
+
+
+</td>
 </tr>
 <tr>
 <td>
@@ -793,6 +980,23 @@ ap11
 <td>
 
 https://connectivity.ap11.applicationstudio.cloud.sap
+
+
+
+</td>
+<td>
+
+18.139.207.29
+
+52.220.86.30
+
+13.213.240.205
+
+54.169.224.233
+
+13.213.216.104
+
+13.213.186.249
 
 
 
@@ -827,6 +1031,23 @@ https://connectivity.ap12.applicationstudio.cloud.sap
 
 
 </td>
+<td>
+
+54.180.46.250
+
+3.34.92.76
+
+3.37.239.157
+
+3.37.8.79
+
+3.36.229.98
+
+3.37.237.182
+
+
+
+</td>
 </tr>
 <tr>
 <td>
@@ -853,6 +1074,23 @@ ca10
 <td>
 
 https://connectivity.ca10.applicationstudio.cloud.sap
+
+
+
+</td>
+<td>
+
+3.98.238.174
+
+52.60.170.25
+
+3.97.151.56
+
+3.97.151.215
+
+35.183.175.160
+
+3.98.191.85
 
 
 
@@ -887,6 +1125,23 @@ https://connectivity.br10.applicationstudio.cloud.sap
 
 
 </td>
+<td>
+
+54.207.235.96
+
+54.94.84.199
+
+54.94.12.100
+
+54.94.88.250
+
+18.230.90.202
+
+54.232.23.35
+
+
+
+</td>
 </tr>
 <tr>
 <td>
@@ -913,6 +1168,104 @@ jp10
 <td>
 
 https://connectivity.jp10.applicationstudio.cloud.sap
+
+
+
+</td>
+<td>
+
+54.95.29.60
+
+18.180.77.231
+
+18.181.101.86
+
+35.74.156.52
+
+35.75.212.58
+
+175.41.212.190
+
+
+
+</td>
+</tr>
+<tr>
+<td>
+
+Europe \(Frankfurt\)
+
+
+
+</td>
+<td>
+
+AWS
+
+
+
+</td>
+<td>
+
+eu10-trial
+
+
+
+</td>
+<td>
+
+https://connectivity.eu10cf.trial.applicationstudio.cloud.sap
+
+
+
+</td>
+<td rowspan="8">
+
+> ### Note:  
+> SAP Business Application Studio doesn't currently support static inbound IPs for trial environments and Azure.
+
+To determine the inbound IP address, perform the following steps:
+
+1.  Open the command prompt.
+2.  Enter the following command:
+
+    ```
+    $ nslookup <connectivity_service_host>
+    ```
+
+
+> ### Note:  
+> The inbound IPs may change over time. If you have trouble connecting from an outside system to SAP Business Application Studio, perform the steps above to determine the new inbound IP address.
+
+
+
+</td>
+</tr>
+<tr>
+<td>
+
+US East \(N. Virginia\)
+
+
+
+</td>
+<td>
+
+AWS
+
+
+
+</td>
+<td>
+
+us10-trial
+
+
+
+</td>
+<td>
+
+https://connectivity.us10cf.trial.applicationstudio.cloud.sap
 
 
 

@@ -46,11 +46,11 @@ General overview of the Git view in SAP Business Application Studio.
 
 [Using the Git View](Using_the_Git_View_265962e.md)
 
-[08993e87b4b44c0cafedd6f143212ced.md](08993e87b4b44c0cafedd6f143212ced.md)
-
 [Connect to Your Git Source Control System](Connect_to_Your_Git_Source_Control_System_e7a42bc.md)
 
 [Connecting to a Corporate Git Repository](Connecting_to_a_Corporate_Git_Repository_d54ddfc.md)
 
 [Connecting to a Public Git Repository](Connecting_to_a_Public_Git_Repository_a47db8b.md)
+
+[Troubleshooting](Troubleshooting_73e1a38.md)
 
