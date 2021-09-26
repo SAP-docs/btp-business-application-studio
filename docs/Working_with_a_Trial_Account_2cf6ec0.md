@@ -73,10 +73,11 @@ Some features may be released to the trial account before they are released to t
 
 See [What's New in SAP Business Application Studio](https://help.sap.com/viewer/c8f199cdcb7b48f2adc1bb3ec44e4dc4/Trial/en-US/ed631d4ee2214e9f932b03d40b2c7e41.html) to learn about these features.
 
--   **[Getting Started with a Trial Account](Getting_Started_with_a_Trial_Account_48ed55e.md)**  
+-   **[Getting Started with a Trial Account](Getting_Started_with_a_Trial_Account_48ed55e.md "Set up your trial system to develop applications using SAP Business Application Studio.")**  
 Set up your trial system to develop applications using SAP Business Application Studio.
--   **[Restrictions](Restrictions_a45742a.md)**  
+-   **[Restrictions](Restrictions_a45742a.md "")**  
 
--   **[Creating a New Subaccount](Creating_a_New_Subaccount_c44668e.md)**  
+-   **[Creating a New Subaccount](Creating_a_New_Subaccount_c44668e.md "Your trial account comes with a default subaccount that contains all the relevant roles
+		and authorizations. You can create additional subaccounts, if needed.")**  
 Your trial account comes with a default subaccount that contains all the relevant roles and authorizations. You can create additional subaccounts, if needed.
 

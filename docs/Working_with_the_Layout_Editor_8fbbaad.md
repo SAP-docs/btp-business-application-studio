@@ -34,16 +34,20 @@ An overview of the steps required to edit a project using the layout editor.
     -   Bind controls in the layout editor to elements from the OData service.
     -   Extract a control to a fragment using the context menu.
 
--   **[Add Controls from the Outline Tab](Add_Controls_from_the_Outline_Tab_1cf5a5b.md)**  
+-   **[Add Controls from the Outline Tab](Add_Controls_from_the_Outline_Tab_1cf5a5b.md "You can add controls to the canvas from the Outline
+		tab.")**  
 You can add controls to the canvas from the *Outline* tab.
--   **[Delete Controls from the Outline Tab](Delete_Controls_from_the_Outline_Tab_04ad947.md)**  
+-   **[Delete Controls from the Outline Tab](Delete_Controls_from_the_Outline_Tab_04ad947.md "You can remove controls from the Outline tab.")**  
 You can remove controls from the *Outline* tab.
--   **[Create a New Function](Create_a_New_Function_b9cfeb1.md)**  
+-   **[Create a New Function](Create_a_New_Function_b9cfeb1.md "You can create a new function for a controller from the Events
+		pane.")**  
 You can create a new function for a controller from the *Events* pane.
--   **[Add Controls from the Controls Tab](Add_Controls_from_the_Controls_Tab_82d8438.md)**  
+-   **[Add Controls from the Controls Tab](Add_Controls_from_the_Controls_Tab_82d8438.md "Add controls to the canvas by using drag and drop functionality.")**  
 Add controls to the canvas by using drag and drop functionality.
--   **[Keyboard Support](Keyboard_Support_55caf37.md)**  
+-   **[Keyboard Support](Keyboard_Support_55caf37.md "Use the keyboard to move selected controls or navigate within the view that you opened
+		with the layout editor.")**  
 Use the keyboard to move selected controls or navigate within the view that you opened with the layout editor.
--   **[Binding Data](Binding_Data_c24e9c4.md)**  
+-   **[Binding Data](Binding_Data_c24e9c4.md "In the layout editor, you can bind properties of controls or control aggregations to an
+		artifact in the OData service.")**  
 In the layout editor, you can bind properties of controls or control aggregations to an artifact in the OData service.
 

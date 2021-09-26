@@ -117,15 +117,15 @@ For more information, see [Binding Data](Binding_Data_c24e9c4.md), [Bind Data to
 > ### Note:  
 > Deprecated properties or aggregations are marked with the label *deprecated* \(also in the *Outline* tab\). For more information, see *SAP Library for User Interface Add-On 1.0 for SAP NetWeaver* on SAP Help Portal at [http://help.sap.com/nw-uiaddon](http://help.sap.com/nw-uiaddon). Under *Application Help*, open *SAP Library*, and search for *deprecation*.
 
--   **[Working with the Layout Editor](Working_with_the_Layout_Editor_8fbbaad.md)**  
+-   **[Working with the Layout Editor](Working_with_the_Layout_Editor_8fbbaad.md "An overview of the steps required to edit a project using the layout editor.")**  
 An overview of the steps required to edit a project using the layout editor.
--   **[SAPUI5 Controls Supported in the Layout Editor](SAPUI5_Controls_Supported_in_the_Layout_Editor_c5d123e.md)**  
+-   **[SAPUI5 Controls Supported in the Layout Editor](SAPUI5_Controls_Supported_in_the_Layout_Editor_c5d123e.md "Provides a list of SAPUI5 controls that are supported in the layout editor.")**  
 Provides a list of SAPUI5 controls that are supported in the layout editor.
 
 **Related Information**  
 
 
-[Working with the Layout Editor](Working_with_the_Layout_Editor_8fbbaad.md)
+[Working with the Layout Editor](Working_with_the_Layout_Editor_8fbbaad.md "An overview of the steps required to edit a project using the layout editor.")
 
-[SAPUI5 Controls Supported in the Layout Editor](SAPUI5_Controls_Supported_in_the_Layout_Editor_c5d123e.md)
+[SAPUI5 Controls Supported in the Layout Editor](SAPUI5_Controls_Supported_in_the_Layout_Editor_c5d123e.md "Provides a list of SAPUI5 controls that are supported in the layout editor.")
 

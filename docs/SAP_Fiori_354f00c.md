@@ -6,15 +6,19 @@ Develop SAP Fiori applications based on various environments: Cloud Foundry, ABA
 
 See, [Developing and Extending SAP Fiori Applications](https://help.sap.com/viewer/584e0bcbfd4a4aff91c815cefa0bce2d/Cloud/en-US).
 
+**Migration from SAP Web IDE**
+
+If you have projects that were created using SAP Web IDE, you can migrate them to SAP Business Application Studio. See [Migrate an Application](https://help.sap.com/viewer/17d50220bcd848aa854c9c182d65b699/Latest/en-US/70d41f3ee29d453a90efab3ce025d450.html) in the *SAP Fiori tools Users Guide*.
+
 The SAP Fiori scenario contains the following predefined extensions:
 
--   **Fiori Application**
+-   **SAP Fiori Application**
 
-    Allows you to create a fiori application, using the a wizard for creating new projects from template.
+    Allows you to create an SAP Fiori application, using a wizard for creating new projects from template.
 
     See [Create an SAP Fiori Project](https://help.sap.com/viewer/584e0bcbfd4a4aff91c815cefa0bce2d/Cloud/en-US/46664de4d6944471b6c29a0681bfd0fc.html).
 
--   **Fiori Freestyle Tools**
+-   **SAPUI5 Freestyle Tools**
 
     Allows you to optimize your Fiori-based development. This extension provides Fiori templates with the following tools:
 

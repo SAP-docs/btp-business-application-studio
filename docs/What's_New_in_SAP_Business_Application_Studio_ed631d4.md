@@ -128,6 +128,418 @@ Extension Suite - Development Efficiency
 </td>
 <td>
 
+Service Center
+
+
+
+</td>
+<td>
+
+You can now generate a sample service based on selected entities when adding a data model to a CAP project from the Service Center. See [Service Center](https://help.sap.com/products/SAP%20Business%20Application%20Studio/9d1db9835307451daa8c930fbd9ab264/1e8ec75c9c784b51a91c7370f269ff98.html?locale=en-US&version=Cloud).
+
+
+
+</td>
+<td>
+
+New
+
+
+
+</td>
+<td>
+
+2021-09-13
+
+
+
+</td>
+</tr>
+<tr>
+<td>
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td>
+
+Extension Suite - Development Efficiency
+
+
+
+</td>
+<td>
+
+-   Cloud Foundry
+
+
+
+</td>
+<td>
+
+SAP HANA
+
+
+
+</td>
+<td>
+
+When you include objects in a calculation view that are outside a project, the calculation view editor can now display the name of the service through which an external object is accessible. See [Consume Objects That are not Included in Your Development Project](https://help.sap.com/viewer/d625b46ef0b445abb2c2fd9ba008c265/latest/en-US/9c5e5d49af274281b74062a87d5cb34e.html).
+
+
+
+</td>
+<td>
+
+New
+
+
+
+</td>
+<td>
+
+2021-09-10
+
+
+
+</td>
+</tr>
+<tr>
+<td>
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td>
+
+Extension Suite - Development Efficiency
+
+
+
+</td>
+<td>
+
+-   Cloud Foundry
+
+
+
+</td>
+<td>
+
+Service Center
+
+
+
+</td>
+<td>
+
+The SAP API Business Hub service provider is now displayed in the Service Center. You can explore OData-based services from 5 SAP products. See [SAP API Business Hub Service Provider](https://help.sap.com/products/SAP%20Business%20Application%20Studio/9d1db9835307451daa8c930fbd9ab264/1a2f306c9f9b4628bfa143f8e404ef0a.html?locale=en-US&version=Cloud).
+
+
+
+</td>
+<td>
+
+New
+
+
+
+</td>
+<td>
+
+2021-08-29
+
+
+
+</td>
+</tr>
+<tr>
+<td>
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td>
+
+Extension Suite - Development Efficiency
+
+
+
+</td>
+<td>
+
+-   Cloud Foundry
+
+
+
+</td>
+<td>
+
+HTML5 Application Development
+
+
+
+</td>
+<td>
+
+You can now create an HTML5 project based on the selected SAP API Business Hub service and locally run it from SAP Business Application Studio. See [Run Your HTML5 Application with the SAP API Business Hub](https://help.sap.com/viewer/0e2ec06ee34742fd9054fabe09c12d35/Cloud/en-US/3fca8fcfe27a43c0b8bbde8fe2113e82.html).
+
+
+
+</td>
+<td>
+
+New
+
+
+
+</td>
+<td>
+
+2021-08-29
+
+
+
+</td>
+</tr>
+<tr>
+<td>
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td>
+
+Extension Suite - Development Efficiency
+
+
+
+</td>
+<td>
+
+-   Cloud Foundry
+
+
+
+</td>
+<td>
+
+SAP Fiori Development
+
+
+
+</td>
+<td>
+
+You can now create an SAP Fiori project based on the selected SAP API Business Hub service and locally run it from SAP Business Application Studio. See [Develop SAP Fiori Applications with SAP Fiori tools](https://help.sap.com/viewer/17d50220bcd848aa854c9c182d65b699/Latest/en-US/f09752ebcf63473e9194ea29ca232e56.html).
+
+
+
+</td>
+<td>
+
+New
+
+
+
+</td>
+<td>
+
+2021-08-29
+
+
+
+</td>
+</tr>
+<tr>
+<td>
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td>
+
+Extension Suite - Development Efficiency
+
+
+
+</td>
+<td>
+
+-   Cloud Foundry
+
+
+
+</td>
+<td>
+
+SAP HANA
+
+
+
+</td>
+<td>
+
+The Calculation View Editor has the following new features:
+
+-   You can define your own keyboard shortcuts for common modeling actions in the calculation. See [Calculation View Editor: Keyboard Shortcuts](https://help.sap.com/viewer/d625b46ef0b445abb2c2fd9ba008c265/latest/en-US/08fea482c94246a38bf3bdace3b6ad02.html)
+-   You can copy and paste elements such as input parameters, variables, calculated columns, restricted columns, and hierarchies. See [Copying Calculation View Elements](https://help.sap.com/viewer/d625b46ef0b445abb2c2fd9ba008c265/Latest/en-US/31dc1587eee24dc8980ae1f8a882e945.html)
+-   You can change the join type and cardinality directly from the Properties view when a non-equi-join uses an expression. See [Create Joins](https://help.sap.com/viewer/d625b46ef0b445abb2c2fd9ba008c265/latest/en-US/2cb2138c9fc04f6f87a3eb88d87df9d6.html).
+
+
+
+</td>
+<td>
+
+New
+
+
+
+</td>
+<td>
+
+2021-08-10
+
+
+
+</td>
+</tr>
+<tr>
+<td>
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td>
+
+Extension Suite - Development Efficiency
+
+
+
+</td>
+<td>
+
+-   Cloud Foundry
+
+
+
+</td>
+<td>
+
+SAP HANA
+
+
+
+</td>
+<td>
+
+You can now create Document Store Collection Index \(`hdbcollectionindex`\) artifacts in projects with feature version 1006 or higher. See[Document Store Collection Index \(.hdbcollectionindex\)](https://help.sap.com/viewer/c2cc2e43458d4abda6788049c58143dc/2021_3_QRC/en-US/b4b1b5c8714a4af7a53e906a85c633f1.html).
+
+
+
+</td>
+<td>
+
+Changed
+
+
+
+</td>
+<td>
+
+2021-08-10
+
+
+
+</td>
+</tr>
+<tr>
+<td>
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td>
+
+Extension Suite - Development Efficiency
+
+
+
+</td>
+<td>
+
+-   Cloud Foundry
+
+
+
+</td>
+<td>
+
+SAP HANA
+
+
+
+</td>
+<td>
+
+The configuration of new projects now includes a mapping for Document Store Collection Index \(`hdbcollectionindex`\) artifacts.
+
+
+
+</td>
+<td>
+
+New
+
+
+
+</td>
+<td>
+
+2021-08-10
+
+
+
+</td>
+</tr>
+<tr>
+<td>
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td>
+
+Extension Suite - Development Efficiency
+
+
+
+</td>
+<td>
+
+-   Cloud Foundry
+
+
+
+</td>
+<td>
+
 HTML5 Application Development
 
 

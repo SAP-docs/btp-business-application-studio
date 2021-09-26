@@ -35,15 +35,16 @@ The following types of bindings are possible:
 > ### Note:  
 > If your application does not consume an OData service, you can add the *OData Service* component to it.
 
--   **[Define Entity Set](Define_Entity_Set_24b6b2b.md)**  
+-   **[Define Entity Set](Define_Entity_Set_24b6b2b.md "Before you can bind data to a control, you need to define an entity set. ")**  
 Before you can bind data to a control, you need to define an entity set.
--   **[Bind Data to a Simple Control](Bind_Data_to_a_Simple_Control_93f40e6.md)**  
+-   **[Bind Data to a Simple Control](Bind_Data_to_a_Simple_Control_93f40e6.md "You can bind data to a simple control.")**  
 You can bind data to a simple control.
--   **[Bind Data to an Aggregate-Type Control](Bind_Data_to_an_Aggregate-Type_Control_2ea1358.md)**  
+-   **[Bind Data to an Aggregate-Type Control](Bind_Data_to_an_Aggregate-Type_Control_2ea1358.md "You can bind data to an aggregate-type control, which creates a template.")**  
 You can bind data to an aggregate-type control, which creates a template.
--   **[Bind to the i18n Model](Bind_to_the_i18n_Model_5e7ddc5.md)**  
+-   **[Bind to the i18n Model](Bind_to_the_i18n_Model_5e7ddc5.md "You can bind a control property to the i18n model or create a new i18n
+		entry.")**  
 You can bind a control property to the i18n model or create a new i18n entry.
--   **[Bind to a Label Annotation](Bind_to_a_Label_Annotation_34c5841.md)**  
+-   **[Bind to a Label Annotation](Bind_to_a_Label_Annotation_34c5841.md "You can bind a control property to a label annotation.")**  
 You can bind a control property to a label annotation.
 
 **Related Information**  

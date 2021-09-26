@@ -30,27 +30,30 @@ Using Git is easy. The basic workflow is as follows:
 4.  **Push:** Add your changes to the remote repository.
 
 
--   **[Adding an Existing Project Using Git Remote](Adding_an_Existing_Project_Using_Git_Remote_0930e56.md)**  
+-   **[Adding an Existing Project Using Git Remote](Adding_an_Existing_Project_Using_Git_Remote_0930e56.md "You can use the terminal to add an existing project to your Git Remote so that you can
+		continue working on it in SAP Business Application Studio.")**  
 You can use the terminal to add an existing project to your Git Remote so that you can continue working on it in SAP Business Application Studio.
--   **[Understanding the UI](Understanding_the_UI_d14646a.md)**  
+-   **[Understanding the UI](Understanding_the_UI_d14646a.md "SAP Business Application Studio provides a
+		graphical user interface for executing Git commands and managing your source control and
+		versioning. ")**  
 SAP Business Application Studio provides a graphical user interface for executing Git commands and managing your source control and versioning.
--   **[Using the Git View](Using_the_Git_View_265962e.md)**  
+-   **[Using the Git View](Using_the_Git_View_265962e.md "General overview of the Git view in SAP Business Application Studio.")**  
 General overview of the Git view in SAP Business Application Studio.
 
 **Related Information**  
 
 
-[Cloning Repositories](Cloning_Repositories_7a68bfa.md)
+[Cloning Repositories](Cloning_Repositories_7a68bfa.md "Add an existing project to your local workpace by cloning its repository from Git.")
 
-[Adding an Existing Project Using Git Remote](Adding_an_Existing_Project_Using_Git_Remote_0930e56.md)
+[Adding an Existing Project Using Git Remote](Adding_an_Existing_Project_Using_Git_Remote_0930e56.md "You can use the terminal to add an existing project to your Git Remote so that you can continue working on it in SAP Business Application Studio.")
 
-[Using the Git View](Using_the_Git_View_265962e.md)
+[Using the Git View](Using_the_Git_View_265962e.md "General overview of the Git view in SAP Business Application Studio.")
 
-[Connect to Your Git Source Control System](Connect_to_Your_Git_Source_Control_System_e7a42bc.md)
+[Connect to Your Git Source Control System](Connect_to_Your_Git_Source_Control_System_e7a42bc.md "SAP Business Application Studio allows you to connect to public and corporate repositories.")
 
-[Connecting to a Corporate Git Repository](Connecting_to_a_Corporate_Git_Repository_d54ddfc.md)
+[Connecting to a Corporate Git Repository](Connecting_to_a_Corporate_Git_Repository_d54ddfc.md "As an administrator, you can work with on premise Git repositories once an appropriate destination has been created in your subaccount.")
 
-[Connecting to a Public Git Repository](Connecting_to_a_Public_Git_Repository_a47db8b.md)
+[Connecting to a Public Git Repository](Connecting_to_a_Public_Git_Repository_a47db8b.md "Using SAP Business Application Studio, can connect to all public git services, such as GitHub, GitLab, and Gitbucket.")
 
-[Troubleshooting](Troubleshooting_73e1a38.md)
+[Troubleshooting](Troubleshooting_73e1a38.md "")
 

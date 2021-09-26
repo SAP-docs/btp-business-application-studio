@@ -25,9 +25,7 @@ The developers can access different services \(outside of SAP BTP\), from the de
 
 [SAP Cloud Connector](https://help.sap.com/viewer/cca91383641e40ffbe03bdc78f00f681/Cloud/en-US/e6c7616abb5710148cfcf3e75d96d596.html)
 
-[Manage Authorizations from CLI](https://help.sap.com/viewer/9d1db9835307451daa8c930fbd9ab264/Cloud/en-US/4168f836ff43446c8715de4800fef9ea.html)
+[Manage Authorizations from SAP BTP cockpit](https://help.sap.com/products/SAP%20Business%20Application%20Studio/9d1db9835307451daa8c930fbd9ab264/01e69c53003c4b0a8a64310a3f08867d.html)
 
-[Manage Authorizations from SAP BTP cockpit](https://help.sap.com/viewer/9d1db9835307451daa8c930fbd9ab264/Cloud/en-US/01e69c53003c4b0a8a64310a3f08867d.html)
-
-[Connecting to External Systems](Connecting_to_External_Systems_7e49887.md)
+[Connecting to External Systems](Connecting_to_External_Systems_7e49887.md "For applications that do not need to run on Cloud Foundry, establish a connection to an external system by creating one destination for multi-usage.")
 

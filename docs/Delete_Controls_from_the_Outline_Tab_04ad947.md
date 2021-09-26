@@ -18,7 +18,7 @@ You can remove controls from the *Outline* tab.
 **Related Information**  
 
 
-[Add Controls from the Outline Tab](Add_Controls_from_the_Outline_Tab_1cf5a5b.md)
+[Add Controls from the Outline Tab](Add_Controls_from_the_Outline_Tab_1cf5a5b.md "You can add controls to the canvas from the Outline tab.")
 
-[SAPUI5 Controls Supported in the Layout Editor](SAPUI5_Controls_Supported_in_the_Layout_Editor_c5d123e.md)
+[SAPUI5 Controls Supported in the Layout Editor](SAPUI5_Controls_Supported_in_the_Layout_Editor_c5d123e.md "Provides a list of SAPUI5 controls that are supported in the layout editor.")
 

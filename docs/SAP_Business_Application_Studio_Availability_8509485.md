@@ -78,6 +78,12 @@ eu10
 
 18.194.253.116
 
+3.65.235.145
+
+3.68.253.57
+
+18.193.62.167
+
 
 
 </td>
@@ -146,6 +152,12 @@ eu11
 
 3.65.47.134
 
+18.157.69.102
+
+3.126.1.137
+
+3.69.188.52
+
 
 
 </td>
@@ -180,6 +192,12 @@ eu12
 
 18.198.185.172
 
+18.158.167.239
+
+18.192.41.236
+
+3.68.62.167
+
 
 
 </td>
@@ -213,6 +231,12 @@ us10
 34.195.235.17
 
 35.171.105.85
+
+107.23.185.214
+
+18.235.6.188
+
+34.202.247.115
 
 
 
@@ -282,6 +306,12 @@ ap10
 
 3.24.68.98
 
+13.237.126.245
+
+54.66.136.70
+
+54.66.49.132
+
 
 
 </td>
@@ -315,6 +345,12 @@ ap11
 54.255.46.77
 
 54.255.68.69
+
+18.142.61.29
+
+3.1.255.127
+
+54.179.99.46
 
 
 
@@ -350,6 +386,12 @@ ap12
 
 52.78.62.199
 
+15.165.92.14
+
+3.37.142.13
+
+52.78.126.220
+
 
 
 </td>
@@ -383,6 +425,12 @@ ca10
 3.96.253.248
 
 99.79.177.154
+
+3.96.12.36
+
+3.98.118.119
+
+35.183.248.246
 
 
 
@@ -418,6 +466,12 @@ br10
 
 54.232.48.50
 
+54.207.137.216
+
+54.94.190.187
+
+54.94.95.72
+
 
 
 </td>
@@ -452,6 +506,12 @@ jp10
 
 54.64.113.216
 
+13.113.231.142
+
+35.76.193.116
+
+35.76.58.2
+
 
 
 </td>
@@ -478,24 +538,13 @@ eu20
 
 
 </td>
-<td rowspan="6">
+<td>
 
-> ### Note:  
-> SAP Business Application Studio doesn't currently support static IPs for Azure.
+51.105.219.227
 
-To determine the outbound IP address, perform the following steps:
+20.50.59.1
 
-1.  Open your dev space.
-2.  Open the terminal.
-
-    See the [Terminal](Terminal_c8b4ae9.md) topic for more information.
-
-3.  Enter the following command from the terminal:
-
-    ```
-    dig +short myip.opendns.com @resolver1.opendns.com
-    ```
-
+20.50.59.78
 
 
 
@@ -523,6 +572,17 @@ us20
 
 
 </td>
+<td>
+
+40.91.127.201
+
+20.57.129.173
+
+20.57.129.190
+
+
+
+</td>
 </tr>
 <tr>
 <td>
@@ -542,6 +602,17 @@ Azure
 <td>
 
 us21
+
+
+
+</td>
+<td>
+
+52.224.72.175
+
+20.62.163.90
+
+20.62.163.97
 
 
 
@@ -569,6 +640,51 @@ jp20
 
 
 </td>
+<td>
+
+20.44.164.134
+
+20.78.56.84
+
+20.78.56.93
+
+
+
+</td>
+</tr>
+<tr>
+<td>
+
+Australia \(Sydney\)
+
+
+
+</td>
+<td>
+
+Azure
+
+
+
+</td>
+<td>
+
+ap20
+
+
+
+</td>
+<td>
+
+20.193.34.40
+
+20.92.248.254
+
+20.92.249.110
+
+
+
+</td>
 </tr>
 <tr>
 <td>
@@ -588,6 +704,17 @@ Azure
 <td>
 
 ap21
+
+
+
+</td>
+<td>
+
+20.43.174.229
+
+20.198.241.28
+
+20.198.241.53
 
 
 
@@ -615,6 +742,17 @@ ap21-trial
 
 
 </td>
+<td>
+
+20.195.35.183
+
+20.195.27.211
+
+20.195.28.39
+
+
+
+</td>
 </tr>
 </table>
 
@@ -626,9 +764,15 @@ ap21-trial
 
 ## Inbound IP Address
 
-Use an SAP Business Application Studio inbound IP address when connecting from a system outside of SAP Business Application Studio to your dev spaces within SAP Business Application Studio.
+If your corporate network is protected by a corporate proxy or firewall, extend your allowlist to enable connections from the corporate network to your dev spaces in SAP Business Application Studio.
 
 For example, when connecting to a service on your corporate SAP system, which is located within your corporate network, you might need to maintain the SAP Business Application Studio connectivity service host in your firewall.
+
+Use the host listed in the Connectivity Service Host column of the table below, according to your region.
+
+The Cloud Connector should also be connected to this service host.
+
+If your network restriction also requires explicit IPs, use the IPs listed in the Inbound IP column of the table below, according to your region.
 
 
 <table>
@@ -1219,10 +1363,10 @@ https://connectivity.eu10cf.trial.applicationstudio.cloud.sap
 
 
 </td>
-<td rowspan="8">
+<td rowspan="3">
 
 > ### Note:  
-> SAP Business Application Studio doesn't currently support static inbound IPs for trial environments and Azure.
+> SAP Business Application Studio doesn't currently support static inbound IPs for trial environments.
 
 To determine the inbound IP address, perform the following steps:
 
@@ -1274,6 +1418,36 @@ https://connectivity.us10cf.trial.applicationstudio.cloud.sap
 <tr>
 <td>
 
+Singapore
+
+
+
+</td>
+<td>
+
+Azure
+
+
+
+</td>
+<td>
+
+ap21-trial
+
+
+
+</td>
+<td>
+
+https://connectivity.ap21cf.trial.applicationstudio.cloud.sap
+
+
+
+</td>
+</tr>
+<tr>
+<td>
+
 Europe \(Netherlands\)
 
 
@@ -1296,6 +1470,15 @@ eu20
 <td>
 
 https://connectivity.eu20.applicationstudio.cloud.sap
+
+
+
+</td>
+<td>
+
+20.76.191.246
+
+20.93.214.159
 
 
 
@@ -1330,6 +1513,15 @@ https://connectivity.us20.applicationstudio.cloud.sap
 
 
 </td>
+<td>
+
+20.109.144.108
+
+20.109.145.6
+
+
+
+</td>
 </tr>
 <tr>
 <td>
@@ -1356,6 +1548,15 @@ us21
 <td>
 
 https://connectivity.us21.applicationstudio.cloud.sap
+
+
+
+</td>
+<td>
+
+20.81.5.143
+
+20.81.5.181
 
 
 
@@ -1390,6 +1591,54 @@ https://connectivity.jp20.applicationstudio.cloud.sap
 
 
 </td>
+<td>
+
+20.89.185.253
+
+20.89.185.115
+
+
+
+</td>
+</tr>
+<tr>
+<td>
+
+Australia \(Sydney\)
+
+
+
+</td>
+<td>
+
+Azure
+
+
+
+</td>
+<td>
+
+ap20
+
+
+
+</td>
+<td>
+
+https://connectivity.ap20.applicationstudio.cloud.sap
+
+
+
+</td>
+<td>
+
+20.193.1.52
+
+20.193.0.203
+
+
+
+</td>
 </tr>
 <tr>
 <td>
@@ -1420,32 +1669,11 @@ https://connectivity.ap21.applicationstudio.cloud.sap
 
 
 </td>
-</tr>
-<tr>
 <td>
 
-Singapore
+20.198.213.162
 
-
-
-</td>
-<td>
-
-Azure
-
-
-
-</td>
-<td>
-
-ap21-trial
-
-
-
-</td>
-<td>
-
-https://connectivity.ap21cf.trial.applicationstudio.cloud.sap
+20.198.212.10
 
 
 

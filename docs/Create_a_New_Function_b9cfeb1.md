@@ -25,5 +25,5 @@ You can create a new function for a controller from the *Events* pane.
 **Related Information**  
 
 
-[2cdb30aa5299458da49e35ee43b6a001.md](2cdb30aa5299458da49e35ee43b6a001.md)
+
 

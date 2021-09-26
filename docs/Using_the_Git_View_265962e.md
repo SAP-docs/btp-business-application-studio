@@ -118,6 +118,7 @@ If you open a folder that is a Git repository and begin making changes, annotati
 -   A blue bar indicates modified lines.
 
 
--   **[Git Commands](Git_Commands_5914548.md)**  
+-   **[Git Commands](Git_Commands_5914548.md "SAP Business Application Studio supports Git
+		commands from the Git view and from the command palette.")**  
 SAP Business Application Studio supports Git commands from the Git view and from the command palette.
 

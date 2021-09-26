@@ -15,14 +15,15 @@ SAP Business Application Studio has the following dev space types:
 -   [SAP Mobile Application](SAP_Mobile_Application_95f86cc.md): The SAP Mobile Development Kit \(MDK\) lets you customize, deploy, and manage your customized iOS and Android apps in the cloud.
 -   **Basic**: Contains the SAP basic tools extension.
 
--   **[SAP Fiori](SAP_Fiori_354f00c.md)**  
+-   **[SAP Fiori](SAP_Fiori_354f00c.md "")**  
 
--   **[Full Stack Cloud Application](Full_Stack_Cloud_Application_de0af65.md)**  
+-   **[Full Stack Cloud Application](Full_Stack_Cloud_Application_de0af65.md "")**  
 
--   **[SAP HANA Native Application](SAP_HANA_Native_Application_7eae9c5.md)**  
+-   **[SAP HANA Native Application](SAP_HANA_Native_Application_7eae9c5.md "")**  
 
--   **[SAP Mobile Application](SAP_Mobile_Application_95f86cc.md)**  
+-   **[SAP Mobile Application](SAP_Mobile_Application_95f86cc.md "")**  
 
--   **[Additional Extensions](Additional_Extensions_7188fed.md)**  
+-   **[Additional Extensions](Additional_Extensions_7188fed.md "You can extend and enrich your development environment with tools and capabilities based
+		on your needs. ")**  
 You can extend and enrich your development environment with tools and capabilities based on your needs.
 

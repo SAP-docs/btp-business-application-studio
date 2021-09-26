@@ -12,5 +12,5 @@ You can create projects based on your development scenario and your installed ex
 **Related Information**  
 
 
-[Terminal](Terminal_c8b4ae9.md)
+[Terminal](Terminal_c8b4ae9.md "Opening the integrated terminal allows you to access the underlying system. The terminal is a convenient tool because you don't need to switch windows or change the state of an existing terminal to perform a quick command-line task.")
 

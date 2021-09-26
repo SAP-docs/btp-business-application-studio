@@ -28,10 +28,14 @@ The extension framework allows you to extend SAP Business Application Studio in 
         See [Create and Deploy an SAP Business Application Studio Extension](Create_and_Deploy_an_SAP_Business_Application_Studio_Extension_2064b4e.md).
 
 
--   **[Explore and Install VS Code Extensions](Explore_and_Install_VS_Code_Extensions_d83a580.md)**  
+-   **[Explore and Install VS Code Extensions](Explore_and_Install_VS_Code_Extensions_d83a580.md "You can install VS Code extensions from the Open VSX Registry to
+		get additional tools to support the development activities in your dev space.")**  
 You can install VS Code extensions from the *Open VSX Registry* to get additional tools to support the development activities in your dev space.
--   **[Explore and Install Generators](Explore_and_Install_Generators_7865b5e.md)**  
+-   **[Explore and Install Generators](Explore_and_Install_Generators_7865b5e.md "Use external open source generators to add the most suitable templates for your
+		wizards.")**  
 Use external open source generators to add the most suitable templates for your wizards.
--   **[Create and Deploy an SAP Business Application Studio Extension](Create_and_Deploy_an_SAP_Business_Application_Studio_Extension_2064b4e.md)**  
+-   **[Create and Deploy an SAP Business Application Studio Extension](Create_and_Deploy_an_SAP_Business_Application_Studio_Extension_2064b4e.md "Create an SAP Business Application Studio extension
+		that includes VS Code extensions and Yeoman generators and deploy it to your
+		subaccount.")**  
 Create an SAP Business Application Studio extension that includes VS Code extensions and Yeoman generators and deploy it to your subaccount.
 

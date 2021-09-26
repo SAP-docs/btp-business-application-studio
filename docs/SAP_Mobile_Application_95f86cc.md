@@ -20,7 +20,7 @@ The SAP Mobile Application scenario contains the following predefined extensions
 
     -   Java JDK V 8
 
-    -   Maven V 3.6.1
+    -   Maven V 3.8.1
 
     -   Tomcat V 9.0.33
 

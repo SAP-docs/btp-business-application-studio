@@ -22,11 +22,11 @@ We recommend using the SAP Business Application Studio documentation on SAP Help
 
 If you only make a small contribution, that's the quickest way to propose a change. For larger contributions, we recommend forking this repository to work locally. The filenames in the [docs](docs) directory are created based on the title of the page on SAP Help Portal.
 
-More information: [Contribution Guidelines](https://github.com/SAP-docs/contribution-guidelines/blob/main/docs/README.md)
+More information: [Contribution Guidelines](https://help.sap.com/products/open-documentation-initiative/contribution-guidelines/readme.html)
 
-In the context of content contribution, you need to sign a Developer's Certificate of Origin (DCO). During the submission process for your first pull request, the CLA Assistant helps you to get it done. Once signed, you don't need to sign it again for contributions to the same repository.
+## Code of Conduct
 
-More information: [The Contributor License Agreement Process](https://github.com/SAP-docs/contribution-guidelines/blob/main/docs/cla.md)
+Adhere to the [SAP Open Source Code of Conduct](https://github.com/SAP-docs/.github/blob/main/CODE_OF_CONDUCT.md) to ensure a welcoming and open culture for everyone involved in contributions to SAP documentation.
 
 ## Licensing
 

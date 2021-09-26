@@ -181,7 +181,7 @@ Allows you to develop, test, and run Java applications. Includes debugging capab
 
 -   SAP JVM 8
 
--   Maven V 3.6.1
+-   Maven V 3.8.1
 
 -   Tomcat V 9.0.33
 

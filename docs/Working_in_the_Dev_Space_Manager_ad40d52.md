@@ -39,7 +39,7 @@ When you restart your stopped dev space, all content in your dev space, includin
 You can also delete your dev space.
 
 > ### Note:  
-> By creating a dev space, you create a project and file system for yourself. If you delete your dev space, it can't be recovered. We recommend syncing, backing up, and saving your project to the Git Repository.
+> By creating a dev space, you create a project and file system for yourself. If you delete your dev space, it can't be recovered. We recommend syncing, backing up, and saving your project to a Git repository. See [Connect to Your Git Source Control System](Connect_to_Your_Git_Source_Control_System_e7a42bc.md).
 
 
 

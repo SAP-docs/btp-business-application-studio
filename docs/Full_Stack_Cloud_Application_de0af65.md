@@ -4,7 +4,7 @@
 
 Build business services and business applications and extend SAP S/4HANA using SAP Cloud Application Programming Model, SAP Fiori, and Java or Node.js.
 
-See [SAP Business Application Studio in Capire](https://cap.cloud.sap/docs/get-started/tools#bastudio).
+See [Developing a CAP Application in SAP Business Application Studio](https://help.sap.com/viewer/9c36fdb911ae4cadab467a314d9e331f/Cloud/en-US/8a648174036a458688391c3ad7ee7cd5.html).
 
 The Full Stack Cloud Application scenario contains the following predefined extensions:
 
@@ -22,7 +22,7 @@ The Full Stack Cloud Application scenario contains the following predefined exte
 
     -   SapMachine11
 
-    -   Maven V 3.6.1
+    -   Maven V 3.8.1
 
     -   Tomcat V 9.0.33
 
