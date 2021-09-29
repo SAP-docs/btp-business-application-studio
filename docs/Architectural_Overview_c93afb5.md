@@ -4,7 +4,7 @@
 
 ![](images/SAP_Business_Application_Studio_architecture_61aa867.png)
 
-SAP Business Application Studio is part of SAP BTP and the SAP Multi-cloud offering \(AWS, Azure, Alibaba…\).
+SAP Business Application Studio is part of SAP BTP and the SAP Multi-cloud offering \(AWS, Azure, Alibaba, etc.\).
 
 Developers \(end users\) use a web browser to access their own dev space, personal, restricted, and tailored. The dev space is a Developer Virtual Appliance which includes everything a developer requires: development environment, technology stacks, security and connectivity instruments, developed source code, and applications.
 
