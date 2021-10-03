@@ -14,7 +14,7 @@ The number of unsynced committed changes is displayed next to the repository nam
 
 ## Push
 
-1.  From the*SOURE CONTROL: GIT* view menu, click More Actions.
+1.  From the *SOURCE CONTROL: GIT* view menu, click More Actions.
 
     ![](images/Git_More_Actions_button_5a1fc7b.png)
 
@@ -30,3 +30,7 @@ The number of unsynced committed changes is displayed next to the repository nam
 2.  Select *Push to*. The command palette is displayed.
 3.  Select the target remote repository branch to which you want to push.
 
+### NOTE
+> Remember Always Pull Before a Push. This action will make sure that your local copy is synced with the remote repository.
+> Maybe other team members have been pushing to the remote repository. If you push before syncing up,
+> you could end up with some problems like HEADS annotations or MERGE CONFLICTS.
