@@ -10,6 +10,13 @@ The number of unsynced committed changes is displayed next to the repository nam
 
 
 
+> ### Note:  
+> It is recommended to [pull changes](https://help.sap.com/products/SAP%20Business%20Application%20Studio/9d1db9835307451daa8c930fbd9ab264/952f893d45d1478d85b52448a663383f.html?locale=en-US) before pushing changes. This action ensures that your local copy is synced with the remote repository.
+> 
+> If a team member pushed to the remote repository and you push changes before syncing, you may encounter some issues, including head annotations or merge conflicts.
+
+
+
 <a name="loioc1d35849220e417aa10d3d36d40b2f34__section_mw5_2zk_f4b"/>
 
 ## Push
