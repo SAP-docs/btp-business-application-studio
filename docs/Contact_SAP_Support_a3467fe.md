@@ -388,7 +388,7 @@ We suggest you report an incident or error through the SAP Support Portal.
         </td>
         <td>
 
-        Cloud Foundary Tools command palette - SAP Business Application Studio 
+        Cloud Foundry Tools command palette - SAP Business Application Studio 
 
 
         

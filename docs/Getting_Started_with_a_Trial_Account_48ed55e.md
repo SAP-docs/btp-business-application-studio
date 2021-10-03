@@ -4,7 +4,7 @@
 
 Set up your trial system to develop applications using SAP Business Application Studio.
 
-1.  Sign up for an SAP BTP trial acccount. See [Get a Free Trial Account](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/d61c2819034b48e68145c45c36acba6e.html#loio42e7e54590424e65969fced1acd47694).
+1.  Sign up for an SAP BTP trial account. See [Get a Free Trial Account](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/d61c2819034b48e68145c45c36acba6e.html#loio42e7e54590424e65969fced1acd47694).
 
     > ### Note:  
     > An SAP BTP trial account is free of charge. However, every trial user gets one trial account only.

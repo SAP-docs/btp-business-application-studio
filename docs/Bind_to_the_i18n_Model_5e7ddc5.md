@@ -15,7 +15,7 @@ You can bind a control property to the i18n model or create a new i18n entry.
 2.  In the *Properties* pane to the right of the canvas, do one of the following:
 
     -   To the right of the property to which you want to bind data, click the *Binding* ![](images/data_binding_button_852457c.jpg) button, and then in the dialog box that appears:
-        1.  From the drop down list, select *i18n*, double-click one or more entires that you want to add to the expression.
+        1.  From the drop down list, select *i18n*, double-click one or more entries that you want to add to the expression.
 
             The entries are automatically concatenated to the string in the *Expression* box.
 

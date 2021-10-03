@@ -9,5 +9,5 @@ Fetching enables you to download objects and references from a remote repository
     ![](images/Git_More_Actions_button_5a1fc7b.png)
 
 2.  Select *Fetch...*. The command palette is displayed.
-3.  From the list, select the remote Git repository from which you want to getch the changes.
+3.  From the list, select the remote Git repository from which you want to fetch the changes.
 

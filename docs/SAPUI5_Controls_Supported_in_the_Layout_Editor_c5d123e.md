@@ -3245,7 +3245,7 @@ sap.suite.ui.commons.HeaderCellItem
 </td>
 <td>
 
-Object that contains an instance of a control and infomation about its height. It should be used inside `sap.suite.ui.commons.HeaderCell`.
+Object that contains an instance of a control and information about its height. It should be used inside `sap.suite.ui.commons.HeaderCell`.
 
 
 
