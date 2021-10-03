@@ -8,7 +8,7 @@ You can bind a control property to a label annotation.
 
 ## Context
 
-You can bind a control property to a label annotation that resides in the Odata metadata file. Other annotation files are not supported.
+You can bind a control property to a label annotation that resides in the OData metadata file. Other annotation files are not supported.
 
 
 
