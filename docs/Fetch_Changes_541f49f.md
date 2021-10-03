@@ -4,7 +4,7 @@
 
 Fetching enables you to download objects and references from a remote repository into your local repository. You can then merge or rebase the changes into your project.
 
-1.  From the *SOURE CONTROL: GIT* view menu, click More Actions.
+1.  From the *SOURCE CONTROL: GIT* view menu, click More Actions.
 
     ![](images/Git_More_Actions_button_5a1fc7b.png)
 
