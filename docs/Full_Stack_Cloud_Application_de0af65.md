@@ -2,7 +2,7 @@
 
 # Full Stack Cloud Application
 
-Build business services and business applications and extend SAP S/4HANA using SAP Cloud Application Programming Model, SAP Fiori, and [Java](https://www.java.com/) or [Node.js](https://nodejs.org/).
+Build business services and business applications and extend SAP S/4HANA using SAP Cloud Application Programming Model, SAP Fiori, and Java or Node.js.
 
 See [Developing a CAP Application in SAP Business Application Studio](https://help.sap.com/viewer/9c36fdb911ae4cadab467a314d9e331f/Cloud/en-US/8a648174036a458688391c3ad7ee7cd5.html).
 

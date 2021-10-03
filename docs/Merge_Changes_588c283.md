@@ -16,5 +16,3 @@ To merge a branch into another:
 > ### Note:  
 > Merge operations can fail due to conflicts between the current branch and the branch you choose from which to incorporate the changes.
 
-
-

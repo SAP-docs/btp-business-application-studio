@@ -4,7 +4,7 @@
 
 Enables you to save your changes to the local repository. Sign-off is a line at the end of the commit message which certifies who is the author of the commit.
 
-1.  From the *SOURE CONTROL: GIT* view menu, click More Actions.
+1.  From the *SOURCE CONTROL: GIT* view menu, click More Actions.
 
     ![](images/Git_More_Actions_button_5a1fc7b.png)
 
