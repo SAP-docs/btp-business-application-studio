@@ -18,7 +18,7 @@ To merge a branch into another:
 
 ### Dealing with conflicts in Business Application Studio
 
-You can see all files that contains conflics to merge two branches in the console and in the explorer:
+You can see all files that contains conflics to merge in the console or/and in the explorer:
 
 - Conflict in the console (you will see a list of files with conflicts)
 
@@ -32,7 +32,7 @@ When you access a file with conflicts with a conflict you can see the conflicts 
 
    ![](images/Merge_conflict_resolution_588c283.PNG)
 
-You can choose from the following options:
+- You can choose from the following options:
 
 1.  **Accept Current Change**: Apply only the changes from the current branch
 2.  **Accept Incoming Change**: Apply only the changes from the target branch
