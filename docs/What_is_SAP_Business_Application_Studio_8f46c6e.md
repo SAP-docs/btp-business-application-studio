@@ -22,7 +22,7 @@ In the [Dev Space Types](Dev_Space_Types_4142f78.md) section, you can learn abou
 
 ## Capabilities
 
-In SAP Business Application Studio, you are provided with one or more dev spaces. A dev space is a development environment with all of the tools, capabilities, and resources needed for developing your application. Each type of application requires a different development environment. Based on the type of application that you choose to build, you're provided with a different set of tools. You can add additional tools to supplement the application with additional extensions for the scenario.
+In SAP Business Application Studio, you are provided with one or more dev spaces. A dev space is a development environment with all the tools, capabilities, and resources needed for developing your application. Each type of application requires a different development environment. Based on the type of application that you choose to build, you're provided with a different set of tools. You can add additional tools to supplement the application with additional extensions for the scenario.
 
 The dev space is an isolated development environment providing a local-like development experience. Among other tools, it provides terminal access to the file system so you can run various commands, you can test-run your application in the dev space itself without deploying to the target runtime \(Cloud Foundry\), almost as if you were working on your own desktop.
 
