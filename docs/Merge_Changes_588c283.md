@@ -32,7 +32,7 @@ When you access a file with conflicts with a conflict you can see the conflicts 
 
    ![](images/Merge_conflict_resolution_588c283.PNG)
 
-- You can choose from the following options:
+You can choose from the following options:
 
 1.  **Accept Current Change**: Apply only the changes from the current branch
 2.  **Accept Incoming Change**: Apply only the changes from the target branch
