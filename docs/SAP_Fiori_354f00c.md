@@ -82,5 +82,5 @@ See the following topics for more information:
 -   [Developing an SAP Fiori Application Based on an ABAP Cloud System Service](https://help.sap.com/viewer/584e0bcbfd4a4aff91c815cefa0bce2d/Cloud/en-US/21b20cde952e4016a078ddfb9190a1ec.html)
 -   [Developing an SAP Fiori Application Based on an SAP S/4HANA System](https://help.sap.com/viewer/584e0bcbfd4a4aff91c815cefa0bce2d/Cloud/en-US/22f3401b2e464344943f2a6abf05d092.html)
 -   [Developing an SAP Fiori Application for a CAP Project](https://help.sap.com/viewer/584e0bcbfd4a4aff91c815cefa0bce2d/Cloud/en-US/d12a1c8b6b71495c8e8a268974d8364b.html)
--   [SAP Cloud Portal service](https://help.sap.com/viewer/product/Portal_Service/1.0/en-UShttps://help.sap.com/viewer/product/Portal_Service/1.0/en-US)
+-   [SAP Cloud Portal service](https://help.sap.com/viewer/product/Portal_Service/1.0/en-US)
 
