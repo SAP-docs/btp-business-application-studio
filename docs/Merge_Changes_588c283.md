@@ -20,11 +20,11 @@ To merge a branch into another:
 
 You can see all files that contains conflics to merge two branches in the console and in the explorer:
 
-Conflict in the console (you will see a list of files with conflicts)
+- Conflict in the console (you will see a list of files with conflicts)
 
    ![](images/merge_conflict_in_console_588c283.PNG)
 
-Conflict in the explorer (you will see "!" in the files with conflicts)
+- Conflict in the explorer (you will see "!" in the files with conflicts)
 
    ![](images/Merge_conflict_in_explorer_588c283.PNG)
 
