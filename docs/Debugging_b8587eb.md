@@ -66,3 +66,13 @@ You can also use the BREAKPOINTS section.
 -   Click ![](images/deactivate_breakpoint_4afda37.png) to deactivate a breakpoint.
 -   Click ![](images/remove_breakpoints_2629bdf.png) to remove all breakpoints.
 
+## Debug Console
+
+Expressions can be evaluated with the Debug Console feature. 
+
+To open the Debug Console, use the command popup and search for 'Toggle Debug Console View' ([Ctrl\]+[Shift\]+[Y\]) (windows).
+
+Expressions are evaluated after you press [Enter\] and for evaluating multiple lines at the same time, use [Shift\]+[Enter\] (windows).
+
+> ### Note:  
+> You must be in the debugging mode in order to use this functionality.
