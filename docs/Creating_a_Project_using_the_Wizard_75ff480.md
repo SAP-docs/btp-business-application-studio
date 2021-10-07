@@ -11,7 +11,8 @@ You can create projects based on your development scenario and your installed ex
     -   Enter ***Create Project*** in the command palette and select *SAP Business Application Studio : Create Project from Template*.
     The Project Wizard opens showing the project templates that are relevant for the dev space you created and for the additional extensions you selected.
 
-2.  Follow the wizard steps and provide the required information. You can move between steps using the *Previous* and *Next* buttons or clicking the steps from the wizard tree.
+2. Choose between Adoptation Project if you want to extend existing application, SAP Fiori Application if you want to create SAP UI5 Application using Fiori Elements or a freestyle  approach or you can choose Basic Multitarget Application for developing MTA. 
+3.  Follow the wizard steps and provide the required information. You can move between steps using the *Previous* and *Next* buttons or clicking the steps from the wizard tree.
 
     The wizard displays error notifications on the field level as well as on the step level.
 
