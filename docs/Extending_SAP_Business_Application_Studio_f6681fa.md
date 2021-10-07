@@ -5,7 +5,7 @@
 Enrich the IDE with additional features and capabilities to make your development more efficient.
 
 > ### Note:  
-> This feature is not available in the China \(Shangai\) region.
+> This feature is not available in the China \(Shanghai\) region.
 
 The SAP Business Application Studio extension framework allows you to add new project and module templates to ease project creation. You can enrich the IDE with tools that will help you develop faster and more efficiently, such as code assist, static code analysis, and code formatting. Likewise, you can integrate your IDE with external services and systems.
 
