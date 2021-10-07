@@ -31,7 +31,7 @@ It is important to work with your project under the root or in multi-root mode a
 
 ## Workspace Per Project
 
-We recommend you work in an environment were each project resides in a single workspace.
+We recommend you work in an environment where each project resides in a single workspace.
 
 In this case, the project is the root in the file explorer.
 
