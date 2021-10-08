@@ -28,7 +28,7 @@ You can install VS Code extensions from the *Open VSX Registry* to get additiona
     -   Search box - Explore the extensions in the [Open VSX Registry](https://open-vsx.org/). You can see the relevant extensions together with their short descriptions. Double-clicking on an extension opens the extension page with the full details. To clear the search results, click ![](images/Clear_Search_Box_fe627f0.png).
 
     -   *Installed* - Shows the list of additional extensions you have installed in your dev space. You can uninstall extensions from here.
-    -   *Built-In* -Shows the list of extensions that are included in your dev space out-of-the-box.
+    -   *Built-In* - Shows the list of extensions that are included in your dev space out-of-the-box.
 3.  Use the Search box to find the extension you want, and click *Install*.
 
 **To uninstall an extension:**
