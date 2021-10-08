@@ -16,7 +16,7 @@ You can generate a dev space to create and manage applications. You can select t
 2.  Click *Create Dev Space*.
 3.  Enter a name for the dev space.
 4.  Select the relevant application type.
-5.  \(Optional\) Select the relevant additional extensions to enhance your space.
+5.  \(Optional\) Select the relevant additional extensions to enhance your space. \(Don't worry, you can add extensions to your dev space later, see below.\)
 6.  Click *Create Dev Space*.
 
     > ### Note:  
