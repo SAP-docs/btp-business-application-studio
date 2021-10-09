@@ -16,7 +16,7 @@ The most important, is the *Explorer* view that displays the contents of your cu
 
 ## CAP DATA MODELS AND SERVICES
 
-When working in a Full Stack Cloud Application dev space, you can use the *CAP DATA MODELS AND SERVICES* section to see a simplified structure of the project. It displays a hierarchical view of the main source units: UI, services, data modules, and external data modules.
+When working in a Full Stack Cloud Application dev space, you can use the *CAP DATA MODELS AND SERVICES* section to see a simplified structure of the project. It displays a hierarchical view of the main source units: UI, services, data models, and external data models.
 
 ![](images/CAP_Project_Explorer_68898fc.png)
 
