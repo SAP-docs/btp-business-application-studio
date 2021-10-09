@@ -12,7 +12,7 @@ You can create a project from scratch using the project wizard, you can clone a 
 You can create projects based on your development scenario and your installed extensions using predefined templates.
 -   **[Creating a Project from the Terminal](Creating_a_Project_from_the_Terminal_c29e1a3.md "You can create projects based on your development scenario and your installed
 		extensions using the terminal.")**  
-You can create projects based on your development scenario and your installed extensions using the terminal.
+You can create projects based on your development scenario with your extensions installed using the terminal.
 -   **[Cloning Repositories](Cloning_Repositories_7a68bfa.md "Add an existing project to your local workpace by cloning its repository from
 		Git.")**  
 Add an existing project to your local workpace by cloning its repository from Git.
