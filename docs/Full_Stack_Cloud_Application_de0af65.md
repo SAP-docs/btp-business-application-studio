@@ -12,7 +12,7 @@ The Full Stack Cloud Application scenario contains the following predefined exte
 
     Allows you to develop applications based on CDS using the CDS command line and tools.
 
-    Includes enhanced code editors and database management capabilities. The following tool is installed as part of the extension:
+    This extension includes enhanced code editors and database management capabilities. The following tool is installed as part of the extension:
 
     -   CDS Command Line Tools v1.4.3
 
