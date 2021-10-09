@@ -20,7 +20,7 @@ The Full Stack Cloud Application scenario contains the following predefined exte
 
     Allows you to develop, test, and run Java applications. Includes debugging capabilities and enhanced code editors. The following tools are installed as part of the extension:
 
-    -   SapMachine11
+    -   SapMachine 11
 
     -   Maven V 3.8.1
 
