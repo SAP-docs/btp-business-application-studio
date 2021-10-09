@@ -176,7 +176,7 @@ In addition to the `launch.json` file that is created as part of the new configu
 
     For example, `/home/user/.tomcat/bookshop-srv-1/conf/Catalina/localhost`
 
--   `server.xml` \(`user/.tomcat/<configuration_name>/conf`\)
+    -   `server.xml` \(`user/.tomcat/<configuration_name>/conf`\)
 
     For example, `/home/user/.tomcat/bookshop-srv-1/conf`
 
