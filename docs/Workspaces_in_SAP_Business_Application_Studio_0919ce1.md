@@ -57,7 +57,7 @@ You can choose to have multiple projects residing in a multi-root workspace. In 
 
 There is a `.vscode` folder for each project, and the developer can view more than one project at a time in the workspace.
 
-In multi-root you can save the settings, launch and task configuration per workspace so that they affect all projects within it.
+In multi-root environment you can save the settings, launch and task configuration per workspace so that they affect all projects within it.
 
 
 
