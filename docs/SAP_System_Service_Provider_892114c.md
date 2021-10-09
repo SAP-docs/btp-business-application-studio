@@ -89,7 +89,7 @@ Login occurs automatically, using the SAP Business Application Studio user crede
 You can add a new system to your SAP Business Application Studio subaccount:
 
 > ### Note:  
-> If you're using a nontrial account, make sure that you have the *Business\_Application\_Studio\_Administrator*[Manage Authorizations](https://help.sap.com/viewer/9d1db9835307451daa8c930fbd9ab264/Cloud/en-US/01e69c53003c4b0a8a64310a3f08867d.html).
+> If you're using a non-trial account, make sure that you have the *Business\_Application\_Studio\_Administrator* [Manage Authorizations](https://help.sap.com/viewer/9d1db9835307451daa8c930fbd9ab264/Cloud/en-US/01e69c53003c4b0a8a64310a3f08867d.html).
 
 1.  Hover over the subaccount and click ![](images/Add_system-_service_center-_plus_icon_3701d6b.jpg) \(Add system\).
 
