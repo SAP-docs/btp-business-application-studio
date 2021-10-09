@@ -9,7 +9,7 @@ You can create a project from scratch using the project wizard, you can clone a 
 
 -   **[Creating a Project using the Wizard](Creating_a_Project_using_the_Wizard_75ff480.md "You can create projects based on your development scenario and your installed extensions
 		using predefined templates.")**  
-You can create projects based on your development scenario and your installed extensions using predefined templates.
+You can create projects based on your development scenario with your extensions installed using predefined templates.
 -   **[Creating a Project from the Terminal](Creating_a_Project_from_the_Terminal_c29e1a3.md "You can create projects based on your development scenario and your installed
 		extensions using the terminal.")**  
 You can create projects based on your development scenario and your installed extensions using the terminal.
