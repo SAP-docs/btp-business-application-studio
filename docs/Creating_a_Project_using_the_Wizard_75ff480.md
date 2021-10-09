@@ -2,7 +2,7 @@
 
 # Creating a Project using the Wizard
 
-You can create projects based on your development scenario and your installed extensions using predefined templates.
+You can create projects based on your development scenario with your extensions installed using predefined templates.
 
 1.  Open the wizard in one of the following ways:
 
