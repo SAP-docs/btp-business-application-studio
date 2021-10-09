@@ -20,7 +20,7 @@ It is important to work with your project under the root or in multi-root mode a
 
 -   The `.vscode` folder can be part of the source control, so run configurations, tasks, and settings can be saved to Git and be managed per project.
 
--   Deletion of the project will delete all of its resources \(tasks, launch, settings\) and not only those under the project folder.
+-   Deletion of the project will delete all of its resources \(tasks, launch settings\) and not only those under the project folder.
 
 -   Third-party extensions may not work properly if the workspace is not set up as multi-root or only a project per workspace.
 
