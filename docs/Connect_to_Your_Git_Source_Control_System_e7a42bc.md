@@ -17,5 +17,5 @@ Your account may be connected to both a public and a corporate repository.
 As an administrator, you can work with on premise Git repositories once an appropriate destination has been created in your subaccount.
 -   **[Connecting to a Public Git Repository](Connecting_to_a_Public_Git_Repository_a47db8b.md "Using SAP Business Application Studio, can connect
 		to all public git services, such as GitHub, GitLab, and Gitbucket.")**  
-Using SAP Business Application Studio, can connect to all public git services, such as GitHub, GitLab, and Gitbucket.
+Using SAP Business Application Studio, you can connect to all public git services, such as GitHub, GitLab, and Gitbucket.
 
