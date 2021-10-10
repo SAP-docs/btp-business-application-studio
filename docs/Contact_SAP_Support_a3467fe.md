@@ -424,7 +424,7 @@ We suggest you report an incident or error through the SAP Support Portal.
     </td>
     <td>
 
-    Login, roles, authentication, authorizations- SAP Business Application Studio 
+    Login, roles, authentication, authorizations - SAP Business Application Studio 
 
 
     
@@ -440,7 +440,7 @@ We suggest you report an incident or error through the SAP Support Portal.
     </td>
     <td>
 
-    Extension management- SAP Business Application Studio 
+    Extension management - SAP Business Application Studio 
 
 
     
