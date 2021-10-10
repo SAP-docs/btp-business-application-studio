@@ -97,7 +97,7 @@ We suggest you report an incident or error through the SAP Support Portal.
     <tr>
     <td>
 
-    CA-BAS- BLD-MTA
+    CA-BAS-BLD-MTA
 
 
     
@@ -129,7 +129,7 @@ We suggest you report an incident or error through the SAP Support Portal.
     <tr>
     <td>
 
-    CA-BAS- DPL-MTA
+    CA-BAS-DPL-MTA
 
 
     
@@ -200,7 +200,7 @@ We suggest you report an incident or error through the SAP Support Portal.
     </td>
     <td>
 
-    SAP Fiori project template- SAP Business Application Studio
+    SAP Fiori project template - SAP Business Application Studio
 
 
     
@@ -209,14 +209,14 @@ We suggest you report an incident or error through the SAP Support Portal.
     <tr>
     <td>
 
-    CA-BAS- TPL-MTA
+    CA-BAS-TPL-MTA
 
 
     
     </td>
     <td>
 
-    MTA templates -SAP Business Application Studio 
+    MTA templates - SAP Business Application Studio 
 
 
     
@@ -232,7 +232,7 @@ We suggest you report an incident or error through the SAP Support Portal.
     </td>
     <td>
 
-    Dev space Manager- SAP Business Application Studio
+    Dev space Manager - SAP Business Application Studio
 
 
     
@@ -248,7 +248,7 @@ We suggest you report an incident or error through the SAP Support Portal.
     </td>
     <td>
 
-    Dev Space Controller- SAP Business Application Studio 
+    Dev Space Controller - SAP Business Application Studio 
 
 
     
@@ -424,7 +424,7 @@ We suggest you report an incident or error through the SAP Support Portal.
     </td>
     <td>
 
-    Login, roles, authentication, authorizations- SAP Business Application Studio 
+    Login, roles, authentication, authorizations - SAP Business Application Studio 
 
 
     
@@ -440,7 +440,7 @@ We suggest you report an incident or error through the SAP Support Portal.
     </td>
     <td>
 
-    Extension management- SAP Business Application Studio 
+    Extension management - SAP Business Application Studio 
 
 
     
