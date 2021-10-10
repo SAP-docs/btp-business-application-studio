@@ -2,7 +2,7 @@
 
 # Connecting to a Corporate Git Repository
 
-As an administrator, you can work with on premise Git repositories once an appropriate destination has been created in your subaccount.
+As an administrator, you can work with on-premise Git repositories, once an appropriate destination has been created in your subaccount.
 
 
 
