@@ -397,7 +397,7 @@ Role: \{developer/admin\}
 
 Changes field:
 
-Name: workspace \{name\} Tenant \{name\} old:created, new :deleted
+Name: workspace \{name\} Tenant \{name\} old:created, new:deleted
 
 
 
