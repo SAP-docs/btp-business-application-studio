@@ -344,7 +344,7 @@ We suggest you report an incident or error through the SAP Support Portal.
     </td>
     <td>
 
-    Basic Tools\(npm,GIT\) - SAP Business Application Studio 
+    Basic Tools \(npm, GIT\) - SAP Business Application Studio 
 
 
     
