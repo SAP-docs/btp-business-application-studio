@@ -72,7 +72,7 @@ The SAP Fiori scenario contains the following predefined extensions:
 
 -   **UI5 Freestyle Templates**
 
-    Allows you to create an SAP Fiori worklist and master details applications, using the Yeoman generator.
+    Allows you to create an SAP Fiori worklist and master-detail applications, using the Yeoman generator.
 
 
 See the following topics for more information:
