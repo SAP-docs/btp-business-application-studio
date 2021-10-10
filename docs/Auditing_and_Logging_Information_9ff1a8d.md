@@ -502,7 +502,7 @@ AccessedData: \[\{targetUrl\}\]
 
 The following information is described in the table columns:
 
--   *Event grouping* - Events that are logged with a similar format or are related to the same entities.
+-   *Event grouping* - Events that are logged with a similar format (or) are related to the same entities.
 
 -   *What events are logged* - Description of the security or data protection and privacy related event that is logged.
 
