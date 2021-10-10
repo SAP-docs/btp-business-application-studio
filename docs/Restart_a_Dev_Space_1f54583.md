@@ -12,7 +12,7 @@ To change the state of a dev space to *Running* perform the following steps:
 
 2.  Enter your administrator credentials in the login page.
 3.  From the list provided, identify the dev space you want to wake up \(for example by searching for the username property\).
-4.  Copy the `id` property under the `config` section . This ID is the `<ws-id>` parameter used in the request below.
+4.  Copy the `id` property under the `config` section. This ID is the `<ws-id>` parameter used in the request below.
 5.  Copy the `displayname` property under the `labels` section . This display name is the `<display-name>` parameter used in the request below.
 6.  Open a new tab in the browser and fetch your JWT token by sending the following request:
 
