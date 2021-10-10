@@ -24,7 +24,7 @@ The changes are fetched from the specific branch and merged into your local chec
 
 ## Pull From
 
-This feature has the same functionality as Pull, but in this case, when you select the action the command palette is displayed and you can define the repository from which you want to pull the changes.
+This feature has the same functionality as Pull, but in this case, when you select the action, the command palette is displayed and you can define the repository from which you want to pull the changes.
 
 1.  From the *SOURCE CONTROL: GIT* menu, click More Actions.
 2.  Select *Pull from*. The command palette is displayed.
