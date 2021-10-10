@@ -229,7 +229,7 @@ If you define a custom identity provider for your subaccount, be sure to configu
 
 **OPTIONAL: Create spaces.**
 
-RElevant for developers who want to work in Cloud Foundry runtime.
+Relevant for developers who want to work in Cloud Foundry runtime.
 
 
 
