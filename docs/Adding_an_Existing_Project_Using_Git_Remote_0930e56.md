@@ -33,7 +33,7 @@ You can use the terminal to add an existing project to your Git Remote so that y
 
 6.  Create a new `main` branch.
 
-    > ### Note:  
+    > ## Note:  
     > The name of the branch was changed from `master` to `main`.
 
     ```
