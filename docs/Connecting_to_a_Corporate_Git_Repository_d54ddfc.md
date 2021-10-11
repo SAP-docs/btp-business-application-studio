@@ -13,7 +13,7 @@ As an administrator, you can work with on-premise Git repositories, once an appr
 SAP Business Application Studio supports basic authentication, which means you must provide your username and password to access your Git provider.
 
 > ### Note:  
-> SSH is not available for on premise Git installations.
+> SSH is not available for on-premise Git installations.
 
 To work with the Git view in SAP Business Application Studio, you need to store or cache credentials. Once you have enabled one of these methods, you will not have to enter your credentials every time you use Git.
 
