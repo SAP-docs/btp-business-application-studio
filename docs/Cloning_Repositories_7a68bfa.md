@@ -18,3 +18,12 @@ Add an existing project to your local workpace by cloning its repository from Gi
     > ```
 
 
+Alternatively, use the command palette for cloning the Git repository.
+
+1. Search for 'GIT: Clone'.
+
+2. Paste the URL in the input box.
+
+3. Select the folder to clone the repository location from the popup.
+
+4. Enter the credentials in the input box, if prompted.
