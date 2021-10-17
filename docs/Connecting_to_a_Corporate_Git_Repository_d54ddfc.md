@@ -295,7 +295,7 @@ Make sure to use the exact same host and port as defined in the destination URL 
         </tr>
         </table>
         
-        ![](images/Create_destination_for_Git_328ecee.png)
+        ![Additional properties in Git destination creation](images/Create_destination_for_Git_328ecee.png)
 
 
 
