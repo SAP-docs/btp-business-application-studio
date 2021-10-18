@@ -1,0 +1,45 @@
+name: Pull Request Check
+
+# What the execution context is:
+# The creation of a pull request. Can also be triggered manually.
+
+# What it does:
+# Performs Markdown linting on the content of the pull request.
+
+# Why we need it:
+# To maintain a level of consistency in the markup content.
+
+# What's important to know:
+# As well as the rules defined in the configuration, a custom
+# rule is also employed to check title case.
+
+on:
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  markdownlint:
+    if: contains(github.repositoryUrl, 'github.com')
+    runs-on: ubuntu-20.04
+    steps:
+
+    - id: checkout_repo
+      name: Check out the repository content
+      uses: actions/checkout@v2
+
+    - id: run_lint
+      name: Run markdown linter
+      uses: Shegox/automation-actions/markdownlint@main
+  markdown-link-check:
+    if: contains(github.repositoryUrl, 'github.com')
+    runs-on: ubuntu-20.04
+    steps:
+
+    - id: checkout_repo
+      name: Check out the repository content
+      uses: actions/checkout@v2
+
+    - id: run_lint
+      name: Run markdown linter
+      uses: Shegox/automation-actions/markdown-link-check@main
