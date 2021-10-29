@@ -27,14 +27,14 @@ You can access on-premise SAP ABAP systems using a built-in Web Proxy. Your dev 
 
     <table>
     <tr>
-    <th>
+    <th valign="top">
 
     Property
 
 
     
     </th>
-    <th>
+    <th valign="top">
 
     Value
 
@@ -43,14 +43,14 @@ You can access on-premise SAP ABAP systems using a built-in Web Proxy. Your dev 
     </th>
     </tr>
     <tr>
-    <td>
+    <td valign="top">
 
     `WebIDEEnabled`
 
 
     
     </td>
-    <td>
+    <td valign="top">
 
     `true`
 
@@ -59,14 +59,14 @@ You can access on-premise SAP ABAP systems using a built-in Web Proxy. Your dev 
     </td>
     </tr>
     <tr>
-    <td>
+    <td valign="top">
 
     `HTML5.DynamicDestination`
 
 
     
     </td>
-    <td>
+    <td valign="top">
 
     `true`
 
@@ -81,14 +81,14 @@ You can access on-premise SAP ABAP systems using a built-in Web Proxy. Your dev 
 
     <table>
     <tr>
-    <th>
+    <th valign="top">
 
     Destination Type
 
 
     
     </th>
-    <th>
+    <th valign="top">
 
     Properties
 
@@ -97,14 +97,14 @@ You can access on-premise SAP ABAP systems using a built-in Web Proxy. Your dev 
     </th>
     </tr>
     <tr>
-    <td>
+    <td valign="top">
 
     **Service Catalog**
 
 
     
     </td>
-    <td>
+    <td valign="top">
 
     *WebIDEUsage* includes `odata_abap` and `dev_abap` \(to deploy\).
 
@@ -115,14 +115,14 @@ You can access on-premise SAP ABAP systems using a built-in Web Proxy. Your dev 
     </td>
     </tr>
     <tr>
-    <td>
+    <td valign="top">
 
     **Service URL**
 
 
     
     </td>
-    <td>
+    <td valign="top">
 
     *WebIDEUsage* includes `odata_gen`. You can use the full URL option or not.
 
@@ -133,14 +133,14 @@ You can access on-premise SAP ABAP systems using a built-in Web Proxy. Your dev 
     </td>
     </tr>
     <tr>
-    <td>
+    <td valign="top">
 
     **SAP API Business Hub**
 
 
     
     </td>
-    <td>
+    <td valign="top">
 
     *WebIDEUsage* includes `apihub_catalog` and `api_sandbox`.
 
@@ -159,6 +159,7 @@ You can access on-premise SAP ABAP systems using a built-in Web Proxy. Your dev 
         If you don't have any Cloud Connector to use, you can set up a Cloud Connector on your local machine/VM by following [this tutorial](https://developers.sap.com/tutorials/cp-connectivity-install-cloud-connector.html).
 
     2.  Add a new property with *WebIDEEnabled* as the name and *true* as the value.
+
 
 6.  Choose *Save*.
 

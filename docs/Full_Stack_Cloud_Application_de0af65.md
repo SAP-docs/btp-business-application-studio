@@ -16,6 +16,7 @@ The Full Stack Cloud Application scenario contains the following predefined exte
 
     -   CDS Command Line Tools v1.4.3
 
+
 -   **Java Tools**
 
     Allows you to develop, test, and run Java applications. Includes debugging capabilities and enhanced code editors. The following tools are installed as part of the extension:
@@ -25,6 +26,7 @@ The Full Stack Cloud Application scenario contains the following predefined exte
     -   Maven V 3.8.1
 
     -   Tomcat V 9.0.33
+
 
     See [Language support for Java ™ for Visual Studio Code](https://github.com/redhat-developer/vscode-java), [Debugger for Java](https://github.com/Microsoft/vscode-java-debug), [Spring Boot tools](https://github.com/spring-projects/sts4), [Java Test Runner](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-test), and [Project Manager for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-dependency).
 
@@ -43,6 +45,7 @@ The Full Stack Cloud Application scenario contains the following predefined exte
 
     -   MTA module runner \(VS Code extension\)
 
+
     See [MTA Tools](https://help.sap.com/viewer/209802f55bfd47fcaccecf1241df99f8/Cloud/en-US).
 
 -   **SAP Fiori Tools**
@@ -59,6 +62,7 @@ The Full Stack Cloud Application scenario contains the following predefined exte
 
     -   XML Annotation Language Server
 
+
     See [SAP Fiori Tools](https://help.sap.com/viewer/product/SAP_FIORI_tools/Latest/en-US).
 
 -   **SAP Fiori Freestyle Tools**
@@ -70,5 +74,6 @@ The Full Stack Cloud Application scenario contains the following predefined exte
     -   Grunt CLI
 
     -   abap-deploy CLI
+
 
 
