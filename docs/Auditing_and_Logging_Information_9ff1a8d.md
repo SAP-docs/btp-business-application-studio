@@ -9,21 +9,21 @@ Here you can find a list of the security events that are logged by SAP Business 
 
 <table>
 <tr>
-<th>
+<th valign="top">
 
 Event grouping
 
 
 
 </th>
-<th>
+<th valign="top">
 
 What events are logged
 
 
 
 </th>
-<th>
+<th valign="top">
 
 How to identify related log events
 
@@ -32,21 +32,21 @@ How to identify related log events
 </th>
 </tr>
 <tr>
-<td rowspan="2">
+<td valign="top" rowspan="2">
 
 BAS GW
 
 
 
 </td>
-<td>
+<td valign="top">
 
 BAS GW - Invalid scope
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Attempting to log in to BAS GW with an Invalid scope
 
@@ -57,14 +57,14 @@ Attempting to log in to BAS GW with an Invalid scope
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 BAS GW - Expired JWT
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Attempting to log in to BAS GW with an expired JWT
 
@@ -75,14 +75,14 @@ Attempting to log in to BAS GW with an expired JWT
 </td>
 </tr>
 <tr>
-<td rowspan="15">
+<td valign="top" rowspan="15">
 
 Dev Space
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Dev space - Invalid JWT
 
@@ -91,7 +91,7 @@ Dev space - Invalid JWT
 
 
 </td>
-<td>
+<td valign="top">
 
 Attempting to log in to DevSpace router with an Invalid JWT
 
@@ -100,14 +100,14 @@ Attempting to log in to DevSpace router with an Invalid JWT
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Dev space - Invalid scope
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Attempting to log in to DevSpace router with an Invalid scope.
 
@@ -118,14 +118,14 @@ Attempting to log in to DevSpace router with an Invalid scope.
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Dev space - Expired JWT
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Attempting to log in to DevSpace router with expired JWT
 
@@ -134,14 +134,14 @@ Attempting to log in to DevSpace router with expired JWT
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Access to dev space by the administrator
 
 
 
 </td>
-<td>
+<td valign="top">
 
 User: \{userEmail\}
 
@@ -160,14 +160,14 @@ AccessedData: \[\{targetUrl\}\]
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Access dev space with no dev permissions
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Workspace owner is attempting to access DevSpace router without developer permissions \{JWT details - user, tenant, scope, ...\)
 
@@ -176,14 +176,14 @@ Workspace owner is attempting to access DevSpace router without developer permis
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Access dev space with no admin permissions
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Attempting to access admin API through DevSpace router without admin permissions.
 
@@ -194,14 +194,14 @@ Attempting to access admin API through DevSpace router without admin permissions
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Access dev space with a user that is not an owner or an admin.
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Attempting to login to DevSpace router with user who is not owner of the workspace and not admin
 
@@ -212,14 +212,14 @@ Attempting to login to DevSpace router with user who is not owner of the workspa
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Access dev space with a user that is not an owner
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Attempting to login to DevSpace router with user who is not owner of the workspace
 
@@ -230,14 +230,14 @@ Attempting to login to DevSpace router with user who is not owner of the workspa
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Access to user dev space by admin with JWT
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Access to DevSpace router by admin with jwt authentication
 
@@ -248,14 +248,14 @@ Access to DevSpace router by admin with jwt authentication
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Access to dev space by admin with cookie authentication
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Access to DevSpace router by admin with session cookie authentication
 
@@ -266,14 +266,14 @@ Access to DevSpace router by admin with session cookie authentication
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Dev space - Invalid client ID in JWT
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Attempting to login to DevSpace router with wrong client id provided by jwt. jwt client id: \{jwtClientID\}
 
@@ -284,14 +284,14 @@ Attempting to login to DevSpace router with wrong client id provided by jwt. jwt
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Dev space - Invalid tenant ID in JWT
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Attempting to login to DevSpace router with wrong tenant id provided by jwt.
 
@@ -302,14 +302,14 @@ Attempting to login to DevSpace router with wrong tenant id provided by jwt.
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Dev space - Invalid IdP issuer in JWT
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Attempting to login to DevSpace router with wrong idp issuer provided by jwt. jwt idp issuer: \{idPOriginIssuer\}
 
@@ -320,14 +320,14 @@ Attempting to login to DevSpace router with wrong idp issuer provided by jwt. jw
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Access to dev space admin API
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Access to DevSpace router admin API. Target URL is: \{targetUrl\}
 
@@ -338,14 +338,14 @@ Access to DevSpace router admin API. Target URL is: \{targetUrl\}
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Malware detection in dev space
 
 
 
 </td>
-<td>
+<td valign="top">
 
 The devspace is infected with malware.
 
@@ -354,21 +354,21 @@ The devspace is infected with malware.
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Extension Deployer
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Simple Extension Deployer - Invalid scope
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Attempting to log in to Simple Extension Deployer with an Invalid scope \(JWT details - scope, tenant, user, ...\)
 
@@ -377,21 +377,21 @@ Attempting to log in to Simple Extension Deployer with an Invalid scope \(JWT de
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Tenant Termination
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Tenant Termination delete event
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Role: \{developer/admin\}
 
@@ -404,21 +404,21 @@ Name: workspace \{name\} Tenant \{name\} old:created, new :deleted
 </td>
 </tr>
 <tr>
-<td rowspan="4">
+<td valign="top" rowspan="4">
 
 Workspace Manager
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Workspace Manager - Invalid scope
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Attempting to log in to WS Manager with an Invalid scope
 
@@ -429,14 +429,14 @@ Attempting to log in to WS Manager with an Invalid scope
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Workspace Manager - Expired JWT
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Attempting to log in to WS Manager with an expired JWT
 
@@ -447,14 +447,14 @@ Attempting to log in to WS Manager with an expired JWT
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Delete dev space
 
 
 
 </td>
-<td>
+<td valign="top">
 
 user: \{userEmail\}
 
@@ -471,14 +471,14 @@ Changes: \[\{"Name":\{wsID\} deleted by \{zoneID\}, "Old":"created", New:"delete
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Attempting to access workspace with insufficient scopes
 
 
 
 </td>
-<td>
+<td valign="top">
 
 User: \{userEmail\}
 

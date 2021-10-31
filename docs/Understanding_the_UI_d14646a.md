@@ -20,7 +20,7 @@ Below this, you find the commit section, which lists the changed files by their 
 
     ![](images/Git_Staged_Files_8ed2f2f.png)
 
--   *CHANGED* - Files listed under the *CHANGED* section contain unstaged changes. Each file name is followed by a path to its parent directory and an indicator describing the status of the change.
+-   *CHANGES* - Files listed under the *CHANGES* section contain unstaged changes. Each file name is followed by a path to its parent directory and an indicator describing the status of the change.
 
     Click ![](images/Open_FIle_b4801d1.png) to open the selected file, ![](images/Git_Stage_9bd7585.png) to stage the file, or ![](images/Git_Refresh_9c6d3bb.png) to refresh it.
 

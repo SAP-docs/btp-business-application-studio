@@ -2,7 +2,7 @@
 
 # Cloning Repositories
 
-Add an existing project to your local workpace by cloning its repository from Git.
+Add an existing project to your local workspace by cloning its repository from Git.
 
 1.  Open a terminal.
 

@@ -15,28 +15,28 @@ The manner in which you can connect to Cloud Foundry depends on the identity pro
 
 <table>
 <tr>
-<th>
+<th valign="top">
 
  
 
 
 
 </th>
-<th>
+<th valign="top">
 
 SAP ID Service
 
 
 
 </th>
-<th>
+<th valign="top">
 
 Custom IdP
 
 
 
 </th>
-<th>
+<th valign="top">
 
 Corporate IdP
 
@@ -45,28 +45,28 @@ Corporate IdP
 </th>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
  SAP Business Application Studio UI-based login
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Supported
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Not supported
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Not supported
 
@@ -75,28 +75,28 @@ Not supported
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
  SAP Business Application Studio CLI-based login
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Supported
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Supported
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Supported
 
@@ -105,14 +105,14 @@ Supported
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 CLI-based login example
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Reference
 
@@ -121,7 +121,7 @@ Reference
 
 
 </td>
-<td>
+<td valign="top">
 
 Reference
 
@@ -130,7 +130,7 @@ Reference
 
 
 </td>
-<td>
+<td valign="top">
 
 Reference
 
@@ -141,28 +141,28 @@ Reference
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Authorization flow
 
 
 
 </td>
-<td>
+<td valign="top">
 
 OAuth Resource Owner Password
 
 
 
 </td>
-<td>
+<td valign="top">
 
 OAuth Resource Owner Password
 
 
 
 </td>
-<td>
+<td valign="top">
 
 OAuth Authorization Code Grant \(browser flow\) + One-Time Passcode
 

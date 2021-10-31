@@ -39,6 +39,7 @@ Before you can bind data to a control, you need to define an entity set.
         > ### Restriction:  
         > The "dummy" entity set is only for advanced users.
 
+
 4.  Choose OK.
 
 

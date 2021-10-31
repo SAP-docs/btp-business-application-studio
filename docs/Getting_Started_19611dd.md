@@ -10,21 +10,21 @@ Here's a checklist for setting up your system so you can develop applications us
 
 <table>
 <tr>
-<th>
+<th valign="top">
 
 Step
 
 
 
 </th>
-<th>
+<th valign="top">
 
 Description
 
 
 
 </th>
-<th>
+<th valign="top">
 
 Links/Information
 
@@ -33,21 +33,21 @@ Links/Information
 </th>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
  **Sign up for a global account.** 
 
 
 
 </td>
-<td>
+<td valign="top">
 
 You require a global account to enable SAP Business Application Studio.
 
 
 
 </td>
-<td>
+<td valign="top">
 
 [Getting a Global Account](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/d61c2819034b48e68145c45c36acba6e.html)
 
@@ -56,7 +56,7 @@ You require a global account to enable SAP Business Application Studio.
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 **Create subaccounts in the Cloud Foundry environment.**
 
@@ -65,14 +65,14 @@ Select a region according to the guidelines in the [Neo and Cloud Foundry Region
 
 
 </td>
-<td>
+<td valign="top">
 
 When you create a subaccount in the SAP BTP, Cloud Foundry environment, a Cloud Foundry organization is automatically created for that subaccount.
 
 
 
 </td>
-<td>
+<td valign="top">
 
 [Create a Subaccount](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/05280a123d3044ae97457a25b3013918.html)
 
@@ -81,14 +81,14 @@ When you create a subaccount in the SAP BTP, Cloud Foundry environment, a Cloud 
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
  **Assign members to your Cloud Foundry organizations and spaces.** 
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Enable your developers to work with your SAP BTP, Cloud Foundry environments.
 
@@ -97,7 +97,7 @@ Your developers need to be assigned to the space developer role to be able to us
 
 
 </td>
-<td>
+<td valign="top">
 
 [Managing Members](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/cc1c676b43904066abb2a4838cbd0c37.html)
 
@@ -106,7 +106,7 @@ Your developers need to be assigned to the space developer role to be able to us
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 **Configure entitlements for your global account**.
 
@@ -117,14 +117,14 @@ To check if your global account belongs to Feature Set A or Feature Set B, see [
 
 
 </td>
-<td>
+<td valign="top">
 
 Assign entitlements to subaccounts by adding service plans and distribute the quotas available in your global account to your subaccounts using the SAP BTP cockpit.
 
 
 
 </td>
-<td>
+<td valign="top">
 
 [Configure Entitlements and Quotas for Subaccounts](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/5ba357b4fa1e4de4b9fcc4ae771609da.html)
 
@@ -133,21 +133,21 @@ Assign entitlements to subaccounts by adding service plans and distribute the qu
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
  **Subscribe to SAP Business Application Studio.** 
 
 
 
 </td>
-<td>
+<td valign="top">
 
 You need to subscribe to the SAP Business Application Studio.
 
 
 
 </td>
-<td>
+<td valign="top">
 
  [Subscribe to SAP Business Application Studio](Subscribe_to_SAP_Business_Application_Studio_6331319.md) 
 
@@ -156,21 +156,21 @@ You need to subscribe to the SAP Business Application Studio.
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 **Grant user permissions.**
 
 
 
 </td>
-<td>
+<td valign="top">
 
 To enable working with SAP Business Application Studio, developers need to be assigned the `Business_Application_Studio_Developer` role.
 
 
 
 </td>
-<td>
+<td valign="top">
 
  [Manage Authorizations and Roles](Manage_Authorizations_and_Roles_01e69c5.md) 
 
@@ -179,21 +179,21 @@ To enable working with SAP Business Application Studio, developers need to be as
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 **OPTIONAL: Enable identity provider \(IdP\)-based authentication for SAP Business Application Studio applications \(optional\).**
 
 
 
 </td>
-<td>
+<td valign="top">
 
 If you define a custom identity provider for your subaccount, be sure to configure the assertion-based attributes mapping for this IdP.
 
 
 
 </td>
-<td>
+<td valign="top">
 
  [Configure Trust to the SAML Identity Provider](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/dc618538d97610148155d97dcd123c24.html#loiob6cfc4bb4bff4ace90afc71b0962fcb5) 
 
@@ -202,21 +202,21 @@ If you define a custom identity provider for your subaccount, be sure to configu
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 **OPTIONAL: Connect to your Git source control system.**
 
 
 
 </td>
-<td>
+<td valign="top">
 
  SAP Business Application Studio allows you to connect to public and corporate Git repositories.
 
 
 
 </td>
-<td>
+<td valign="top">
 
 [Connect to Your Git Source Control System](Connect_to_Your_Git_Source_Control_System_e7a42bc.md)
 
@@ -225,16 +225,16 @@ If you define a custom identity provider for your subaccount, be sure to configu
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 **OPTIONAL: Create spaces.**
 
-RElevant for developers who want to work in Cloud Foundry runtime.
+Relevant for developers who want to work in Cloud Foundry runtime.
 
 
 
 </td>
-<td>
+<td valign="top">
 
 You can create and delete spaces in a Cloud Foundry organization using the SAP BTP cockpit or the console client \(Cloud Foundry command-line interface\).
 
@@ -245,7 +245,7 @@ For staging/test and production organizations, 1 space is sufficient.
 
 
 </td>
-<td>
+<td valign="top">
 
 [Create Spaces](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/2f6ed22ccf424dae84345f4500c2d8ea.html)
 
