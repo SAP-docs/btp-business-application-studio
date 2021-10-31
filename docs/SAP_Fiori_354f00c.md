@@ -31,7 +31,7 @@ The SAP Fiori scenario contains the following predefined extensions:
 
 -   **HTML5 Runner**
 
-    Allows you to locally run HTML5 applications. Includes the HTML5 application runner and run configurations.
+    Allows you to locally run HTML5 applications. This extension includes the HTML5 application runner and run configurations.
 
     See [Create Run Configurations for HTML5 Applications](https://help.sap.com/viewer/0e2ec06ee34742fd9054fabe09c12d35/Cloud/en-US/a72ecc1d642f4621acb795e106227a7d.html).
 
