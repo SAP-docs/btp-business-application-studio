@@ -29,6 +29,7 @@ Login occurs automatically, using the SAP Business Application Studio user crede
 
         The destination points directly to the service.
 
+
     If you maintain credentials in the destination configuration of the account, log in can occur automatically. If a system is available, the icon has a green dot. \(![](images/green_dot-_system_available_ac1aa72.jpg)\)
 
     If you don't maintain the credentials in the destination configuration of the account, you need to log in manually to open the system information.
@@ -54,12 +55,14 @@ Login occurs automatically, using the SAP Business Application Studio user crede
         The template wizard displays the projects that you can create from a service. For example, an HTML5 project or an SAP Fiori application. See [Create an HTML5 Project](https://help.sap.com/viewer/0e2ec06ee34742fd9054fabe09c12d35/Cloud/en-US/e46be902c7b54f9baaab1870ca553303.html) or [SAP Fiori Elements](https://help.sap.com/viewer/17d50220bcd848aa854c9c182d65b699/Latest/en-US/1488469a315c442fa116ab4449d4ad27.html) for more information.
 
     2.  Use the template wizard to create the relevant project.
+
 2.  You can select a service from the Service Center and add it as an external data model to a CAP Node project:
     1.  Open a service and click *Service Actions* \> *Add Data Model to CAP Project*.
     2.  Select the target CAP Node project to add the data model to.
     3.  \(Optional\) You can generate a sample service and select the relevant entities.
         1.  Select *Add a Sample Service*.
         2.  Select the entities that you want to add.
+
     4.  Click *Add*.
 
         You added the data model to the CAP project. The following changes happen:
@@ -77,7 +80,9 @@ Login occurs automatically, using the SAP Business Application Studio user crede
             }
             ```
 
+
         If you added a sample service with the relevant entities, the `<service_name>.cds` and the `<service_name>.js` files appear in the *srv* \> *external* folder of the CAP project.
+
 
 
 
@@ -89,11 +94,11 @@ Login occurs automatically, using the SAP Business Application Studio user crede
 You can add a new system to your SAP Business Application Studio subaccount:
 
 > ### Note:  
-> If you're using a nontrial account, make sure that you have the *Business\_Application\_Studio\_Administrator*[Manage Authorizations](https://help.sap.com/viewer/9d1db9835307451daa8c930fbd9ab264/Cloud/en-US/01e69c53003c4b0a8a64310a3f08867d.html).
+> If you're account is not a trial account, make sure that you have the *Business\_Application\_Studio\_Administrator* role assigned to you in the cockpit. See [Manage Authorizations and Roles](Manage_Authorizations_and_Roles_01e69c5.md).
 
 1.  Hover over the subaccount and click ![](images/Add_system-_service_center-_plus_icon_3701d6b.jpg) \(Add system\).
 
-    A new tab opens. role assigned to you in the cockpit. See
+    A new tab opens.
 
 2.  Enter the system name and URL and select the system type, proxy, authentication method, and product.
 

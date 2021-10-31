@@ -10,7 +10,5 @@ This will open an input field at the top of the IDE allowing you to type a comma
 
 Some commands will lead you into a minimal text-based wizard, allowing you to enter additional parameters.
 
-Type ***>*** into the input field to get a list of quick commands you can execute from here:
-
 ![](images/Command_Pallete-_Eran_8603393.jpg)
 

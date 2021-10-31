@@ -48,6 +48,7 @@ You can create an administrator role collection and a developer role collection 
 
 
 
+
 <a name="loio01e69c53003c4b0a8a64310a3f08867d__section_mrx_zhd_pdb"/>
 
 ## Assigning Permissions
@@ -64,6 +65,7 @@ You can assign permissions as follows:
     -   Select `Business_Application_Studio_Developer` to assign a role collection to a developer.
     -   Select `Business_Application_Studio_Administrator` to assign a role collection to an administrator.
     -   Select `Business_Application_Studio_Extension_Deployer` to assign a role collection to an extension developer.
+
 
 To assign permissions to groups, follow the instructions in the [Map Role Collections to User Groups](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/51acfc82c0c54db59de0a528f343902c.html) topic.
 
@@ -88,7 +90,9 @@ You can create a different set of roles as follows:
         -   Select `Business_Application_Studio_Developer` to create a role collection for developers.
         -   Select `Business_Application_Studio_Extension_Deployer` to create a role collection for developers who can deploy extensions.
         -   Select `Business_Application_Studio_Administrator` to create a role collection for administrators.
+
     3.  Select the *Role Name* from the table.
     4.  Click *Add*.
+
 6.  Save your changes.
 

@@ -25,5 +25,7 @@ You can bind a control property to a label annotation that resides in the OData 
 
         2.  Click *OK* or first manually edit the expression string and then click *OK*.
 
+
     -   In the *Properties* pane, for a field or dropdown list, manually enter the required expression within curly brackets \{...\}.
+
 

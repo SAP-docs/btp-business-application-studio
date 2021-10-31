@@ -17,7 +17,7 @@ Run a Java module on the local Apache Tomcat server and allow binding the module
 
 <a name="loioc20676613c0440fe9b96b10dcdf32d32__section_fx4_jzq_hkb"/>
 
-## Add a new configuration
+## Add a New Configuration
 
 1.  Open the *Run Configurations* view.
 2.  Click **+** \(Create Configuration\).
@@ -36,16 +36,17 @@ Run a Java module on the local Apache Tomcat server and allow binding the module
 
 <a name="loioc20676613c0440fe9b96b10dcdf32d32__section_lfp_f1r_hkb"/>
 
-## Bind dependencies
+## Bind Dependencies
 
 In the *Run Configurations* view, you can see the resources that are defined in the MTA descriptor. You can bind or unbind these resources to a specific Cloud Foundry service instance.
 
 > ### Note:  
 > The following Cloud Foundry service types are supported for binding:
 > 
-> -   `hana` \( `managed-hana` is not supported\)
+> -   `hana` \( `managed-hana` isn't supported\)
 >     -   PSA-based SAP HANA
 >     -   HaaS \(if configured as "Available for all IPs"\)
+> 
 > -   `xsuaa`
 > -   `destination`
 > -   `connectivity`
@@ -59,7 +60,7 @@ To bind the resource:
 3.  Select the desired resource.
 4.  Click ![](images/UnbindService_8a3582e.png) \(bind\).
 
-    If not already logged in, you are prompted to log in to Cloud Foundry.
+    If not already logged in, you're prompted to log in to Cloud Foundry.
 
     A list of all available services that match your resource type are displayed in the command palette.
 
@@ -69,9 +70,9 @@ The resource is bound to the service.
 
 ![](images/bound_resource_a53ec7b.png)
 
-This updates the resource's configuration files. See the *Advanced Options* section below to see the changes mande to the configuration files.
+This updates the resource's configuration files. See the *Advanced Options* section below to see the changes made to the configuration files.
 
-If you are binding to an SAP HANA service, a new connection called `'<my_service_instance name>'` is added to the SQLTools view where your tables and data are displayed.
+If you're binding to an SAP HANA service, a new connection called `'<my_service_instance name>'` is added to the SQLTools view where your tables and data are displayed.
 
 Unbinding the resource removes all of the changes made to the configuration files.
 
@@ -86,7 +87,7 @@ To unbind the resource:
 
 <a name="loioc20676613c0440fe9b96b10dcdf32d32__section_ekx_f1r_hkb"/>
 
-## Run a configuration
+## Run a Configuration
 
 1.  If you bound your service to a service that requires Chisel to run:
     1.  From the command palette, choose *Task* \> *Run Task*.
@@ -95,6 +96,7 @@ To unbind the resource:
         > ### Note:  
         > If Chisel is already running in the same port and space, skip this step.
 
+
 2.  Select the desired run configuration.
 3.  Click ![](images/Run_Configuration_icon_1897e99.png) \(Run\) to run the project.
 
@@ -102,19 +104,19 @@ To unbind the resource:
 
     The Debug Console opens.
 
-4.  A notification prompting you to expose and open the port \(if it was not previously exposed\), or to open the service in a new tab is displayed. Click the relevant action to view the service in a new tab. See [Managing Ports](Managing_Ports_91fc8bf.md).
+4.  A notification prompting you to expose and open the port \(if it wasn't previously exposed\), or to open the service in a new tab is displayed. Click the relevant action to view the service in a new tab. See [Managing Ports](Managing_Ports_91fc8bf.md).
 5.  If you need to stop a configuration that is already running, you can do so from the *Debug* view.
 
 > ### Note:  
 > For more information about the tasks triggered by the run configuration, see the *Advanced Options* section below.
 > 
-> Stopping a configuration from the *Debug* view does not stop any running tasks.
+> Stopping a configuration from the *Debug* view doesn't stop any running tasks.
 
 
 
 <a name="loioc20676613c0440fe9b96b10dcdf32d32__section_ltq_knh_jkb"/>
 
-## Edit a Run configuration
+## Edit a Run Configuration
 
 1.  Right-click a run relevant configuration to do the following:
     -   *Configure Environment* - Open the environment file to view the binding configuration.
@@ -128,21 +130,22 @@ To unbind the resource:
 
 
 
+
 <a name="loioc20676613c0440fe9b96b10dcdf32d32__section_xs1_sth_jkb"/>
 
-## Delete a Run configuration
+## Delete a Run Configuration
 
 1.  Right-click a run relevant configuration and choose *Delete*.
 
     > ### Note:  
-    > If you delete the launch configuration, it is removed from the `launch.json` file but the tasks remain.
+    > If you delete the launch configuration, it's removed from the `launch.json` file but the tasks remain.
 
 
 
 
 <a name="loioc20676613c0440fe9b96b10dcdf32d32__section_qyl_cbr_hkb"/>
 
-## Advanced options
+## Advanced Options
 
 In addition to the `launch.json` file that is created as part of the new configuration, the following files are added or updated when creating a run configuration:
 
@@ -168,22 +171,24 @@ In addition to the `launch.json` file that is created as part of the new configu
 
     -   A build task that triggers the `mvn clean install` command.
 
+
 -   **Tomcat runtime configuration directory**
 
     When you create a new configuration, a new **Tomcat runtime configuration directory** is created containing the following configuration files:
 
     -   `ROOT.xml` \(`user/.tomcat/<configuration_name>/Catalina/localhost`\)
 
-    For example, `/home/user/.tomcat/bookshop-srv-1/conf/Catalina/localhost`
+        For example, `/home/user/.tomcat/bookshop-srv-1/conf/Catalina/localhost`
 
     -   `server.xml` \(`user/.tomcat/<configuration_name>/conf`\)
 
-    For example, `/home/user/.tomcat/bookshop-srv-1/conf`
+        For example, `/home/user/.tomcat/bookshop-srv-1/conf`
 
-        > ### Note:  
-        > By default, Tomcat runs on port 8080. If you want to run multiple configurations at the same time, you need to configure a different port for the additional Tomcat in the `server.xml` file. In addition, you'll need to change the default ports 8009 and 8005 defined in this file to other ports to avoid collision.
-        > 
-        > You also need to define a debug port \(that is not the default 8000\), both in the `'run-tomcat'` task in the `tasks.json` file, and in the matching launch configuration in the `launch.json` file, which are all associated with the same run configuration.
+
+    > ### Note:  
+    > By default, Tomcat runs on port 8080. If you want to run multiple configurations at the same time, you need to configure a different port for the additional Tomcat in the `server.xml` file. In addition, you need to change the default ports 8009 and 8005 defined in this file to other ports to avoid collision.
+    > 
+    > You also need to define a debug port \(that isn't the default 8000\), both in the `'run-tomcat'` task in the `tasks.json` file, and in the matching launch configuration in the `launch.json` file, which are all associated with the same run configuration.
 
     You can modify the content of this directory to configure Tomcat as desired for this run configuration. For example, you can add libraries to be used at runtime or change ports. For more information, see [Apache Tomcat](https://tomcat.apache.org/tomcat-7.0-doc/introduction.html).
 

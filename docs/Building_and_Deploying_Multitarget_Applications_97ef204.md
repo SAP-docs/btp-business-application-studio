@@ -19,6 +19,7 @@ There are several ways for building multitarget applications in SAP Business App
 -   From the context menu.
     1.  Right-click on the `mta.yaml` file.
     2.  Choose *Build MTA*.
+
 -   From the command palette.
     1.  Enter ***MTA***.
     2.  Choose *Build MTA*.
@@ -26,6 +27,7 @@ There are several ways for building multitarget applications in SAP Business App
 
         > ### Note:  
         > If there’s only one `mta.yaml` available, the build starts automatically.
+
 
 -   From the *Task Explorer*.
 
@@ -35,6 +37,7 @@ There are several ways for building multitarget applications in SAP Business App
     4.  Select the MTA project descriptor of the project you want to build.
     5.  Click *Configure* to edit the build configuration parameters.
     6.  Save your changes.
+
     Use the *Task Explorer* to change the default MTA Build options, for example, to change the default location of the MTA archive or to provide an MTA extension for the build. In the *Task Explorer*, you can save this build configuration for later use.
 
 -   From the CLI. See [Cloud MTA Build Tool](https://sap.github.io/cloud-mta-build-tool/usage/).
@@ -61,6 +64,7 @@ There are several ways for deploying multitarget applications to SAP Cloud Found
 -   From the context menu.
     1.  Right-click on the relevant MTAR file.
     2.  Choose *Deploy MTA Archive*.
+
 -   From the command palette.
     1.  Enter ***MTA***.
     2.  Choose *Deploy MTA Archive*.
@@ -68,6 +72,7 @@ There are several ways for deploying multitarget applications to SAP Cloud Found
 
         > ### Note:  
         > If there’s only one MTAR file available, the deployment starts automatically. If you are not logged into Cloud Foundry, you need to do this before deployment starts.
+
 
 -   From the *Task Explorer*.
 
@@ -77,6 +82,7 @@ There are several ways for deploying multitarget applications to SAP Cloud Found
     4.  Select the MTA archive of the project you want to build.
     5.  Click *Configure* to edit deployment configuration parameters.
     6.  Save your changes.
+
     Use the *Task Explorer* to change the default MTA deploy options. In the *Task Explorer*, you can save this configuration for later use.
 
 -   From the CLI. See [Deploy Commands](https://github.com/cloudfoundry-incubator/multiapps-cli-plugin).

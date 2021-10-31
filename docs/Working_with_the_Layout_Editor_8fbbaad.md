@@ -19,6 +19,7 @@ An overview of the steps required to edit a project using the layout editor.
 
 
 
+
 <a name="loio8fbbaad310eb4712a5d8169331106b25__steps_xxp_lqs_vnb"/>
 
 ## Procedure
@@ -33,6 +34,7 @@ An overview of the steps required to edit a project using the layout editor.
     -   Use the keyboard to navigate within the canvas. Double-click on a control to move the selection to its parent.
     -   Bind controls in the layout editor to elements from the OData service.
     -   Extract a control to a fragment using the context menu.
+
 
 -   **[Add Controls from the Outline Tab](Add_Controls_from_the_Outline_Tab_1cf5a5b.md "You can add controls to the canvas from the Outline
 		tab.")**  

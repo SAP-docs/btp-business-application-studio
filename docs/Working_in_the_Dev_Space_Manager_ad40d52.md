@@ -16,7 +16,7 @@ You can generate a dev space to create and manage applications. You can select t
 2.  Click *Create Dev Space*.
 3.  Enter a name for the dev space.
 4.  Select the relevant application type.
-5.  \(Optional\) Select the relevant additional extensions to enhance your space. \(Don't worry, you can add extensions to your dev space later, see below.\)
+5.  \(Optional\) Select the relevant additional extensions to enhance your space. You can add or remove extensions later as well. See the *Add Extensions to Your Dev Space*section.
 6.  Click *Create Dev Space*.
 
     > ### Note:  
@@ -98,5 +98,4 @@ After downloading the dev space content, you can import the content to another d
     ```
     tar xvzf <yourFileName>.tar.gz
     ```
-
 
