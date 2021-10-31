@@ -372,7 +372,7 @@ sap.m.ComboBox
 </td>
 <td valign="top">
 
-Combines a dropdown list with items and a text field with a button allowing the user to either type a value directly or choose from a list of predefined items.
+Combines a dropdown list with items and a text input field with a button allowing the user to either type a value directly or choose from a list of predefined items.
 
 
 
