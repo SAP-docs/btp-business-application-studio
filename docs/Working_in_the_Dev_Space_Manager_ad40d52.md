@@ -83,7 +83,7 @@ When the download is complete, the `tar` file appears, which contains the dev sp
 
 After downloading the dev space content, you can import the content to another dev space by performing the following steps:
 
-1.  Create a new dev space and open it.
+1.  Create a new dev space, start it, and open it.
 2.  Click *Open Folder*.
 
     The `user` folder is selected by default.
@@ -98,5 +98,4 @@ After downloading the dev space content, you can import the content to another d
     ```
     tar xvzf <yourFileName>.tar.gz
     ```
-
 
