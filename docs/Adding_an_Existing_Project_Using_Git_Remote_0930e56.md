@@ -31,10 +31,10 @@ You can use the terminal to add an existing project to your Git Remote so that y
     $ git commit -m "First commit"
     ```
 
-6.  Create a new `Main` branch.
+6.  Create a new `main` branch.
 
     > ### Note:  
-    > The name of the branch was changed from `Master` to `Main`.
+    > The name of the branch was changed from `master` to `main`.
 
     ```
     $ git branch -M main
@@ -51,5 +51,4 @@ You can use the terminal to add an existing project to your Git Remote so that y
     ```
     $ git push origin main
     ```
-
 

@@ -21,6 +21,8 @@ You can bind a control property to the i18n model or create a new i18n entry.
 
         2.  Click *OK* or first manually edit the expression string and then click *OK*.
 
+
     -   In the *Properties* pane, for a field or dropdown list, manually enter the required expression within curly brackets \{...\}.
     -   Click + to add a new i18n entry.
+
 

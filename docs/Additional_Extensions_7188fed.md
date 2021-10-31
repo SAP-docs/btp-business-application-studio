@@ -18,14 +18,14 @@ The list below shows a selection of our most used additional extensions.
 
 <table>
 <tr>
-<th>
+<th valign="top">
 
 Extension
 
 
 
 </th>
-<th>
+<th valign="top">
 
 Description
 
@@ -34,14 +34,14 @@ Description
 </th>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Development Tools for SAP Work Zone
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Allows you to build UI Integration cards, which are user interface elements that present new means to provide application information to the end user in a unified way. The business information is represented compactly and allows interaction on it being executed. This editor allows users to create new cards or build cards from available samples, edit card properties, and preview the changes. Finally, users can bundle and deploy the cards into different systems.
 
@@ -52,14 +52,14 @@ See [SAP Work Zone Developer Guide](https://help.sap.com/viewer/7d3b9c7211ca4d7a
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 HTML5 Application Template
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Allows you to create an HTML5 application, using a template wizard.
 
@@ -70,14 +70,14 @@ See [Developing an HTML5 Application for Cloud Foundry](https://help.sap.com/vie
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 HTML5 Runner
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Allows you to locally run HTML5 applications. Includes the HTML5 application runner and run configurations.
 
@@ -88,14 +88,14 @@ See [Create Run Configurations for HTML5 Applications](https://help.sap.com/view
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 SAP BTP, serverless runtime
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Allows you to create and deploy extensions in a serverless environment.
 
@@ -106,14 +106,14 @@ See [Create Extensions with Extension Factory, serverless runtime Project Templa
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Workflow Management
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Allows you to create workflow applications and process templates with SAP Workflow Management.
 
@@ -130,14 +130,14 @@ See [SAP Workflow Management](https://help.sap.com/viewer/e157c391253b4ecd93647b
 
 <table>
 <tr>
-<th>
+<th valign="top">
 
 Extension
 
 
 
 </th>
-<th>
+<th valign="top">
 
 Description
 
@@ -146,14 +146,14 @@ Description
 </th>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 CDS Graphical Modeler
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Allows you to design SAP core data service models in SAP Cloud Business Application development projects.
 
@@ -166,14 +166,14 @@ See [Design CDS Models Using SAP Business Application Studio](https://help.sap.c
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Java Tools
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Allows you to develop, test, and run Java applications. Includes debugging capabilities and enhanced code editors. The following tools are installed as part of the extension:
 
@@ -204,14 +204,14 @@ See [Language support for Java ™ for Visual Studio Code](https://github.com/re
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Launchpad Module
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Allows you to add a launchpad to your multitarget application.
 
@@ -222,14 +222,14 @@ See [Basic Development Flow in SAP Business Application Studio](https://help.sap
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 MTA Tools
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Allows you to perform operations such as build, deployment, and validation on multitarget applications. The following tools are installed as part of the extension:
 
@@ -249,14 +249,14 @@ See [MTA Tools](https://help.sap.com/viewer/209802f55bfd47fcaccecf1241df99f8/Clo
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 SAPUI5 Adaptation Project
 
 
 
 </td>
-<td>
+<td valign="top">
 
 SAPUI5 Adaptation Project allows developers to extend SAP Fiori applications in SAP Business Application Studio.
 
@@ -267,14 +267,14 @@ See [Extending an SAP Fiori Application](https://help.sap.com/viewer/584e0bcbfd4
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 SAPUI5 Layout Editor
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Allows you to visually develop your XML view.
 

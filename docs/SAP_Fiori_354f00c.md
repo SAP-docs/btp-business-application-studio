@@ -28,6 +28,7 @@ The SAP Fiori scenario contains the following predefined extensions:
 
     -   abap-deploy CLI
 
+
 -   **HTML5 Runner**
 
     Allows you to locally run HTML5 applications. Includes the HTML5 application runner and run configurations.
@@ -46,6 +47,7 @@ The SAP Fiori scenario contains the following predefined extensions:
 
     -   MTA module runner \(VS Code extension\)
 
+
     See [MTA Tools](https://help.sap.com/viewer/209802f55bfd47fcaccecf1241df99f8/Cloud/en-US).
 
 -   **SAP Fiori Tools**
@@ -61,6 +63,7 @@ The SAP Fiori scenario contains the following predefined extensions:
     -   Service Modeler
 
     -   XML Annotation Language Server
+
 
     See [SAP Fiori tools Overview](https://help.sap.com/viewer/17d50220bcd848aa854c9c182d65b699/Latest/en-US/2d8b1cb11f6541e5ab16f05461c64201.html).
 

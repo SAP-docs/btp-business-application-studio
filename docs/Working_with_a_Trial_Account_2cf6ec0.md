@@ -14,14 +14,14 @@ Trial accounts are intended for personal exploration, and not for production use
 > 
 > <table>
 > <tr>
-> <th>
+> <th valign="top">
 > 
 > Provider
 > 
 > 
 > 
 > </th>
-> <th>
+> <th valign="top">
 > 
 > Supported Regions
 > 
@@ -30,14 +30,14 @@ Trial accounts are intended for personal exploration, and not for production use
 > </th>
 > </tr>
 > <tr>
-> <td>
+> <td valign="top">
 > 
 > Amazon Web Services \(AWS\)
 > 
 > 
 > 
 > </td>
-> <td>
+> <td valign="top">
 > 
 > Europe \(Frankfurt\) or US East \(VA\)
 > 
@@ -46,14 +46,14 @@ Trial accounts are intended for personal exploration, and not for production use
 > </td>
 > </tr>
 > <tr>
-> <td>
+> <td valign="top">
 > 
 > Microsoft Azure
 > 
 > 
 > 
 > </td>
-> <td>
+> <td valign="top">
 > 
 > Singapore
 > 

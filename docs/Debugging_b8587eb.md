@@ -29,6 +29,7 @@ To debug a node.js file:
     -   Launch Program
     -   Create JavaScript Debug Terminal
     -   Run Current File
+
 4.  To add a new configuration to an existing `launch.json`, from the dropdown list, select *Add Configuration*.
 5.  From the dropdown list, select *Run Current File* or *Launch Program* \(which provides you the option to skip node internal files\).
 

@@ -21,5 +21,7 @@ You can bind data to a simple control.
 
         2.  Click *OK* or first manually edit the expression string and then click *OK*.
 
+
     -   In the *Properties* pane, for a field or dropdown list, manually enter the required expression within curly brackets \{...\} according to the data set that you selected.
+
 
