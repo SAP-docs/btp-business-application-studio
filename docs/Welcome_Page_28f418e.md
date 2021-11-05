@@ -4,7 +4,7 @@
 
 The *Welcome* page provides you contextual links useful to users at the beginning of their development cycle.
 
-![](images/Welcome_page_a9949b9.png)
+![Welcome Page](images/Welcome_page_a9949b9.png "Welcome Page")
 
 The *Welcome* page is displayed when you open your dev space or enter ***Welcome*** in the command palette.
 
