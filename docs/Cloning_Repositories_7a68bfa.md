@@ -17,4 +17,12 @@ Add an existing project to your local workspace by cloning its repository from G
     > $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
     > ```
 
+Alternatively, use the command palette for cloning the Git repository.
 
+1. Search for 'GIT: Clone'.
+
+2. Paste the repository URL in the input field.
+
+3. Select the folder into which you want to clone the repository.
+
+4. If prompted, enter your credentials in the input field.
