@@ -17,28 +17,28 @@ For example, you can use an outbound IP address for connecting SAP Business Appl
 
 <table>
 <tr>
-<th>
+<th valign="top">
 
 Region
 
 
 
 </th>
-<th>
+<th valign="top">
 
 IaaS Provider
 
 
 
 </th>
-<th>
+<th valign="top">
 
 Technical Key
 
 
 
 </th>
-<th>
+<th valign="top">
 
 SAP Business Application Studio
 
@@ -49,28 +49,28 @@ Outbound IP\*
 </th>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Europe \(Frankfurt\)
 
 
 
 </td>
-<td>
+<td valign="top">
 
 AWS
 
 
 
 </td>
-<td>
+<td valign="top">
 
 eu10
 
 
 
 </td>
-<td>
+<td valign="top">
 
 18.158.7.155
 
@@ -89,28 +89,28 @@ eu10
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Europe \(Frankfurt\)
 
 
 
 </td>
-<td>
+<td valign="top">
 
 AWS
 
 
 
 </td>
-<td>
+<td valign="top">
 
 eu10-trial
 
 
 
 </td>
-<td>
+<td valign="top">
 
 18.192.169.180
 
@@ -123,28 +123,28 @@ eu10-trial
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Europe \(Frankfurt\)
 
 
 
 </td>
-<td>
+<td valign="top">
 
 AWS
 
 
 
 </td>
-<td>
+<td valign="top">
 
 eu11
 
 
 
 </td>
-<td>
+<td valign="top">
 
 18.185.27.129
 
@@ -163,28 +163,28 @@ eu11
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Europe \(Frankfurt\)
 
 
 
 </td>
-<td>
+<td valign="top">
 
 AWS
 
 
 
 </td>
-<td>
+<td valign="top">
 
 eu12
 
 
 
 </td>
-<td>
+<td valign="top">
 
 18.158.167.104
 
@@ -203,28 +203,28 @@ eu12
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 US East \(N. Virginia\)
 
 
 
 </td>
-<td>
+<td valign="top">
 
 AWS
 
 
 
 </td>
-<td>
+<td valign="top">
 
 us10
 
 
 
 </td>
-<td>
+<td valign="top">
 
 3.218.32.143
 
@@ -243,28 +243,28 @@ us10
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 US East \(N. Virginia\)
 
 
 
 </td>
-<td>
+<td valign="top">
 
 AWS
 
 
 
 </td>
-<td>
+<td valign="top">
 
 us10-trial
 
 
 
 </td>
-<td>
+<td valign="top">
 
 100.25.71.121
 
@@ -277,28 +277,28 @@ us10-trial
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Australia \(Sydney\)
 
 
 
 </td>
-<td>
+<td valign="top">
 
 AWS
 
 
 
 </td>
-<td>
+<td valign="top">
 
 ap10
 
 
 
 </td>
-<td>
+<td valign="top">
 
 3.105.48.137
 
@@ -317,28 +317,28 @@ ap10
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Singapore
 
 
 
 </td>
-<td>
+<td valign="top">
 
 AWS
 
 
 
 </td>
-<td>
+<td valign="top">
 
 ap11
 
 
 
 </td>
-<td>
+<td valign="top">
 
 13.251.235.126
 
@@ -357,28 +357,28 @@ ap11
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Seoul
 
 
 
 </td>
-<td>
+<td valign="top">
 
 AWS
 
 
 
 </td>
-<td>
+<td valign="top">
 
 ap12
 
 
 
 </td>
-<td>
+<td valign="top">
 
 3.35.61.218
 
@@ -397,28 +397,28 @@ ap12
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Canada \(Montreal\)
 
 
 
 </td>
-<td>
+<td valign="top">
 
 AWS
 
 
 
 </td>
-<td>
+<td valign="top">
 
 ca10
 
 
 
 </td>
-<td>
+<td valign="top">
 
 3.96.106.101
 
@@ -437,28 +437,28 @@ ca10
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Brazil \(Sao Paulo\)
 
 
 
 </td>
-<td>
+<td valign="top">
 
 AWS
 
 
 
 </td>
-<td>
+<td valign="top">
 
 br10
 
 
 
 </td>
-<td>
+<td valign="top">
 
 18.230.114.154
 
@@ -477,28 +477,28 @@ br10
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Japan \(Tokyo\)
 
 
 
 </td>
-<td>
+<td valign="top">
 
 AWS
 
 
 
 </td>
-<td>
+<td valign="top">
 
 jp10
 
 
 
 </td>
-<td>
+<td valign="top">
 
 52.198.200.83
 
@@ -517,28 +517,28 @@ jp10
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Europe \(Netherlands\)
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Azure
 
 
 
 </td>
-<td>
+<td valign="top">
 
 eu20
 
 
 
 </td>
-<td>
+<td valign="top">
 
 51.105.219.227
 
@@ -551,28 +551,28 @@ eu20
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 US West \(Washington\)
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Azure
 
 
 
 </td>
-<td>
+<td valign="top">
 
 us20
 
 
 
 </td>
-<td>
+<td valign="top">
 
 40.91.127.201
 
@@ -585,28 +585,28 @@ us20
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 US East
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Azure
 
 
 
 </td>
-<td>
+<td valign="top">
 
 us21
 
 
 
 </td>
-<td>
+<td valign="top">
 
 52.224.72.175
 
@@ -619,28 +619,28 @@ us21
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Japan \(Tokyo\)
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Azure
 
 
 
 </td>
-<td>
+<td valign="top">
 
 jp20
 
 
 
 </td>
-<td>
+<td valign="top">
 
 20.44.164.134
 
@@ -653,28 +653,28 @@ jp20
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Australia \(Sydney\)
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Azure
 
 
 
 </td>
-<td>
+<td valign="top">
 
 ap20
 
 
 
 </td>
-<td>
+<td valign="top">
 
 20.193.34.40
 
@@ -687,28 +687,28 @@ ap20
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Singapore
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Azure
 
 
 
 </td>
-<td>
+<td valign="top">
 
 ap21
 
 
 
 </td>
-<td>
+<td valign="top">
 
 20.43.174.229
 
@@ -721,28 +721,28 @@ ap21
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Singapore
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Azure
 
 
 
 </td>
-<td>
+<td valign="top">
 
 ap21-trial
 
 
 
 </td>
-<td>
+<td valign="top">
 
 20.195.35.183
 
@@ -777,28 +777,28 @@ If your network restriction also requires explicit IPs, use the IPs listed in th
 
 <table>
 <tr>
-<th>
+<th valign="top">
 
 Region
 
 
 
 </th>
-<th>
+<th valign="top">
 
 IaaS Provider
 
 
 
 </th>
-<th>
+<th valign="top">
 
 Technical Key
 
 
 
 </th>
-<th>
+<th valign="top">
 
 SAP Business Application Studio
 
@@ -807,7 +807,7 @@ Connectivity Service Host
 
 
 </th>
-<th>
+<th valign="top">
 
 SAP Business Application Studio
 
@@ -818,35 +818,35 @@ Inbound IP
 </th>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Europe \(Frankfurt\)
 
 
 
 </td>
-<td>
+<td valign="top">
 
 AWS
 
 
 
 </td>
-<td>
+<td valign="top">
 
 eu10
 
 
 
 </td>
-<td>
+<td valign="top">
 
 https://connectivity.eu10.applicationstudio.cloud.sap
 
 
 
 </td>
-<td>
+<td valign="top">
 
 18.159.70.155
 
@@ -865,35 +865,35 @@ https://connectivity.eu10.applicationstudio.cloud.sap
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Europe \(Frankfurt\)
 
 
 
 </td>
-<td>
+<td valign="top">
 
 AWS
 
 
 
 </td>
-<td>
+<td valign="top">
 
 eu11
 
 
 
 </td>
-<td>
+<td valign="top">
 
 https://connectivity.eu11.applicationstudio.cloud.sap
 
 
 
 </td>
-<td>
+<td valign="top">
 
 18.158.123.221
 
@@ -912,35 +912,35 @@ https://connectivity.eu11.applicationstudio.cloud.sap
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Europe \(Frankfurt\)
 
 
 
 </td>
-<td>
+<td valign="top">
 
 AWS
 
 
 
 </td>
-<td>
+<td valign="top">
 
 eu12
 
 
 
 </td>
-<td>
+<td valign="top">
 
 https://connectivity.eu12.applicationstudio.cloud.sap
 
 
 
 </td>
-<td>
+<td valign="top">
 
 3.124.78.26
 
@@ -959,35 +959,35 @@ https://connectivity.eu12.applicationstudio.cloud.sap
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Europe \(Frankfurt\)
 
 
 
 </td>
-<td>
+<td valign="top">
 
 AWS
 
 
 
 </td>
-<td>
+<td valign="top">
 
 cry10cf.int
 
 
 
 </td>
-<td>
+<td valign="top">
 
 https://connectivity.cry10cf.int.applicationstudio.cloud.sap
 
 
 
 </td>
-<td>
+<td valign="top">
 
 18.192.167.232
 
@@ -1006,35 +1006,35 @@ https://connectivity.cry10cf.int.applicationstudio.cloud.sap
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 US East \(N. Virginia\)
 
 
 
 </td>
-<td>
+<td valign="top">
 
 AWS
 
 
 
 </td>
-<td>
+<td valign="top">
 
 us10
 
 
 
 </td>
-<td>
+<td valign="top">
 
 https://connectivity.us10.applicationstudio.cloud.sap
 
 
 
 </td>
-<td>
+<td valign="top">
 
 100.24.163.249
 
@@ -1053,35 +1053,35 @@ https://connectivity.us10.applicationstudio.cloud.sap
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Australia \(Sydney\)
 
 
 
 </td>
-<td>
+<td valign="top">
 
 AWS
 
 
 
 </td>
-<td>
+<td valign="top">
 
 ap10
 
 
 
 </td>
-<td>
+<td valign="top">
 
 https://connectivity.ap10.applicationstudio.cloud.sap
 
 
 
 </td>
-<td>
+<td valign="top">
 
 13.238.41.41
 
@@ -1100,35 +1100,35 @@ https://connectivity.ap10.applicationstudio.cloud.sap
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Singapore
 
 
 
 </td>
-<td>
+<td valign="top">
 
 AWS
 
 
 
 </td>
-<td>
+<td valign="top">
 
 ap11
 
 
 
 </td>
-<td>
+<td valign="top">
 
 https://connectivity.ap11.applicationstudio.cloud.sap
 
 
 
 </td>
-<td>
+<td valign="top">
 
 18.139.207.29
 
@@ -1147,35 +1147,35 @@ https://connectivity.ap11.applicationstudio.cloud.sap
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Seoul
 
 
 
 </td>
-<td>
+<td valign="top">
 
 AWS
 
 
 
 </td>
-<td>
+<td valign="top">
 
 ap12
 
 
 
 </td>
-<td>
+<td valign="top">
 
 https://connectivity.ap12.applicationstudio.cloud.sap
 
 
 
 </td>
-<td>
+<td valign="top">
 
 54.180.46.250
 
@@ -1194,35 +1194,35 @@ https://connectivity.ap12.applicationstudio.cloud.sap
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Canada \(Montreal\)
 
 
 
 </td>
-<td>
+<td valign="top">
 
 AWS
 
 
 
 </td>
-<td>
+<td valign="top">
 
 ca10
 
 
 
 </td>
-<td>
+<td valign="top">
 
 https://connectivity.ca10.applicationstudio.cloud.sap
 
 
 
 </td>
-<td>
+<td valign="top">
 
 3.98.238.174
 
@@ -1241,35 +1241,35 @@ https://connectivity.ca10.applicationstudio.cloud.sap
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Brazil \(Sao Paulo\)
 
 
 
 </td>
-<td>
+<td valign="top">
 
 AWS
 
 
 
 </td>
-<td>
+<td valign="top">
 
 br10
 
 
 
 </td>
-<td>
+<td valign="top">
 
 https://connectivity.br10.applicationstudio.cloud.sap
 
 
 
 </td>
-<td>
+<td valign="top">
 
 54.207.235.96
 
@@ -1288,35 +1288,35 @@ https://connectivity.br10.applicationstudio.cloud.sap
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Japan \(Tokyo\)
 
 
 
 </td>
-<td>
+<td valign="top">
 
 AWS
 
 
 
 </td>
-<td>
+<td valign="top">
 
 jp10
 
 
 
 </td>
-<td>
+<td valign="top">
 
 https://connectivity.jp10.applicationstudio.cloud.sap
 
 
 
 </td>
-<td>
+<td valign="top">
 
 54.95.29.60
 
@@ -1335,35 +1335,35 @@ https://connectivity.jp10.applicationstudio.cloud.sap
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Europe \(Frankfurt\)
 
 
 
 </td>
-<td>
+<td valign="top">
 
 AWS
 
 
 
 </td>
-<td>
+<td valign="top">
 
 eu10-trial
 
 
 
 </td>
-<td>
+<td valign="top">
 
 https://connectivity.eu10cf.trial.applicationstudio.cloud.sap
 
 
 
 </td>
-<td rowspan="3">
+<td valign="top" rowspan="3">
 
 > ### Note:  
 > SAP Business Application Studio doesn't currently support static inbound IPs for trial environments.
@@ -1386,28 +1386,28 @@ To determine the inbound IP address, perform the following steps:
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 US East \(N. Virginia\)
 
 
 
 </td>
-<td>
+<td valign="top">
 
 AWS
 
 
 
 </td>
-<td>
+<td valign="top">
 
 us10-trial
 
 
 
 </td>
-<td>
+<td valign="top">
 
 https://connectivity.us10cf.trial.applicationstudio.cloud.sap
 
@@ -1416,28 +1416,28 @@ https://connectivity.us10cf.trial.applicationstudio.cloud.sap
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Singapore
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Azure
 
 
 
 </td>
-<td>
+<td valign="top">
 
 ap21-trial
 
 
 
 </td>
-<td>
+<td valign="top">
 
 https://connectivity.ap21cf.trial.applicationstudio.cloud.sap
 
@@ -1446,35 +1446,35 @@ https://connectivity.ap21cf.trial.applicationstudio.cloud.sap
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Europe \(Netherlands\)
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Azure
 
 
 
 </td>
-<td>
+<td valign="top">
 
 eu20
 
 
 
 </td>
-<td>
+<td valign="top">
 
 https://connectivity.eu20.applicationstudio.cloud.sap
 
 
 
 </td>
-<td>
+<td valign="top">
 
 20.76.191.246
 
@@ -1485,35 +1485,35 @@ https://connectivity.eu20.applicationstudio.cloud.sap
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 US West \(Washington\)
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Azure
 
 
 
 </td>
-<td>
+<td valign="top">
 
 us20
 
 
 
 </td>
-<td>
+<td valign="top">
 
 https://connectivity.us20.applicationstudio.cloud.sap
 
 
 
 </td>
-<td>
+<td valign="top">
 
 20.109.144.108
 
@@ -1524,35 +1524,35 @@ https://connectivity.us20.applicationstudio.cloud.sap
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 US East
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Azure
 
 
 
 </td>
-<td>
+<td valign="top">
 
 us21
 
 
 
 </td>
-<td>
+<td valign="top">
 
 https://connectivity.us21.applicationstudio.cloud.sap
 
 
 
 </td>
-<td>
+<td valign="top">
 
 20.81.5.143
 
@@ -1563,35 +1563,35 @@ https://connectivity.us21.applicationstudio.cloud.sap
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Japan \(Tokyo\)
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Azure
 
 
 
 </td>
-<td>
+<td valign="top">
 
 jp20
 
 
 
 </td>
-<td>
+<td valign="top">
 
 https://connectivity.jp20.applicationstudio.cloud.sap
 
 
 
 </td>
-<td>
+<td valign="top">
 
 20.89.185.253
 
@@ -1602,35 +1602,35 @@ https://connectivity.jp20.applicationstudio.cloud.sap
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Australia \(Sydney\)
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Azure
 
 
 
 </td>
-<td>
+<td valign="top">
 
 ap20
 
 
 
 </td>
-<td>
+<td valign="top">
 
 https://connectivity.ap20.applicationstudio.cloud.sap
 
 
 
 </td>
-<td>
+<td valign="top">
 
 20.193.1.52
 
@@ -1641,35 +1641,35 @@ https://connectivity.ap20.applicationstudio.cloud.sap
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 Singapore
 
 
 
 </td>
-<td>
+<td valign="top">
 
 Azure
 
 
 
 </td>
-<td>
+<td valign="top">
 
 ap21
 
 
 
 </td>
-<td>
+<td valign="top">
 
 https://connectivity.ap21.applicationstudio.cloud.sap
 
 
 
 </td>
-<td>
+<td valign="top">
 
 20.198.213.162
 

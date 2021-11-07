@@ -2,7 +2,7 @@
 
 # Creating a Project from the Terminal
 
-You can create projects based on your development scenario and your installed extensions using the terminal.
+You can create projects based on your development scenario and the extensions installed in the dev space using the terminal.
 
 1.  To open the terminal in SAP Business Application Studio, select *Terminal* \> *New Terminal* from the menu bar.
 2.  Enter ***yo*** in the terminal.

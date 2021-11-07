@@ -35,3 +35,4 @@ When you drag and drop a control from the palette to the canvas or from one posi
     -   [SHIFT\]: moves the drop position up/to the right
     -   [ALT\]: moves the drop position down/to the left
 
+

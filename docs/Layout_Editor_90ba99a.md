@@ -35,6 +35,7 @@ The buttons on the layout editor toolbar allow you to:
 
         The pane on the right side includes the *Properties* and *Events* panes.
 
+
 -   Undo and redo actions.
 
 

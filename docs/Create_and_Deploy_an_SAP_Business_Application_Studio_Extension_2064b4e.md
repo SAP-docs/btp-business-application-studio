@@ -27,6 +27,7 @@ To create an SAP Business Application Studio extension:
         > ### Note:  
         > You must include at least one of these components in the file.
 
+
     > ### Sample Code:  
     > ```
     > {

@@ -2,7 +2,7 @@
 
 # Connecting to a Public Git Repository
 
-Using SAP Business Application Studio, can connect to all public git services, such as GitHub, GitLab, and GitBucket.
+Using SAP Business Application Studio, you can connect to all public git services, such as GitHub, GitLab, and GitBucket.
 
 
 
@@ -22,6 +22,7 @@ SAP Business Application Studio supports the following authentication methods. O
     -   Cache credentials in memory for a short period of time. See [Git Credential Cache](https://git-scm.com/docs/git-credential-cache).
 
     -   Store credentials indefinitely in a file on your dev space. See [Git Credential Store](https://git-scm.com/docs/git-credential-store).
+
 
     You can use a **Personal Access Token** \(PAT\) instead of a password.
 
