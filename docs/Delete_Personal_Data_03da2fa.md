@@ -12,7 +12,7 @@ You can delete personal data stored in your workspace.
 
 2.  Enter your administrator credentials in the login page.
 3.  From the list provided, identify the dev space you want to delete \(for example by searching for the username property\).
-4.  Copy the `id` property under the `config` section . This ID is the `<ws-id>` parameter used in the request below.
+4.  Copy the `id` property under the `config` section. This ID is the `<ws-id>` parameter used in the request below.
 5.  Make sure the dev space you want to delete is in the *Running* state. If not, restart the dev space before exporting the data. See [Restart a Dev Space](Restart_a_Dev_Space_1f54583.md).
 6.  Open a new tab in the browser and fetch your JWT token by sending the following request:
 

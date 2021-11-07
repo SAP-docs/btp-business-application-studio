@@ -32,6 +32,7 @@ You can configure your preferred settings for working in the dev space:
     -   File icon theme
     -   General preferences
 
+
 > ### Note:  
 > Settings are relevant per dev space. You must configure your settings for each dev space separately.
 

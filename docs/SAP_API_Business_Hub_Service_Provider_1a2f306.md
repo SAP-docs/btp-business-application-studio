@@ -49,12 +49,14 @@ When the Service Center opens, the SAP API Business Hub is displayed with the fo
         > ### Note:  
         > To run your project with the SAP API Business Hub sandbox, see the prerequisites in [Run Your HTML5 Application with the SAP API Business Hub](https://help.sap.com/viewer/0e2ec06ee34742fd9054fabe09c12d35/Cloud/en-US/3fca8fcfe27a43c0b8bbde8fe2113e82.html "You can run an HTML5 application locally with an SAP API Business Hub service.") :arrow_upper_right:.
 
+
 2.  You can select a service from the Service Center and add it as an external data model to a CAP Node project:
     1.  Open a service and click *Service Actions* \> *Add Data Model to CAP Project*.
     2.  Select the target CAP Node project to add the data model to.
     3.  \(Optional\) You can generate a sample service and select the relevant entities.
         1.  Select *Add a Sample Service*.
         2.  Select the entities that you want to add.
+
     4.  Click *Add*.
 
         You added the data model to the CAP project. The following changes happen:
@@ -72,6 +74,8 @@ When the Service Center opens, the SAP API Business Hub is displayed with the fo
             }
             ```
 
+
         If you added a sample service with the relevant entities, the `<service_name>.cds` and the `<service_name>.js` files appear in the *srv* \> *external* folder of the CAP project.
+
 
 

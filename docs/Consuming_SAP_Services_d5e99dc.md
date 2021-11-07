@@ -33,12 +33,15 @@ You can consume an SAP service from your application.
 
         2.  If you selected *System URL*, enter the path to the specific service.
         3.  If you selected *Catalog System URL*, select the desired service from the list of exposed services displayed.
+
     -   If your data source resides in the SAP API Business Hub:
         1.  Select the relevant API package \(API Business Hub destination\).
         2.  Select the desired API from the list displayed.
 
             > ### Note:  
             > You may require to enter credentials for the selected service.
+
+
 
 
 
@@ -52,5 +55,6 @@ Once you select a data source, the metadata is retrieved and output is created d
 -   If you bound a service for a Business Application project, a folder called `external` is created. This folder contains 2 subfolders:
     -   `edmx` - Contains the retrieved data
     -   `csn` - Contains a JSON file representing the CDS version of the `metadata.xml` file.
+
 -   If you bound a service for an SAP Fiori UI application, all the necessary configurations are automatically added to the SAP Fiori app using the service in your UI.
 

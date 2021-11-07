@@ -13,28 +13,25 @@ To merge a branch into another:
 2.  Select *Merge...*. The command palette is displayed.
 3.  Select the branch you want to merge into the currently active branch.
 
-> ### Note:  
-> Merge operations can fail due to conflicts between the current branch and the branch you choose from which to incorporate the changes.
+### Dealing with Merge Conflicts
 
-### Dealing with conflicts in Business Application Studio
+Merge operations can fail because of conflicts between the current branch and the branch you choose from which to incorporate the changes. To see which files have merge conflicts, navigate to the console or the explorer:
 
-You can see all files that contains conflics to merge in the console or/and in the explorer:
-
-- Conflict in the console (you will see a list of files with conflicts)
+- The console displays a list of all files with merge conflcts.
 
    ![](images/merge_conflict_in_console_588c283.PNG)
 
-- Conflict in the explorer (you will see "!" in the files with conflicts)
+- The explorer displays "!" next to any files with conflicts.
 
    ![](images/Merge_conflict_in_explorer_588c283.PNG)
 
-When you access a file with conflicts with a conflict you can see the conflicts and the options to resolve them:
+When you access a file with conflicts, the conflicts and the options for resolving them are displayed in the file.
 
    ![](images/Merge_conflict_resolution_588c283.PNG)
 
-You can choose from the following options:
+Choose from the following options to resolve the merge conflict:
 
 1.  **Accept Current Change**: Apply only the changes from the current branch
 2.  **Accept Incoming Change**: Apply only the changes from the target branch
-3.  **Accept Both Changes**: merge both changes (the first one from the current branch and the second from the target branch)
-4.  **Compare changes**: view the differences (current and target) in a split window
+3.  **Accept Both Changes**: Merge both changes (the first change from the current branch and the second change from the target branch)
+4.  **Compare changes**: View the differences (current and target) in a split window

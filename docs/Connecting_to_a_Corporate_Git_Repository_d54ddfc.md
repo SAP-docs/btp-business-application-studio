@@ -2,7 +2,7 @@
 
 # Connecting to a Corporate Git Repository
 
-As an administrator, you can work with on premise Git repositories once an appropriate destination has been created in your subaccount.
+As an administrator, you can work with on-premise Git repositories once an appropriate destination has been created in your subaccount.
 
 
 
@@ -13,7 +13,7 @@ As an administrator, you can work with on premise Git repositories once an appro
 SAP Business Application Studio supports basic authentication, which means you must provide your username and password to access your Git provider.
 
 > ### Note:  
-> SSH is not available for on premise Git installations.
+> SSH is not available for on-premise Git installations.
 
 To work with the Git view in SAP Business Application Studio, you need to store or cache credentials. Once you have enabled one of these methods, you will not have to enter your credentials every time you use Git.
 
@@ -50,14 +50,14 @@ Make sure to use the exact same host and port as defined in the destination URL 
 
     <table>
     <tr>
-    <th>
+    <th valign="top">
 
     Field
 
 
     
     </th>
-    <th>
+    <th valign="top">
 
     Value
 
@@ -66,14 +66,14 @@ Make sure to use the exact same host and port as defined in the destination URL 
     </th>
     </tr>
     <tr>
-    <td>
+    <td valign="top">
 
      *Back-end Type* 
 
 
     
     </td>
-    <td>
+    <td valign="top">
 
      *Non-SAP System* 
 
@@ -82,14 +82,14 @@ Make sure to use the exact same host and port as defined in the destination URL 
     </td>
     </tr>
     <tr>
-    <td>
+    <td valign="top">
 
     *Protocol*
 
 
     
     </td>
-    <td>
+    <td valign="top">
 
      *HTTPS* 
 
@@ -98,14 +98,14 @@ Make sure to use the exact same host and port as defined in the destination URL 
     </td>
     </tr>
     <tr>
-    <td>
+    <td valign="top">
 
      *Internal Host / Port* 
 
 
     
     </td>
-    <td>
+    <td valign="top">
 
     Enter the internal host and port for your Git system.
 
@@ -114,14 +114,14 @@ Make sure to use the exact same host and port as defined in the destination URL 
     </td>
     </tr>
     <tr>
-    <td>
+    <td valign="top">
 
      *Host / Port* 
 
 
     
     </td>
-    <td>
+    <td valign="top">
 
     Enter a virtual host and port for your Git system. You can use the same host and port as for the virtual host and port.
 
@@ -130,14 +130,14 @@ Make sure to use the exact same host and port as defined in the destination URL 
     </td>
     </tr>
     <tr>
-    <td>
+    <td valign="top">
 
      *Principal Type* 
 
 
     
     </td>
-    <td>
+    <td valign="top">
 
      *None* 
 
@@ -152,14 +152,14 @@ Make sure to use the exact same host and port as defined in the destination URL 
 
     <table>
     <tr>
-    <th>
+    <th valign="top">
 
     Field
 
 
     
     </th>
-    <th>
+    <th valign="top">
 
     Value
 
@@ -168,14 +168,14 @@ Make sure to use the exact same host and port as defined in the destination URL 
     </th>
     </tr>
     <tr>
-    <td>
+    <td valign="top">
 
      *Enabled* 
 
 
     
     </td>
-    <td>
+    <td valign="top">
 
     Checked
 
@@ -184,14 +184,14 @@ Make sure to use the exact same host and port as defined in the destination URL 
     </td>
     </tr>
     <tr>
-    <td>
+    <td valign="top">
 
      *URL Path* 
 
 
     
     </td>
-    <td>
+    <td valign="top">
 
      ***/*** 
 
@@ -200,14 +200,14 @@ Make sure to use the exact same host and port as defined in the destination URL 
     </td>
     </tr>
     <tr>
-    <td>
+    <td valign="top">
 
      *Access Policy* 
 
 
     
     </td>
-    <td>
+    <td valign="top">
 
      *Path and all sub-paths* 
 
@@ -228,14 +228,14 @@ Make sure to use the exact same host and port as defined in the destination URL 
 
         <table>
         <tr>
-        <th>
+        <th valign="top">
 
         Property
 
 
         
         </th>
-        <th>
+        <th valign="top">
 
         Value
 
@@ -244,14 +244,14 @@ Make sure to use the exact same host and port as defined in the destination URL 
         </th>
         </tr>
         <tr>
-        <td>
+        <td valign="top">
 
         WebIDEEnabled
 
 
         
         </td>
-        <td>
+        <td valign="top">
 
         true
 
@@ -260,14 +260,14 @@ Make sure to use the exact same host and port as defined in the destination URL 
         </td>
         </tr>
         <tr>
-        <td>
+        <td valign="top">
 
         HTML5.DynamicDestination
 
 
         
         </td>
-        <td>
+        <td valign="top">
 
         true
 
@@ -276,7 +276,7 @@ Make sure to use the exact same host and port as defined in the destination URL 
         </td>
         </tr>
         <tr>
-        <td>
+        <td valign="top">
 
         HTML5.Timeout
 
@@ -285,7 +285,7 @@ Make sure to use the exact same host and port as defined in the destination URL 
 
         
         </td>
-        <td>
+        <td valign="top">
 
         60000
 
@@ -296,6 +296,7 @@ Make sure to use the exact same host and port as defined in the destination URL 
         </table>
         
         ![](images/Create_destination_for_Git_328ecee.png)
+
 
 
 

@@ -5,7 +5,7 @@
 Enrich the IDE with additional features and capabilities to make your development more efficient.
 
 > ### Note:  
-> This feature is not available in the China \(Shangai\) region.
+> This feature is not available in the China \(Shanghai\) region.
 
 The SAP Business Application Studio extension framework allows you to add new project and module templates to ease project creation. You can enrich the IDE with tools that will help you develop faster and more efficiently, such as code assist, static code analysis, and code formatting. Likewise, you can integrate your IDE with external services and systems.
 
@@ -21,11 +21,13 @@ The extension framework allows you to extend SAP Business Application Studio in 
 
         See [Explore and Install Generators](Explore_and_Install_Generators_7865b5e.md).
 
+
 -   **Create your own SAP Business Application Studio extension**.
 
     -   Package VS Code extensions and Yeoman generators into an SAP Business Application Studio extension and then deploy it to the subaccount in which your team is working. All the team members can then enable the extension from the Dev Space Manager.
 
         See [Create and Deploy an SAP Business Application Studio Extension](Create_and_Deploy_an_SAP_Business_Application_Studio_Extension_2064b4e.md).
+
 
 
 -   **[Explore and Install VS Code Extensions](Explore_and_Install_VS_Code_Extensions_d83a580.md "You can install VS Code extensions from the Open VSX Registry to
