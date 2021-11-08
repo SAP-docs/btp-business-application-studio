@@ -16,7 +16,7 @@ You can generate a dev space to create and manage applications. You can select t
 2.  Click *Create Dev Space*.
 3.  Enter a name for the dev space.
 4.  Select the relevant application type.
-5.  \(Optional\) Select the relevant additional extensions to enhance your space. You can add or remove extensions later as well. See the *Add Extensions to Your Dev Space*section.
+5.  \(Optional\) Select the relevant additional extensions to enhance your space. You can add or remove extensions later as well. See the [Add Extensions to Your Dev Space](Working_in_the_Dev_Space_Manager_ad40d52.md#loioad40d52d0bea4d79baaf9626509caf33__section_s2p_4ts_fnb) section.
 6.  Click *Create Dev Space*.
 
     > ### Note:  
@@ -51,7 +51,7 @@ You can add extensions to an existing dev space from the Dev Space Manager.
 
 To add extentions, the dev space must be in the stopped state.
 
-1.  From the Dev Space Manager, click ![](images/Edit_Dev_Space_Button_7f87f6e.jpg) to edit the dev space.
+1.  From the Dev Space Manager, click ![Edit icon](images/Edit_Dev_Space_Button_7f87f6e.jpg) to edit the dev space.
 2.  Select the desired additional SAP extensions.
 3.  Click *Save Changes*.
 
@@ -66,7 +66,7 @@ You can download the dev space content in the following situations:
 -   When your dev space is in the *RUNNING* state to save the dev space contents.
 -   When your dev space is in the *ERROR* state to recover your data and move the contents to another dev space.
 
-To download the content of your dev space, click ![](images/Download_Dev_space_content_87493f9.png) and then *Download*.
+To download the content of your dev space, click ![Download icon](images/Download_Dev_space_content_87493f9.png) and then *Download*.
 
 After the download begins, the dev space state changes to *STARTING*. The dev space state then changes to *SAFE MODE* and then the `tar` file downloads.
 
@@ -98,4 +98,5 @@ After downloading the dev space content, you can import the content to another d
     ```
     tar xvzf <yourFileName>.tar.gz
     ```
+
 

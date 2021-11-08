@@ -46,7 +46,7 @@ Before you can work in SAP Business Application Studio, the account administrato
 11. Grant user permissions to work with SAP Business Application Studio. See [Manage Authorizations and Roles](Manage_Authorizations_and_Roles_01e69c5.md).
 12. From the SAP Business Application Studio *Overview* page in the cockpit, click the ellipsis, and then click *Go to Application*.
 
-    ![](images/Go_to_Application_7223fda.png)
+    ![Open the Go to Application menu](images/Go_to_Application_7223fda.png)
 
 
 > ### Note:  

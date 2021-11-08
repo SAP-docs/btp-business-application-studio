@@ -2,7 +2,7 @@
 
 # Architectural Overview
 
-![](images/SAP_Business_Application_Studio_architecture_61aa867.png)
+![Architectural overview](images/SAP_Business_Application_Studio_architecture_61aa867.png)
 
 SAP Business Application Studio is part of SAP BTP and the SAP Multi-cloud offering \(AWS, Azure, Alibaba, etc.\).
 

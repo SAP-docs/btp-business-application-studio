@@ -12,7 +12,9 @@ Each dev space type contains a set of predefined extensions that help improve yo
 
 An SAP Business Application Studio extension is a set of tools that help you perform a specific development task. For example, the *Java Tools* extension provides you with the tools that you need to develop a Java application. The *Fiori Tools* extension includes the templates, CLI, and code completion required to create an SAP Fiori application.
 
-You can choose to add additional extensions to a dev space which will provide additional tools to supplement the application with additional components for the scenario to your developer environment. See [Additional Extensions](Additional_Extensions_7188fed.md).
+During dev space creation, you can choose to add additional extensions to the dev space. The additional extensions provide additional tools to supplement the application with additional components for the scenario to your developer environment. See [Additional Extensions](Additional_Extensions_7188fed.md).
+
+You can also add extensions to an existing dev space. See [Add Extensions to Your Dev Space](Working_in_the_Dev_Space_Manager_ad40d52.md#loioad40d52d0bea4d79baaf9626509caf33__section_s2p_4ts_fnb).
 
 When creating a new dev space, select the dev space type that best fits the application you want to create. See [Dev Space Types](Dev_Space_Types_4142f78.md).
 
