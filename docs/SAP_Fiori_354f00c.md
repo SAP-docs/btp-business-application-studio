@@ -5,7 +5,7 @@ SAP Fiori Dev Space allows you to develop SAP Fiori applications based on variou
 
 ![SAP Fiori Dev Space Image](images/sap_fiori_dev_space.png)
 
-See, [Developing and Extending SAP Fiori Applications](https://help.sap.com/viewer/584e0bcbfd4a4aff91c815cefa0bce2d/Cloud/en-US) for more information.
+See [Developing and Extending SAP Fiori Applications](https://help.sap.com/viewer/584e0bcbfd4a4aff91c815cefa0bce2d/Cloud/en-US) for more information.
 
 ## Pre-defined Scenario Extensions
 Below you can see a list of pre-defined scenarios that can be used within the SAP Fiori Dev Space.
