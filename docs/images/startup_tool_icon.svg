@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="90" height="90" viewBox="0 0 90 90">
+  <defs>
+    <clipPath id="clip-startup_server_logo">
+      <rect width="90" height="90"/>
+    </clipPath>
+  </defs>
+  <g id="startup_server_logo" clip-path="url(#clip-startup_server_logo)">
+    <g id="Group_3817" data-name="Group 3817" transform="translate(1.264 0.486)">
+      <g id="Group_3813" data-name="Group 3813">
+        <circle id="Ellipse_62" data-name="Ellipse 62" cx="11.524" cy="11.524" r="11.524" transform="translate(60.432 5.513)" fill="#ff9f50"/>
+      </g>
+      <g id="Group_3814" data-name="Group 3814">
+        <path id="Path_1892" data-name="Path 1892" d="M64.186,17.038A11.52,11.52,0,0,1,74.309,5.607a11.521,11.521,0,1,0-1.4,22.955,11.774,11.774,0,0,0,1.4-.093A11.521,11.521,0,0,1,64.186,17.038Z" fill="#f98a2e"/>
+      </g>
+      <g id="Group_3815" data-name="Group 3815">
+        <circle id="Ellipse_63" data-name="Ellipse 63" cx="12" cy="12" r="12" transform="translate(3.925 60.487)" fill="#ffdb43"/>
+      </g>
+      <g id="Group_3816" data-name="Group 3816">
+        <path id="Path_1893" data-name="Path 1893" d="M8.672,72.487a12,12,0,0,1,10.541-11.9,12.134,12.134,0,0,0-1.46-.1,12,12,0,1,0,1.46,23.9A12,12,0,0,1,8.672,72.487Z" fill="#fdce09"/>
+      </g>
+      <path id="Path_1894" data-name="Path 1894" d="M71.956,4.514A12.531,12.531,0,0,0,59.48,16.093a.967.967,0,0,0-.274-.055H52.575a9.308,9.308,0,0,0-9.3,9.3V66.074a7.256,7.256,0,0,1-7.248,7.249H29.693c.018-.278.043-.554.043-.836a13.04,13.04,0,1,0-.321,2.836H36.03a9.259,9.259,0,0,0,9.248-9.249V25.335a7.305,7.305,0,0,1,7.3-7.3h6.631a1,1,0,0,0,.274-.055A12.519,12.519,0,1,0,71.956,4.514ZM16.736,83.487a11,11,0,1,1,11-11A11.012,11.012,0,0,1,16.736,83.487Zm55.22-55.925A10.524,10.524,0,1,1,82.481,17.038,10.536,10.536,0,0,1,71.956,27.562Z" fill="#051d41"/>
+    </g>
+  </g>
+</svg>
