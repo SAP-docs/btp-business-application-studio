@@ -1,8 +1,5 @@
 <!-- loio354f00cbdecf49e28084ac148a976386 -->
-
-<!-- loio354f00cbdecf49e28084ac148a976386 -->
-
-# SAP Fiori Dev Space
+# SAP Fiori
 
 SAP Fiori Dev Space allows you to develop SAP Fiori applications based on various environments: Cloud Foundry, ABAP on-premise, and ABAP Cloud.
 
