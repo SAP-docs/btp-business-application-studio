@@ -47,7 +47,7 @@ To upgrade the application subscription from the free plan to the standard-editi
 4.  Search for SAP Business Application Studio.
 5.  Select the ellipsis at the end of the subscription row, and from the menu, select *Update*.
 
-    ![](images/upgrade_plan_0e07bae.png)
+    ![Access the Update menu to subscribe to the standard-edition plan.](images/upgrade_plan_0e07bae.png)
 
 6.  In the wizard that opens, select *standard-edition plan* and click *Update Subscription*.
 

@@ -18,7 +18,7 @@ To open the Git view, click ![](images/Open_Git_pane_7c27a9f.png) from the left 
 
 The Git view is divided into the following sections:
 
-*SOURE CONTROL: GIT* view menu
+*SOURCE CONTROL: GIT* view menu
 
 ![](images/source_control_GIT_menu_e10ab7d.png) 
 
