@@ -463,7 +463,7 @@ The Calculation View Editor has the following new features:
 </td>
 <td valign="top">
 
-Recommended
+Info only
 
 
 
@@ -637,7 +637,7 @@ You can now create CAP applications when working in any type of dev space by sel
 </td>
 <td valign="top">
 
-Recommended
+Info only
 
 
 
