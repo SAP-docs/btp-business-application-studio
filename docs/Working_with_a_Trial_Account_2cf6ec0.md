@@ -7,9 +7,9 @@ Get a trial account to experience SAP Business Application Studio for free.
 Trial accounts are intended for personal exploration, and not for production use or team development. They allow restricted use of the services. To learn more about the difference between enterprise and trial accounts, see [Enterprise versus Trial Accounts](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/046f127f2a614438b616ccfc575fdb16.html).
 
 > ### Note:  
-> SAP Business Application Studio is available on Trial in the Singapore, Frankfurt, and US East \(VA\) regions.
-> 
-> If you do not have a subaccount in these regions, you need to create a new subaccount with the following settings:
+> SAP Business Application Studio is available on Trial in the Singapore and US East \(VA\) regions.
+> <br>Since October 2021, the region Europe (Frankfurt) is no longer available for <b>new</b> SAP BTP Trial accounts.
+> <br><br>If you do not have a subaccount in these regions, you need to create a new subaccount with the following settings:
 > 
 > 
 > <table>
