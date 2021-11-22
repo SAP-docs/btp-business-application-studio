@@ -97,6 +97,64 @@ Extension Suite - Development Efficiency
 </td>
 <td valign="top">
 
+Service Center
+
+
+
+</td>
+<td valign="top">
+
+You can now click to connect to an ABAP system directly from the Service Center, without using the connect button. See [SAP System Service Provider](https://help.sap.com/products/SAP%20Business%20Application%20Studio/9d1db9835307451daa8c930fbd9ab264/892114ce078b4e17a9ff7e751e6330cc.html?locale=en-US&version=Cloud).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+Changed
+
+
+
+</td>
+<td valign="top">
+
+2021-11-21
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+Extension Suite - Development Efficiency
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
 Theia
 
 
@@ -104,7 +162,7 @@ Theia
 </td>
 <td valign="top">
 
- SAP Business Application Studio has been updated to include fixes and improvements that are part of [Eclipse Theia 1.15.0](https://github.com/eclipse-theia/theia/blob/master/CHANGELOG.md#v1150---6302021) 
+ SAP Business Application Studio has been updated to include fixes and improvements that are part of. [Eclipse Theia 1.15.0](https://github.com/eclipse-theia/theia/blob/master/CHANGELOG.md#v1150---6302021) 
 
 
 

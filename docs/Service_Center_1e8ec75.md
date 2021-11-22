@@ -4,9 +4,9 @@
 
 The Service Center provides a central entry point to explore services from various service providers.
 
-The services can be used as data sources in your application and application development can be triggered from the Service Center.
+You can use the services as data sources in your application and you can trigger application development from the Service Center.
 
-To explore services, click ![](images/new_service_center_icon-_black_cf8d4e2.png) \(Service Center\) from the left side menu or select *View* \> *Service Center* from the menu bar.
+To explore services, click ![](images/Service_Center_icon_77d297f.png) \(Service Center\) from the left side menu or select *View* \> *Open View* and enter ***Service Center*** in the input field. \(The full content of the input field is `view Service Center`\).
 
 The Service Center opens with the various service providers displayed, including the [SAP System Service Provider](SAP_System_Service_Provider_892114c.md) and the [SAP API Business Hub Service Provider](SAP_API_Business_Hub_Service_Provider_1a2f306.md).
 
@@ -16,7 +16,7 @@ You can hide or display each service provider in the file explorer. Right-click 
 		the services as data sources in your application or for application development.")**  
 The SAP System service provider includes systems from your SAP Business Application Studio subaccount. You can use the services as data sources in your application or for application development.
 -   **[SAP API Business Hub Service Provider](SAP_API_Business_Hub_Service_Provider_1a2f306.md "The SAP API Business Hub service provider includes SAP API Business Hub products,
-		packages, and services. The services can be used as data sources in your application or for
+		packages, and services. You can use the services as data sources in your application or for
 		application development.")**  
-The SAP API Business Hub service provider includes SAP API Business Hub products, packages, and services. The services can be used as data sources in your application or for application development.
+The SAP API Business Hub service provider includes SAP API Business Hub products, packages, and services. You can use the services as data sources in your application or for application development.
 
