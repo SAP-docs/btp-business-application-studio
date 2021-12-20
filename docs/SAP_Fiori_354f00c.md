@@ -4,7 +4,7 @@
 
 Develop SAP Fiori applications based on various environments: Cloud Foundry, ABAP on-prem, and ABAP Cloud.
 
-See, [Developing and Extending SAP Fiori Applications](https://help.sap.com/viewer/584e0bcbfd4a4aff91c815cefa0bce2d/Cloud/en-US).
+See [Developing and Extending SAP Fiori Applications](https://help.sap.com/viewer/584e0bcbfd4a4aff91c815cefa0bce2d/Cloud/en-US).
 
 **Migration from SAP Web IDE**
 

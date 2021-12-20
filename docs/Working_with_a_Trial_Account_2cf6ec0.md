@@ -41,6 +41,9 @@ Trial accounts are intended for personal exploration, and not for production use
 > 
 > Europe \(Frankfurt\) or US East \(VA\)
 > 
+> > ### Note:  
+> > There is no support for new trial accounts in the Europe \(Frankfurt\) region. Trial accounts created before October 2021 will still be supported.
+> 
 > 
 > 
 > </td>

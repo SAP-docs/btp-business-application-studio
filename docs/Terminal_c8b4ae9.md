@@ -14,3 +14,8 @@ To open the terminal at a specific directory, right-click the desired file in th
 
 ![](images/Terminal_51f4bd7.png)
 
+**Related Information**  
+
+
+[Create an SAPUI5 App from the Command Line](https://developers.sap.com/tutorials/cp-cf-sapui5-local.html)
+

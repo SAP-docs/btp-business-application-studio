@@ -111,7 +111,7 @@ The *Events* pane allows you to select an existing event handler from the contro
 
 The *Properties* pane shows the properties of the control that is currently selected in the canvas and allows you to modify its property values. The most commonly used properties for each control are displayed at the top of the list. The ![](images/data_binding_button_852457c.jpg) icon next to each property opens the *Data Binding* dialog box.
 
-For more information, see [Binding Data](Binding_Data_c24e9c4.md), [Bind Data to a Simple Control](Bind_Data_to_a_Simple_Control_93f40e6.md), and [Bind Data to an Aggregate-Type Control](Bind_Data_to_an_Aggregate-Type_Control_2ea1358.md).
+For more information, see [Binding Data](Binding_Data_c24e9c4.md), [Bind Data to a Simple Control](Bind_Data_to_a_Simple_Control_93f40e6.md), and [Bind Data to an Aggregate-Type Control](Bind_Data_to_an_Aggregate_Type_Control_2ea1358.md).
 
 ![](images/Properties_Pane_074591c.png)
 

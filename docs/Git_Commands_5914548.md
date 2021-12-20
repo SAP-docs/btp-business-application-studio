@@ -4,11 +4,11 @@
 
 SAP Business Application Studio supports Git commands from the Git view and from the command palette.
 
--   **[Commit \(Amend\) Changes](Commit_(Amend)_Changes_460ff49.md "Enables you to add the current changes to the last commit.")**  
+-   **[Commit \(Amend\) Changes](Commit_Amend_Changes_460ff49.md "Enables you to add the current changes to the last commit.")**  
 Enables you to add the current changes to the last commit.
--   **[Commit \(Signed Off\) Changes](Commit_(Signed_Off)_Changes_6b32b52.md "Enables you to save your changes to the local repository. Sign-off is a line at the end
-		of the commit message which certifies who is the author of the commit.")**  
-Enables you to save your changes to the local repository. Sign-off is a line at the end of the commit message which certifies who is the author of the commit.
+-   **[Commit \(Signed Off\) Changes](Commit_Signed_Off_Changes_6b32b52.md "Enables you to save your changes to the local repository. Sign-off is a line at the end
+		of the commit message that certifies who is the author of the commit.")**  
+Enables you to save your changes to the local repository. Sign-off is a line at the end of the commit message that certifies who is the author of the commit.
 -   **[Fetch Changes](Fetch_Changes_541f49f.md "Fetching enables you to download objects and references from a remote repository into
 		your local repository. You can then merge or rebase the changes into your
 		project.")**  

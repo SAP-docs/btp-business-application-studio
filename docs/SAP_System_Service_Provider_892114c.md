@@ -64,7 +64,7 @@ Login occurs automatically, using the SAP Business Application Studio user crede
 
         You added the data model to the CAP project. The following changes happen:
 
-        -   The `<service_name>.xml` and `<service_name>.csn` files appear in the *srv* \> *external* folder of the project.
+        -   The `<service_name>.xml` and `<service_name>.cds` files appear in the *srv* \> *external* folder of the project.
         -   A service section appears in the `package.json` file of the CAP project, which refers to the *srv* \> *external* \> *<service\_name\>.xml* file. This file has the metadata of the service:
 
             ```

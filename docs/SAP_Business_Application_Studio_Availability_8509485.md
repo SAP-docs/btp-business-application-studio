@@ -53,6 +53,9 @@ Outbound IP\*
 
 Europe \(Frankfurt\)
 
+> ### Note:  
+> There is no support for new trial accounts in this region. Trial accounts created before October 2021 will still be supported.
+
 
 
 </td>

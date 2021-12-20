@@ -39,6 +39,11 @@ You can use the terminal to add an existing project to your Git Remote so that y
 SAP Business Application Studio provides a graphical user interface for executing Git commands and managing your source control and versioning.
 -   **[Using the Git View](Using_the_Git_View_265962e.md "General overview of the Git view in SAP Business Application Studio.")**  
 General overview of the Git view in SAP Business Application Studio.
+-   **[Setting Up Git to Work with Gerrit](Setting_Up_Git_to_Work_with_Gerrit_82a5dfe.md "Gerrit is a web-based software code review tool for reviewing, approving, or
+		rejecting changes to the source code developed by your colleagues. Gerrit works as an
+		intermediate environment for source control between the local environment and the remote Git
+		repository.")**  
+Gerrit is a web-based software code review tool for reviewing, approving, or rejecting changes to the source code developed by your colleagues. Gerrit works as an intermediate environment for source control between the local environment and the remote Git repository.
 
 **Related Information**  
 

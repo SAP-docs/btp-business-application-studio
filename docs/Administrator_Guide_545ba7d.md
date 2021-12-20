@@ -22,9 +22,9 @@ Before you can work in SAP Business Application Studio, the account administrato
 		application plans: free and standard-edition. Both plans are provided only in Enterprise
 		accounts.")**  
 SAP Business Application Studio provides 2 types of application plans: free and standard-edition. Both plans are provided only in Enterprise accounts.
--   **[Manage Authorizations and Roles](Manage_Authorizations_and_Roles_01e69c5.md "The subaccount administrator can assign a role to the user for developing with SAP Business Application Studio or for managing
+-   **[Manage Authorizations and Roles](Manage_Authorizations_and_Roles_01e69c5.md "The subaccount administrator can assign the user a role for developing with SAP Business Application Studio or for managing
 		data.")**  
-The subaccount administrator can assign a role to the user for developing with SAP Business Application Studio or for managing data.
+The subaccount administrator can assign the user a role for developing with SAP Business Application Studio or for managing data.
 -   **[Connecting to External Systems](Connecting_to_External_Systems_7e49887.md "For applications that do not need to run on Cloud Foundry, establish a connection to an external system by creating one destination for
 		multi-usage. ")**  
 For applications that do not need to run on Cloud Foundry, establish a connection to an external system by creating one destination for multi-usage.
