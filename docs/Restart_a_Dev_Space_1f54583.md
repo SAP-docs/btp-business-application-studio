@@ -31,7 +31,7 @@ To change the state of a dev space to *Running* perform the following steps:
     X-Approuter-Authorization: Bearer <JWT_Token>
     
     Request Body:
-    {"WorkspaceID":"<ws-id>", "Suspended":false, "WorkspaceDisplayName":"<display-name>"}
+    {"Suspended":false, "WorkspaceDisplayName":"<display-name>"}
     ```
 
 
