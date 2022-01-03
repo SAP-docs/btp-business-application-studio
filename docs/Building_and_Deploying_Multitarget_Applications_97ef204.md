@@ -55,9 +55,10 @@ The terminal opens showing the output of the build. Once the build is complete, 
 
 **Prerequisites**
 
+-   You must be logged on to a Cloud Foundry organization and space. See [Cloud Foundry Tools](Cloud_Foundry_Tools_9ad5cf8.md).
 -   You must have permissions to deploy to your Cloud Foundry space.
 -   Your dev space must contain a multitarget application.
--   Your workspace must contain an MTA archive \(MTAR\) file.
+-   Your project must contain an MTA archive \(MTAR\) file.
 
 There are several ways for deploying multitarget applications to SAP Cloud Foundry:
 
@@ -71,7 +72,7 @@ There are several ways for deploying multitarget applications to SAP Cloud Found
     3.  Select the desired MTAR file.
 
         > ### Note:  
-        > If there’s only one MTAR file available, the deployment starts automatically. If you are not logged into Cloud Foundry, you need to do this before deployment starts.
+        > If there’s only one MTAR file available, the deployment starts automatically.
 
 
 -   From the *Task Explorer*.

@@ -220,6 +220,180 @@ SAP HANA
 </td>
 <td valign="top">
 
+Calculation views can now be configured to evaluate masked data based on the session user who is running the underlying SQL query rather than the user calling the calculation view. See [Mask Column Values](https://help.sap.com/viewer/d625b46ef0b445abb2c2fd9ba008c265/LATEST/en-US/7a4910453e0e42ecabdccd0ae0e4a81a.html).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+2021-12-06
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+Extension Suite - Development Efficiency
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+SAP HANA
+
+
+
+</td>
+<td valign="top">
+
+The list of execution hints for calculation views is now easier to find and has been expanded and improved. In addition, each execution hints now includes a short description and, where appropriate, a suggested value. See [Quick Reference: Calculation View Properties \(Execution Hints\)](https://help.sap.com/viewer/d625b46ef0b445abb2c2fd9ba008c265/LATEST/en-US/8a5d5228e41d4083b06e94d60756429b.html).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+2021-12-06
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+Extension Suite - Development Efficiency
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+SAP HANA
+
+
+
+</td>
+<td valign="top">
+
+It is now possible to deploy artifacts directly from the *Get Started with SAP HANA Cloud* tutorial in the *Guided Development* tool in SAP Business Application Studio. See *Guided Development* \> *Get Started with SAP HANA Cloud* \> *Deploy Artifacts from SAP HANA Project Explorer* in SAP Business Application Studio.
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+2021-12-06
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+Extension Suite - Development Efficiency
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+SAP HANA
+
+
+
+</td>
+<td valign="top">
+
 You can now use the SQL console for SAP HANA to execute SQL code directly from the integrated development environment \(IDE\) in SAP Business Application Studio. See [Use the SQL Console for SAP HANA to Query the Database](https://help.sap.com/viewer/c2b99f19e9264c4d9ae9221b22f6f589/LATEST/en-US/7ffe3cc490f04ca997e22326e013e73f.html).
 
 
