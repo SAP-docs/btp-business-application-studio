@@ -23,10 +23,10 @@ The Git view is divided into the following sections:
 ![](images/source_control_GIT_menu_e10ab7d.png) 
 
 -   Click ![](images/toggle_icon_e7e5e6d.png) to toggle between list and tree views.
--   Click ![](images/commit_icon_5792efe.png) \(or press  [<Ctrl\>\] + [<Enter\>\] \) or to commit the changes.
+-   Click ![](images/commit_icon_5792efe.png) \(or press  [<Ctrl\>\] + [<Enter\>\] \) to commit the changes.
 -   Click ![](images/refresh_icon_new_baea6eb.png) to refresh the Git pane.
--   Click ![](images/sign_off_2702bdd.png) to add your name to the commit.
--   Click ![](images/more_actions_new_ab37e83.png) to see more available actions. See [Git Commands](git-commands-5914548.md)
+-   Click ![](images/sign_off_2702bdd.png)
+-   Click ![](images/more_actions_new_ab37e83.png) to see more available actions. See to add your name to the commit.[Git Commands](git-commands-5914548.md)
 
  *Message* section
 
@@ -49,7 +49,7 @@ Hover over the files in this section to see additional actions:
 
 *CHANGES* section
 
-Shows the files that contain changes.
+to add your name to theShows the files that contain changes.
 
 ![](images/changes_menu_da6cd19.png)
 

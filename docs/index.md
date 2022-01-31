@@ -82,6 +82,7 @@ SAP Application Studio is a new SAP Cloud Platform service in SAP Cloud Foundry 
                 -   [MTA Tools](mta-tools-810b926.md)
                 -   [MTA Editor](mta-editor-2ef2807.md)
                 -   [Building and Deploying Multitarget Applications](building-and-deploying-multitarget-applications-97ef204.md)
+        -   [Develop an App Using Different Subaccounts](develop-an-app-using-different-subaccounts-145150e.md)
     -   [Working with a Trial Account](working-with-a-trial-account-2cf6ec0.md)
         -   [Getting Started with a Trial Account](getting-started-with-a-trial-account-48ed55e.md)
         -   [Restrictions](restrictions-a45742a.md)

@@ -2,54 +2,25 @@
 
 # Adding an Existing Project Using Git Remote
 
-You can use the terminal to add an existing project to your Git Remote so that you can continue working on it in SAP Business Application Studio.
+You can add an existing project to your Git Remote so that you can continue working on it in SAP Business Application Studio.
 
-1.  Change the current working directory to your local project.
+1.  In the Project Explorer, select you project.
+2.  Click ![](images/Open_Git_pane_7c27a9f.png) from the left side-menu to open the Git view.
+3.  Click ![](images/stage_changes_icon_10076b2.png) to initialize the local repository.
 
-2.  Set the Git committer.
+    ![](images/git_init_c09cf66.png)
 
-    ```
-    $ git config --global user.email "<your email>" 
-    $ git config --global user.name "<your user name>" 
-    ```
+4.  Click ![](images/stage_changes_icon_10076b2.png) in the *CHANGES* section to add the files in your new local repository. This stages them for the first commit.
 
-3.  Initialize the local directory as a Git repository.
+    ![](images/changes_menu_da6cd19.png)
 
-    ```
-    $ git init
-    ```
+5.  Click ![](images/commit_icon_5792efe.png) \(or press  [<Ctrl\>\] + [<Enter\>\] \) to commit the files that you've staged in your local repository.
 
-4.  Add the files in your new local repository. This stages them for the first commit.
+    ![](images/Commit_all_changes_6e4b257.png)
 
-    ```
-    $ git add .
-    ```
-
-5.  Commit the files that you've staged in your local repository.
-
-    ```
-    $ git commit -m "First commit"
-    ```
-
-6.  Create a new `main` branch.
-
-    > ### Note:  
-    > The name of the branch was changed from `master` to `main`.
-
-    ```
-    $ git branch -M main
-    ```
-
-7.  In the Command prompt, add the URL for the remote repository where your local repository will be pushed.
-
-    ```
-    $ git remote add origin https://<Git-Host-URL>/<full-path-to-repository>
-    ```
-
-8.  Push the changes in your local repository to Git.
-
-    ```
-    $ git push origin main
-    ```
-
+6.  When prompted, provide a commit message.
+7.  Click ![](images/more_actions_new_ab37e83.png) to see more available actions.
+8.  Select *Remote* \> *Add Remote*.
+9.  When prompted, add the URL for the remote repository where your local repository will be pushed.
+10. Push the changes in your local repository to the remote Git repository. See [Push Changes](push-changes-c1d3584.md).
 

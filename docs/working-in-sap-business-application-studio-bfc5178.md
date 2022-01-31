@@ -17,4 +17,8 @@ SAP Business Application Studio provides you with the tools you require for maki
 Once you have finished coding, you can test and run your application.
 -   **[Build and Deploy](build-and-deploy-d5e4d02.md "Use our dedicated tools to build and deploy your application.")**  
 Use our dedicated tools to build and deploy your application.
+-   **[Develop an App Using Different Subaccounts](develop-an-app-using-different-subaccounts-145150e.md "You can develop your application with different subaccounts. You use one subaccount to
+		create and run your application in SAP Business Application Studio. You use the other
+		subaccount, in a different region, to deploy your application to Cloud Foundry.")**  
+You can develop your application with different subaccounts. You use one subaccount to create and run your application in SAP Business Application Studio. You use the other subaccount, in a different region, to deploy your application to Cloud Foundry.
 

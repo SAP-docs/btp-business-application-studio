@@ -60,3 +60,8 @@ To upgrade the application subscription from the free plan to the standard-editi
 > 
 > -   Restart your dev space to see the extended disk space.
 
+**Related Information**  
+
+
+[Onboarding to the Free Plan](https://sapvideoa35699dc5.hana.ondemand.com/?entry_id=1_2rlmeae5)
+

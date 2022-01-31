@@ -30,9 +30,9 @@ Using Git is easy. The basic workflow is as follows:
 4.  **Push:** Add your changes to the remote repository.
 
 
--   **[Adding an Existing Project Using Git Remote](adding-an-existing-project-using-git-remote-0930e56.md "You can use the terminal to add an existing project to your Git Remote so that you can
-		continue working on it in SAP Business Application Studio.")**  
-You can use the terminal to add an existing project to your Git Remote so that you can continue working on it in SAP Business Application Studio.
+-   **[Adding an Existing Project Using Git Remote](adding-an-existing-project-using-git-remote-0930e56.md "You can add an existing project to your Git Remote so that you can continue working on
+		it in SAP Business Application Studio.")**  
+You can add an existing project to your Git Remote so that you can continue working on it in SAP Business Application Studio.
 -   **[Understanding the UI](understanding-the-ui-d14646a.md "SAP Business Application Studio provides a
 		graphical user interface for executing Git commands and managing your source control and
 		versioning. ")**  
@@ -50,7 +50,7 @@ Gerrit is a web-based software code review tool for reviewing, approving, or rej
 
 [Cloning Repositories](cloning-repositories-7a68bfa.md "Add an existing project to your local workspace by cloning its repository from Git.")
 
-[Adding an Existing Project Using Git Remote](adding-an-existing-project-using-git-remote-0930e56.md "You can use the terminal to add an existing project to your Git Remote so that you can continue working on it in SAP Business Application Studio.")
+[Adding an Existing Project Using Git Remote](adding-an-existing-project-using-git-remote-0930e56.md "You can add an existing project to your Git Remote so that you can continue working on it in SAP Business Application Studio.")
 
 [Using the Git View](using-the-git-view-265962e.md "General overview of the Git view in SAP Business Application Studio.")
 

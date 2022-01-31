@@ -10,5 +10,10 @@ This will open an input field at the top of the IDE allowing you to type a comma
 
 Some commands will lead you into a minimal text-based wizard, allowing you to enter additional parameters.
 
-![](images/Command_Pallete-_Eran_8603393.jpg)
+![](images/Command_Pallete-_Eran_8603393.jpg)Command Palette of SAP Business Application Studio
+
+**Related Information**  
+
+
+[Getting to Know the Command Palette](https://sapvideoa35699dc5.hana.ondemand.com/?entry_id=1_bg7qjsjh)
 
