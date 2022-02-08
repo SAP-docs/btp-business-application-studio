@@ -50,5 +50,5 @@ For example:
 npm config set @<scope>:registry <URL>
 ```
 
-Make sure an appropriate destination has been created in your subaccount and that you are using the exact same host and port as defined in the destination URL property.
+Make sure an appropriate destination has been created in your subaccount and that you are using the exact same host and port as defined in the destination URL property. 
 
