@@ -51,7 +51,7 @@ SAP Application Studio is a new SAP Cloud Platform service in SAP Cloud Foundry 
                 -   [SAPUI5 Controls Supported in the Layout Editor](sapui5-controls-supported-in-the-layout-editor-c5d123e.md)
             -   [Consuming SAP Services](consuming-sap-services-d5e99dc.md)
             -   [Git Source Control](git-source-control-9689c07.md)
-                -   [Adding an Existing Project Using Git Remote](adding-an-existing-project-using-git-remote-0930e56.md)
+                -   [Connecting an Existing Project to Git](connecting-an-existing-project-to-git-0930e56.md)
                 -   [Understanding the UI](understanding-the-ui-d14646a.md)
                 -   [Using the Git View](using-the-git-view-265962e.md)
                     -   [Git Commands](git-commands-5914548.md)
