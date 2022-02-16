@@ -24,19 +24,19 @@ In the [Dev Space Types](dev-space-types-4142f78.md) section, you can learn abou
 
 In SAP Business Application Studio, you are provided with one or more dev spaces. A dev space is a development environment with all the tools, capabilities, and resources needed for developing your application. Each type of application requires a different development environment. Based on the type of application that you choose to build, you're provided with a different set of tools. You can add additional tools to supplement the application with additional extensions for the scenario.
 
-The dev space is an isolated development environment providing a local-like development experience. Among other tools, it provides terminal access to the file system so you can run various commands, you can test-run your application in the dev space itself without deploying to the target runtime \(Cloud Foundry\), almost as if you were working on your own desktop.
+The dev space is an isolated development environment providing a local-like development experience. Among other tools, it provides terminal access to the file system so that you can run various commands, you can test-run your application in the dev space itself without deploying to the target runtime \(Cloud Foundry\), almost as if you were working on your own desktop.
 
 Unlike other desktop IDEs, SAP Business Application Studio is equipped with various tools specially built for developing business applications in the SAP ecosystem.
 
 These tools cover the end-to-end development cycle:
 
--   Clone an existing project with a Git client or create new project using templates.
+-   Clone an existing project with a Git client or create a new project using templates.
 
 -   Use editors for SAP-specific technologies.
 
 -   Easily test your application on your dev space while consuming services from remote sources.
 
--   Build and deploy the application as a multitarget application \(MTA\).
+-   Build and deploy the application as a multi-target application \(MTA\).
 
 
 
