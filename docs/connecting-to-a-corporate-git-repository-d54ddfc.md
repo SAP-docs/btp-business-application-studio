@@ -41,7 +41,7 @@ For example, you can create a PAT in GitHub following [these instructions](http:
 Make sure to use the exact same host and port as defined in the destination URL property.
 
 > ### Note:  
-> The corporate Git connectivity supports only secure HTTPS connections. HTTP, SSH and other protocols are not supported.
+> The corporate Git connectivity supports only secure HTTPS connections. HTTP, SSH, and other protocols are not supported.
 
 1.  Install and configure a Cloud Connector. For more information, see [Cloud Connector](https://help.sap.com/viewer/cca91383641e40ffbe03bdc78f00f681/Cloud/en-US/e6c7616abb5710148cfcf3e75d96d596.html).
 
@@ -219,7 +219,7 @@ Make sure to use the exact same host and port as defined in the destination URL 
     
 3.  Upload your organization's Git server certificate to the cloud connector \(if your Git server is using certificate-based authentication\).
 4.  If you defined a custom identity provider, make sure that you have configured the assertion-based attributes mapping for this identity provider. For more information, see [Configure Trust to the SAML Identity Provider](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/dc618538d97610148155d97dcd123c24.html#loiob6cfc4bb4bff4ace90afc71b0962fcb5).
-5.  Define your corporate Git destination. For more information, see [Connect to ABAP Systems](https://help.sap.com/viewer/825270ffffe74d9f988a0f0066ad59f0/CF/en-US/5c3debce758a470e8342161457fd6f70.html).
+5.  Define your corporate Git destination.
     1.  In the SAP BTP cockpit, select *Connectivity* \> *Destinations*.
     2.  Select *New Destination*.
     3.  In the *Destination Configuration* section, set the *Proxy Type* to *OnPremise*.
@@ -298,6 +298,9 @@ Make sure to use the exact same host and port as defined in the destination URL 
         ![Additional properties for creating Git destinations](images/Create_destination_for_Git_328ecee.png)
 
 
+
+> ### Note:  
+> To start consuming the new configurations, users can either restart their dev space or reload the destinations into the dev space. See [Accessing On Premise Systems](accessing-on-premise-systems-e72930c.md).
 
 
 

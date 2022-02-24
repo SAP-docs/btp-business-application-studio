@@ -10,7 +10,7 @@ Before you can work in SAP Business Application Studio, the account administrato
 
 ## Prerequisites
 
--   If your global account uses the subscription-based commercial model, then you must have bought a SaaS license for SAP Business Application Studio. See [Pricing and Packaging](https://www.sap.com/products/cloud-platform/pricing.html). You can also contact us on [SAP BTP](https://cloudplatform.sap.com/index.html) or via an SAP sales representative.
+-   If your global account uses the subscription-based commercial model, then you must have bought a SaaS license for SAP Business Application Studio. See [Pricing and Packaging](https://discovery-center.cloud.sap/#/serviceCatalog/business-application-studio?region=all&tab=service_plan). You can also contact us on [SAP BTP](https://cloudplatform.sap.com/index.html) or via an SAP sales representative.
 
 -   You've created a subaccount in Cloud Foundry. See [Create a Subaccount](https://help.sap.com/products/BTP/65de2977205c403bbc107264b8eccf4b/05280a123d3044ae97457a25b3013918.html).
 
