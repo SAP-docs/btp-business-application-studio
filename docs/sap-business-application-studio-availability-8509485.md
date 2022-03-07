@@ -208,7 +208,7 @@ eu12
 <tr>
 <td valign="top">
 
-US East \(N. Virginia\)
+US East \(Virginia\)
 
 
 
@@ -248,7 +248,7 @@ us10
 <tr>
 <td valign="top">
 
-US East \(N. Virginia\)
+US East \(Virginia\)
 
 
 
@@ -590,7 +590,7 @@ us20
 <tr>
 <td valign="top">
 
-US East
+US East \(Virginia\)
 
 
 
@@ -713,11 +713,11 @@ ap21
 </td>
 <td valign="top">
 
-20.43.174.229
+20.195.35.183
 
-20.198.241.28
+20.195.27.211
 
-20.198.241.53
+20.195.28.39
 
 
 
@@ -747,11 +747,41 @@ ap21-trial
 </td>
 <td valign="top">
 
-20.195.35.183
+20.191.152.199
 
-20.195.27.211
+20.191.152.225
 
-20.195.28.39
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+US Central \(Iowa\)
+
+
+
+</td>
+<td valign="top">
+
+Google Cloud
+
+
+
+</td>
+<td valign="top">
+
+us30
+
+
+
+</td>
+<td valign="top">
+
+35.202.248.207
+
+34.133.218.253
 
 
 
@@ -1011,7 +1041,7 @@ https://connectivity.cry10cf.int.applicationstudio.cloud.sap
 <tr>
 <td valign="top">
 
-US East \(N. Virginia\)
+US East \(Virginia\)
 
 
 
@@ -1391,7 +1421,7 @@ To determine the inbound IP address, perform the following steps:
 <tr>
 <td valign="top">
 
-US East \(N. Virginia\)
+US East \(Virginia\)
 
 
 
@@ -1529,7 +1559,7 @@ https://connectivity.us20.applicationstudio.cloud.sap
 <tr>
 <td valign="top">
 
-US East
+US East \(Virginia\)
 
 
 
@@ -1677,6 +1707,45 @@ https://connectivity.ap21.applicationstudio.cloud.sap
 20.198.213.162
 
 20.198.212.10
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+US Central \(Iowa\)
+
+
+
+</td>
+<td valign="top">
+
+Google Cloud
+
+
+
+</td>
+<td valign="top">
+
+us30
+
+
+
+</td>
+<td valign="top">
+
+https://connectivity.us30.applicationstudio.cloud.sap
+
+
+
+</td>
+<td valign="top">
+
+34.68.195.45
+
+34.123.168.153
 
 
 
