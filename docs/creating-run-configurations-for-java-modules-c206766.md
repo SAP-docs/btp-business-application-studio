@@ -104,7 +104,7 @@ To unbind the resource:
 
     The Debug Console opens.
 
-4.  A notification prompting you to expose and open the port \(if it wasn't previously exposed\), or to open the service in a new tab is displayed. Click the relevant action to view the service in a new tab. See [Managing Ports](managing-ports-91fc8bf.md).
+4.  A notification prompting you to open the service in a new tab is displayed. Click the relevant action to view the service in a new tab. See [Application Preview Settings](application-preview-settings-91fc8bf.md).
 5.  If you need to stop a configuration that is already running, you can do so from the *Debug* view.
 
 > ### Note:  

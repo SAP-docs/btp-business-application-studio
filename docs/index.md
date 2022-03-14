@@ -73,7 +73,7 @@ SAP Application Studio is a new SAP Cloud Platform service in SAP Cloud Foundry 
         -   [Test and Run](test-and-run-9a16a55.md)
             -   [Creating Run Configurations](creating-run-configurations-e3cbf81.md)
                 -   [Creating Run Configurations for Java Modules](creating-run-configurations-for-java-modules-c206766.md)
-            -   [Managing Ports](managing-ports-91fc8bf.md)
+            -   [Application Preview Settings](application-preview-settings-91fc8bf.md)
             -   [Cloud Foundry Tools](cloud-foundry-tools-9ad5cf8.md)
             -   [Debugging](debugging-b8587eb.md)
         -   [Build and Deploy](build-and-deploy-d5e4d02.md)

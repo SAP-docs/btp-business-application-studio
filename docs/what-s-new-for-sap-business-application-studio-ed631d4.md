@@ -97,6 +97,64 @@ Extension Suite - Development Efficiency
 </td>
 <td valign="top">
 
+Support for Dynamic Routing
+
+
+
+</td>
+<td valign="top">
+
+There is no longer a limit on the number of applications \(ports\) running at the same time.
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+Changed
+
+
+
+</td>
+<td valign="top">
+
+2022-03-14
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+Extension Suite - Development Efficiency
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
 Theia
 
 

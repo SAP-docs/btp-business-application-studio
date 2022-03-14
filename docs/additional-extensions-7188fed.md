@@ -278,7 +278,7 @@ SAPUI5 Layout Editor
 
 Allows you to visually develop your XML view.
 
-See [Develop UI Using the Layout Editor](https://help.sap.com/viewer/584e0bcbfd4a4aff91c815cefa0bce2d/Cloud/en-US/0b54d2a8e4434f748de1819e7d66855f.html).
+See [Working with the Layout Editor](https://help.sap.com/products/SAP%20Business%20Application%20Studio/9d1db9835307451daa8c930fbd9ab264/8fbbaad310eb4712a5d8169331106b25.html?version=Cloud).
 
 
 
