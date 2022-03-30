@@ -6,13 +6,6 @@
 
 
 
-> ### Note:  
-> The items that appear on this list are relevant for developers using the Trial landscape. These features will be available on the productive landscape with the next release.
-
-
-
-<a name="loioed631d4ee2214e9f932b03d40b2c7e41__wnv_table"/>Core Components, 2019
-
 
 <table>
 <tr>
@@ -1642,4 +1635,9 @@ Not applicable
 </td>
 </tr>
 </table>
+
+-   **[2021 What's New for SAP Business Application Studio \(Archive\)](2021-what-s-new-for-sap-business-application-studio-archive-d42bd4b.md "")**  
+
+-   **[2020 What's New for SAP Business Application Studio \(Archive\)](2020-what-s-new-for-sap-business-application-studio-archive-431551f.md "")**  
+
 

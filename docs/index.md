@@ -4,6 +4,8 @@ SAP Application Studio is a new SAP Cloud Platform service in SAP Cloud Foundry 
 
 -   [What is SAP Business Application Studio?](what-is-sap-business-application-studio-8f46c6e.md)
 -   [What's New for SAP Business Application Studio](what-s-new-for-sap-business-application-studio-ed631d4.md)
+    -   [2021 What's New for SAP Business Application Studio \(Archive\)](2021-what-s-new-for-sap-business-application-studio-archive-d42bd4b.md)
+    -   [2020 What's New for SAP Business Application Studio \(Archive\)](2020-what-s-new-for-sap-business-application-studio-archive-431551f.md)
 -   [Developer Guide](developer-guide-84be8d9.md)
     -   [Dev Spaces in SAP Business Application Studio](dev-spaces-in-sap-business-application-studio-6053df8.md)
         -   [Working in the Dev Space Manager](working-in-the-dev-space-manager-ad40d52.md)

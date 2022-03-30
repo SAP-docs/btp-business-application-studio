@@ -45,7 +45,7 @@ The SAP API Business Hub service provider includes SAP API Business Hub products
     2.  Use the template wizard to create the relevant project.
 
         > ### Note:  
-        > To run your project with the SAP API Business Hub sandbox, see the prerequisites in [Run Your HTML5 Application with the SAP API Business Hub](https://help.sap.com/viewer/0e2ec06ee34742fd9054fabe09c12d35/Cloud/en-US/3fca8fcfe27a43c0b8bbde8fe2113e82.html "You can run an HTML5 application locally with an SAP API Business Hub service.") :arrow_upper_right:.
+        > To run your project with the SAP API Business Hub sandbox, see the prerequisites in[Developing an HTML5 Application for Cloud Foundry](https://help.sap.com/viewer/0e2ec06ee34742fd9054fabe09c12d35/Cloud/en-US/3daa8d63fccb40959cdd0f52aab2d931.html).
 
 
 -   You can select a service from the Service Center and add it as an external data model to a CAP Node project:

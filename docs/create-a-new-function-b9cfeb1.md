@@ -25,5 +25,5 @@ You can create a new function for a controller from the *Events* pane.
 **Related Information**  
 
 
-
+[Layout Editor](https://help.sap.com/viewer/try-it-out/90ba99ae9af64f76a3da593e44ca5b9f.html)
 
