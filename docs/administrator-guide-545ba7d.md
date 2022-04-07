@@ -33,8 +33,8 @@ For applications that do not need to run on Cloud Foundry, establish a connectio
 SAP Business Application Studio allows you to connect to public and corporate repositories.
 -   **[Export and Download Personal Data from Specific Users](export-and-download-personal-data-from-specific-users-8091e47.md "You can export and download personal data from specific users from your workspace. ")**  
 You can export and download personal data from specific users from your workspace.
--   **[Restart a Dev Space](restart-a-dev-space-1f54583.md "")**  
-
+-   **[Restart a Dev Space](restart-a-dev-space-1f54583.md "You can change the state of a dev space to Running.")**  
+You can change the state of a dev space to *Running*.
 -   **[Delete Personal Data](delete-personal-data-03da2fa.md "You can delete personal data stored in your workspace.")**  
 You can delete personal data stored in your workspace.
 -   **[SAP Business Application Studio Availability](sap-business-application-studio-availability-8509485.md "You can find the regions where SAP Business Application Studio is available and the
