@@ -104,6 +104,80 @@ SAP HANA Tooling
 </td>
 <td valign="top">
 
+The database-explorer tools can now be used with local database connections on ARM platforms. Note that the limitations of the SAP HANA "hdb" Node.js client apply, for example, SAP HANA User Store connections are not available.
+
+See [Deploy Artifacts and Set up Database Connections with SAP HANA Projects Explorer](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/4bbbaae1d8694005adcfe1ec06a5cd46.html?version=2022_1_QRC&locale=en-US).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+2022-04-11
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+SAP HANA Tooling
+
+
+
+</td>
+<td valign="top">
+
 The SAP HANA Native Application extension for SAP Business Application Studio now provides access to SAP HANA database development tools from an SAP CAP project.
 
 See [Configure an SAP CAP Application to Work with Native SAP HANA Artifacts](https://help.sap.com/viewer/c2b99f19e9264c4d9ae9221b22f6f589/2022_1_QRC/en-US/ef0377f5e9d84ce3aeb43a7e4baa5fe4.html).
