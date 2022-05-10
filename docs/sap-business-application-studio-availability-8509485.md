@@ -787,6 +787,36 @@ us30
 
 </td>
 </tr>
+<tr>
+<td valign="top">
+
+India
+
+
+
+</td>
+<td valign="top">
+
+Google Cloud
+
+
+
+</td>
+<td valign="top">
+
+in30
+
+
+
+</td>
+<td valign="top">
+
+34.93.211.137
+
+
+
+</td>
+</tr>
 </table>
 
 \*NAT IPs \(egress, IPs for requests from an SAP Business Application Studio dev space\)
@@ -1746,6 +1776,43 @@ https://connectivity.us30.applicationstudio.cloud.sap
 34.68.195.45
 
 34.123.168.153
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+India
+
+
+
+</td>
+<td valign="top">
+
+Google Cloud
+
+
+
+</td>
+<td valign="top">
+
+in30
+
+
+
+</td>
+<td valign="top">
+
+https://connectivity.in30.applicationstudio.cloud.sap
+
+
+
+</td>
+<td valign="top">
+
+34.93.97.128
 
 
 

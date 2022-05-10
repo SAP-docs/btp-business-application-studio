@@ -31,7 +31,7 @@ You can change the state of a dev space to *Running*.
     X-Approuter-Authorization: Bearer <JWT_Token>
     
     Request Body:
-    {"Suspended":false, "WorkspaceDisplayName":"<display-name>"}
+    {"suspended":false, "WorkspaceDisplayName":"<display-name>"}
     ```
 
     > ### Note:  

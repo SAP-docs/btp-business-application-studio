@@ -82,7 +82,7 @@ The dirty indicators are as follows:
 
 *\**: You have unstaged changes in your branch.
 
-*+*: You have staged changes in your branch, but no unstaged changes.
+*\+*: You have staged changes in your branch, but no unstaged changes.
 
 *!*: You have conflicting changes in your branch.
 
