@@ -2,11 +2,13 @@
 
 # Accessing On Premise Systems
 
-You can access SAP ABAP on premise systems using a built-in Web Proxy.
+You can access SAP ABAP or other on premise systems using a built-in Web Proxy.
 
 Your dev space includes a built-in Web Proxy \(`http://localhost:8887`\) that allows you access to on premise systems. It is already configured with the HTTP\_PROXY and the HTTPS\_PROXY environment variables.
 
 The proxy requires destination configuration to your on-premise system from your Cloud Foundry subaccount.
+
+For more information, see [Connecting to External Systems](connecting-to-external-systems-7e49887.md).
 
 
 
@@ -21,7 +23,7 @@ The proxy requires destination configuration to your on-premise system from your
     curl http://localhost:8887/reload
     ```
 
-    This will trigger an immediate update of your on-premise destinations used by the dev space proxy.
+    This will trigger an immediate update of your on-premise destinations used by the dev space Web Proxy.
 
 
 
@@ -32,7 +34,7 @@ The proxy requires destination configuration to your on-premise system from your
 
 You can work with on premise Git repositories once an appropriate destination has been created in your subaccount. Make sure to use the exact same host and port as defined in the destination URL property.
 
-For more information, see [Connecting to External Systems](connecting-to-external-systems-7e49887.md).
+For more information, see [Connecting to a Corporate Git Repository](connecting-to-a-corporate-git-repository-d54ddfc.md).
 
 
 
@@ -48,6 +50,31 @@ For example:
 
 ```
 npm config set @<scope>:registry <URL>
+```
+
+Make sure an appropriate destination has been created in your subaccount and that you are using the exact same host and port as defined in the destination URL property.
+
+
+
+<a name="loioe72930c96b664e3ea4ce5288eb84075f__section_ocb_3pn_mtb"/>
+
+## Using Java Modules from On Premise Repositories
+
+You can use Java modules as dependencies to your Java projects from an on premise Maven repository.
+
+Edit the standard Maven settings file \(open file /home/user/.m2/settings.xml\) to add the repository URL.
+
+For example:
+
+```
+<repositories>
+   . . .
+   <repository>
+        <id>corporate.repository</id>
+        <url>PUT YOUR FULL REPOSITORY URL HERE</url>
+   </repository>
+   . . .
+<\repositories>
 ```
 
 Make sure an appropriate destination has been created in your subaccount and that you are using the exact same host and port as defined in the destination URL property.
