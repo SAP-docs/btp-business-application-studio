@@ -27,7 +27,6 @@ SAP Application Studio is a new SAP Cloud Platform service in SAP Cloud Foundry 
             -   [Service Center](service-center-1e8ec75.md)
                 -   [SAP System Service Provider](sap-system-service-provider-892114c.md)
                 -   [SAP API Business Hub Service Provider](sap-api-business-hub-service-provider-1a2f306.md)
-                -   [API Business Hub Enterprise Service Provider](api-business-hub-enterprise-service-provider-328519b.md)
         -   [Create a Project](create-a-project-fa59c5a.md)
             -   [Creating a Project Using the Wizard](creating-a-project-using-the-wizard-75ff480.md)
             -   [Creating a Project from the Terminal](creating-a-project-from-the-terminal-c29e1a3.md)

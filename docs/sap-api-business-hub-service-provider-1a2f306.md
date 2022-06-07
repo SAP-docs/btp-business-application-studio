@@ -24,8 +24,6 @@ The SAP API Business Hub service provider includes SAP API Business Hub products
 
     After you log in to a service, the icon has a green dot \(![](images/green_dot-_system_available_ac1aa72.jpg)\).
 
-    The service editor displays the service's properties, including the service name, protocol, status, product, and entity details.
-
     The service editor displays the service's properties, including the service name, protocol, status, and product.
 
     You can navigate to the API package by clicking ![](images/go_to_API_59e0aba.png).
