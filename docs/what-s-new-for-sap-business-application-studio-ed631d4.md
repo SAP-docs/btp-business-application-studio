@@ -97,6 +97,1051 @@ Available as of
 </td>
 <td valign="top">
 
+Calculation Views
+
+
+
+</td>
+<td valign="top">
+
+You can now create snapshots based on a specific query in a calculation view.
+
+See [Create Query Snapshots](https://help.sap.com/docs/HANA_CLOUD_DATABASE/d625b46ef0b445abb2c2fd9ba008c265/d35f768ce50145d2ad0e5916898f004d.html).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+2022-06-19
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Calculation Views
+
+
+
+</td>
+<td valign="top">
+
+A new aggregation option MEDIAN is available for:
+
+-   Measures in a calculation view with aggregation or star join
+
+-   Calculated columns with measure type, if client side aggregation is enabled
+
+-   Mapping for a node, if the column is a measure
+
+
+See [Supported View Nodes for Modeling Calculation Views](https://help.sap.com/docs/HANA_CLOUD_DATABASE/d625b46ef0b445abb2c2fd9ba008c265/346dcfd19b3e4fe3a95ac1a1609c9c40.html).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+2022-06-19
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Calculation Views
+
+
+
+</td>
+<td valign="top">
+
+You can now map session variables to input parameters.
+
+Up to now, it was only possible to map parameters and variables to input parameters.
+
+For more information about mapping input parameters, see [Supported View Nodes for Modeling Calculation Views](https://help.sap.com/docs/HANA_CLOUD_DATABASE/d625b46ef0b445abb2c2fd9ba008c265/c5a5e12a5cc84196991d40ef0dd2003f.html).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+2022-06-19
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Calculation Views
+
+
+
+</td>
+<td valign="top">
+
+You can now quickly find out where elements in a calculation view, such as calculated columns, input parameters, restricted columns, or variables, are used.
+
+See [Where Used Functionality](https://help.sap.com/docs/HANA_CLOUD_DATABASE/d625b46ef0b445abb2c2fd9ba008c265/d79577f0cda74f4faa1ba5a8b0a6ba45.htm).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+2022-06-19
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+SAP HANA Tooling
+
+
+
+</td>
+<td valign="top">
+
+You can now use the SAP HANA Native Application extension for SAP Business Application Studio to export a package that includes selected objects from an SAP HANA HDI container, for example, if required for testing by support teams.
+
+See [Export an SAP HDI Container for Support Purposes](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/0e4c3403b64d40f093a8a2cb78f9944b.html).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+2022-06-19
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+SAP HANA Tooling
+
+
+
+</td>
+<td valign="top">
+
+You can now create a default "`hdbgrants`" file for the automatic assignment of privileges when adding a new database connection in the *SAP HANA Projects* explorer in the SAP HANA Native Application extension for SAP Business Application Studio.
+
+See [Deploy Artifacts and Set up Database Connections with SAP HANA Projects Explorer](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/4bbbaae1d8694005adcfe1ec06a5cd46.html).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+2022-06-19
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+SAP HANA Tooling
+
+
+
+</td>
+<td valign="top">
+
+In the SAP HANA Native Application extension for SAP Business Application Studio, you can now set the user preference "auto-commit" in the SAP HANA *SQL Console* to ensure that any changes to the database required by the code you run in the *SQL Console* are performed immediately, for example, when inserting or updating data in tables.
+
+See [Use the SQL Console for SAP HANA to Query the Database](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/7ffe3cc490f04ca997e22326e013e73f.html).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+2022-06-19
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+SAP HANA Tooling
+
+
+
+</td>
+<td valign="top">
+
+You can now use the SAP HANA *SQL Console* in the SAP HANA Native Application extension for SAP Business Application to run SQL queries that include parameters.
+
+See [Use the SQL Console for SAP HANA to Query the Database](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/7ffe3cc490f04ca997e22326e013e73f.html).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+2022-06-19
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+SAP HANA Tooling
+
+
+
+</td>
+<td valign="top">
+
+The *SAP HANA Projects* explorer in the SAP HANA Native Application extension for SAP Business Application Studio now checks the details of the target schema details when binding to an existing service.
+
+See [Deploy Artifacts and Set up Database Connections with SAP HANA Projects Explorer](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/4bbbaae1d8694005adcfe1ec06a5cd46.html).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+2022-06-19
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+SAP HANA Tooling
+
+
+
+</td>
+<td valign="top">
+
+You can now switch between database connections in the SAP HANA *SQL Console* in the SAP HANA Native Application extension for SAP Business Application.
+
+See [Use the SQL Console for SAP HANA to Query the Database](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/7ffe3cc490f04ca997e22326e013e73f.html).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+2022-06-19
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+SAP HANA Tooling
+
+
+
+</td>
+<td valign="top">
+
+You can now use context-sensitive menus in the *SAP HANA Databases* explorer's *Catalog Browser* in the SAP HANA Native Application extension for SAP Business Application Studio to copy the simple or fully qualified name of a database object to the clipboard.
+
+See [View Database Objects with the Database Explorer](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/0e5ac0b0625b411c8f05346566a3341f.html).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+2022-06-19
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+SAP HANA Tooling
+
+
+
+</td>
+<td valign="top">
+
+You can now use the *SAP HANA Databases* explorer's *Catalog Browser* in the SAP HANA Native Application extension for SAP Business Application Studio to generate the SQL code that was used to create the selected database object.
+
+See [View Database Objects with the Database Explorer](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/0e5ac0b0625b411c8f05346566a3341f.html).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+2022-06-19
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+SAP HANA Tooling
+
+
+
+</td>
+<td valign="top">
+
+You can now use the *SAP HANA Projects* explorer in the SAP HANA Native Application extension for SAP Business Application Studio to bind a user-provided service to a target HDI container.
+
+See [Deploy Artifacts and Set up Database Connections with SAP HANA Projects Explorer](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/4bbbaae1d8694005adcfe1ec06a5cd46.html).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+2022-06-19
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+SAP HANA Tooling
+
+
+
+</td>
+<td valign="top">
+
+You can now use the *SAP HANA Projects* explorer in the SAP HANA Native Application extension for SAP Business Application Studio to bind to \(or unbind from\) all services displayed in the Database Connections pane.
+
+See [Deploy Artifacts and Set up Database Connections with SAP HANA Projects Explorer](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/4bbbaae1d8694005adcfe1ec06a5cd46.html) and [View Database Objects with the Database Explorer](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/0e5ac0b0625b411c8f05346566a3341f.html).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+2022-06-19
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
 Service Center
 
 

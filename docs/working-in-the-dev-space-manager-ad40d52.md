@@ -10,21 +10,24 @@ You can create, delete, stop, and start dev spaces. You can also download dev sp
 
 ## Create a Dev Space
 
-You can generate a dev space to create and manage applications. You can select the application type that includes the extensions that you need for performing a development task.
+You can generate a dev space to create and manage applications. You can select the application type that includes the extensions that you need to do a development task.
 
 1.  Open SAP Business Application Studio and log in with your credentials.
 2.  Click *Create Dev Space*.
 3.  Enter a name for the dev space.
 4.  Select the relevant application type.
-5.  \(Optional\) Select the relevant additional extensions to enhance your space. You can add or remove extensions later as well. See the [Add Extensions to Your Dev Space](working-in-the-dev-space-manager-ad40d52.md#loioad40d52d0bea4d79baaf9626509caf33__section_s2p_4ts_fnb) section.
+5.  \(Optional\) Select the relevant additional extensions to enhance your space.
+
+    You can also add or remove extensions later. See the [Add Extensions to Your Dev Space](working-in-the-dev-space-manager-ad40d52.md#loioad40d52d0bea4d79baaf9626509caf33__section_s2p_4ts_fnb) section.
+
 6.  Click *Create Dev Space*.
 
     > ### Note:  
-    > The button is only enabled if you entered a dev space name.
+    > You can only click the button if you entered a dev space name.
 
 
 > ### Note:  
-> The maximum size limit of the dev space is 10 GB for productive accounts in the standard-edition plan, and 4 GB for trial accounts and accounts using the free plan. Exceeding this limit may cause loss of data and other problems, including the inability to start the dev space. Note that additional restrictions apply to dev spaces in trial accounts. See [Restrictions](restrictions-a45742a.md).
+> The maximum size limit of the dev space is 10 GB for productive accounts in the standard-edition plan. For trial accounts and accounts using the free plan, the maximum size limit of the dev space is 4 GB. Exceeding the maximum size limit can cause loss of data and other issues, including the inability to start the dev space. Note that additional restrictions apply to dev spaces in trial accounts. See [Restrictions](restrictions-a45742a.md).
 
 
 
@@ -32,14 +35,14 @@ You can generate a dev space to create and manage applications. You can select t
 
 ## Stop, Start, or Delete Your Dev Space
 
-If you don't need to work with your dev space for a while, you can stop your dev space. When your dev space is running, it consumes memory, energy, and CPU. If you don't use your dev space and it sits idle for too long, the dev space will be stopped.
+If you don't need to work with your dev space for a while, you can stop your dev space. When your dev space is running, it consumes memory, energy, and CPU. If you don't use your dev space and it sits idle for a while, the dev space is stopped.
 
-When you restart your stopped dev space, all content in your dev space, including files and settings, remain and will be available. If you want to apply updates to extensions and bug fixes, you must stop your dev space and start it again.
+When you restart your stopped dev space, all content in your dev space, including files and settings, are available. If you want to apply updates to extensions and bug fixes, you must stop your dev space and start it again.
 
 You can also delete your dev space.
 
 > ### Note:  
-> By creating a dev space, you create a project and file system for yourself. If you delete your dev space, it can't be recovered. We recommend syncing, backing up, and saving your project to a Git repository. See [Connect to Your Git Source Control System](connect-to-your-git-source-control-system-e7a42bc.md).
+> By creating a dev space, you create a project and file system for yourself. If you delete your dev space, you can't recover it. We recommend syncing, backing up, and saving your project to a Git repository. See [Connect to Your Git Source Control System](connect-to-your-git-source-control-system-e7a42bc.md).
 
 
 
@@ -52,7 +55,7 @@ You can add extensions to an existing dev space from the Dev Space Manager.
 To add extentions, the dev space must be in the stopped state.
 
 1.  From the Dev Space Manager, click ![Edit icon](images/Edit_Dev_Space_Button_7f87f6e.jpg) to edit the dev space.
-2.  Select the desired additional SAP extensions.
+2.  Select the additional SAP extensions that you want to add.
 3.  Click *Save Changes*.
 
 
@@ -68,12 +71,14 @@ You can download the dev space content in the following situations:
 
 To download the content of your dev space, click ![Download icon](images/Download_Dev_space_content_87493f9.png) and then *Download*.
 
-After the download begins, the dev space state changes to *STARTING*. The dev space state then changes to *SAFE MODE* and then the `tar` file downloads.
+If your dev space is in the *ERROR* state, after the download begins, the dev space state changes to *STARTING*. The dev space state then changes to *SAFE MODE* and then the `tar` file downloads.
 
-When the download is complete, the `tar` file appears, which contains the dev space content.
+After the dev space changes to *SAFE MODE*, it's not possible to return to the *RUNNING* state. You can only download the dev space content and delete the dev space.
+
+When the export process is complete, the `tar` file, with the dev space content, is downloaded.
 
 > ### Note:  
-> After the dev space content is exported, check the total size of the dev space before uploading it to make sure that the size does not exceed 10 GB.
+> After exporting the dev space content, check the size of the dev space before uploading. Make sure that the size doesn't exceed 10 GB.
 
 
 
@@ -81,15 +86,15 @@ When the download is complete, the `tar` file appears, which contains the dev sp
 
 ## Import Dev Space Content
 
-After downloading the dev space content, you can import the content to another dev space by performing the following steps:
+After downloading the dev space content, you can import the content to another dev space:
 
 1.  Create a new dev space, start it, and open it.
 2.  Click *Open Folder*.
 
-    The `user` folder is selected by default.
+    The `user` folder is selected.
 
 3.  Click *Open*.
-4.  Click the `projects` folder to select it.
+4.  Click to select the `projects` folder.
 5.  Click *File* \> *Upload Files*.
 6.  From the *Downloads* folder, choose the file with the dev space content.
 7.  Right-click the `projects` folder and select ***Open in Terminal***.
