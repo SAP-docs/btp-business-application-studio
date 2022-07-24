@@ -3,6 +3,7 @@
 SAP Application Studio is a new SAP Cloud Platform service in SAP Cloud Foundry which offers a modular development environment tailored for efficient development of business applications for the Intelligent Enterprise.
 
 -   [What is SAP Business Application Studio?](what-is-sap-business-application-studio-8f46c6e.md)
+    -   [Accessibility Features in SAP Business Application Studio](accessibility-features-in-sap-business-application-studio-704ce0a.md)
 -   [What's New for SAP Business Application Studio](what-s-new-for-sap-business-application-studio-ed631d4.md)
     -   [2021 What's New for SAP Business Application Studio \(Archive\)](2021-what-s-new-for-sap-business-application-studio-archive-d42bd4b.md)
     -   [2020 What's New for SAP Business Application Studio \(Archive\)](2020-what-s-new-for-sap-business-application-studio-archive-431551f.md)
@@ -27,6 +28,7 @@ SAP Application Studio is a new SAP Cloud Platform service in SAP Cloud Foundry 
             -   [Service Center](service-center-1e8ec75.md)
                 -   [SAP System Service Provider](sap-system-service-provider-892114c.md)
                 -   [SAP API Business Hub Service Provider](sap-api-business-hub-service-provider-1a2f306.md)
+                -   [API Business Hub Enterprise Service Provider](api-business-hub-enterprise-service-provider-328519b.md)
         -   [Create a Project](create-a-project-fa59c5a.md)
             -   [Creating a Project Using the Wizard](creating-a-project-using-the-wizard-75ff480.md)
             -   [Creating a Project from the Terminal](creating-a-project-from-the-terminal-c29e1a3.md)
@@ -69,6 +71,7 @@ SAP Application Studio is a new SAP Cloud Platform service in SAP Cloud Foundry 
                         -   [Git Stash](git-stash-ac0dca6.md)
                         -   [View Diffs](view-diffs-11f5b00.md)
                 -   [Setting Up Git to Work with Gerrit](setting-up-git-to-work-with-gerrit-82a5dfe.md)
+            -   [Continuous Integration and Delivery](continuous-integration-and-delivery-b357cfe.md)
             -   [Terminal](terminal-c8b4ae9.md)
             -   [Command Palette](command-palette-78788bf.md)
             -   [Outline View](outline-view-6e9a280.md)
