@@ -2,11 +2,11 @@
 
 # API Business Hub Enterprise Service Provider
 
-The API Business Hub Enterprise service provider offers products and services that are published in the API Business Hub Enterprise. You can publish services and group them under the product that you'll consume.
+The API business hub enterprise service provider offers products and services that are published in the API business hub enterprise. You can publish services and group them under the product that you'll consume.
 
 **Prerequisite**
 
-You created a service instance in the API Business Hub Enterprise. See [Creating a Service Instance in the API Management, API business hub enterprise](https://help.sap.com/docs/SAP_CLOUD_PLATFORM_API_MANAGEMENT/66d066d903c2473f81ec33acfe2ccdb4/dabee6e347f645a6805ec5b29f5d578c.html?locale=en-US#creating-a-service-instance-in-the-api-management%2C-api-business-hub-enterprise-).
+You created a service instance in the API business hub enterprise. See [Creating a Service Instance in the API Management, API business hub enterprise](https://help.sap.com/docs/SAP_CLOUD_PLATFORM_API_MANAGEMENT/66d066d903c2473f81ec33acfe2ccdb4/dabee6e347f645a6805ec5b29f5d578c.html?locale=en-US#creating-a-service-instance-in-the-api-management%2C-api-business-hub-enterprise-).
 
 
 
@@ -14,13 +14,13 @@ You created a service instance in the API Business Hub Enterprise. See [Creating
 
 ## Add a System
 
-You can add a new system, referring to the API Business Hub Enterprise instance, from the SAP BTP cockpit in the SAP Business Application Studio subaccount. This destination will be used **to register new developers to API Business Hub Enterprise and to subscribe them to products**.
+You can add a new system, referring to the API business hub enterprise instance, from the SAP BTP cockpit in the SAP Business Application Studio subaccount. This destination will be used **to register new developers to API business hub enterprise and to subscribe them to products**.
 
 > ### Note:  
 > To add a system, you must meet these criteria:
 > 
 > -   You're assigned the *Business\_Application\_Studio\_Administrator* role in the cockpit. See [Manage Authorizations and Roles](manage-authorizations-and-roles-01e69c5.md).
-> -   You're connected to a space with a subscription to the API Business Hub Enterprise.
+> -   You're connected to a space with a subscription to the API business hub enterprise.
 
 1.  Hover over the subaccount and click ![](images/Add_system-_service_center-_plus_icon_3701d6b.jpg) \(Add system\).
 
@@ -95,7 +95,7 @@ You can add a new system, referring to the API Business Hub Enterprise instance,
     </td>
     <td valign="top">
 
-    Use the `url` value from the service key of the API Business Hub Enterprise instance.
+    Use the `url` value from the service key of the API business hub enterprise instance.
 
     You can find the service key for the service instance that you created \(in the Prerequisite\) in the SAP BTP cockpit, under the *API Management, API Business Hub Enterprise* service.
 
@@ -147,7 +147,7 @@ You can add a new system, referring to the API Business Hub Enterprise instance,
     </td>
     <td valign="top">
 
-    Use the `clientId` value from the service key of the API Business Hub Enterprise instance.
+    Use the `clientId` value from the service key of the API business hub enterprise instance.
 
 
     
@@ -163,7 +163,7 @@ You can add a new system, referring to the API Business Hub Enterprise instance,
     </td>
     <td valign="top">
 
-    Use the `clientSecret` value from the service key of the API Business Hub Enterprise instance.
+    Use the `clientSecret` value from the service key of the API business hub enterprise instance.
 
 
     
@@ -179,7 +179,7 @@ You can add a new system, referring to the API Business Hub Enterprise instance,
     </td>
     <td valign="top">
 
-    Use the `tokenUrl` value from the service key of the API Business Hub Enterprise instance.
+    Use the `tokenUrl` value from the service key of the API business hub enterprise instance.
 
 
     
@@ -267,7 +267,7 @@ You can add a new system, referring to the API Business Hub Enterprise instance,
 
     Adding this property is optional.
 
-    This property enables navigation from the Service Center to the API Business Hub Enterprise.
+    This property enables navigation from the Service Center to the API business hub enterprise.
 
     Use the following format:
 
@@ -303,7 +303,7 @@ You can add a new system, referring to the API Business Hub Enterprise instance,
     </td>
     <td valign="top">
 
-    Use the first part of the `tokenUrl` from the destination system of API Business Hub Enterprise.
+    Use the first part of the `tokenUrl` from the destination system of API business hub enterprise.
 
     For example, if the URL is https://abcd123trial.authentication.eu10.hana.ondemand.com/oauth/token
 
@@ -366,11 +366,11 @@ You can add a new system, referring to the API Business Hub Enterprise instance,
 ## Explore API Business Hub Enterprise Services
 
 > ### Note:  
-> The Service Center only shows API Business Hub Enterprise systems and products with OData services.
+> The Service Center only shows API business hub enterprise systems and products with OData services.
 
-1.  From the Service Center, click the gray arrow to display the API Business Hub Enterprise systems.
+1.  From the Service Center, click the gray arrow to display the API business hub enterprise systems.
 
-    Each system points to an API Business Hub Enterprise instance.
+    Each system points to an API business hub enterprise instance.
 
 2.  Click the gray arrow next to the system \(![](images/SC_API_Hub_product_icon_a999bc7.png)\) to display the products within it.
 
@@ -382,13 +382,13 @@ You can add a new system, referring to the API Business Hub Enterprise instance,
 
 4.  Click a service \(![](images/SC-_service_icon_fc5c112.png)\) to see its properties, including the service name, protocol, and status.
 
-    To see the service details, you must be onboarded to the API Business Hub Enterprise and subscribed to the selected product:
+    To see the service details, you must be onboarded to the API business hub enterprise and subscribed to the selected product:
 
-    -   If you aren't onboarded to the API Business Hub Enterprise, enter your first name, last name, and subscription name and click *Subscribe*.
+    -   If you aren't onboarded to the API business hub enterprise, enter your first name, last name, and subscription name and click *Subscribe*.
 
         You're now subscribed to the product and all services associated with it.
 
-    -   If you're onboarded to the API Business Hub Enterprise, but you aren't subscribed to the product, enter a subscription name and click *Subscribe*.
+    -   If you're onboarded to the API business hub enterprise, but you aren't subscribed to the product, enter a subscription name and click *Subscribe*.
 
         You can now access the service.
 
@@ -397,7 +397,7 @@ You can add a new system, referring to the API Business Hub Enterprise instance,
 
     -   Subscription details
 
-        This section includes a link to the product in the API Business Hub Enterprise, the subscription name with a link to the subscription in the API Business Hub Enterprise, and the subscription date.
+        This section includes a link to the product in the API business hub enterprise, the subscription name with a link to the subscription in the API business hub enterprise, and the subscription date.
 
     -   Service properties
 

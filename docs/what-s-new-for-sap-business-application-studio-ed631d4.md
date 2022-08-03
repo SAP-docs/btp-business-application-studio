@@ -97,6 +97,78 @@ Available as of
 </td>
 <td valign="top">
 
+Low-code Development
+
+
+
+</td>
+<td valign="top">
+
+In low-code development dev spaces, you can now configure and run continuous integration and delivery \(CI/CD\) pipelines that automatically build, test, and deploy your code changes to speed up your development and delivery cycles. See [Continuous Integration and Delivery](https://help.sap.com/docs/Application%20Development/6a5fc562f6e2402aa84b0416614a05fc/b357cfe698f3424cb76c7a3070d9a2b3.html?version=Cloud).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+2022-08-01
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
 Node.js Version
 
 

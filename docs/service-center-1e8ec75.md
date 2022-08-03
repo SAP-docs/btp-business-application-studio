@@ -21,8 +21,8 @@ The SAP System service provider includes systems from your SAP Business Applicat
 		packages, and services. You can use the services as data sources in your application or for
 		application development.")**  
 The SAP API Business Hub service provider includes SAP API Business Hub products, packages, and services. You can use the services as data sources in your application or for application development.
--   **[API Business Hub Enterprise Service Provider](api-business-hub-enterprise-service-provider-328519b.md "The API Business Hub Enterprise service provider offers products and services that are
-		published in the API Business Hub Enterprise. You can publish services and group them under
+-   **[API Business Hub Enterprise Service Provider](api-business-hub-enterprise-service-provider-328519b.md "The API business hub enterprise service provider offers products and services that are
+		published in the API business hub enterprise. You can publish services and group them under
 		the product that you'll consume.")**  
-The API Business Hub Enterprise service provider offers products and services that are published in the API Business Hub Enterprise. You can publish services and group them under the product that you'll consume.
+The API business hub enterprise service provider offers products and services that are published in the API business hub enterprise. You can publish services and group them under the product that you'll consume.
 
