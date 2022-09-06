@@ -406,6 +406,10 @@ You can add a new system, referring to the API business hub enterprise instance,
 
     If a service is available, the icon has a green dot \(![](images/green_dot-_system_available_ac1aa72.jpg)\).
 
+    > ### Note:  
+    > -   If a service is unavailable and the target endpoint of the service requires authentication, make sure that the target endpoint is configured to be authenticated via [Basic Authentication](https://help.sap.com/docs/SAP_CLOUD_PLATFORM_API_MANAGEMENT/66d066d903c2473f81ec33acfe2ccdb4/693c0d1720644d57918ed77acc6a95ef.html?locale=en-US&version=Cloud). See the "Configure API Management to Use the Basic Authentication Policy" section in this [blog post](https://blogs.sap.com/2019/05/23/securing-your-microservice-on-sap-cloud-platform-using-api-management-with-basic-authentication-for-last-mile-security/).
+    > -   It is recommended to use the [verify API key](https://help.sap.com/docs/SAP_CLOUD_PLATFORM_API_MANAGEMENT/66d066d903c2473f81ec33acfe2ccdb4/4d15a0427494452dbb42a319e9bb420f.html?locale=en-US&version=Cloud) policy to ensure secure access to the service. This policy is added in the PreFlow of the ProxyEndpoint of the corresponding API proxy.
+
 5.  Click an entity to see the service details, including entity data and preview the data:
     1.  You can see the entity's data from the *Entity Details* tab.
     2.  You can preview the entity's data from the *Preview Data* tab.
@@ -439,6 +443,27 @@ If you don’t have the SAP Business Application Studio Administrator role, the 
     The template wizard displays the projects that you can create from a service. For example, an HTML5 project or an SAP Fiori application. See [Create an HTML5 Project](https://help.sap.com/viewer/0e2ec06ee34742fd9054fabe09c12d35/Cloud/en-US/e46be902c7b54f9baaab1870ca553303.html) or [SAP Fiori Elements](https://help.sap.com/viewer/17d50220bcd848aa854c9c182d65b699/Latest/en-US/1488469a315c442fa116ab4449d4ad27.html) for more information.
 
 2.  Use the template wizard to create the relevant project.
+
+> ### Note:  
+> If the deployed application to Cloud Foundry fails to bring data from the service, make sure that the [Assign Message](https://help.sap.com/docs/SAP_CLOUD_PLATFORM_API_MANAGEMENT/66d066d903c2473f81ec33acfe2ccdb4/523efe6d0a9d43beb5d62ad07937578f.html?locale=en-US&version=Cloud) policy is used in the PreFlow of the ProxyEndpoint of the API proxy.
+> 
+> We use the Assign Message policy to override the HTTP request Accept-Encoding header:
+> 
+> ```
+> <!-- This policy can be used to create or modify the standard HTTP request and response messages -->
+> <AssignMessage async="false" continueOnError="false" enabled="true" xmlns='http://www.sap.com/apimgmt'>
+> 
+>     <!-- Sets a new value to the existing parameter -->
+>     <Set>
+>         <Headers>
+>              <Header name="Accept-Encoding">identity</Header>
+>          </Headers>
+>     </Set>
+>     <IgnoreUnresolvedVariables>false</IgnoreUnresolvedVariables>
+>     <AssignTo createNew="false" type="request"></AssignTo>
+> </AssignMessage>
+> 
+> ```
 
 
 
