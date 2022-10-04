@@ -25,4 +25,7 @@ The SAP API Business Hub service provider includes SAP API Business Hub products
 		published in the API business hub enterprise. You can publish services and group them under
 		the product that you'll consume.")**  
 The API business hub enterprise service provider offers products and services that are published in the API business hub enterprise. You can publish services and group them under the product that you'll consume.
+-   **[Unified Customer Landscape Service Provider](unified-customer-landscape-service-provider-830adeb.md "After registering an SAP S/4HANA Cloud system, you can explore APIs, preview live data,
+		and view entity details of APIs from the Unified Customer Landscape.")**  
+After registering an SAP S/4HANA Cloud system, you can explore APIs, preview live data, and view entity details of APIs from the Unified Customer Landscape.
 

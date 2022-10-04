@@ -18,6 +18,8 @@ A dev space is a development environment with the tools, capabilities, and resou
 SAP Business Application Studio provides the features needed for the entire life cycle of your application, from the moment you create the project until it is ready to be deployed.
 -   **[Working with a Trial Account](working-with-a-trial-account-2cf6ec0.md "Get a trial account to experience SAP Business Application Studio for free.")**  
 Get a trial account to experience SAP Business Application Studio for free.
+-   **[Restrictions](restrictions-76db362.md "")**  
+
 -   **[Troubleshooting](troubleshooting-73e1a38.md "")**  
 
 -   **[Contact SAP Support](contact-sap-support-a3467fe.md "We suggest you report an incident or error through the SAP Support Portal.")**  

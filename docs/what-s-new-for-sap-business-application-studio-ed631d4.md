@@ -74,11 +74,1201 @@ Modular Business Process
 </th>
 <th valign="top">
 
+Product
+
+
+
+</th>
+<th valign="top">
+
+Latest Revision
+
+
+
+</th>
+<th valign="top">
+
 Available as of
 
 
 
 </th>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Calculation Views
+
+
+
+</td>
+<td valign="top">
+
+You can now add temporal information \(system time and application time\) to the definition of a calculation view. See [Add System Time and Application Time](https://help.sap.com/docs/HANA_CLOUD_DATABASE/d625b46ef0b445abb2c2fd9ba008c265/7421507f46ef4e64b060b013076d1b8c.html).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+ 
+
+
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
+2022-09-19
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Calculation Views
+
+
+
+</td>
+<td valign="top">
+
+You can now apply greedy join pruning to join executions. This can improve the performance of queries in situations in which joins are not required for data correctness. See [Configure Greedy Join Pruning](https://help.sap.com/docs/HANA_CLOUD_DATABASE/d625b46ef0b445abb2c2fd9ba008c265/17af2dff9bbc479c9472c693c0ff85c0.html).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+ 
+
+
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
+2022-09-19
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Calculation Views
+
+
+
+</td>
+<td valign="top">
+
+Window Functions have been enhanced. See [Create Window Function Nodes](https://help.sap.com/docs/HANA_CLOUD_DATABASE/d625b46ef0b445abb2c2fd9ba008c265/c8147ba7d406441986483f3a88accf0b.html).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+Changed
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+ 
+
+
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
+2022-09-19
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+SAP HANA Development Tooling
+
+
+
+</td>
+<td valign="top">
+
+In the SAP HANA Native Application extension, you can now use the standard database-artifact creation wizard to add a virtual table to your database application. See [Create Virtual Tables](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/00340d4ede0a43ceb0a67f36bbc46a3a.html).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+ 
+
+
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
+2022-09-19
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+SAP HANA Development Tooling
+
+
+
+</td>
+<td valign="top">
+
+In the SAP HANA Native Application extension, it is now possible to use the Database Explorer's SQL console to select local or SAP HANA database connections. See [Use the SQL Console for SAP HANA to Query the Database](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/7ffe3cc490f04ca997e22326e013e73f.html).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+ 
+
+
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
+2022-09-19
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+SAP HANA Development Tooling
+
+
+
+</td>
+<td valign="top">
+
+In the SAP HANA Native Application extension, the Database Explorer's SQL console now provides new context menu items that enable you to open SQL files and display the contents directly in the SQL console itself. See [Use the SQL Console for SAP HANA to Query the Database](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/7ffe3cc490f04ca997e22326e013e73f.html).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+ 
+
+
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
+2022-09-19
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+SAP HANA Development Tooling
+
+
+
+</td>
+<td valign="top">
+
+In the SAP HANA Native Application extension, new context-menu items in the Database Explorer enable you to generate a `SELECT` or `CALL` statement for supported database artifacts. See [View Database Objects with the Database Explorer](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/0e5ac0b0625b411c8f05346566a3341f.html).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+ 
+
+
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
+2022-09-19
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+SAP HANA Development Tooling
+
+
+
+</td>
+<td valign="top">
+
+In the SAP HANA Native Application extension, it is now possible to view the data of supported artifacts in the Database Explorer's SQL console. See [View Database Objects with the Database Explorer](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/0e5ac0b0625b411c8f05346566a3341f.html) and [Use the SQL Console for SAP HANA to Query the Database](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/7ffe3cc490f04ca997e22326e013e73f.html).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+ 
+
+
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
+2022-09-19
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+SAP HANA Development Tooling
+
+
+
+</td>
+<td valign="top">
+
+In the SAP HANA Native Application, the Project Explorer now enables you to bind a database module to a user-provided service. See [Deploy Artifacts and Set up Database Connections with SAP HANA Projects Explorer](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/4bbbaae1d8694005adcfe1ec06a5cd46.html).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+ 
+
+
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
+2022-09-19
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+SAP HANA Development Tooling
+
+
+
+</td>
+<td valign="top">
+
+In the SAP HANA Native Application extension, the Project Explorer now displays a warning if services bound to a database modules do not match the current Cloud Foundry space. Users can choose to automatically unbind these services by setting a user preference. See [Deploy Artifacts and Set up Database Connections with SAP HANA Projects Explorer](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/4bbbaae1d8694005adcfe1ec06a5cd46.html) and [User Preferences for SAP HANA Native Application Development Tools](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/57e2fe608bb042d48b799d41a8d121a7.html).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+ 
+
+
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
+2022-09-19
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+SAP HANA Development Tooling
+
+
+
+</td>
+<td valign="top">
+
+In the SAP HANA Native Application extension, the Project Explorer now displays a warning if services bound to a database modules do not match the database ID defined in the `mta.yaml` file. See [Deploy Artifacts and Set up Database Connections with SAP HANA Projects Explorer](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/4bbbaae1d8694005adcfe1ec06a5cd46.html).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+ 
+
+
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
+2022-09-19
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+SAP HANA Development Tooling
+
+
+
+</td>
+<td valign="top">
+
+In the SAP HANA Native Application extension, you can now use the Project Explorer to recover design-time artifacts in your workspace from the deployed artifacts in an HDI container. See [Restore Design-time Artifacts from the Database](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/e735ec2bac4541339e9301e8cae7ca0b.html).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+ 
+
+
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
+2022-09-19
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+SAP HANA Development Tooling
+
+
+
+</td>
+<td valign="top">
+
+In the SAP HANA Native Application extension, you can now use the Project Explorer to synchronize the deployment state of a database module with the deployment state from the database. See [Deploy Artifacts and Set up Database Connections with SAP HANA Projects Explorer](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/4bbbaae1d8694005adcfe1ec06a5cd46.html).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+ 
+
+
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
+2022-09-19
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+SAP HANA Development Tooling
+
+
+
+</td>
+<td valign="top">
+
+In the SAP HANA Native Application extension,you can now use the Project Explorer to create a procedure grantor when adding a new database connection. See [Deploy Artifacts and Set up Database Connections with SAP HANA Projects Explorer](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/4bbbaae1d8694005adcfe1ec06a5cd46.html).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+ 
+
+
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
+2022-09-19
+
+
+
+</td>
 </tr>
 <tr>
 <td valign="top">
@@ -140,6 +1330,18 @@ Technology
 <td valign="top">
 
 Not applicable
+
+
+
+</td>
+<td valign="top">
+
+ 
+
+
+
+</td>
+<td valign="top">
 
 
 
@@ -218,6 +1420,18 @@ Not applicable
 </td>
 <td valign="top">
 
+ 
+
+
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
 2022-08-01
 
 
@@ -290,72 +1504,12 @@ Not applicable
 </td>
 <td valign="top">
 
-2022-08-01
-
-
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
- SAP Business Application Studio 
+ 
 
 
 
 </td>
 <td valign="top">
-
--   Cloud Foundry
-
-
-
-</td>
-<td valign="top">
-
-Low-code Development
-
-
-
-</td>
-<td valign="top">
-
-In *Low-Code-Based Full-Stack Cloud Application* dev spaces, you can now extend an existing service or create an SAP S/4HANA service with additional fields with guided steps from the *Guided Development* tool. See [Creating an SAP S/4HANA Application](https://help.sap.com/docs/Application%20Development/6a5fc562f6e2402aa84b0416614a05fc/113ad607676b405cb2acc3ee4afc60c6.html).
-
-
-
-</td>
-<td valign="top">
-
-Info only
-
-
-
-</td>
-<td valign="top">
-
-General Availability
-
-
-
-</td>
-<td valign="top">
-
-New
-
-
-
-</td>
-<td valign="top">
-
-Technology
-
-
-
-</td>
-<td valign="top">
-
-Not applicable
 
 
 
@@ -428,6 +1582,102 @@ Technology
 <td valign="top">
 
 Not applicable
+
+
+
+</td>
+<td valign="top">
+
+ 
+
+
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
+2022-08-01
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Low-code Development
+
+
+
+</td>
+<td valign="top">
+
+In *Low-Code-Based Full-Stack Cloud Application* dev spaces, you can now extend an existing service or create an SAP S/4HANA service with additional fields with guided steps from the *Guided Development* tool. See [Creating an SAP S/4HANA Application](https://help.sap.com/docs/Application%20Development/6a5fc562f6e2402aa84b0416614a05fc/113ad607676b405cb2acc3ee4afc60c6.html).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+ 
+
+
+
+</td>
+<td valign="top">
 
 
 
@@ -506,6 +1756,18 @@ Not applicable
 </td>
 <td valign="top">
 
+ 
+
+
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
 2022-07-17
 
 
@@ -578,6 +1840,18 @@ Not applicable
 </td>
 <td valign="top">
 
+ 
+
+
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
 2022-07-17
 
 
@@ -644,6 +1918,18 @@ Technology
 <td valign="top">
 
 Not applicable
+
+
+
+</td>
+<td valign="top">
+
+ 
+
+
+
+</td>
+<td valign="top">
 
 
 
@@ -731,6 +2017,18 @@ Not applicable
 </td>
 <td valign="top">
 
+ 
+
+
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
 2022-06-19
 
 
@@ -797,6 +2095,18 @@ Technology
 <td valign="top">
 
 Not applicable
+
+
+
+</td>
+<td valign="top">
+
+ 
+
+
+
+</td>
+<td valign="top">
 
 
 
@@ -875,6 +2185,18 @@ Not applicable
 </td>
 <td valign="top">
 
+ 
+
+
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
 2022-06-19
 
 
@@ -905,7 +2227,7 @@ SAP HANA Development Tooling
 </td>
 <td valign="top">
 
-You can now use the SAP HANA Native Application extension for SAP Business Application Studio to export a package that includes selected objects from an SAP HANA HDI container, for example, if required for testing by support teams. See [Export an SAP HDI Container for Support Purposes](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/0e4c3403b64d40f093a8a2cb78f9944b.html).
+You can now use the SAP HANA Native Application extension to export a package that includes selected objects from an SAP HANA HDI container, for example, if required for testing by support teams. See [Export an SAP HDI Container for Support Purposes](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/0e4c3403b64d40f093a8a2cb78f9944b.html).
 
 
 
@@ -947,6 +2269,18 @@ Not applicable
 </td>
 <td valign="top">
 
+ 
+
+
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
 2022-06-19
 
 
@@ -977,7 +2311,7 @@ SAP HANA Development Tooling
 </td>
 <td valign="top">
 
-You can now create a default "`hdbgrants`" file for the automatic assignment of privileges when adding a new database connection in the *SAP HANA Projects* explorer in the SAP HANA Native Application extension for SAP Business Application Studio. See [Deploy Artifacts and Set up Database Connections with SAP HANA Projects Explorer](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/4bbbaae1d8694005adcfe1ec06a5cd46.html).
+You can now create a default "`hdbgrants`" file for the automatic assignment of privileges when adding a new database connection in the *SAP HANA Projects* explorer in the SAP HANA Native Application extension. See [Deploy Artifacts and Set up Database Connections with SAP HANA Projects Explorer](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/4bbbaae1d8694005adcfe1ec06a5cd46.html).
 
 
 
@@ -1019,6 +2353,18 @@ Not applicable
 </td>
 <td valign="top">
 
+ 
+
+
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
 2022-06-19
 
 
@@ -1049,7 +2395,7 @@ SAP HANA Development Tooling
 </td>
 <td valign="top">
 
-In the SAP HANA Native Application extension for SAP Business Application Studio, you can now set the user preference "auto-commit" in the SAP HANA *SQL Console* to ensure that any changes to the database required by the code you run in the *SQL Console* are performed immediately, for example, when inserting or updating data in tables. See [Use the SQL Console for SAP HANA to Query the Database](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/7ffe3cc490f04ca997e22326e013e73f.html).
+In the SAP HANA Native Application extension, you can now set the user preference "auto-commit" in the SAP HANA *SQL Console* to ensure that any changes to the database required by the code you run in the *SQL Console* are performed immediately, for example, when inserting or updating data in tables. See [Use the SQL Console for SAP HANA to Query the Database](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/7ffe3cc490f04ca997e22326e013e73f.html).
 
 
 
@@ -1085,6 +2431,18 @@ Technology
 <td valign="top">
 
 Not applicable
+
+
+
+</td>
+<td valign="top">
+
+ 
+
+
+
+</td>
+<td valign="top">
 
 
 
@@ -1163,6 +2521,18 @@ Not applicable
 </td>
 <td valign="top">
 
+ 
+
+
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
 2022-06-19
 
 
@@ -1193,7 +2563,7 @@ SAP HANA Development Tooling
 </td>
 <td valign="top">
 
-The *SAP HANA Projects* explorer in the SAP HANA Native Application extension for SAP Business Application Studio now checks the details of the target schema details when binding to an existing service. See [Deploy Artifacts and Set up Database Connections with SAP HANA Projects Explorer](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/4bbbaae1d8694005adcfe1ec06a5cd46.html).
+The *SAP HANA Projects* explorer in the SAP HANA Native Application extension now checks the details of the target schema details when binding to an existing service. See [Deploy Artifacts and Set up Database Connections with SAP HANA Projects Explorer](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/4bbbaae1d8694005adcfe1ec06a5cd46.html).
 
 
 
@@ -1229,6 +2599,18 @@ Technology
 <td valign="top">
 
 Not applicable
+
+
+
+</td>
+<td valign="top">
+
+ 
+
+
+
+</td>
+<td valign="top">
 
 
 
@@ -1307,6 +2689,18 @@ Not applicable
 </td>
 <td valign="top">
 
+ 
+
+
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
 2022-06-19
 
 
@@ -1337,7 +2731,7 @@ SAP HANA Development Tooling
 </td>
 <td valign="top">
 
-You can now use context-sensitive menus in the *SAP HANA Databases* explorer's *Catalog Browser* in the SAP HANA Native Application extension for SAP Business Application Studio to copy the simple or fully qualified name of a database object to the clipboard. See [View Database Objects with the Database Explorer](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/0e5ac0b0625b411c8f05346566a3341f.html).
+You can now use context-sensitive menus in the *SAP HANA Databases* explorer's *Catalog Browser* in the SAP HANA Native Application extension to copy the simple or fully qualified name of a database object to the clipboard. See [View Database Objects with the Database Explorer](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/0e5ac0b0625b411c8f05346566a3341f.html).
 
 
 
@@ -1379,6 +2773,18 @@ Not applicable
 </td>
 <td valign="top">
 
+ 
+
+
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
 2022-06-19
 
 
@@ -1409,7 +2815,7 @@ SAP HANA Development Tooling
 </td>
 <td valign="top">
 
-You can now use the *SAP HANA Databases* explorer's *Catalog Browser* in the SAP HANA Native Application extension for SAP Business Application Studio to generate the SQL code that was used to create the selected database object. See [View Database Objects with the Database Explorer](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/0e5ac0b0625b411c8f05346566a3341f.html).
+You can now use the *SAP HANA Databases* explorer's *Catalog Browser* in the SAP HANA Native Application extension to generate the SQL code that was used to create the selected database object. See [View Database Objects with the Database Explorer](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/0e5ac0b0625b411c8f05346566a3341f.html).
 
 
 
@@ -1451,6 +2857,18 @@ Not applicable
 </td>
 <td valign="top">
 
+ 
+
+
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
 2022-06-19
 
 
@@ -1481,7 +2899,7 @@ SAP HANA Development Tooling
 </td>
 <td valign="top">
 
-You can now use the *SAP HANA Projects* explorer in the SAP HANA Native Application extension for SAP Business Application Studio to bind a user-provided service to a target HDI container. See [Deploy Artifacts and Set up Database Connections with SAP HANA Projects Explorer](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/4bbbaae1d8694005adcfe1ec06a5cd46.html).
+You can now use the *SAP HANA Projects* explorer in the SAP HANA Native Application extension to bind a user-provided service to a target HDI container. See [Deploy Artifacts and Set up Database Connections with SAP HANA Projects Explorer](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/4bbbaae1d8694005adcfe1ec06a5cd46.html).
 
 
 
@@ -1523,6 +2941,18 @@ Not applicable
 </td>
 <td valign="top">
 
+ 
+
+
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
 2022-06-19
 
 
@@ -1553,7 +2983,7 @@ SAP HANA Development Tooling
 </td>
 <td valign="top">
 
-You can now use the *SAP HANA Projects* explorer in the SAP HANA Native Application extension for SAP Business Application Studio to bind to \(or unbind from\) all services displayed in the Database Connections pane. See [Deploy Artifacts and Set up Database Connections with SAP HANA Projects Explorer](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/4bbbaae1d8694005adcfe1ec06a5cd46.html) and [View Database Objects with the Database Explorer](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/0e5ac0b0625b411c8f05346566a3341f.html).
+You can now use the *SAP HANA Projects* explorer in the SAP HANA Native Application extension to bind to \(or unbind from\) all services displayed in the Database Connections pane. See [Deploy Artifacts and Set up Database Connections with SAP HANA Projects Explorer](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/4bbbaae1d8694005adcfe1ec06a5cd46.html) and [View Database Objects with the Database Explorer](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/0e5ac0b0625b411c8f05346566a3341f.html).
 
 
 
@@ -1589,6 +3019,18 @@ Technology
 <td valign="top">
 
 Not applicable
+
+
+
+</td>
+<td valign="top">
+
+ 
+
+
+
+</td>
+<td valign="top">
 
 
 
@@ -1667,6 +3109,18 @@ Not applicable
 </td>
 <td valign="top">
 
+ 
+
+
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
 2022-06-06
 
 
@@ -1733,6 +3187,18 @@ Technology
 <td valign="top">
 
 Not applicable
+
+
+
+</td>
+<td valign="top">
+
+ 
+
+
+
+</td>
+<td valign="top">
 
 
 
@@ -1811,6 +3277,18 @@ Not applicable
 </td>
 <td valign="top">
 
+ 
+
+
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
 2022-05-23
 
 
@@ -1877,6 +3355,18 @@ Technology
 <td valign="top">
 
 Not applicable
+
+
+
+</td>
+<td valign="top">
+
+ 
+
+
+
+</td>
+<td valign="top">
 
 
 
@@ -1955,6 +3445,18 @@ Not applicable
 </td>
 <td valign="top">
 
+ 
+
+
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
 2022-04-26
 
 
@@ -2027,6 +3529,18 @@ Not applicable
 </td>
 <td valign="top">
 
+ 
+
+
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
 2022-04-11
 
 
@@ -2057,7 +3571,7 @@ SAP HANA Development Tooling
 </td>
 <td valign="top">
 
-The SAP HANA Native Application extension for SAP Business Application Studio now provides access to SAP HANA database development tools from an SAP CAP project. See [Configure an SAP CAP Application to Work with Native SAP HANA Artifacts](https://help.sap.com/viewer/c2b99f19e9264c4d9ae9221b22f6f589/2022_1_QRC/en-US/ef0377f5e9d84ce3aeb43a7e4baa5fe4.html).
+The SAP HANA Native Application extension now provides access to SAP HANA database development tools from an SAP CAP project. See [Configure an SAP CAP Application to Work with Native SAP HANA Artifacts](https://help.sap.com/viewer/c2b99f19e9264c4d9ae9221b22f6f589/2022_1_QRC/en-US/ef0377f5e9d84ce3aeb43a7e4baa5fe4.html).
 
 
 
@@ -2099,6 +3613,18 @@ Not applicable
 </td>
 <td valign="top">
 
+ 
+
+
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
 2022-03-27
 
 
@@ -2129,7 +3655,7 @@ SAP HANA Development Tooling
 </td>
 <td valign="top">
 
-During the creation of a new application project, the SAP HANA Native Application extension for SAP Business Application Studio now checks if the project's .gitignore file contains an entry for the SAP HANA native database application .env file. See [Create a New Business Application Project](https://help.sap.com/viewer/c2b99f19e9264c4d9ae9221b22f6f589/2022_1_QRC/en-US/f42acff48e164acbb01b1ee969b1282b.html).
+During the creation of a new application project, the SAP HANA Native Application extension now checks if the project's .gitignore file contains an entry for the SAP HANA native database application .env file. See [Create a New Business Application Project](https://help.sap.com/viewer/c2b99f19e9264c4d9ae9221b22f6f589/2022_1_QRC/en-US/f42acff48e164acbb01b1ee969b1282b.html).
 
 
 
@@ -2171,6 +3697,18 @@ Not applicable
 </td>
 <td valign="top">
 
+ 
+
+
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
 2022-03-27
 
 
@@ -2201,7 +3739,7 @@ SAP HANA Development Tooling
 </td>
 <td valign="top">
 
-In the SAP HANA Native Application extension for SAP Business Application Studio, the list of SAP HANA Database Explorer connections can be hidden using the Show Database Explorer Connections setting in User Preferences. See [User Preferences for SAP HANA Native Application Development Tools](https://help.sap.com/viewer/c2b99f19e9264c4d9ae9221b22f6f589/2022_1_QRC/en-US/57e2fe608bb042d48b799d41a8d121a7.html).
+In the SAP HANA Native Application extension, the list of SAP HANA Database Explorer connections can be hidden using the Show Database Explorer Connections setting in User Preferences. See [User Preferences for SAP HANA Native Application Development Tools](https://help.sap.com/viewer/c2b99f19e9264c4d9ae9221b22f6f589/2022_1_QRC/en-US/57e2fe608bb042d48b799d41a8d121a7.html).
 
 
 
@@ -2243,6 +3781,18 @@ Not applicable
 </td>
 <td valign="top">
 
+ 
+
+
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
 2022-03-27
 
 
@@ -2273,7 +3823,7 @@ SAP HANA Development Tooling
 </td>
 <td valign="top">
 
-In the SAP HANA Native Application extension for SAP Business Application Studio, local database connections can now be added using credentials stored in the SAP HANA User Store. See [Deploy Artifacts and Set up Database Connections with SAP HANA Projects Explorer](https://help.sap.com/viewer/c2b99f19e9264c4d9ae9221b22f6f589/2022_1_QRC/en-US/4bbbaae1d8694005adcfe1ec06a5cd46.html).
+In the SAP HANA Native Application extension, local database connections can now be added using credentials stored in the SAP HANA User Store. See [Deploy Artifacts and Set up Database Connections with SAP HANA Projects Explorer](https://help.sap.com/viewer/c2b99f19e9264c4d9ae9221b22f6f589/2022_1_QRC/en-US/4bbbaae1d8694005adcfe1ec06a5cd46.html).
 
 
 
@@ -2315,6 +3865,18 @@ Not applicable
 </td>
 <td valign="top">
 
+ 
+
+
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
 2022-03-27
 
 
@@ -2345,7 +3907,7 @@ SAP HANA Development Tooling
 </td>
 <td valign="top">
 
-In the SAP HANA Native Application extension for SAP Business Application Studio, the SQL console can open content from \(and save content to\) files. See [Use the SQL Console for SAP HANA to Query the Database](https://help.sap.com/viewer/c2b99f19e9264c4d9ae9221b22f6f589/2022_1_QRC/en-US/7ffe3cc490f04ca997e22326e013e73f.html).
+In the SAP HANA Native Application extension, the SQL console can open content from \(and save content to\) files. See [Use the SQL Console for SAP HANA to Query the Database](https://help.sap.com/viewer/c2b99f19e9264c4d9ae9221b22f6f589/2022_1_QRC/en-US/7ffe3cc490f04ca997e22326e013e73f.html).
 
 
 
@@ -2387,6 +3949,18 @@ Not applicable
 </td>
 <td valign="top">
 
+ 
+
+
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
 2022-03-27
 
 
@@ -2417,7 +3991,7 @@ SAP HANA Development Tooling
 </td>
 <td valign="top">
 
-In the SAP HANA Native Application extension for SAP Business Application Studio, the SAP HANA Database Explorer on SAP Business Technology Platform can now be opened from each SAP HANA Database Explorer connection. See [View Database Objects with the Database Explorer](https://help.sap.com/viewer/c2b99f19e9264c4d9ae9221b22f6f589/2022_1_QRC/en-US/0e5ac0b0625b411c8f05346566a3341f.html).
+In the SAP HANA Native Application extension, the SAP HANA Database Explorer on SAP Business Technology Platform can now be opened from each SAP HANA Database Explorer connection. See [View Database Objects with the Database Explorer](https://help.sap.com/viewer/c2b99f19e9264c4d9ae9221b22f6f589/2022_1_QRC/en-US/0e5ac0b0625b411c8f05346566a3341f.html).
 
 
 
@@ -2459,6 +4033,18 @@ Not applicable
 </td>
 <td valign="top">
 
+ 
+
+
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
 2022-03-27
 
 
@@ -2489,7 +4075,7 @@ SAP HANA Development Tooling
 </td>
 <td valign="top">
 
-In the SAP HANA Native Application extension for SAP Business Application Studio, the catalog browser now shows the list of database objects. The objects can be filtered by schema. The \(filtered\) list of objects can be also be searched using the standard Visual Studio Code functionality for the tree view. See [View Database Objects with the Database Explorer](https://help.sap.com/viewer/c2b99f19e9264c4d9ae9221b22f6f589/2022_1_QRC/en-US/0e5ac0b0625b411c8f05346566a3341f.html).
+In the SAP HANA Native Application extension, the catalog browser now shows the list of database objects. The objects can be filtered by schema. The \(filtered\) list of objects can be also be searched using the standard Visual Studio Code functionality for the tree view. See [View Database Objects with the Database Explorer](https://help.sap.com/viewer/c2b99f19e9264c4d9ae9221b22f6f589/2022_1_QRC/en-US/0e5ac0b0625b411c8f05346566a3341f.html).
 
 
 
@@ -2531,6 +4117,18 @@ Not applicable
 </td>
 <td valign="top">
 
+ 
+
+
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
 2022-03-27
 
 
@@ -2561,7 +4159,7 @@ SAP HANA Development Tooling
 </td>
 <td valign="top">
 
-The SAP HANA Native Application extension for SAP Business Application Studio now provides context-sensitive descriptions of tags and properties in JSON-based HDI artifacts, for example: hdbrole and hdbroleconfig, hdbgrants, hdbsynonym and hdbsynonymconfig. For common scenarios, templates are provided, too. See [Create a Database Role \(Getting Started\)](https://help.sap.com/viewer/c2b99f19e9264c4d9ae9221b22f6f589/2022_1_QRC/en-US/492729c3918c4cb7a645f69a6bdfbc56.html).
+The SAP HANA Native Application extension now provides context-sensitive descriptions of tags and properties in JSON-based HDI artifacts, for example: hdbrole and hdbroleconfig, hdbgrants, hdbsynonym and hdbsynonymconfig. For common scenarios, templates are provided, too. See [Create a Database Role \(Getting Started\)](https://help.sap.com/viewer/c2b99f19e9264c4d9ae9221b22f6f589/2022_1_QRC/en-US/492729c3918c4cb7a645f69a6bdfbc56.html).
 
 
 
@@ -2603,6 +4201,18 @@ Not applicable
 </td>
 <td valign="top">
 
+ 
+
+
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
 2022-03-27
 
 
@@ -2633,7 +4243,7 @@ SAP HANA Development Tooling
 </td>
 <td valign="top">
 
-The SAP HANA Native Application extension for SAP Business Application Studio now provides JSON syntax validation for the HDI artifacts hdbtabledata and hdblogicalschemaconfig. See [SAP HDI Artifact Types and Build Plug-ins Reference \(SAP HANA Cloud Database\)](https://help.sap.com/viewer/c2cc2e43458d4abda6788049c58143dc/2022_1_QRC/en-US/9789224788a34d93a86080cab993575c.html).
+The SAP HANA Native Application extension now provides JSON syntax validation for the HDI artifacts hdbtabledata and hdblogicalschemaconfig. See [SAP HDI Artifact Types and Build Plug-ins Reference \(SAP HANA Cloud Database\)](https://help.sap.com/viewer/c2cc2e43458d4abda6788049c58143dc/2022_1_QRC/en-US/9789224788a34d93a86080cab993575c.html).
 
 
 
@@ -2675,6 +4285,18 @@ Not applicable
 </td>
 <td valign="top">
 
+ 
+
+
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
 2022-03-27
 
 
@@ -2705,7 +4327,7 @@ SAP HANA Development Tooling
 </td>
 <td valign="top">
 
-In the SAP HANA Native Application extension for SAP Business Application Studio, you can now use the project explorer to bind a module to the default service. A new option also enables you to bind \(and unbind\) all the services specified in an application's mta.yaml file. When binding a module to an existing service, a new warning is shown. See [Deploy Artifacts and Set up Database Connections with SAP HANA Projects Explorer.](https://help.sap.com/viewer/c2b99f19e9264c4d9ae9221b22f6f589/2022_1_QRC/en-US/4bbbaae1d8694005adcfe1ec06a5cd46.html) 
+In the SAP HANA Native Application extension, you can now use the project explorer to bind a module to the default service. A new option also enables you to bind \(and unbind\) all the services specified in an application's mta.yaml file. When binding a module to an existing service, a new warning is shown. See [Deploy Artifacts and Set up Database Connections with SAP HANA Projects Explorer.](https://help.sap.com/viewer/c2b99f19e9264c4d9ae9221b22f6f589/2022_1_QRC/en-US/4bbbaae1d8694005adcfe1ec06a5cd46.html) 
 
 
 
@@ -2747,6 +4369,18 @@ Not applicable
 </td>
 <td valign="top">
 
+ 
+
+
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
 2022-03-27
 
 
@@ -2777,7 +4411,7 @@ SAP HANA Development Tooling
 </td>
 <td valign="top">
 
-In the SAP HANA Native Application extension for SAP Business Application Studio, the project explorer now provides a setting for clearing the deployment log when a new deployment is started. See [Deploy Artifacts and Set up Database Connections with SAP HANA Projects Explorer.](https://help.sap.com/viewer/c2b99f19e9264c4d9ae9221b22f6f589/2022_1_QRC/en-US/4bbbaae1d8694005adcfe1ec06a5cd46.html) 
+In the SAP HANA Native Application extension, the project explorer now provides a setting for clearing the deployment log when a new deployment is started. See [Deploy Artifacts and Set up Database Connections with SAP HANA Projects Explorer.](https://help.sap.com/viewer/c2b99f19e9264c4d9ae9221b22f6f589/2022_1_QRC/en-US/4bbbaae1d8694005adcfe1ec06a5cd46.html) 
 
 
 
@@ -2819,6 +4453,18 @@ Not applicable
 </td>
 <td valign="top">
 
+ 
+
+
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
 2022-03-27
 
 
@@ -2849,7 +4495,7 @@ SAP HANA Development Tooling
 </td>
 <td valign="top">
 
-In the SAP HANA Native Application extension for SAP Business Application Studio, you can now validate connection details when adding a new database connection to a project.
+In the SAP HANA Native Application extension, you can now validate connection details when adding a new database connection to a project.
 
 See [Deploy Artifacts and Set up Database Connections with SAP HANA Projects Explorer](https://help.sap.com/viewer/c2b99f19e9264c4d9ae9221b22f6f589/2022_1_QRC/en-US/4bbbaae1d8694005adcfe1ec06a5cd46.html).
 
@@ -2893,6 +4539,18 @@ Not applicable
 </td>
 <td valign="top">
 
+ 
+
+
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
 2022-03-27
 
 
@@ -2923,7 +4581,7 @@ SAP HANA Development Tooling
 </td>
 <td valign="top">
 
-In the SAP HANA Native Application extension for SAP Business Application Studio, a confirmation dialog is now displayed asking if auto-undeploy should be disabled when binding an application to an existing container. See [Deploy Artifacts and Set up Database Connections with SAP HANA Projects Explorer](https://help.sap.com/viewer/c2b99f19e9264c4d9ae9221b22f6f589/2022_1_QRC/en-US/4bbbaae1d8694005adcfe1ec06a5cd46.html).
+In the SAP HANA Native Application extension, a confirmation dialog is now displayed asking if auto-undeploy should be disabled when binding an application to an existing container. See [Deploy Artifacts and Set up Database Connections with SAP HANA Projects Explorer](https://help.sap.com/viewer/c2b99f19e9264c4d9ae9221b22f6f589/2022_1_QRC/en-US/4bbbaae1d8694005adcfe1ec06a5cd46.html).
 
 
 
@@ -2965,6 +4623,18 @@ Not applicable
 </td>
 <td valign="top">
 
+ 
+
+
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
 2022-03-27
 
 
@@ -2995,7 +4665,7 @@ SAP HANA Development Tooling
 </td>
 <td valign="top">
 
-In the SAP HANA Native Application extension for SAP Business Application Studio, the project explorer now shows HDI configuration files in the application project's file tree. See[Deploy Artifacts and Set up Database Connections with SAP HANA Projects Explorer](https://help.sap.com/viewer/c2b99f19e9264c4d9ae9221b22f6f589/2022_1_QRC/en-US/4bbbaae1d8694005adcfe1ec06a5cd46.html).
+In the SAP HANA Native Application extension, the project explorer now shows HDI configuration files in the application project's file tree. See[Deploy Artifacts and Set up Database Connections with SAP HANA Projects Explorer](https://help.sap.com/viewer/c2b99f19e9264c4d9ae9221b22f6f589/2022_1_QRC/en-US/4bbbaae1d8694005adcfe1ec06a5cd46.html).
 
 
 
@@ -3031,6 +4701,18 @@ Technology
 <td valign="top">
 
 Not applicable
+
+
+
+</td>
+<td valign="top">
+
+ 
+
+
+
+</td>
+<td valign="top">
 
 
 
@@ -3109,6 +4791,18 @@ Not applicable
 </td>
 <td valign="top">
 
+ 
+
+
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
 2022-03-27
 
 
@@ -3175,6 +4869,18 @@ Technology
 <td valign="top">
 
 Not applicable
+
+
+
+</td>
+<td valign="top">
+
+ 
+
+
+
+</td>
+<td valign="top">
 
 
 
@@ -3253,6 +4959,18 @@ Not applicable
 </td>
 <td valign="top">
 
+ 
+
+
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
 2022-03-27
 
 
@@ -3319,6 +5037,18 @@ Technology
 <td valign="top">
 
 Not applicable
+
+
+
+</td>
+<td valign="top">
+
+ 
+
+
+
+</td>
+<td valign="top">
 
 
 
@@ -3399,6 +5129,18 @@ Not applicable
 </td>
 <td valign="top">
 
+ 
+
+
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
 2022-03-27
 
 
@@ -3471,6 +5213,18 @@ Not applicable
 </td>
 <td valign="top">
 
+ 
+
+
+
+</td>
+<td valign="top">
+
+
+
+</td>
+<td valign="top">
+
 2022-03-27
 
 
@@ -3537,6 +5291,18 @@ Technology
 <td valign="top">
 
 Not applicable
+
+
+
+</td>
+<td valign="top">
+
+ 
+
+
+
+</td>
+<td valign="top">
 
 
 
