@@ -36,6 +36,24 @@ Description
 <tr>
 <td valign="top">
 
+Basic UI5 Template
+
+
+
+</td>
+<td valign="top">
+
+Allows you to create a basic SAPUI5 application, using the template wizard.
+
+See [Basic Template](https://help.sap.com/viewer/17d50220bcd848aa854c9c182d65b699/Latest/en-US/14fdcc0a9d834090a07435cfef962b01.html).
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
 Development Tools for SAP Work Zone
 
 
@@ -160,6 +178,22 @@ Allows you to design SAP core data service models in SAP Cloud Business Applicat
 The extension includes the CDS Editor, which provides capabilities for SAP business developers to visually design SAP CDS models. Models include artifacts, such as entities, types, unstructured types, enums, arrayed types, events, associations and compositions, and projects and services, which accelerate SAP Cloud Business Application development.
 
 See [Design CDS Models Using SAP Business Application Studio](https://help.sap.com/viewer/80d8499164f14d90bfd1cb11f961bb94/Cloud/en-US).
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+Chromium Browser Tools
+
+
+
+</td>
+<td valign="top">
+
+Allows you to use Chromium tools.
 
 
 

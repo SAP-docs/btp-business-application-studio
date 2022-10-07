@@ -20,10 +20,6 @@ The SAP Fiori scenario contains the following predefined extensions:
 
     Allows you to optimize your web development workflow. The extension includes capabilities such as a code editor, file management capabilities, split view and window management, preferences and settings.
 
--   **Chromium Browser Tools**
-
-    Allows you to use Chromium tools.
-
 -   **Fiori Freestyle Tools**
 
     Allows you to optimize your Fiori-based development. This extension provides Fiori templates with the following tools:
@@ -40,12 +36,6 @@ The SAP Fiori scenario contains the following predefined extensions:
     Allows you to locally run HTML5 applications. This extension includes the HTML5 application runner and run configurations.
 
     See [Create Run Configurations for HTML5 Applications](https://help.sap.com/viewer/0e2ec06ee34742fd9054fabe09c12d35/Cloud/en-US/a72ecc1d642f4621acb795e106227a7d.html).
-
--   **Launchpad Module**
-
-    Allows you to add a launchpad to your multitarget application.
-
-    See [Basic Development Flow in SAP Business Application Studio](https://help.sap.com/viewer/ad4b9f0b14b0458cad9bd27bf435637d/Cloud/en-US/c2e546cada9c4cc7a13f88dcea1c08cd.html).
 
 -   **MTA Tools**
 
@@ -91,18 +81,6 @@ The SAP Fiori scenario contains the following predefined extensions:
 -   **Startup Server**
 
     Allows you to leverage a trigger and perform an action.
-
--   **Basic UI5 Template**
-
-    Allows you to create a basic SAPUI5 application, using the template wizard.
-
-    See [Basic Template](https://help.sap.com/viewer/17d50220bcd848aa854c9c182d65b699/Latest/en-US/14fdcc0a9d834090a07435cfef962b01.html).
-
--   **UI5 Free Style Templates**
-
-    Allows you to create SAP Fiori worklist and list-detail applications, using the template wizard.
-
-    See [Supported Floorplans](https://help.sap.com/viewer/17d50220bcd848aa854c9c182d65b699/Latest/en-US/20d11464b0134021b58dac379ecdcbff.html).
 
 -   **SAPUI5 Layout Editor**
 

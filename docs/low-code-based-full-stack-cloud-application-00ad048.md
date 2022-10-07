@@ -8,6 +8,18 @@ See [Develop a Low–Code Application Using SAP Business Application Studio](htt
 
 The Low-Code-Based Full-Stack Cloud Application scenario contains the following predefined extensions:
 
+-   **Basic Tools**
+
+    Allows you to optimize your web development workflow. The extension includes capabilities such as a code editor, file management capabilities, split view and window management, preferences and settings.
+
+-   **CDS Graphical Modeler**
+
+    Allows you to design SAP core data service models in SAP Cloud Business Application development projects.
+
+    The extension includes the CDS Editor, which provides capabilities for SAP business developers to visually design SAP CDS models. Models include artifacts, such as entities, types, unstructured types, enums, arrayed types, events, associations and compositions, and projects and services, which accelerate SAP Cloud Business Application development.
+
+    See [Design CDS Models Using SAP Business Application Studio](https://help.sap.com/viewer/80d8499164f14d90bfd1cb11f961bb94/Cloud/en-US).
+
 -   **CAP Tools**
 
     Allows you to develop applications based on CDS using the CDS command line and tools.
@@ -17,6 +29,12 @@ The Low-Code-Based Full-Stack Cloud Application scenario contains the following 
 -   **Mobile Services App Development Tools**
 
     Allows you to build end to end mobile applications. From modeling and generating OData services, creating mobile native apps from metadata with MDK to building content for SAP Mobile Cards.
+
+-   **HTML5 Runner**
+
+    Allows you to locally run HTML5 applications. This extension includes the HTML5 application runner and run configurations.
+
+    See [Create Run Configurations for HTML5 Applications](https://help.sap.com/viewer/0e2ec06ee34742fd9054fabe09c12d35/Cloud/en-US/a72ecc1d642f4621acb795e106227a7d.html).
 
 -   **Java Tools**
 
@@ -72,20 +90,12 @@ The Low-Code-Based Full-Stack Cloud Application scenario contains the following 
 
     See [SAP Fiori Tools](https://help.sap.com/viewer/product/SAP_FIORI_tools/Latest/en-US).
 
+-   **Startup Server**
+
+    Allows you to leverage a trigger and perform an action.
+
 -   **SAPUI5 Layout Editor**
 
     Allows you to visually develop your XML view.
-
--   **Workflow Management**
-
-    Allows you to create workflow applications and process templates using the SAP Workflow service.
-
--   **Launchpad Module**
-
-    Allows you to add a launchpad to your multitarget application.
-
--   **HTML5 Runner**
-
-    Allows you to locally run HTML5 applications. Includes the HTML5 application runner and run configurations.
 
 

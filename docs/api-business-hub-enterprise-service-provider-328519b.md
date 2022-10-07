@@ -410,14 +410,14 @@ You can add a new system, referring to the API business hub enterprise instance,
     > -   If a service is unavailable and the target endpoint of the service requires authentication, make sure that the target endpoint is configured to be authenticated via [Basic Authentication](https://help.sap.com/docs/SAP_CLOUD_PLATFORM_API_MANAGEMENT/66d066d903c2473f81ec33acfe2ccdb4/693c0d1720644d57918ed77acc6a95ef.html?locale=en-US&version=Cloud). See the "Configure API Management to Use the Basic Authentication Policy" section in this [blog post](https://blogs.sap.com/2019/05/23/securing-your-microservice-on-sap-cloud-platform-using-api-management-with-basic-authentication-for-last-mile-security/).
     > -   It is recommended to use the [verify API key](https://help.sap.com/docs/SAP_CLOUD_PLATFORM_API_MANAGEMENT/66d066d903c2473f81ec33acfe2ccdb4/4d15a0427494452dbb42a319e9bb420f.html?locale=en-US&version=Cloud) policy to ensure secure access to the service. This policy is added in the PreFlow of the ProxyEndpoint of the corresponding API proxy.
 
-5.  Click an entity to see the service details, including entity data and preview the data:
-    1.  You can see the entity's data from the *Entity Details* tab.
-    2.  You can preview the entity's data from the *Preview Data* tab.
+5.  Click an entity to see the service details, including entity data and live data:
+    1.  You can see the entity's metadata from the *Entity Details* tab.
+    2.  You can see a preview of the live production data associated with the entity set from the *Live Data* tab.
 
         This helps you choose an entity for your application.
 
         > ### Note:  
-        > The preview only displays:
+        > The live data only displays:
         > 
         > -   Up to 20 rows of data
         > -   Data for simple data types
@@ -432,7 +432,7 @@ You can add a new system, referring to the API business hub enterprise instance,
 
 If the SAP Business Application Studio Administrator role is assigned to you, after creating a project or adding a data model, the destination to the selected product subscription is generated in the SAP BTP cockpit. The destination enables you to preview live data and run your deployed application. The destination includes information about the product subscription, including the subscription's API key and the subscription's ID.
 
-If you don’t have the SAP Business Application Studio Administrator role, the destination isn't generated with your subscription. Without a destination, you can’t preview a project with live data and you can’t run your deployed application to Cloud Foundry.
+If you don’t have the SAP Business Application Studio Administrator role, the destination isn't generated with your subscription.
 
 
 
@@ -467,19 +467,19 @@ If you don’t have the SAP Business Application Studio Administrator role, the 
 
 
 
-### Add a Data Model to a CAP Project
+### Add an External Data Model to a CAP Project
 
 You can select a service from the Service Center and add it as an external data model to a CAP Node project:
 
-1.  Open a service and click *Service Actions* \> *Add Data Model to CAP Project*.
-2.  Select the target CAP Node project to add the data model to.
+1.  Open a service and click *Service Actions* \> *Add External Data Model to CAP Project*.
+2.  Select the target CAP Node project to add the external data model to.
 3.  \(Optional\) You can generate a sample service and select the relevant entities.
     1.  Select *Yes* to add a sample service.
     2.  Select the entities that you want to add.
 
 4.  Click *Add*.
 
-    You added the data model to the CAP project. The following changes happen:
+    You added the external data model to the CAP project. The following changes happen:
 
     -   The `<service_name>.xml` and `<service_name>.cds` files appear in the *srv* \> *external* folder of the project.
     -   A service section appears in the `package.json` file of the CAP project, which refers to the *srv* \> *external* \> *<service\_name\>.xml* file. This file has the metadata of the service:
@@ -487,11 +487,9 @@ You can select a service from the Service Center and add it as an external data 
         ```
         "<service_name>": {
           "kind": "odata",
-          "model": "srv/external/<service_name>",
-          "[production]": {
+          "model": "srv/external/<service_name>"
           "credentials": {
-            "destination": "<service_name>",
-            "path": "<service_path>"
+            "destination": "<service_name>"
           }
         }
         ```

@@ -8,14 +8,29 @@ See [Developing a CAP Application in SAP Business Application Studio](https://he
 
 The Full Stack Cloud Application scenario contains the following predefined extensions:
 
--   **CDS Tools**
+-   **Basic Tools**
 
-    Allows you to develop applications based on CDS using the CDS command line and tools.
+    Allows you to optimize your web development workflow. The extension includes capabilities such as a code editor, file management capabilities, split view and window management, preferences and settings.
 
-    Includes enhanced code editors and database management capabilities. The following tool is installed as part of the extension:
+-   **CDS Graphical Modeler**
 
-    -   CDS Command Line Tools v1.4.3
+    Allows you to design SAP core data service models in SAP Cloud Business Application development projects.
 
+    The extension includes the CDS Editor, which provides capabilities for SAP business developers to visually design SAP CDS models. Models include artifacts, such as entities, types, unstructured types, enums, arrayed types, events, associations and compositions, and projects and services, which accelerate SAP Cloud Business Application development.
+
+    See [Design CDS Models Using SAP Business Application Studio](https://help.sap.com/viewer/80d8499164f14d90bfd1cb11f961bb94/Cloud/en-US).
+
+-   **CAP Tools**
+
+    Allows you to develop CAP applications using the CDS command-line and tools. Includes enhanced code and graphical editors, database management capabilities, and tools for running your application.
+
+-   **Fiori Application**
+
+    Allows you to create a Fiori application, using the Yeoman generator.
+
+-   **SAP HANA Database Explorer**
+
+    Allows you to access and inspect SAP HANA run-time objects. The extension includes a command that opens the SAP HANA Database Explorer in a new browser tab.
 
 -   **Java Tools**
 
@@ -65,15 +80,14 @@ The Full Stack Cloud Application scenario contains the following predefined exte
 
     See [SAP Fiori Tools](https://help.sap.com/viewer/product/SAP_FIORI_tools/Latest/en-US).
 
--   **SAP Fiori Freestyle Tools**
+-   **Startup Server**
 
-    Allows you to optimize your SAP Fiori-based development. This extension provides SAP Fiori templates with the following tools:
+    Allows you to leverage a trigger and perform an action.
 
-    -   UI5 CLI
+-   **SAPUI5 Layout Editor**
 
-    -   Grunt CLI
+    Allows you to visually develop your XML view.
 
-    -   abap-deploy CLI
-
+    See [Working with the Layout Editor](https://help.sap.com/products/SAP%20Business%20Application%20Studio/9d1db9835307451daa8c930fbd9ab264/8fbbaad310eb4712a5d8169331106b25.html?version=Cloud).
 
 

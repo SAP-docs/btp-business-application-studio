@@ -10,7 +10,7 @@ To ensure an optimal performance and developer experience, the following restric
 
 -   A user can only have up to two running dev spaces.
 
--   The system must have disk space of up to 10 GB per dev space.
+-   A user can have disk space of up to 10 GB per dev space.
 
 -   A user can only have up to 100 projects stored on their dev space.
 

@@ -30,14 +30,14 @@ The SAP API Business Hub service provider includes SAP API Business Hub products
 
     You can also navigate to the service in the SAP API Business Hub by clicking the URL. From the SAP API Business Hub, you can click *Try Out* to test the API in the sandbox environment.
 
-5.  Click an entity to see the service details, including entity data and preview the data:
+5.  Click an entity to see the service details, including entity data and live data:
     1.  You can see the entity's metadata from the *Entity Details* tab.
-    2.  You can preview the entity's data from the *Preview Data* tab.
+    2.  You can see a preview of the live production data associated with the entity set from the *Live Data* tab.
 
         This helps you choose an entity for your application.
 
         > ### Note:  
-        > The preview only displays:
+        > The live data only displays:
         > 
         > -   Up to 20 rows of data
         > -   Data for simple data types
@@ -66,19 +66,19 @@ The SAP API Business Hub service provider includes SAP API Business Hub products
 
 
 
-### Add a Data Model to a CAP Project
+### Add an External Data Model to a CAP Project
 
 You can select a service from the Service Center and add it as an external data model to a CAP Node project:
 
-1.  Open a service and click *Service Actions* \> *Add Data Model to CAP Project*.
-2.  Select the target CAP Node project to add the data model to.
+1.  Open a service and click *Service Actions* \> *Add External Data Model to CAP Project*.
+2.  Select the target CAP Node project to add the external data model to.
 3.  \(Optional\) You can generate a sample service and select the relevant entities.
     1.  Select *Yes* to add a sample service.
     2.  Select the entities that you want to add.
 
 4.  Click *Add*.
 
-    You added the data model to the CAP project. The following changes happen:
+    You added the external data model to the CAP project. The following changes happen:
 
     -   The `<service_name>.xml` and `<service_name>.cds` files appear in the *srv* \> *external* folder of the project.
     -   A service section appears in the `package.json` file of the CAP project, which refers to the *srv* \> *external* \> *<service\_name\>.xml* file. This file has the metadata of the service:

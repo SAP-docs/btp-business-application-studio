@@ -20,6 +20,10 @@ See [Working with SAP Business Application Studio](https://help.sap.com/viewer/c
 
 The SAP HANA Native Application scenario contains the following predefined extensions:
 
+-   **Basic Tools**
+
+    Allows you to optimize your web development workflow. The extension includes capabilities such as a code editor, file management capabilities, split view and window management, preferences and settings.
+
 -   **SAP HANA Calculation View Editor**
 
     Allows you to edit and manage SAP HANA calculation views. The extension includes the SAP HANA calculation view editor, the synonym editor, and the analytical privilege editor.
@@ -38,12 +42,6 @@ The SAP HANA Native Application scenario contains the following predefined exten
 
     See [Working with SAP Business Application Studio](https://help.sap.com/viewer/c2b99f19e9264c4d9ae9221b22f6f589/latest/en-US).
 
--   **SAP HANA Smart Data Integration Tools**
-
-    Allows you to do data federation, replication and transformation in SAP HANA. The extension includes graphical editors such as Flowgraph, Replication Task and File Format editors.
-
-    See [Modeling Guide for SAP Web IDE and SAP Business Application Studio](https://help.sap.com/viewer/cc7ebd3f344a4cdda20966a7617f52d8/latest/en-US/b72a6833d8d54aa2be4c199ac4db6996.html)
-
 -   **MTA Tools**
 
     Allows you to perform operations such as build, deployment, and validation on multitarget applications. The following tools will be installed as part of the extension:
@@ -58,5 +56,15 @@ The SAP HANA Native Application scenario contains the following predefined exten
 
 
     See [MTA Tools](https://help.sap.com/viewer/209802f55bfd47fcaccecf1241df99f8/Cloud/en-US).
+
+-   **SAP HANA Smart Data Integration Tools**
+
+    Allows you to do data federation, replication and transformation in SAP HANA. The extension includes graphical editors such as Flowgraph, Replication Task and File Format editors.
+
+    See [Modeling Guide for SAP Web IDE and SAP Business Application Studio](https://help.sap.com/viewer/cc7ebd3f344a4cdda20966a7617f52d8/latest/en-US/b72a6833d8d54aa2be4c199ac4db6996.html)
+
+-   **Startup Server**
+
+    Allows you to leverage a trigger and perform an action.
 
 

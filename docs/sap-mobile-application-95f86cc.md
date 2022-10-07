@@ -8,6 +8,14 @@ See, [Mobile Development Kit](https://help.sap.com/doc/f53c64b93e5140918d676b927
 
 The SAP Mobile Application scenario contains the following predefined extensions:
 
+-   **Basic Tools**
+
+    Allows you to optimize your web development workflow. The extension includes capabilities such as a code editor, file management capabilities, split view and window management, preferences and settings.
+
+-   **Mobile Services App Development Tools**
+
+    Mobile Services App Development Tools enable developers to build end to end mobile applications. From modeling and generating OData services, creating mobile native apps from metadata with MDK to building content for SAP Mobile Cards.
+
 -   **HTML5 Runner**
 
     Allows you to locally run HTML5 applications. Includes the HTML5 application runner and run configurations.
@@ -26,5 +34,30 @@ The SAP Mobile Application scenario contains the following predefined extensions
 
 
     See [Language support for Java ™ for Visual Studio Code](https://github.com/redhat-developer/vscode-java) and [Debugger for Java](https://github.com/Microsoft/vscode-java-debug).
+
+-   **MTA Tools**
+
+    Allows you to perform operations such as build, deployment, and validation on multitarget applications. The following tools are installed as part of the extension:
+
+    -   Cloud Foundry environment CLI
+
+    -   Cloud Foundry environment deployment plugin
+
+    -   Cloud MTA Build Tool
+
+    -   MTA module runner \(VS Code extension\)
+
+
+    See [MTA Tools](https://help.sap.com/viewer/209802f55bfd47fcaccecf1241df99f8/Cloud/en-US).
+
+-   **Startup Server**
+
+    Allows you to leverage a trigger and perform an action.
+
+-   **SAPUI5 Layout Editor**
+
+    Allows you to visually develop your XML view.
+
+    See [Working with the Layout Editor](https://help.sap.com/products/SAP%20Business%20Application%20Studio/9d1db9835307451daa8c930fbd9ab264/8fbbaad310eb4712a5d8169331106b25.html?version=Cloud).
 
 
