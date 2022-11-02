@@ -69,7 +69,7 @@ The following browsers are supported for working in SAP Business Application Stu
 -   Microsoft Edge
 
 
-You can find the regions where SAP Business Application Studio is available in the *Pricing* tab of the [Discovery Center](https://discovery-center.cloud.sap/#/serviceCatalog/business-application-studio?region=all&tab=service_plan&licenseModel=cpea).
+You can find the regions where SAP Business Application Studio is available in the *Pricing* tab of the [SAP Discovery Center](https://discovery-center.cloud.sap/#/serviceCatalog/business-application-studio?region=all&tab=service_plan&licenseModel=cpea).
 
 ![](images/Regions_cacf286.png)
 
