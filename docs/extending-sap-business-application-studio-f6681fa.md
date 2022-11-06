@@ -30,9 +30,9 @@ The extension framework allows you to extend SAP Business Application Studio in 
 
 
 
--   **[Explore and Install VS Code Extensions](explore-and-install-vs-code-extensions-d83a580.md "You can install VS Code extensions from the Open VSX Registry to
+-   **[Explore and Install VS Code Extensions](explore-and-install-vs-code-extensions-d83a580.md "You can install VS Code extensions from the Open VSX Registry  to
 		get additional tools to support the development activities in your dev space.")**  
-You can install VS Code extensions from the *Open VSX Registry* to get additional tools to support the development activities in your dev space.
+You can install VS Code extensions from the [Open VSX Registry](../../../../../../../../../../../../https://open-vsx.org/) to get additional tools to support the development activities in your dev space.
 -   **[Explore and Install Generators](explore-and-install-generators-7865b5e.md "Use external open source generators to add the most suitable templates for your
 		wizards.")**  
 Use external open source generators to add the most suitable templates for your wizards.

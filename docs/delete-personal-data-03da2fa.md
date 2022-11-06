@@ -4,6 +4,11 @@
 
 You can delete personal data stored in your workspace.
 
+**Prerequisites**
+
+-   Install a REST API tool such as Postman.
+
+
 1.  In your browser, get a list of all workspaces in a specific subaccount:
 
     ```

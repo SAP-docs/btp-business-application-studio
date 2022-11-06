@@ -2,14 +2,28 @@
 
 # Unified Customer Landscape Service Provider
 
-After registering an SAP S/4HANA Cloud system, you can explore APIs, preview live data, and view entity details of APIs from the Unified Customer Landscape.
+The Unified Customer Landscape service provider includes packages and services from registered S/4 HANA Cloud systems in SAP BTP. You can use the services as data sources in your application or for application development.
+
+> ### Note:  
+> This service provider is only available for the following landscapes:
+> 
+> -   br10
+> -   jp10
+> -   ca10
+> -   ap10
+> -   ap21
 
 **Prerequisites**
 
--   Your administrator connected an SAP S/4HANA Cloud system with an SAP BTP global account. See [Registering an SAP System](https://help.sap.com/docs/BTP/65de2977205c403bbc107264b8eccf4b/2ffdaff0f1454acdb046876045321c91.html?locale=en-US&version=Cloud).
+-   Your administrator registered an SAP S/4HANA Cloud system in an SAP BTP global account.
 
--   Your administrator created a *Developing with SAP Business Application Studio* formation type in the SAP BTP cockpit to assign the SAP S/4HANA Cloud system to a subaccount. See [Including SAP Systems in a Formation](https://help.sap.com/docs/BTP/65de2977205c403bbc107264b8eccf4b/68b04fa73aa740cb96ed380a85a4761a.html?locale=en-US&version=Cloud).
--   You created a destination in your SAP Business Application Studio subaccount from the cockpit with the following fields:
+    See [Register an SAP S/4HANA Cloud System in a Global Account in SAP BTP](https://help.sap.com/docs/BTP/65de2977205c403bbc107264b8eccf4b/28171b629f3549af8c1d66d7c8de5e18.html?version=Cloud) and [Trigger the Registration in the SAP S/4HANA Cloud Tenant](https://help.sap.com/docs/BTP/65de2977205c403bbc107264b8eccf4b/cadf8f634715450c9cb8afb7901de133.html?version=Cloud).
+
+-   Your administrator created a *Developing with SAP Business Application Studio* formation type in the SAP BTP cockpit to assign the SAP S/4HANA Cloud system to an SAP Business Application Studio subaccount.
+
+    See [Including SAP Systems in a Formation](https://help.sap.com/docs/BTP/65de2977205c403bbc107264b8eccf4b/68b04fa73aa740cb96ed380a85a4761a.html?locale=en-US&version=Cloud).
+
+-   You created a destination in your SAP Business Application Studio subaccount for each consumption bundle from the SAP BTP cockpit with the following fields:
 
 
     <table>
@@ -73,6 +87,11 @@ After registering an SAP S/4HANA Cloud system, you can explore APIs, preview liv
 
     Enter the URL of the the SAP S/4HANA Cloud target system.
 
+    This value is displayed in the *System Landscape* \> *System Details* \> *URL* field in the SAP BTP cockpit.
+
+    > ### Note:  
+    > You must be a global account administrator to see the *System Landscape*.
+
 
     
     </td>
@@ -103,39 +122,7 @@ After registering an SAP S/4HANA Cloud system, you can explore APIs, preview liv
     </td>
     <td valign="top">
 
-    Select the authentication based on your S/4HANA Cloud system security policy.
-
-
-    
-    </td>
-    </tr>
-    <tr>
-    <td valign="top">
-
-    *User*
-
-
-    
-    </td>
-    <td valign="top">
-
-    Enter your username.
-
-
-    
-    </td>
-    </tr>
-    <tr>
-    <td valign="top">
-
-    *Password*
-
-
-    
-    </td>
-    <td valign="top">
-
-    Enter your password.
+    Select the authentication based on your S/4HANA Cloud system inbound communication settings.
 
 
     
@@ -207,9 +194,7 @@ After registering an SAP S/4HANA Cloud system, you can explore APIs, preview liv
 
     ***SAP S/4HANA Cloud***
 
-    The system type is displayed in the *System Type* column of the *System Landscape* page in the SAP BTP cockpit.
-
-    This property is required.
+    This value is displayed in the *System Landscape* \> *System Details* \> *System Type* field in the SAP BTP cockpit.
 
 
     
@@ -225,31 +210,11 @@ After registering an SAP S/4HANA Cloud system, you can explore APIs, preview liv
     </td>
     <td valign="top">
 
-    ***sap.s4:communicationScenario:SAP\_COM\_0001***
+    ***sap.s4:communicationScenario:SAP\_COM\_<XXXX\>***
 
-    The number should be changed to the specific com\_scenario for which the destination is relevant.
+    Replace the number based on the relevant com\_scenario for the destination.
 
-    This property is required.
-
-
-    
-    </td>
-    </tr>
-    <tr>
-    <td valign="top">
-
-    *x-system-url*
-
-
-    
-    </td>
-    <td valign="top">
-
-    ***https://myXXXXX.s4hana.ondemand.com***
-
-    The URL is displayed in the *URL* column of the *System Landscape* page in the SAP BTP cockpit.
-
-    This property is optional.
+    This value is displayed in the *System Landscape* \> *System Details* \> *Consumption Bundles* \> *Correlation IDs* column in the SAP BTP cockpit.
 
 
     
@@ -258,18 +223,16 @@ After registering an SAP S/4HANA Cloud system, you can explore APIs, preview liv
     <tr>
     <td valign="top">
 
-    *x-system-name*
+    *x-system-id*
 
 
     
     </td>
     <td valign="top">
 
-    Enter the name of the SAP S/4HANA Cloud target system.
+    Enter the name of the system ID.
 
-    The name is displayed in the *System Name* column of the *System Landscape* page in the SAP BTP cockpit.
-
-    This property is optional.
+    This value is displayed in the *System Landscape* \> *System Details* \> *System ID* field in the SAP BTP cockpit.
 
 
     
@@ -282,36 +245,16 @@ After registering an SAP S/4HANA Cloud system, you can explore APIs, preview liv
 
 <a name="loio830adebf4ab3470c9c3278188ceef8a1__section_fpr_sx3_qqb"/>
 
-## Explore SAP System Services
+## Explore Unified Customer Landscape Services
 
-1.  Click the gray arrow to display the SAP Business Application Studio subaccount's destinations \(![](images/SC_API_Hub_product_icon_a999bc7.png)\).
-2.  Click the system \(![](images/SC_system_icon_5178796.png)\) to see the system properties, including the name, description, URL, authentication type, and status.
+1.  Click the gray arrow to display the available systems \(![System](images/SC_API_Hub_product_icon_a999bc7.png)\) for the account.
+2.  Click the gray arrow to display the packages \(![Package](images/SC_system_icon_5178796.png)\) under a system.
+3.  Click the gray arrow to display the services under a package.
+4.  Click a service \(![Service](images/SC-_service_icon_fc5c112.png)\) to see its properties, including the service name, protocol, version, URL, and status.
 
-    There are different types of systems displayed using the SAP Business Application Studio subaccount's destinations:
+    If there are many destinations available for the Unified Customer Landscape service, you can see the *Connectivity Information* for the specific destination that you're exploring. You can see the destination's name, authentication, proxy, consumption bundle name and ID, and correlation ID.
 
-    -   ABAP Service Catalog
-
-        The destination points to the ABAP system directly. The system shows its service catalogs with a list of services \(V2 and V4, for example\). To see the list of services, click the system and log in with your user credentials, if needed.
-
-        If the service catalog is available and connected \(![](images/SC-_system_connected_icon_1c4c936.png)\), you can search for services within it. Click the search icon \(![](images/service_center_search_a1d4e5e.png)\) and select the relevant service from the command palette.
-
-    -   Service Host
-
-        The destination points to a host. To log in, enter the service path and your credentials, if needed, and click *CONNECT*.
-
-    -   Service URL
-
-        The destination points directly to the service.
-
-
-    If you maintain credentials in the destination configuration of the account, login can occur automatically. If a system is available, the icon has a green dot \(![](images/SC-_system_connected_icon_1c4c936.png)\).
-
-    If you don't maintain the credentials in the destination configuration of the account, you need to log in manually to open the system information.
-
-3.  Click the gray arrow to display the list of services.
-4.  Click a service \(![](images/SC-_service_icon_fc5c112.png)\) to see its properties, including the service name, protocol, URL, and status.
-
-    If a service is available, the icon has a green dot \(![](images/green_dot-_system_available_ac1aa72.jpg)\).
+    If a service is available, the icon has a green dot \(![Available Service](images/green_dot-_system_available_ac1aa72.jpg)\).
 
 5.  Click an entity to see the service details, including entity data and live data:
     1.  You can see the entity's metadata from the *Entity Details* tab.

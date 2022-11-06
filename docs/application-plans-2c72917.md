@@ -51,6 +51,10 @@ To upgrade the application subscription from the free plan to the standard-editi
 
 6.  In the wizard that opens, select *standard-edition plan* and click *Update Subscription*.
 
+    > ### Note:  
+    > If you don't see the standard-edition plan in the list, make sure that there's an entitlement for SAP Business Application Studio in your subaccount. See [Configure Entitlements and Quotas for Subaccounts](https://help.sap.com/products/BTP/65de2977205c403bbc107264b8eccf4b/5ba357b4fa1e4de4b9fcc4ae771609da.html).
+
+
 > ### Note:  
 > -   The content of the existing dev spaces is not affected by the update.
 > 

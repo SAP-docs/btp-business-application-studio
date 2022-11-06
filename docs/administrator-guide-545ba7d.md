@@ -2,18 +2,9 @@
 
 # Administrator Guide
 
-Before you can work in SAP Business Application Studio, the account administrator must subscribe the subaccount to the SAP Business Application Studio application.
+This guide describes the administrator tasks of subscription, management of authorizations and roles, connecting to external systems and selecting the application plans, amongst others.
 
-
-
-<a name="loio545ba7d9b3034679b7ea08bc36617c6c__section_atr_f4s_whb"/>
-
-## Prerequisites
-
--   Install a REST API tool such as Postman.
-
--   **[Getting Started](getting-started-19611dd.md "Here's a checklist for setting up your system so you can develop applications using
-			SAP Business Application Studio.")**  
+-   **[Getting Started](getting-started-19611dd.md "Here's a checklist for setting up your system so you can develop applications using SAP Business Application Studio.")**  
 Here's a checklist for setting up your system so you can develop applications using SAP Business Application Studio.
 -   **[Subscribe to SAP Business Application Studio](subscribe-to-sap-business-application-studio-6331319.md "Before you can work in SAP Business Application Studio, the account administrator
 		must subscribe the subaccount to the SAP Business Application Studio application.")**  

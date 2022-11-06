@@ -6,9 +6,7 @@ The Service Center provides a central entry point to explore services from vario
 
 You can use the services as data sources in your application and you can trigger application development from the Service Center.
 
-To explore services, click ![](images/Service_Center_icon_77d297f.png) \(Service Center\) from the left side menu or select *View* \> *Open View* and enter ***Service Center*** in the input field. \(The full content of the input field is `view Service Center`\).
-
-The Service Center opens with the various service providers displayed, including the [SAP System Service Provider](sap-system-service-provider-892114c.md) and the [SAP API Business Hub Service Provider](sap-api-business-hub-service-provider-1a2f306.md).
+To explore services, click ![Service Center](images/smaller_service_center_icon-_VS_code_8136996.png) \(Service Center\) or select *View* \> *Open View* from the left-side menu, and enter ***Service Center*** in the input field.
 
 The Service Center opens with the various service providers displayed, including the [SAP System Service Provider](sap-system-service-provider-892114c.md), the [SAP API Business Hub Service Provider](sap-api-business-hub-service-provider-1a2f306.md), and the [API Business Hub Enterprise Service Provider](api-business-hub-enterprise-service-provider-328519b.md).
 
@@ -22,10 +20,11 @@ The SAP System service provider includes systems from your SAP Business Applicat
 		application development.")**  
 The SAP API Business Hub service provider includes SAP API Business Hub products, packages, and services. You can use the services as data sources in your application or for application development.
 -   **[API Business Hub Enterprise Service Provider](api-business-hub-enterprise-service-provider-328519b.md "The API business hub enterprise service provider offers products and services that are
-		published in the API business hub enterprise. You can publish services and group them under
-		the product that you'll consume.")**  
-The API business hub enterprise service provider offers products and services that are published in the API business hub enterprise. You can publish services and group them under the product that you'll consume.
--   **[Unified Customer Landscape Service Provider](unified-customer-landscape-service-provider-830adeb.md "After registering an SAP S/4HANA Cloud system, you can explore APIs, preview live data,
-		and view entity details of APIs from the Unified Customer Landscape.")**  
-After registering an SAP S/4HANA Cloud system, you can explore APIs, preview live data, and view entity details of APIs from the Unified Customer Landscape.
+		published in the API business hub enterprise. You can use the services as data sources in
+		your application or for application development.")**  
+The API business hub enterprise service provider offers products and services that are published in the API business hub enterprise. You can use the services as data sources in your application or for application development.
+-   **[Unified Customer Landscape Service Provider](unified-customer-landscape-service-provider-830adeb.md "The Unified Customer Landscape service provider includes packages and services from
+		registered S/4 HANA Cloud systems in SAP BTP. You can use the services as
+		data sources in your application or for application development.")**  
+The Unified Customer Landscape service provider includes packages and services from registered S/4 HANA Cloud systems in SAP BTP. You can use the services as data sources in your application or for application development.
 

@@ -21,9 +21,9 @@ The number of unsynced committed changes is displayed next to the repository nam
 
 ## Push
 
-1.  From the *SOURCE CONTROL: GIT* view menu, click More Actions.
+1.  From the *SOURCE CONTROL* view menu, click More Actions.
 
-    ![](images/Git_More_Actions_button_5a1fc7b.png)
+    ![More actions](images/Git_More_actions_01ef7aa.png)
 
 2.  Select *Push*.
 
@@ -33,7 +33,10 @@ The number of unsynced committed changes is displayed next to the repository nam
 
 ## Push to
 
-1.  From the *SOURCE CONTROL: GIT* menu, click More Actions.
+1.  From the *SOURCE CONTROL* menu, click More Actions.
+
+    ![More actions](images/Git_More_actions_01ef7aa.png)
+
 2.  Select *Push to*. The command palette is displayed.
 3.  Select the target remote repository branch to which you want to push.
 

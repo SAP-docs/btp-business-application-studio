@@ -4,7 +4,7 @@
 
 The Problems view displays the coding errors and warnings of all open files in a list. When you click an item from the list, the problematic piece of code is highlighted in the editor.
 
-To open the Problems view in SAP Business Application Studio, select *View* \> *Problems* from the menu bar.
+From the left-side menu, select *View* \> *Problems* to open the Problems view.
 
-![](images/Problems_View-_Eran_efbad33.jpg)
+![Problems View](images/problems_view-_vs_code_a3e5a6f.png)
 

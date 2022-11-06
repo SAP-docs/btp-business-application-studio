@@ -4,6 +4,11 @@
 
 You can change the state of a dev space to *Running*.
 
+**Prerequisites**
+
+-   Install a REST API tool such as Postman.
+
+
 1.  In your browser, get a list of all workspaces in a specific subaccount:
 
     ```

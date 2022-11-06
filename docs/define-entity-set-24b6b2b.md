@@ -40,6 +40,14 @@ Before you can bind data to a control, you need to define an entity set.
         > The "dummy" entity set is only for advanced users.
 
 
-4.  Choose OK.
+    -   *Use ancestor's entity set.*
+    -   *Define dummy entity set for the selected control.*
+
+        > ### Restriction:  
+        > The "dummy" entity set is only for advanced users.
+
+    -   *Define entity set and set the selected control as template.*
+
+4.  Click *Bind*.
 
 

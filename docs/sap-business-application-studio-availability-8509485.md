@@ -14,6 +14,9 @@ Use an SAP Business Application Studio outbound IP address when connecting from 
 
 For example, you can use an outbound IP address for connecting SAP Business Application Studio to an SAP S/4HANA service or an ABAP Cloud System service.
 
+> ### Note:  
+> We recommend you connect to the data center that is closer to your physical location to ensure best performance.
+
 
 <table>
 <tr>

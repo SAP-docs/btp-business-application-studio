@@ -26,9 +26,24 @@ The Low-Code-Based Full-Stack Cloud Application scenario contains the following 
 
     Includes enhanced code editors and database management capabilities.
 
+-   **Low-code Tools**
+
+    Collection of low code tools enabling developers to easily build full stack applications for desktop and mobile use.
+
 -   **Mobile Services App Development Tools**
 
     Allows you to build end to end mobile applications. From modeling and generating OData services, creating mobile native apps from metadata with MDK to building content for SAP Mobile Cards.
+
+-   **Fiori Freestyle Tools**
+
+    Allows you to optimize your Fiori-based development. This extension provides Fiori templates with the following tools:
+
+    -   UI5 CLI
+
+    -   Grunt CLI
+
+    -   abap-deploy CLI
+
 
 -   **HTML5 Runner**
 

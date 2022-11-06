@@ -12,8 +12,8 @@ Login occurs automatically, using the SAP Business Application Studio user crede
 
 ## Explore SAP System Services
 
-1.  Click the gray arrow to display the SAP Business Application Studio subaccount's destinations \(![](images/SC_API_Hub_product_icon_a999bc7.png)\).
-2.  Click the system \(![](images/SC_system_icon_5178796.png)\) to see the system properties, including the name, description, URL, authentication type, and status.
+1.  Click the gray arrow to display the SAP Business Application Studio subaccount's destinations \(![Destination](images/SC_API_Hub_product_icon_a999bc7.png)\).
+2.  Click the system \(![System](images/SC_system_icon_5178796.png)\) to see the system properties, including the name, description, URL, authentication type, and status.
 
     There are different types of systems displayed using the SAP Business Application Studio subaccount's destinations:
 
@@ -21,7 +21,7 @@ Login occurs automatically, using the SAP Business Application Studio user crede
 
         The destination points to the ABAP system directly. The system shows its service catalogs with a list of services \(V2 and V4, for example\). To see the list of services, click the system and log in with your user credentials, if needed.
 
-        If the service catalog is available and connected \(![](images/SC-_system_connected_icon_1c4c936.png)\), you can search for services within it. Click the search icon \(![](images/service_center_search_a1d4e5e.png)\) and select the relevant service from the command palette.
+        If the service catalog is available and connected \(![Available System](images/SC-_system_connected_icon_1c4c936.png)\), you can search for services within it. Click the search icon \(![](images/service_center_search_a1d4e5e.png)\) and select the relevant service from the command palette.
 
     -   Service Host
 
@@ -32,14 +32,14 @@ Login occurs automatically, using the SAP Business Application Studio user crede
         The destination points directly to the service.
 
 
-    If you maintain credentials in the destination configuration of the account, login can occur automatically. If a system is available, the icon has a green dot \(![](images/SC-_system_connected_icon_1c4c936.png)\).
+    If you maintain credentials in the destination configuration of the account, login can occur automatically. If a system is available, the icon has a green dot \(![Available System](images/SC-_system_connected_icon_1c4c936.png)\).
 
     If you don't maintain the credentials in the destination configuration of the account, you need to log in manually to open the system information.
 
 3.  Click the gray arrow to display the list of services.
-4.  Click a service \(![](images/SC-_service_icon_fc5c112.png)\) to see its properties, including the service name, protocol, URL, and status.
+4.  Click a service \(![Service](images/SC-_service_icon_fc5c112.png)\) to see its properties, including the service name, protocol, URL, and status.
 
-    If a service is available, the icon has a green dot \(![](images/green_dot-_system_available_ac1aa72.jpg)\).
+    If a service is available, the icon has a green dot \(![Available Service](images/green_dot-_system_available_ac1aa72.jpg)\).
 
 5.  Click an entity to see the service details, including entity data and live data:
     1.  You can see the entity's metadata from the *Entity Details* tab.

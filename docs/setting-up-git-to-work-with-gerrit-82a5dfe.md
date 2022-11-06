@@ -34,9 +34,9 @@ You configured the required Cloud Connector and destination in your account.
 
 2.  Clone your project. See [Cloning Repositories](cloning-repositories-7a68bfa.md).
 3.  Perform your change and create a commit. See [Commit \(Amend\) Changes](commit-amend-changes-460ff49.md).
-4.  From the *SOURCE CONTROL: GIT* view menu, click More Actions.
+4.  From the *SOURCE CONTROL* view menu, click More Actions.
 
-    ![](images/Git_More_Actions_button_5a1fc7b.png)
+    ![More actions](images/Git_More_actions_01ef7aa.png)
 
 5.  Select *Push to Gerrit*.
 

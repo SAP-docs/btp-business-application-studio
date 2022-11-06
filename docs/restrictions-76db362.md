@@ -25,3 +25,6 @@ If your resource usage is close to any of the restrictions above, the system per
 
 If the restrictions are surpassed, performance can't be assured by the SAP Business Application Studio product license.
 
+> ### Note:  
+> We recommend you connect to the data center that is closer to your physical location to ensure best performance. See [SAP Business Application Studio Availability](sap-business-application-studio-availability-8509485.md)
+

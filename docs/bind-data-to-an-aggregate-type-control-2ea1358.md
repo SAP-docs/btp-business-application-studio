@@ -19,11 +19,15 @@ You can bind data to an aggregate-type control, which creates a template.
 
 1.  In the canvas or on the *Outline* tab to the left of the canvas, choose an aggregate-type control that you want to turn into a template, such as a *List Item* control.
 
-2.  In the properties pane to the right of the canvas, under the *Data Set* dropdown list, check the *Set as template* checkbox.
+2.  In the *Properties* pane to the right of the canvas, under the *Data Set* dropdown list, check the *Set as template* checkbox.
 
     This control becomes a template.
 
-3.  In the *Confirmation Needed* dialog box, confirm the removal of any existing controls on the same level by clicking *OK*.
+3.  In the *Properties* pane to the right of the canvas, from the *Select Entity Set* dialog box, select *Define entity set and set the selected control as template.*, and click *Bind*.
+
+    This control becomes a template.
+
+4.  In the *Confirmation Needed* dialog box, confirm the removal of any existing controls on the same level by clicking *OK*.
 
 
 

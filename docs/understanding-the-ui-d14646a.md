@@ -12,19 +12,19 @@ SAP Business Application Studio provides a graphical user interface for executin
 
 The Git view consists of three major sections. The top section is for authoring the commit messages. It also provides access to a couple of basic Git commands.
 
-![](images/Understanding_the_UI_780859a.jpg)
+![Git view](images/Git_top_section_4e8ae13.png)
 
 Below this, you find the commit section, which lists the changed files by their name and separates them in two groups:
 
--   *STAGED CHANGES* - A list of the files that have been staged. Click ![](images/Open_FIle_b4801d1.png) to open the selected file, or ![](images/Git_Unstage_ed68173.png) to unstage it.
+-   *Staged Changes* - A list of the files that have been staged. Click ![Open file icon](images/Git_open_file_787f08b.png) to open the selected file, or ![Unstage icon](images/Git_Unstage_ed68173.png) to unstage it.
 
-    ![](images/Git_Staged_Files_8ed2f2f.png)
+    ![Staged changes section](images/staged_changes_bac6983.png)
 
--   *CHANGES* - Files listed under the *CHANGES* section contain unstaged changes. Each file name is followed by a path to its parent directory and an indicator describing the status of the change.
+-   *Changes* - Files listed under the *Changes* section contain unstaged changes. Each file name is followed by a path to its parent directory and an indicator describing the status of the change.
 
-    Click ![](images/Open_FIle_b4801d1.png) to open the selected file, ![](images/Git_Stage_9bd7585.png) to stage the file, or ![](images/Git_Refresh_9c6d3bb.png) to refresh it.
+    Click ![Open file icon](images/Git_open_file_787f08b.png) to open the selected file, ![Stage file icon](images/Git_Stage_changes_icon_67e32ee.png) to stage the file, or ![Refresh icon](images/Git_refresh_5d003be.png) to refresh it.
 
-     ![](images/Changes_section_cc4026e.png)
+     ![Git Changes section](images/Git_Changes_section_0b3f741.png)
 
 
 The files can be in any of the following statuses:

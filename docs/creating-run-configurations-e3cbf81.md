@@ -13,7 +13,7 @@ SAP Business Application Studio provides default run configurations for your pro
 ## Related Information
 
 -   [Creating Run Configurations for Java Modules](creating-run-configurations-for-java-modules-c206766.md)
--   [Creating Run Configurations for SAP Fiori Applications](https://help.sap.com/viewer/584e0bcbfd4a4aff91c815cefa0bce2d/Cloud/en-US/0c6d318236254345bb74cfb04db7e427.html)
+-   [SAP Fiori tools- Create a New Run Configuration in SAP Business Application Studio](https://help.sap.com/docs/SAP_FIORI_tools/17d50220bcd848aa854c9c182d65b699/05f2a9ef5e27402382d1ac9cfb98537f.html)
 -   [Creating Run Configurations for CAP Java Modules](https://help.sap.com/viewer/9c36fdb911ae4cadab467a314d9e331f/Cloud/en-US/05cafd835c4348249d311c4e41a4f0db.html)
 -   [Creating Run Configurations for CAP Node Applications](https://help.sap.com/viewer/9c36fdb911ae4cadab467a314d9e331f/Cloud/en-US/149f285d410642c291855258aa13a46d.html)
 

@@ -111,6 +111,182 @@ Available as of
 </td>
 <td valign="top">
 
+Development Experience
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio now uses Code-OSS, the open source used for building Visual Studio Code. This change comes with many user experience improvements that will speed up your productivity.
+
+All business functionality is still available. Some basic IDE capabilities have been updated. Once you are used to the new UI, your development experience will be better and faster.
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+Announcement
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2022-11-06
+
+
+
+</td>
+<td valign="top">
+
+2022-11-06
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Dev Space Manager
+
+
+
+</td>
+<td valign="top">
+
+You can now provide feedback regarding your development experience in SAP Business Application Studio by taking our survey.
+
+You can access the survey from the menu bar in the Dev Space Manager.
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2022-10-03
+
+
+
+</td>
+<td valign="top">
+
+2022-10-03
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
 Calculation Views
 
 
@@ -160,7 +336,7 @@ Not applicable
 </td>
 <td valign="top">
 
- 
+SAP Business Application Studio
 
 
 

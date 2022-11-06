@@ -4,16 +4,11 @@
 
 The command palette provides access to all the IDE functionality including shortcuts for the most common operations.
 
-To open the command palette in SAP Business Application Studio, select *View* \> *Find Command* from the menu bar or press [CTRL\] + [Shift\] + [P\].
+To open the command palette, select *View* \> *Command Palette...* from the left-side menu or press [CTRL\] + [Shift\] + [P\] \(Windows/Linux\) or [Command\] + [Shift\] + [P\] \(Mac\).
 
 This will open an input field at the top of the IDE allowing you to type a command. Content assist then allows you to find commands quickly.
 
 Some commands will lead you into a minimal text-based wizard, allowing you to enter additional parameters.
 
-![](images/Command_Pallete-_Eran_8603393.jpg)Command Palette of SAP Business Application Studio
-
-**Related Information**  
-
-
-[Getting to Know the Command Palette](https://sapvideoa35699dc5.hana.ondemand.com/?entry_id=1_bg7qjsjh)
+![Command Palette](images/Command_Palette_3e0106b.png)
 

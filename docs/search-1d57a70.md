@@ -6,18 +6,18 @@ There are different Search capabilities in SAP Business Application Studio.
 
 You can perform a search from the Search view or from the Find widget in the editor.
 
--   To open the Search view, select *View* \> *Search*.
+-   To open the Search view, select *View* \> *Search* from the left-side menu.
 
-    ![](images/Search_View_faae923.jpg)
+    ![search view](images/search_cee2f2e.png)
 
--   To open the Find widget, press ***Ctrl+F***.
+-   To open the Find widget within a file, press ***Ctrl+F***.
 
-    ![](images/Find_Widget_54dbc9a.jpg)
+    ![Find widget](images/find_widget_8095927.png)
 
 
 **Find and Replace**
 
-![](images/Find_and_Replace-_new_55bdbf7.jpg)
+![Find and replace view](images/search_view_67e845e.png)
 
 You can find text and replace in the currently opened file. The search results will be highlighted in the editor, overview ruler, and minimap.
 

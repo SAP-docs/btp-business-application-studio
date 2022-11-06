@@ -6,7 +6,7 @@ SAP Business Application Studio enables you to connect and interact with the Git
 
 **Prerequisite**
 
--   Before you can work with the Git view, your administrator must establish a connection to your corporate Git system. See [Connect to Your Git Source Control System](connect-to-your-git-source-control-system-e7a42bc.md).
+-   Before you can work with the Git view, you or your administrator must establish a connection to your corporate Git system. See [Connect to Your Git Source Control System](connect-to-your-git-source-control-system-e7a42bc.md).
 
 -   Ask your administrator which is the recommended authentication method for your company. See [Connect to Your Git Source Control System](connect-to-your-git-source-control-system-e7a42bc.md).
 
@@ -54,8 +54,6 @@ Gerrit is a web-based software code review tool for reviewing, approving, or rej
 [Using the Git View](using-the-git-view-265962e.md "General overview of the Git view in SAP Business Application Studio.")
 
 [Connect to Your Git Source Control System](connect-to-your-git-source-control-system-e7a42bc.md "SAP Business Application Studio allows you to connect to public and corporate repositories.")
-
-[Connecting to a Corporate Git Repository](connecting-to-a-corporate-git-repository-d54ddfc.md "As an administrator, you can work with on-premise Git repositories once an appropriate destination has been created in your subaccount.")
 
 [Connecting to a Public Git Repository](connecting-to-a-public-git-repository-a47db8b.md "Using SAP Business Application Studio, you can connect to all public git services, such as GitHub, GitLab, and GitBucket.")
 

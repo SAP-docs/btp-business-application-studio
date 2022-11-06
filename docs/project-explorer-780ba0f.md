@@ -8,5 +8,5 @@ On the left side of your screen, you find a quick bar to open the SAP Business A
 
 The most important, is the *Explorer* view that displays the contents of your current workspace.
 
-![](images/Project_Explorer_eb3a468.png)
+![project explorer view](images/Project_Explorer_f95bf3b.png)
 

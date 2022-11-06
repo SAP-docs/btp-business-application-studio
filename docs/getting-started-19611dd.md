@@ -60,14 +60,14 @@ You require a global account to enable SAP Business Application Studio.
 
 **Create subaccounts in the Cloud Foundry environment.**
 
-Select a region according to the guidelines in the [Neo and Cloud Foundry Regions](https://help.sap.com/viewer/825270ffffe74d9f988a0f0066ad59f0/CF/en-US/975b3207acf94599a9a48beb36257ebc.html) topic.
+Select a region according to the guidelines in the [SAP Business Application Studio Availability](sap-business-application-studio-availability-8509485.md) topic.
 
 
 
 </td>
 <td valign="top">
 
-When you create a subaccount in the SAP BTP, Cloud Foundry environment, a Cloud Foundry organization is automatically created for that subaccount.
+Create a subaccount in the SAP BTP, Cloud Foundry environment.
 
 
 
@@ -75,31 +75,6 @@ When you create a subaccount in the SAP BTP, Cloud Foundry environment, a Cloud 
 <td valign="top">
 
 [Create a Subaccount](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/05280a123d3044ae97457a25b3013918.html)
-
-
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
- **Assign members to your Cloud Foundry organizations and spaces.** 
-
-
-
-</td>
-<td valign="top">
-
-Enable your developers to work with your SAP BTP, Cloud Foundry environments.
-
-Your developers need to be assigned to the space developer role to be able to use the space from SAP Business Application Studio.
-
-
-
-</td>
-<td valign="top">
-
-[Managing Members](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/cc1c676b43904066abb2a4838cbd0c37.html)
 
 
 
@@ -248,6 +223,35 @@ For staging/test and production organizations, 1 space is sufficient.
 <td valign="top">
 
 [Create Spaces](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/2f6ed22ccf424dae84345f4500c2d8ea.html)
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**OPTIONAL: Assign members to your Cloud Foundry organizations and spaces.**
+
+Relevant for developers developing Cloud Foundry applications.
+
+ 
+
+
+
+</td>
+<td valign="top">
+
+Enable your developers to work with your SAP BTP, Cloud Foundry environments.
+
+Your developers need to be assigned to the space developer role to be able to use the space from SAP Business Application Studio.
+
+
+
+</td>
+<td valign="top">
+
+[Managing Members](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/cc1c676b43904066abb2a4838cbd0c37.html)
 
 
 

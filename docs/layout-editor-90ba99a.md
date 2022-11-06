@@ -15,7 +15,7 @@ Display the content of an XML view in the layout editor to see it in a way that 
 
 The layout editor is composed of a canvas, a pane on the left that includes the *Controls* and *Outline* tabs, and a pane on the right that includes the *Properties* pane.*Events* and *Properties* panes.
 
-![](images/BAS_Layout_Editor_550217f.png)
+![Layout Editor](images/layout_editor-_VS_code_0fbe61b.png)
 
 
 

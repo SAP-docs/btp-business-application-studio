@@ -4,9 +4,9 @@
 
 Enables you to save your changes to the local repository. Sign-off is a line at the end of the commit message that certifies who is the author of the commit.
 
-1.  From the *SOURCE CONTROL: GIT* view menu, click More Actions.
+1.  From the *SOURCE CONTROL* view menu, click More Actions.
 
-    ![](images/Git_More_Actions_button_5a1fc7b.png)
+    ![More actions](images/Git_More_actions_01ef7aa.png)
 
 2.  Select *Commit \(Signed Off\)*. The commit message is sent including the signature of the committer.
 

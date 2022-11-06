@@ -8,11 +8,11 @@ You can create multiple terminals open to different locations and easily navigat
 
 With access to the terminal, you can use any tool that is pre-installed on your dev space, such as maven and npm. You can install additional tools, including global npm packages and other CLIs, using npm install. You can execute commands from the command line, create new projects or modules, build applications, and deploy applications from the terminal.
 
-To open the terminal in SAP Business Application Studio, select *Terminal* \> *New Terminal* from the menu bar.
+From the left-side menu, select *Terminal* \> *New Terminal* to open the terminal.
 
-To open the terminal at a specific directory, right-click the desired file in the *File Explorer*, and select *Open in Terminal*.
+To open the terminal at a specific directory, right-click the desired file in the *File Explorer*, and select *Open in Integrated Terminal*.
 
-![](images/Terminal_51f4bd7.png)
+![](images/terminal_7da3a84.png)![Terminal]()
 
 **Related Information**  
 

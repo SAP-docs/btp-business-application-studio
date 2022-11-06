@@ -2,7 +2,7 @@
 
 # API Business Hub Enterprise Service Provider
 
-The API business hub enterprise service provider offers products and services that are published in the API business hub enterprise. You can publish services and group them under the product that you'll consume.
+The API business hub enterprise service provider offers products and services that are published in the API business hub enterprise. You can use the services as data sources in your application or for application development.
 
 **Prerequisite**
 
@@ -99,7 +99,7 @@ You can add a new system, referring to the API business hub enterprise instance,
 
     You can find the service key for the service instance that you created \(in the Prerequisite\) in the SAP BTP cockpit, under the *API Management, API Business Hub Enterprise* service.
 
-    ![](images/service_instance_key-_ABHE-_cropped_9439c8c.png)
+    ![URL Value](images/service_instance_key-_ABHE-_cropped_9439c8c.png)
 
 
     
@@ -372,15 +372,15 @@ You can add a new system, referring to the API business hub enterprise instance,
 
     Each system points to an API business hub enterprise instance.
 
-2.  Click the gray arrow next to the system \(![](images/SC_API_Hub_product_icon_a999bc7.png)\) to display the products within it.
+2.  Click the gray arrow next to the system \(![System](images/SC_API_Hub_product_icon_a999bc7.png)\) to display the products within it.
 
     Multiple APIs are grouped into a product.
 
-3.  Click the gray arrow next to the products \(![](images/ABHE_product_icon_c456c90.png)\) to display the services \(APIs\).
+3.  Click the gray arrow next to the products \(![Product](images/ABHE_product_icon_c456c90.png)\) to display the services \(APIs\).
 
-    If the product is available, the icon has a green dot \(![](images/ABHE_available_product_icon_db3f35e.png)\).
+    If the product is available, the icon has a green dot \(![Available Product](images/ABHE_available_product_icon_db3f35e.png)\).
 
-4.  Click a service \(![](images/SC-_service_icon_fc5c112.png)\) to see its properties, including the service name, protocol, and status.
+4.  Click a service \(![Service](images/SC-_service_icon_fc5c112.png)\) to see its properties, including the service name, protocol, and status.
 
     To see the service details, you must be onboarded to the API business hub enterprise and subscribed to the selected product:
 
@@ -404,7 +404,7 @@ You can add a new system, referring to the API business hub enterprise instance,
         This section includes the service name, protocol, and status.
 
 
-    If a service is available, the icon has a green dot \(![](images/green_dot-_system_available_ac1aa72.jpg)\).
+    If a service is available, the icon has a green dot \(![Available Service](images/green_dot-_system_available_ac1aa72.jpg)\).
 
     > ### Note:  
     > -   If a service is unavailable and the target endpoint of the service requires authentication, make sure that the target endpoint is configured to be authenticated via [Basic Authentication](https://help.sap.com/docs/SAP_CLOUD_PLATFORM_API_MANAGEMENT/66d066d903c2473f81ec33acfe2ccdb4/693c0d1720644d57918ed77acc6a95ef.html?locale=en-US&version=Cloud). See the "Configure API Management to Use the Basic Authentication Policy" section in this [blog post](https://blogs.sap.com/2019/05/23/securing-your-microservice-on-sap-cloud-platform-using-api-management-with-basic-authentication-for-last-mile-security/).

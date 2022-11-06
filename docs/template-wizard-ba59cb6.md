@@ -11,11 +11,12 @@ SAP Business Application Studio allows you to use any type of Yeoman generator i
 
     The Template wizard opens showing all the Yeoman generators that are installed in your machine.
 
-2.  Follow the wizard steps and provide the required information. You can move between steps using the *Previous* and *Next* buttons or clicking the steps from the wizard tree.
+2.  Follow the wizard steps and provide the required information. You can move between steps using the *Back* and *Next* buttons or clicking the steps from the wizard tree.
 
     The wizard displays error notifications on the field level as well as on the step level.
 
-3.  If you already have an open workspace, at the conclusion of the wizard, choose if you want to open the artifact in a new workspace or add it to the existing one, thus moving to multi-root mode.
+    The artifact is added to your dev space in a new workspace or as part or a multi-root workspace depending on the Workspace preferences that you defined.
+
 
 If you do not find a wizard that suits your development needs, you can search for more wizards using the [Explore and Install Generators](https://help.sap.com/products/SAP%20Business%20Application%20Studio/9d1db9835307451daa8c930fbd9ab264/7865b5e276ad4f8d9616a3e18eddb174.html) tool.
 

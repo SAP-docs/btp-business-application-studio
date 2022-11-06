@@ -15,18 +15,18 @@ The SAP API Business Hub service provider includes SAP API Business Hub products
 
     SAP S/4HANA Cloud, SAP S/4HANA, SAP SuccessFactors, SAP Customer Experience, and SAP Business Technology Platform
 
-2.  Click the gray arrow next to the product \(![](images/SC_API_Hub_product_icon_a999bc7.png)\) to display the packages.
-3.  Click the gray arrow next to the package \(![](images/SC-_system_connected_icon_1c4c936.png)\) to display the services \(APIs\).
-4.  Click a service \(![](images/SC-_service_icon_fc5c112.png)\) and log in with your SAP API Business Hub credentials, if needed.
+2.  Click the gray arrow next to the product \(![Product](images/SC_API_Hub_product_icon_a999bc7.png)\) to display the packages.
+3.  Click the gray arrow next to the package \(![Available Package](images/SC-_system_connected_icon_1c4c936.png)\) to display the services \(APIs\).
+4.  Click a service \(![Service](images/SC-_service_icon_fc5c112.png)\) and log in with your SAP API Business Hub credentials, if needed.
 
     > ### Note:  
     > You must log in with your SAP API Business Hub credentials one time at the beginning of your session.
 
-    After you log in to a service, the icon has a green dot \(![](images/green_dot-_system_available_ac1aa72.jpg)\).
+    After you log in to a service, the icon has a green dot \(![Available Service](images/green_dot-_system_available_ac1aa72.jpg)\).
 
     The service editor displays the service's properties, including the service name, protocol, status, and product.
 
-    You can navigate to the API package by clicking ![](images/go_to_API_59e0aba.png).
+    You can navigate to the API package by clicking ![Open API Package](images/go_to_API_59e0aba.png).
 
     You can also navigate to the service in the SAP API Business Hub by clicking the URL. From the SAP API Business Hub, you can click *Try Out* to test the API in the sandbox environment.
 

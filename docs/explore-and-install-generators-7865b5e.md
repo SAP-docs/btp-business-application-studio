@@ -13,10 +13,13 @@ Use external open source generators to add the most suitable templates for your 
 > 
 > SAP may elect, in its sole discretion, to disable any dev space that includes Extensions that cause system malfunction or that SAP reasonably believes may cause harm to SAP systems.
 
-1.  Click *Explore and Install Generators* from the upper-right corner of the Yeoman UI wizard or select *Explore and Install Generators* from the command palette.
+1.  Click *Explore and Install Generators* from the upper-right corner of the Template wizard or enter ***Explore and Install Generators*** in the command palette.
+
+    The *Explore and Install Generators* tool opens in a new tab.
+
 2.  The first time you access the tool, a disclaimer is displayed. Click *OK* to continue.
 
-    The *Explore and Install Generators* tool opens in a new tab showing the generators from the [npm registry](https://yeoman.io/generators/).
+    The generators from the [npm registry](https://yeoman.io/generators/) are displayed.
 
 3.  In the *Search for Generators* field, enter the desired template type \(for example SAP Fiori or SAP HANA\).
 4.  Scroll down to find the relevant generator.

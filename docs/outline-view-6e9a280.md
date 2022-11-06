@@ -6,9 +6,9 @@ The Outline view displays a symbol tree of the currently active editor. This vie
 
 You can click on an element in the Outline view to open that element in the editor tab.
 
-To open the Outline view in SAP Business Application Studio, select *View* \> *Outline* from the menu bar.
+To open the Outline view, select *Explorer: Focus on Outline View* from the command palette.
 
-The Outline view opens on the right side of the IDE.
+The Outline view opens on the left side of the IDE, within the Explorer view.
 
-![](images/Outline_View-_Eran_77550e8.jpg)
+![Outline View](images/outline_dc2e524.png)
 

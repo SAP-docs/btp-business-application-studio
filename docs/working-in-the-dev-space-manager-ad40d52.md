@@ -57,14 +57,16 @@ You can also delete your dev space.
 
 <a name="loioad40d52d0bea4d79baaf9626509caf33__section_s2p_4ts_fnb"/>
 
-## Add Extensions to Your Dev Space
+## Add or Remove Extensions
 
-You can add extensions to an existing dev space from the Dev Space Manager.
-
-To add extentions, the dev space must be in the stopped state.
+You can change the extensions you selected for your dev space.
 
 1.  From the Dev Space Manager, click ![Edit icon](images/Edit_Dev_Space_Button_7f87f6e.jpg) to edit the dev space.
-2.  Select the additional SAP extensions that you want to add.
+
+    > ### Note:  
+    > To edit an extension, the dev space must be in the stopped state.
+
+2.  Select the additional SAP extensions that you want to add, or clear the checkmark from extensions you want to remove.
 3.  Click *Save Changes*.
 
 
@@ -98,19 +100,18 @@ When the export process is complete, the `tar` file, with the dev space content,
 After downloading the dev space content, you can import the content to another dev space:
 
 1.  Create a new dev space, start it, and open it.
-2.  Click *Open Folder*.
+2.  From the Explorer view, click *Open Folder*.
 
-    The `user` folder is selected.
+    The path to the `user` folder \(`/home/user/`\) is displayed in the command palette.
 
-3.  Click *Open*.
-4.  Click to select the `projects` folder.
-5.  Click *File* \> *Upload Files*.
-6.  From the *Downloads* folder, choose the file with the dev space content.
-7.  Right-click the `projects` folder and select ***Open in Terminal***.
-8.  Enter the following command to uncompress the uploaded file:
+3.  Click *OK* to open the `user` folder.
+4.  Right-click the `projects` folder and click *Upload...*
+5.  From the *Downloads* folder, choose the file with the dev space content.
+6.  Right-click the `projects` folder and click *Open in Integrated Terminal*.
+7.  Enter the following command to uncompress the uploaded file:
 
     ```
-    tar xvzf <yourFileName>.tar.gz
+    tar xvzf <Your.tar.gzFile>
     ```
 
 

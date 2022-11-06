@@ -12,13 +12,13 @@ SAP Business Application Studio has built-in debugging support for the Node.js r
 
 To debug a node.js file:
 
-1.  Open the Debug view.
+1.  Open the Run and Debug view.
 
-    ![](images/Debugger_view_6dce373.png)
+    ![Run and Debug View](images/run_and_debug_view_695ce89.png)
 
-2.  From the dropdown list, select *Add Configuration*.
+2.  Open the dropdown list to select the relevant configuration.
 
-    ![](images/Add_configuration_169397a.png)
+    ![Select Configuration](images/select_nodejs_config_a0828a6.png)
 
     A list of configuration options is displayed.
 

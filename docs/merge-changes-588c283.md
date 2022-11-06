@@ -6,9 +6,9 @@ You can incorporate all the changes from one branch into another in a single com
 
 To merge a branch into another:
 
-1.  From the *SOURCE CONTROL: GIT* view menu, click More Actions.
+1.  From the *SOURCE CONTROL* view menu, click More Actions.
 
-    ![](images/Git_More_Actions_button_5a1fc7b.png)
+    ![More actions](images/Git_More_actions_01ef7aa.png)
 
 2.  Select *Merge...*. The command palette opens.
 3.  Select the branch you want to merge into the currently active branch.

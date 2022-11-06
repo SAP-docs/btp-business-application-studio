@@ -19,7 +19,7 @@ You can bind data to a simple control.
 
             The data fields are automatically concatenated to the string in the *Expression* box.
 
-        2.  Click *OK* or first manually edit the expression string and then click *OK*.
+        2.  Click *Bind* or first manually edit the expression string and then click *Bind*.
 
 
     -   In the *Properties* pane, for a field or dropdown list, manually enter the required expression within curly brackets \{...\} according to the data set that you selected.

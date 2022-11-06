@@ -14,8 +14,6 @@ Use the project explorer to browse the contents of your current workspace.
 -   **[Layout Editor](layout-editor-90ba99a.md "Display the content of an XML view in the layout editor to see it in a way that closely corresponds to how it will appear in your
 		finished application.")**  
 Display the content of an XML view in the layout editor to see it in a way that closely corresponds to how it will appear in your finished application.
--   **[Consuming SAP Services](consuming-sap-services-d5e99dc.md "You can consume an SAP service from your application.")**  
-You can consume an SAP service from your application.
 -   **[Git Source Control](git-source-control-9689c07.md "SAP Business Application Studio enables you to
 		connect and interact with the Git source control system, letting you connect and interact
 		with remote Git repositories.")**  

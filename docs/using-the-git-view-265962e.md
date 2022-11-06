@@ -12,31 +12,31 @@ SAP Business Application Studio provides a graphical user interface for executin
 
 ## Git View
 
-To open the Git view, click ![](images/Open_Git_pane_7c27a9f.png) from the left side-menu.
+To open the Git view, click ![Open Git view](images/Open_Source_Control_view_abdab3a.png) from the left side-menu.
 
-![](images/Git_view_44295cf.jpg)
+![Git View](images/Git_View_df291d4.png)
 
 The Git view is divided into the following sections:
 
-*SOURCE CONTROL: GIT* view menu
+*SOURCE CONTROL* view menu
 
 ![](images/source_control_GIT_menu_e10ab7d.png) 
 
--   Click ![](images/toggle_icon_e7e5e6d.png) to toggle between list and tree views.
--   Click ![](images/commit_icon_5792efe.png) \(or press  [<Ctrl\>\] + [<Enter\>\] \) to commit the changes.
--   Click ![](images/refresh_icon_new_baea6eb.png) to refresh the Git pane.
--   Click ![](images/sign_off_2702bdd.png)
--   Click ![](images/more_actions_new_ab37e83.png) to see more available actions. See to add your name to the commit.[Git Commands](git-commands-5914548.md)
+-   Click ![Toggle](images/toggle_icon_e7e5e6d.png) to toggle between list and tree views.
+-   Click ![commit changes](images/commit_icon_5792efe.png) \(or press  [<Ctrl\>\] + [<Enter\>\] \) to commit the changes.
+-   Click ![Refresh](images/Git_refresh_5d003be.png) to refresh the Git pane.
+-   Click ![Git history](images/Git_history_8341762.png) to view the Git history.
+-   Click ![more actions](images/more_actions_new_ab37e83.png) to see more available actions. See [Git Commands](git-commands-5914548.md)
 
  *Message* section
 
 Enter a description for the commit.
 
-*STAGED CHANGES* section
+*Staged Changes* section
 
 Shows the files that will be included in the next commit.
 
-![](images/staged_changes_menu_89ea9de.png)
+![Staged Changes section](images/staged_changes_539d922.png)
 
 Hover over the section title to see additional actions.
 
@@ -45,24 +45,24 @@ Hover over the section title to see additional actions.
 Hover over the files in this section to see additional actions:
 
 -   Click ![](images/unstage_changes_icon_684e1d1.png) to unstage the changes in the file.
--   Click ![](images/open_file_icon_2380fb5.png) to open the file.
+-   Click ![open file](images/Git_open_file_787f08b.png) to open the file.
 
-*CHANGES* section
+*Changes* section
 
-to add your name to theShows the files that contain changes.
+Shows the files that contain changes.
 
-![](images/changes_menu_da6cd19.png)
+![Changes section](images/changes_section_d55c5f1.png)
 
 Hover over the section title to see additional actions.
 
--   Click ![](images/discard_changes_icon_b9f9b23.png) to discard all changes.
--   Click ![](images/stage_changes_icon_10076b2.png) to stage all changes.
+-   Click ![discard changes](images/Discard_changes_954f1c8.png) to discard all changes.
+-   Click ![stage all changes](images/Git_Stage_changes_icon_67e32ee.png) to stage all changes.
 
 Hover over the files in this section to see additional actions:
 
--   Click ![](images/discard_changes_icon_b9f9b23.png) to discard the changes in the file.
--   Click ![](images/open_file_icon_2380fb5.png) to open the file.
--   Click ![](images/stage_changes_icon_10076b2.png) to stage the changes in the file.
+-   Click ![discard changes](images/Discard_changes_954f1c8.png) to discard the changes in the file.
+-   Click ![open file](images/Git_open_file_787f08b.png) to open the file.
+-   Click ![stage changes](images/Git_Stage_changes_icon_67e32ee.png) to stage the changes in the file.
 
 *Amend* section.
 
@@ -76,7 +76,7 @@ Click *Amend* at the bottom of the pane to make changes to a commit.
 
 At the bottom-left corner of SAP Business Application Studio, you can find indicators describing the status of your Git repository. They show the current branch, dirty indicators, and the number of ahead and behind changes of the current branch.
 
-![](images/Git_Status_Bar_a3be78e.png)
+![Git status bar](images/Git_status_bar_cd1ee90.png)
 
 The dirty indicators are as follows:
 

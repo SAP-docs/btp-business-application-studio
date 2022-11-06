@@ -8,12 +8,12 @@ Select the control that you want to add to the canvas from the *Controls* tab on
 
 
 
-If you want to add an *HBox* container with a *Button* control to your view, do the following:
+If you want to add an *HBox* containerlayout with a *Button* control to your view, do the following:
 
 1.  Choose the *Controls* tab.
-2.  Open the *Container* section by clicking the arrow to the right of the section title.
+2.  Open the *Container**Layout* section by clicking the arrow to the rightleft of the section title.
 3.  Select the *HBox* control and drag it to the canvas. Drop it at the position where you want it to appear.
-4.  Open the *Action* section by clicking the arrow to the right of the section title.
+4.  Open the *Action* section by clicking the arrow to the rightleft of the section title.
 5.  Select the *Button* control and drag it to the canvas.
-6.  Drop the *Button* control onto the *HBox* container.
+6.  Drop the *Button* control onto the *HBox* containerlayout.
 

@@ -52,15 +52,6 @@ The SAP Fiori scenario contains the following predefined extensions:
 
     See [MTA Tools](https://help.sap.com/viewer/209802f55bfd47fcaccecf1241df99f8/Cloud/en-US).
 
--   **Basic SAP version of Theia IDE**
-
-    Allows you to use basic IDE functionality such as code editors, split view, dynamic layout, file management and search, preferences, Git integration, Outline view, and Problems view. It enables you to execute commands using the command palette and the terminal.
-
-    The following tools will be installed as part of the extension:
-
-    -   Eclipse Theia
-    -   Git
-
 -   **SAP Fiori Tools**
 
     Allows you to simplify the development of SAP Fiori elements applications by providing extensions that can help you create applications, visualize navigation, automatically generate code, and more. The following extensions will be installed:

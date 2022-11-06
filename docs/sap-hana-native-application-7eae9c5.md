@@ -2,9 +2,6 @@
 
 # SAP HANA Native Application
 
-> ### Note:  
-> This feature is not available in the China \(Shanghai\) Region.
-
 Build and deploy native SAP HANA applications or analytical models. This dev space contains a comprehensive set of editors to support the creation of database artifacts \(calculation views, tables, SQLScript procedures, and more\), as well as tools to enable an end-to-end development flow from project creation to the deployment to the SAP BTP.
 
 See [Working with SAP Business Application Studio](https://help.sap.com/viewer/c2b99f19e9264c4d9ae9221b22f6f589/latest/en-US).

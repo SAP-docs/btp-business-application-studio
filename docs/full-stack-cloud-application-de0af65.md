@@ -28,6 +28,17 @@ The Full Stack Cloud Application scenario contains the following predefined exte
 
     Allows you to create a Fiori application, using the Yeoman generator.
 
+-   **Fiori Freestyle Tools**
+
+    Allows you to optimize your Fiori-based development. This extension provides Fiori templates with the following tools:
+
+    -   UI5 CLI
+
+    -   Grunt CLI
+
+    -   abap-deploy CLI
+
+
 -   **SAP HANA Database Explorer**
 
     Allows you to access and inspect SAP HANA run-time objects. The extension includes a command that opens the SAP HANA Database Explorer in a new browser tab.
