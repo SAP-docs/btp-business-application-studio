@@ -4,7 +4,7 @@
 
 Here you can find a list of the security events that are logged by SAP Business Application Studio.
 
-<a name="loio9ff1a8d6bced40a8a611b4ba7871e061__table_dqf_pkf_p4b"/>Security events written in audit logs
+**Security events written in audit logs**
 
 
 <table>

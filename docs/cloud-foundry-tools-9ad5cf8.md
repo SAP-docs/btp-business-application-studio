@@ -61,7 +61,7 @@ Create service instance in your current Cloud Foundry org and space. You can lat
 > ### Note:  
 > You can create a service instance in the *CLOUD FOUNDRY: TARGETS* view. The *CLOUD FOUNDRY: TARGETS* view opens.
 > 
-> 1.  Click ![Cloud Foundry](images/cf_targets_a1ad998.png) on the left-side menu.
+> 1.  Click ![Cloud Foundry](images/cf_targets_a1ad998.png) from the activity bar.
 > 2.  Click ![create service instance](images/New_Target_e1681d1.png) \(*Create a service instance*\) next to the *Services* folder under the active target.
 
 
@@ -72,7 +72,7 @@ Create service instance in your current Cloud Foundry org and space. You can lat
 
 With a user-provided service instance, you can use services that are not available in the marketplace.
 
-1.  From the left side menu, click ![Cloud Foundry](images/cf_targets_a1ad998.png). The *CLOUD FOUNDRY: TARGETS* view opens.
+1.  From the activity bar, click ![Cloud Foundry](images/cf_targets_a1ad998.png). The *CLOUD FOUNDRY: TARGETS* view opens.
 2.  Click ![new service instance](images/Git_Stage_changes_icon_67e32ee.png) next to the *Services* node under the active target.
 
     ![create a service instance](images/create_user_provided_target_23243f7.png)

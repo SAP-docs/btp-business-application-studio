@@ -19,10 +19,10 @@ Run a Java module on the local Apache Tomcat server and allow binding the module
 
 ## Add a New Configuration
 
-1.  Open the *Run Configurations* view.
+1.  Click ![Run Configurations View](images/run_config_view_icon_13c7190.png) to open the *Run Configurations* view.
 2.  Click **\+** \(Create Configuration\).
 
-    ![](images/New_Run_Config_af5e36a.png)
+    ![Create Configuration](images/New_Run_Config_af5e36a.png)
 
 3.  Select the Java module as the runnable object.
 
@@ -58,7 +58,7 @@ To bind the resource:
 1.  Open the *Run Configurations* view.
 2.  Select the desired configuration.
 3.  Select the desired resource.
-4.  Click ![](images/UnbindService_8a3582e.png) \(bind\).
+4.  Click ![Bind](images/bind_resource-_new_7a41514.png) \(bind\).
 
     If not already logged in, you're prompted to log in to Cloud Foundry.
 
@@ -68,7 +68,7 @@ To bind the resource:
 
 The resource is bound to the service.
 
-![](images/bound_resource_a53ec7b.png)
+![Resource Bound](images/resource_bound-_new_53a7c05.png)
 
 This updates the resource's configuration files. See the *Advanced Options* section below to see the changes made to the configuration files.
 
@@ -81,7 +81,7 @@ To unbind the resource:
 1.  Open the *Run Configurations* view.
 2.  Select the desired configuration.
 3.  Select the desired resource.
-4.  Click ![](images/BindService_35ad62f.png) \(unbind\).
+4.  Click ![Unbind](images/unbind_25e729b.png) \(unbind\).
 
 
 
@@ -90,7 +90,7 @@ To unbind the resource:
 ## Run a Configuration
 
 1.  If you bound your service to a service that requires Chisel to run:
-    1.  From the command palette, choose *Task* \> *Run Task*.
+    1.  In the command palette, enter ***Tasks*** and select *Tasks: Run Task*.
     2.  Select `openChiselTunnelFor-<service name>`.
 
         > ### Note:  
@@ -105,12 +105,12 @@ To unbind the resource:
     The Debug Console opens.
 
 4.  A notification prompting you to open the service in a new tab is displayed. Click the relevant action to view the service in a new tab. See [Application Preview Settings](application-preview-settings-91fc8bf.md).
-5.  If you need to stop a configuration that is already running, you can do so from the *Debug* view.
+5.  If you need to stop a configuration that is already running, you can do so from the *Run and Debug* view.
 
 > ### Note:  
 > For more information about the tasks triggered by the run configuration, see the *Advanced Options* section below.
 > 
-> Stopping a configuration from the *Debug* view doesn't stop any running tasks.
+> Stopping a configuration from the *Run and Debug* view doesn't stop any running tasks.
 
 
 
@@ -118,7 +118,7 @@ To unbind the resource:
 
 ## Edit a Run Configuration
 
-1.  Right-click a run relevant configuration to do the following:
+1.  Right-click a relevant run configuration to do the following:
     -   *Configure Environment* - Open the environment file to view the binding configuration.
 
     -   *Rename* - Provide a new name for the selected run configuration.
@@ -155,7 +155,7 @@ In addition to the `launch.json` file that is created as part of the new configu
 
     The environment configuration file is referenced from your `Launch` configuration.
 
-    ![](images/env_file_386d593.png)
+    ![Launch Configuration](images/launchjson_file_5c20352.png)
 
 -   **New tasks in the `tasks.json` file**
 

@@ -52,7 +52,7 @@ You can expand or collapse each section by clicking the arrow on each section he
 > ### Note:  
 > Make sure to delete the search criteria if you want to expand other sections.
 
-You can drag and drop controls from the *Controls* tab onto the canvas. For more information, see [Add Controls from the Controls Tab](add-controls-from-the-controls-tab-82d8438.md).
+You can drag and drop controls from the *Controls* tab onto the canvas. For more information, see [Add Controls from the Controls Tab](https://help.sap.com/viewer/b404f04cb6d4415eb46aeb4e3a28271d/Cloud/en-US/82d84385d3e3400096ab6f26f0cd2582.html "Add controls to the canvas by using drag and drop functionality.") :arrow_upper_right:.
 
 ![](images/BAS_Control_Pane-_cropped_d146acd.jpg)
 
@@ -111,7 +111,7 @@ The *Events* pane allows you to select an existing event handler from the contro
 
 The *Properties* pane shows the properties of the control that is currently selected in the canvas and allows you to modify its property values. The most commonly used properties for each control are displayed at the top of the list. The ![](images/data_binding_button_852457c.jpg) icon next to each property opens the *Data Binding* dialog box.
 
-For more information, see [Binding Data](binding-data-c24e9c4.md), [Bind Data to a Simple Control](bind-data-to-a-simple-control-93f40e6.md), and [Bind Data to an Aggregate-Type Control](bind-data-to-an-aggregate-type-control-2ea1358.md).
+For more information, see [Binding Data](binding-data-c24e9c4.md), [Bind Data to a Simple Control](bind-data-to-a-simple-control-93f40e6.md), and [Bind Data to an Aggregate-Type Control](https://help.sap.com/viewer/b404f04cb6d4415eb46aeb4e3a28271d/Cloud/en-US/2ea1358f3d9849febe6a4aa5b0abb635.html "You can bind data to an aggregate-type control, which creates a template.") :arrow_upper_right:.
 
 ![](images/Properties_Pane_074591c.png)
 

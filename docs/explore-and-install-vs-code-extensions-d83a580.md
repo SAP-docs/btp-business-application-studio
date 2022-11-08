@@ -5,7 +5,7 @@
 You can install VS Code extensions from the [Open VSX Registry](https://open-vsx.org/) to get additional tools to support the development activities in your dev space.
 
 > ### Note:  
-> SAP provides you with a mechanism to access third-party sites to view and download open-source, 3rd party, or its own tools, libraries, or software components \(“Extensions”\) to dev spaces in SAP Business Application Studio. Using this mechanism, you can view and install VS Code Extensions from the VSX Open Registry at your own risk.
+> SAP provides you with a mechanism to access third-party sites to view and download open-source, 3rd party, or its own tools, libraries, or software components \(“Extensions”\) to dev spaces in SAP Business Application Studio. Using this mechanism, you can view and install VS Code Extensions from the Open VSX Registry at your own risk.
 > 
 > SAP does not certify or endorse any of the third-party sites or Extensions, and they are not part of SAP Business Application Studio.
 > 
@@ -19,8 +19,7 @@ You can install VS Code extensions from the [Open VSX Registry](https://open-vsx
 
 **To install an extension:**
 
-1.  From the left-side menu, click ![Extensions](images/Extensions-smaller_icon_0f2e96d.jpg) \(Extensions\) or select *View* \> *Extensions* from the menu bar.
-
+1.  Click ![Extensions](images/Extensions-smaller_icon_0f2e96d.jpg) \(Extensions\) from the activity bar or select *View* \> *Extensions* from the left-side menu.
 2.  The first time you open this view, a disclaimer is displayed. Click *OK* to open the *Extensions* view. To read it again later, click *Show Disclaimer*.
 
     The *Extensions* view includes the following sections:

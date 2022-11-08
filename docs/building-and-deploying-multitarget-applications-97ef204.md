@@ -31,7 +31,7 @@ There are several ways for building multitarget applications in SAP Business App
 
 -   From the *Task Explorer*.
 
-    1.  From the left sidebar, click ![Task Explorer](images/smaller_task_explorer_icon_b6d3935.png) to open the *Task Explorer* view.
+    1.  From the activity bar, click ![Task Explorer](images/smaller_task_explorer_icon_b6d3935.png) to open the *Task Explorer* view.
     2.  Click *\+* \(Create Task\).
     3.  Click *Build*.
     4.  Select the MTA project descriptor of the project you want to build.
@@ -77,7 +77,7 @@ There are several ways for deploying multitarget applications to SAP Cloud Found
 
 -   From the *Task Explorer*.
 
-    1.  From the left sidebar, click ![Task Explorer](images/smaller_task_explorer_icon_b6d3935.png) to open the *Task Explorer* view.
+    1.  From the activity bar, click ![Task Explorer](images/smaller_task_explorer_icon_b6d3935.png) to open the *Task Explorer* view.
     2.  Click *\+* \(Create Task\).
     3.  Click *Deploy*.
     4.  Select the MTA archive of the project you want to build.

@@ -12,7 +12,7 @@ SAP Business Application Studio provides a graphical user interface for executin
 
 ## Git View
 
-To open the Git view, click ![Open Git view](images/Open_Source_Control_view_abdab3a.png) from the left side-menu.
+To open the Git view, click ![Open Git view](images/Open_Source_Control_view_abdab3a.png) from the activity bar.
 
 ![Git View](images/Git_View_df291d4.png)
 

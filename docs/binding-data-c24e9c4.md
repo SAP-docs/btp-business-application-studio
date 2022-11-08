@@ -39,7 +39,7 @@ The following types of bindings are possible:
 Before you can bind data to a control, you need to define an entity set.
 -   **[Bind Data to a Simple Control](bind-data-to-a-simple-control-93f40e6.md "You can bind data to a simple control.")**  
 You can bind data to a simple control.
--   **[Bind Data to an Aggregate-Type Control](bind-data-to-an-aggregate-type-control-2ea1358.md "You can bind data to an aggregate-type control, which creates a template.")**  
+-   **[Bind Data to an Aggregate-Type Control](bind-data-to-an-aggregate-type-control-2d625d5.md "You can bind data to an aggregate-type control, which creates a template.")**  
 You can bind data to an aggregate-type control, which creates a template.
 -   **[Bind to the i18n Model](bind-to-the-i18n-model-5e7ddc5.md "You can bind a control property to the i18n model or create a new i18n
 		entry.")**  

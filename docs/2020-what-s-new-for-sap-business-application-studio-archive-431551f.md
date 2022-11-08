@@ -11,7 +11,7 @@
 
 
 
-<a name="loio431551f24f9d48a98b9bedcce7051134__wnv_table"/>Core Components, 2019
+**Core Components, 2019**
 
 
 <table>

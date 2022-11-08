@@ -16,7 +16,7 @@ The SAPUI5 controls listed below can be dragged and dropped from the *Controls* 
 > ### Note:  
 > For more information about SAPUI5 controls, see [UI development toolkit for HTML5 - Demo Kit](https://sapui5.hana.ondemand.com/).
 
-<a name="loioc5d123e0d03b4574be56487f3e9ab816__table_ug1_tps_15"/>SAPUI5 Controls Available on the Controls Tab
+**SAPUI5 Controls Available on the Controls Tab**
 
 
 <table>
@@ -2299,7 +2299,7 @@ The SAPUI5 controls listed below are available only from the *Outline* tab in th
 > ### Note:  
 > For more information about SAPUI5 controls, see [UI development toolkit for HTML5 - Demo Kit](https://sapui5.hana.ondemand.com/).
 
-<a name="loioc5d123e0d03b4574be56487f3e9ab816__table_dr1_kss_15"/>SAPUI5 Controls Available on the Outline Tab
+**SAPUI5 Controls Available on the Outline Tab**
 
 
 <table>

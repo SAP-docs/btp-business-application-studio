@@ -2,7 +2,7 @@
 
 <link rel="stylesheet" type="text/css" href="css/sap-icons.css"/>
 
-# What is SAP Business Application Studio?
+# What Is SAP Business Application Studio?
 
 SAP Business Application Studio is a new SAP Business Technology Platform \(SAP BTP\) service that offers a modern development environment tailored for efficient development of business applications for the SAP Intelligent Enterprise.
 
@@ -73,7 +73,7 @@ You can find the regions where SAP Business Application Studio is available in t
 
 ![](images/Regions_cacf286.png)
 
--   **[Accessibility Features in SAP Business Application Studio](accessibility-features-in-sap-business-application-studio-704ce0a.md "To optimize your experience of SAP Business Application Studio,  () provides features and
-		settings that help you use the software efficiently.")**  
-To optimize your experience of SAP Business Application Studio, \(\) provides features and settings that help you use the software efficiently.
+-   **[Accessibility Features in SAP Business Application Studio](accessibility-features-in-sap-business-application-studio-704ce0a.md "To optimize your experience, SAP Business Application Studio provides features and settings that help
+		you use the software efficiently.")**  
+To optimize your experience, SAP Business Application Studio provides features and settings that help you use the software efficiently.
 

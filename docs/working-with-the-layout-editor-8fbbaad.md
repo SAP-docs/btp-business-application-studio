@@ -10,22 +10,19 @@ An overview of the steps required to edit a project using the layout editor.
 
 ## Prerequisites
 
--   You have opened SAP Business Application Studio in Google Chrome, Microsoft Edge, or Mozilla Firefox.
+You have created a project using the *SAP Fiori List-Detail Application* template.
 
--   You have created a project using the *Fiori Master-Detail Application**SAP Fiori List-Detail Application* template.
+To create a project using this template, perform the following steps:
 
-    To create a project using this template, perform the following steps:
+1.  From the template wizard, select the *SAP Fiori application* generator.
+2.  Select the *SAPUI5 freestyle* application type.
+3.  Select the *SAP Fiori List-Detail Application*.
+4.  Follow the wizard steps and provide the required information.
 
-    1.  From the template wizard, select the *SAP Fiori application* generator.
-    2.  Select the *SAPUI5 freestyle* application type.
-    3.  Select the *SAP Fiori List-Detail Application*.
-    4.  Follow the wizard steps and provide the required information.
+In the `view` folder of this project, you can edit the following views:
 
-    In the `view` folder of this project, you can edit the following views:
-
-    -   `Detail.view.xml`
-    -   `Master.view.xml``List.view.xml`
-
+-   `Detail.view.xml`
+-   `List.view.xml`
 
 
 
@@ -50,11 +47,11 @@ An overview of the steps required to edit a project using the layout editor.
 You can add controls to the canvas from the *Outline* tab.
 -   **[Delete Controls from the Outline Tab](delete-controls-from-the-outline-tab-04ad947.md "You can remove controls from the Outline tab.")**  
 You can remove controls from the *Outline* tab.
+-   **[Add Controls from the Controls Tab](add-controls-from-the-controls-tab-3a1f27e.md "Add controls to the canvas by using drag and drop functionality.")**  
+Add controls to the canvas by using drag and drop functionality.
 -   **[Create a New Function](create-a-new-function-b9cfeb1.md "You can create a new function for a controller from the Events
 		pane.")**  
 You can create a new function for a controller from the *Events* pane.
--   **[Add Controls from the Controls Tab](add-controls-from-the-controls-tab-82d8438.md "Add controls to the canvas by using drag and drop functionality.")**  
-Add controls to the canvas by using drag and drop functionality.
 -   **[Keyboard Support](keyboard-support-55caf37.md "Use the keyboard to move selected controls or navigate within the view that you opened
 		with the layout editor.")**  
 Use the keyboard to move selected controls or navigate within the view that you opened with the layout editor.

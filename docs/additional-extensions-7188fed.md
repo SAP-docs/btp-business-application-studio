@@ -13,7 +13,7 @@ The list below shows a selection of our most used additional extensions.
 > ### Note:  
 > To learn more about the predefined extensions, see [Dev Space Types](dev-space-types-4142f78.md).
 
-<a name="loio7188fed1e3764dbc8f71f0d8650d7b68__table_pyd_ngh_2mb"/>Scenario Extensions
+**Scenario Extensions**
 
 
 <table>
@@ -143,7 +143,7 @@ See [SAP Workflow Management](https://help.sap.com/viewer/e157c391253b4ecd93647b
 </tr>
 </table>
 
-<a name="loio7188fed1e3764dbc8f71f0d8650d7b68__table_rl4_bkh_5nb"/>Tool Extensions
+**Tool Extensions**
 
 
 <table>

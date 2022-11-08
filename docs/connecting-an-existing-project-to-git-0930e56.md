@@ -5,7 +5,7 @@
 You can add an existing project to Git.
 
 1.  In the Project Explorer, select you project.
-2.  Click ![Open Git view](images/Open_Source_Control_view_abdab3a.png) from the left side-menu to open the Git view.
+2.  Click ![Open Git view](images/Open_Source_Control_view_abdab3a.png) from the activity bar to open the Git view.
 3.  Click ![Initialize repository icon](images/Git_Stage_changes_icon_67e32ee.png) to initialize the local repository.
 4.  Click ![Add files](images/Git_Stage_changes_icon_67e32ee.png) in the *Changes* section to add the files in your new local repository. This stages them for the first commit.
 
@@ -23,7 +23,7 @@ You can add an existing project to Git.
 
 ## Adding a Project to Git Remote
 
-1.  Click ![Open Git view](images/Open_Source_Control_view_abdab3a.png) from the left side-menu to open the Git view.
+1.  Click ![Open Git view](images/Open_Source_Control_view_abdab3a.png) from the activity bar to open the Git view.
 2.  Click ![](images/more_actions_new_ab37e83.png) to see more available actions.
 3.  Select *Remote* \> *Add Remote*.
 4.  When prompted, add the URL for the remote repository where your local repository will be pushed.

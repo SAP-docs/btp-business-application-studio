@@ -2,7 +2,7 @@
 
 SAP Application Studio is a new SAP Cloud Platform service in SAP Cloud Foundry which offers a modular development environment tailored for efficient development of business applications for the Intelligent Enterprise.
 
--   [What is SAP Business Application Studio?](what-is-sap-business-application-studio-8f46c6e.md)
+-   [What Is SAP Business Application Studio?](what-is-sap-business-application-studio-8f46c6e.md)
     -   [Accessibility Features in SAP Business Application Studio](accessibility-features-in-sap-business-application-studio-704ce0a.md)
 -   [What's New for SAP Business Application Studio](what-s-new-for-sap-business-application-studio-ed631d4.md)
     -   [2021 What's New for SAP Business Application Studio \(Archive\)](2021-what-s-new-for-sap-business-application-studio-archive-d42bd4b.md)
@@ -45,13 +45,13 @@ SAP Application Studio is a new SAP Cloud Platform service in SAP Cloud Foundry 
                 -   [Working with the Layout Editor](working-with-the-layout-editor-8fbbaad.md)
                     -   [Add Controls from the Outline Tab](add-controls-from-the-outline-tab-1cf5a5b.md)
                     -   [Delete Controls from the Outline Tab](delete-controls-from-the-outline-tab-04ad947.md)
+                    -   [Add Controls from the Controls Tab](add-controls-from-the-controls-tab-3a1f27e.md)
                     -   [Create a New Function](create-a-new-function-b9cfeb1.md)
-                    -   [Add Controls from the Controls Tab](add-controls-from-the-controls-tab-82d8438.md)
                     -   [Keyboard Support](keyboard-support-55caf37.md)
                     -   [Binding Data](binding-data-c24e9c4.md)
                         -   [Define Entity Set](define-entity-set-24b6b2b.md)
                         -   [Bind Data to a Simple Control](bind-data-to-a-simple-control-93f40e6.md)
-                        -   [Bind Data to an Aggregate-Type Control](bind-data-to-an-aggregate-type-control-2ea1358.md)
+                        -   [Bind Data to an Aggregate-Type Control](bind-data-to-an-aggregate-type-control-2d625d5.md)
                         -   [Bind to the i18n Model](bind-to-the-i18n-model-5e7ddc5.md)
                         -   [Bind to a Label Annotation](bind-to-a-label-annotation-34c5841.md)
                 -   [SAPUI5 Controls Supported in the Layout Editor](sapui5-controls-supported-in-the-layout-editor-c5d123e.md)
