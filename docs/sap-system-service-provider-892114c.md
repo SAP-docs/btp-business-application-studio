@@ -31,13 +31,19 @@ Login occurs automatically, using the SAP Business Application Studio user crede
 
         The destination points directly to the service.
 
+    -   Cloud for Customer Catalog
+
+        The destination points to the SAP Cloud for Customer system directly. The system shows its service catalog with a list of services \(V2\). To see the list of services, click the system and log in with your user credentials, if needed.
+
+        If the service catalog is available and connected \(![Available System](images/SC-_system_connected_icon_1c4c936.png)\), you can search for services within it. Click the search icon \(![](images/service_center_search_a1d4e5e.png)\) and select the relevant service from the command palette.
+
 
     If you maintain credentials in the destination configuration of the account, login can occur automatically. If a system is available, the icon has a green dot \(![Available System](images/SC-_system_connected_icon_1c4c936.png)\).
 
     If you don't maintain the credentials in the destination configuration of the account, you need to log in manually to open the system information.
 
 3.  Click the gray arrow to display the list of services.
-4.  Click a service \(![Service](images/SC-_service_icon_fc5c112.png)\) to see its properties, including the service name, protocol, URL, and status.
+4.  Click a service \(![Service](images/SC-_service_icon_fc5c112.png)\) to see its properties, including the service name, URL, and status.
 
     If a service is available, the icon has a green dot \(![Available Service](images/green_dot-_system_available_ac1aa72.jpg)\).
 
@@ -121,7 +127,7 @@ You can add a new system to your SAP Business Application Studio subaccount:
 
     A new tab opens.
 
-2.  Enter the system name and URL and select the system type, proxy, authentication method, and product.
+2.  Enter the system name and URL and select the system type, proxy, authentication method, and product, if needed.
 
     > ### Note:  
     > You can select *Basic Authentication* and enter the username and password for your system. This configuration enables you to view the system information without needing to log in each time.

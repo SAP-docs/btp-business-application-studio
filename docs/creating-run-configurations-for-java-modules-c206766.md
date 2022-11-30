@@ -19,7 +19,7 @@ Run a Java module on the local Apache Tomcat server and allow binding the module
 
 ## Add a New Configuration
 
-1.  Click ![Run Configurations View](images/run_config_view_icon_13c7190.png) to open the *Run Configurations* view.
+1.  Click ![Run Configurations View](images/run_config_view_icon_13c7190.png) from the activity bar to open the *Run Configurations* view.
 2.  Click **\+** \(Create Configuration\).
 
     ![Create Configuration](images/New_Run_Config_af5e36a.png)
@@ -104,7 +104,7 @@ To unbind the resource:
 
     The Debug Console opens.
 
-4.  A notification prompting you to open the service in a new tab is displayed. Click the relevant action to view the service in a new tab. See [Application Preview Settings](application-preview-settings-91fc8bf.md).
+4.  Click *Open in New Tab* to view the UI in a new tab.
 5.  If you need to stop a configuration that is already running, you can do so from the *Run and Debug* view.
 
 > ### Note:  

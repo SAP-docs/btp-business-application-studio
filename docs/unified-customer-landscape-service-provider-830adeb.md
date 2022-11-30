@@ -2,27 +2,15 @@
 
 # Unified Customer Landscape Service Provider
 
-The Unified Customer Landscape service provider includes packages and services from registered S/4 HANA Cloud systems in SAP BTP. You can use the services as data sources in your application or for application development.
-
-> ### Note:  
-> This service provider is only available for the following landscapes:
-> 
-> -   br10
-> -   jp10
-> -   ca10
-> -   ap10
-> -   ap21
+The Unified Customer Landscape service provider includes packages and services from registered SAP S/4HANA Cloud systems in SAP BTP. You can use the services as data sources in your application or for application development.
 
 **Prerequisites**
 
 -   Your administrator registered an SAP S/4HANA Cloud system in an SAP BTP global account.
 
-    See [Register an SAP S/4HANA Cloud System in a Global Account in SAP BTP](https://help.sap.com/docs/BTP/65de2977205c403bbc107264b8eccf4b/28171b629f3549af8c1d66d7c8de5e18.html?version=Cloud) and [Trigger the Registration in the SAP S/4HANA Cloud Tenant](https://help.sap.com/docs/BTP/65de2977205c403bbc107264b8eccf4b/cadf8f634715450c9cb8afb7901de133.html?version=Cloud).
+    See [Enabling System Landscape for SAP Business Application Studio](https://help.sap.com/docs/BTP/65de2977205c403bbc107264b8eccf4b/272ca23a7ebf4532922b226dc0310c45.html).
 
 -   Your administrator created a *Developing with SAP Business Application Studio* formation type in the SAP BTP cockpit to assign the SAP S/4HANA Cloud system to an SAP Business Application Studio subaccount.
-
-    See [Including SAP Systems in a Formation](https://help.sap.com/docs/BTP/65de2977205c403bbc107264b8eccf4b/68b04fa73aa740cb96ed380a85a4761a.html?locale=en-US&version=Cloud).
-
 -   You created a destination in your SAP Business Application Studio subaccount for each consumption bundle from the SAP BTP cockpit with the following fields:
 
 
@@ -122,7 +110,7 @@ The Unified Customer Landscape service provider includes packages and services f
     </td>
     <td valign="top">
 
-    Select the authentication based on your S/4HANA Cloud system inbound communication settings.
+    Select the authentication based on your SAP S/4HANA Cloud system inbound communication settings.
 
 
     

@@ -5,7 +5,7 @@
 SAP Continuous Integration and Delivery lets you configure and run predefined continuous integration and delivery \(CI/CD\) pipelines that automatically build, test, and deploy your code changes to speed up your development and delivery cycles.
 
 > ### Note:  
-> To use SAP Continuous Integration Delivery, you must first subscribe to the service. See [Enabling the Service](https://help.sap.com/docs/CONTINUOUS_DELIVERY/99c72101f7ee40d0b2deb4df72ba1ad3/c8ed09df9ebd4556ae2375feac829c24.html?version=Cloud&language=en-US).
+> To use SAP Continuous Integration Delivery, you must first subscribe to the service, and assign the required roles and permissions. See [Initial Setup](https://help.sap.com/docs/CONTINUOUS_DELIVERY/99c72101f7ee40d0b2deb4df72ba1ad3/719acaf61e4b4bf0a496483155c52570.html?language=en-US).
 
 The *CI/CD* view in SAP Business Application Studio, allows you to see all jobs configured for the current project, as long as the project is connected to a Git repository.
 

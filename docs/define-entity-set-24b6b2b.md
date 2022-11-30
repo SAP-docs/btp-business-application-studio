@@ -12,7 +12,7 @@ Before you can bind data to a control, you need to define an entity set.
 
 -   You have created a project in the layout editor. For more information, see [Working with the Layout Editor](working-with-the-layout-editor-8fbbaad.md).
 
--   You have dragged a control from the *Controls* pane to the canvas. For more information, see [Add Controls from the Controls Tab](https://help.sap.com/viewer/b404f04cb6d4415eb46aeb4e3a28271d/Cloud/en-US/82d84385d3e3400096ab6f26f0cd2582.html "Add controls to the canvas by using drag and drop functionality.") :arrow_upper_right:.
+-   You have dragged a control from the *Controls* pane to the canvas. For more information, see [Add Controls from the Controls Tab](add-controls-from-the-controls-tab-3a1f27e.md).
 
 
 

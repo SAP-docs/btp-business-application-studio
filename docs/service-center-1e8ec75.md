@@ -24,7 +24,7 @@ The SAP API Business Hub service provider includes SAP API Business Hub products
 		your application or for application development.")**  
 The API business hub enterprise service provider offers products and services that are published in the API business hub enterprise. You can use the services as data sources in your application or for application development.
 -   **[Unified Customer Landscape Service Provider](unified-customer-landscape-service-provider-830adeb.md "The Unified Customer Landscape service provider includes packages and services from
-		registered S/4 HANA Cloud systems in SAP BTP. You can use the services as
+		registered SAP S/4HANA Cloud systems in SAP BTP. You can use the services as
 		data sources in your application or for application development.")**  
-The Unified Customer Landscape service provider includes packages and services from registered S/4 HANA Cloud systems in SAP BTP. You can use the services as data sources in your application or for application development.
+The Unified Customer Landscape service provider includes packages and services from registered SAP S/4HANA Cloud systems in SAP BTP. You can use the services as data sources in your application or for application development.
 
