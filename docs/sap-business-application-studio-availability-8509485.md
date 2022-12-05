@@ -874,7 +874,7 @@ in30
 
 ## Inbound IP Address
 
-If your corporate network is protected by a corporate proxy or firewall, extend your allowlist to enable connections from the corporate network to your dev spaces in SAP Business Application Studio.
+If your corporate network is protected by a corporate proxy or firewall, extend your allowlist to enable connections from the corporate network to your dev spaces in SAP Business Application Studio, in both HTTP and WebSocket protocols.
 
 For example, when connecting to a service on your corporate SAP system, which is located within your corporate network, you might need to maintain the SAP Business Application Studio connectivity service host in your firewall.
 

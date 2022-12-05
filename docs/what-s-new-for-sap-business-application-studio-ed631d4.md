@@ -118,6 +118,92 @@ Service Center
 </td>
 <td valign="top">
 
+You can now add an SAP Cloud for Customer system to your SAP Business Application Studio subaccount from the Service Center. See [SAP System Service Provider](https://help.sap.com/docs/SAP%20Business%20Application%20Studio/9d1db9835307451daa8c930fbd9ab264/892114ce078b4e17a9ff7e751e6330cc.html).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2022-12-04
+
+
+
+</td>
+<td valign="top">
+
+2022-12-04
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Service Center
+
+
+
+</td>
+<td valign="top">
+
 The Unified Customer Landscape service provider is now integrated in the Service Center. You can use the services from registered SAP S/4HANA Cloud systems as data sources in your application or for application development. See [Unified Customer Landscape Service Provider](https://help.sap.com/docs/SAP%20Business%20Application%20Studio/9d1db9835307451daa8c930fbd9ab264/830adebf4ab3470c9c3278188ceef8a1.html).
 
 
