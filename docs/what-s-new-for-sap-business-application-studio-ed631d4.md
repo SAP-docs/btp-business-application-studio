@@ -111,7 +111,7 @@ Available as of
 </td>
 <td valign="top">
 
-Continuous Integration and Delivery
+Development Experience
 
 
 
