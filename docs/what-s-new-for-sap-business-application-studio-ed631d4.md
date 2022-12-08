@@ -111,6 +111,436 @@ Available as of
 </td>
 <td valign="top">
 
+Continuous Integration and Delivery
+
+
+
+</td>
+<td valign="top">
+
+You can now configure and run continuous integration and delivery \(CI/CD\) pipelines that automatically build, test, and deploy your code changes to speed up your development and delivery cycles. See[Continuous Integration and Delivery](https://help.sap.com/docs/SAP%20Business%20Application%20Studio/9d1db9835307451daa8c930fbd9ab264/b357cfe698f3424cb76c7a3070d9a2b3.html).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2022-12-08
+
+
+
+</td>
+<td valign="top">
+
+2022-12-08
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+SAP HANA Development Tooling
+
+
+
+</td>
+<td valign="top">
+
+In the SAP HANA Native Application extension for SAP Business Application Studio, the SAP HANA projects explorer now provides direct access to online help for the specific database artifact type that you are creating. See [Add Database Artifacts to your SAP HANA Cloud Database Application](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/1aa916563bea48c8a880efba306fb7f9.html).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+ 
+
+
+
+</td>
+<td valign="top">
+
+2022-12-15
+
+
+
+</td>
+<td valign="top">
+
+2022-12-15
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+SAP HANA Development Tooling
+
+
+
+</td>
+<td valign="top">
+
+In the SAP HANA Native Application extension for SAP Business Application Studio, you can now use the SAP HANA Project Explorer to recover design-time artifacts by binding to a user-provided service. See [Restore Design-time Artifacts from the Database](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/e735ec2bac4541339e9301e8cae7ca0b.html).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+ 
+
+
+
+</td>
+<td valign="top">
+
+2022-12-15
+
+
+
+</td>
+<td valign="top">
+
+2022-12-15
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+SAP HANA Development Tooling
+
+
+
+</td>
+<td valign="top">
+
+In the SAP HANA Native Application extension for SAP Business Application Studio, the SAP HANA Project Explorer now supports the multitarget resource type `org.cloudfoundry.managed-service`. See [Configure an SAP CAP Application to Work with Native SAP HANA Artifacts](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/ef0377f5e9d84ce3aeb43a7e4baa5fe4.htm).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+ 
+
+
+
+</td>
+<td valign="top">
+
+2022-12-15
+
+
+
+</td>
+<td valign="top">
+
+2022-12-15
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+SAP HANA Development Tooling
+
+
+
+</td>
+<td valign="top">
+
+In the SAP HANA Native Application extension for SAP Business Application Studio, the SAP HANA Project Explorer now enables you to set \(in user preferences\) the automatic configuration of the "development mode" feature when deploying migration tables. See [User Preferences for SAP HANA Native Application Development Tools](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/57e2fe608bb042d48b799d41a8d121a7.html#loio57e2fe608bb042d48b799d41a8d121a7__section_n2h_q44_nsb) and [Migration Tables \(SAP HANA Cloud HDI Reference\)](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2cc2e43458d4abda6788049c58143dc/52d1f5acfa754a7887e21226641eb261.html).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+ 
+
+
+
+</td>
+<td valign="top">
+
+2022-12-15
+
+
+
+</td>
+<td valign="top">
+
+2022-12-15
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
 Service Center
 
 

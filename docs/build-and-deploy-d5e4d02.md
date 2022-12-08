@@ -15,4 +15,7 @@ You can also find documentation for scenario-specific deployment options.
 You can create, modify, and run tasks for specific SAP scenarios.
 -   **[MTA Development](mta-development-a629398.md "Learn how to use the SAP Business Application Studio development tools for working with multitarget applications. ")**  
 Learn how to use the SAP Business Application Studio development tools for working with multitarget applications.
+-   **[Continuous Integration and Delivery](continuous-integration-and-delivery-b357cfe.md "SAP Continuous Integration and Delivery lets you configure and run predefined continuous integration and delivery (CI/CD) pipelines that
+		automatically build, test, and deploy your code changes to speed up your development and delivery cycles.")**  
+SAP Continuous Integration and Delivery lets you configure and run predefined continuous integration and delivery \(CI/CD\) pipelines that automatically build, test, and deploy your code changes to speed up your development and delivery cycles.
 
