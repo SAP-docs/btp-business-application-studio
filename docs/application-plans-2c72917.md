@@ -6,7 +6,7 @@ SAP Business Application Studio provides 2 types of application plans: free and 
 
 You select the plan when subscribing to the application. See [Subscribe to SAP Business Application Studio](subscribe-to-sap-business-application-studio-6331319.md).
 
-The type of plan you choose determines pricing, conditions of use, and resources. Learn about the plan details in the [Discovery Center](https://discovery-center.cloud.sap/#/serviceCatalog/business-application-studio).
+The type of plan you choose determines pricing, conditions of use, and resources. Learn about the plan details in the [SAP Discovery Center](https://discovery-center.cloud.sap/#/serviceCatalog/business-application-studio).
 
 Both plans provide preinstalled runtimes and tools tailored for developing key scenarios such as: SAP S/4HANA extensions, full stack business applications, SAP Fiori applications, and more. However, the free plan contains some restrictions. See [Free Plan Restrictions](application-plans-2c72917.md#loio2c72917df87e47c290e061a556d92398__section_v4w_f1z_tpb).
 

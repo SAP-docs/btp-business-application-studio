@@ -94,7 +94,7 @@ To check if your global account belongs to Feature Set A or Feature Set B, see [
 </td>
 <td valign="top">
 
-Assign entitlements to subaccounts by adding service plans and distribute the quotas available in your global account to your subaccounts using the SAP BTP cockpit.
+From the SAP BTP cockpit, assign entitlements to subaccounts, including the SAP Business Application Studio entitlement, by adding service plans, including an SAP Business Application Studio service plan.
 
 
 

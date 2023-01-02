@@ -111,14 +111,14 @@ Available as of
 </td>
 <td valign="top">
 
-Development Experience
+Calculation Views
 
 
 
 </td>
 <td valign="top">
 
-You can now configure and run continuous integration and delivery \(CI/CD\) pipelines that automatically build, test, and deploy your code changes to speed up your development and delivery cycles. See[Continuous Integration and Delivery](https://help.sap.com/docs/SAP%20Business%20Application%20Studio/9d1db9835307451daa8c930fbd9ab264/b357cfe698f3424cb76c7a3070d9a2b3.html).
+Apply filters to both partners of a join. Filters that are applied to one join partner can also be applied to mapped columns of the other join partner. See [Map Filters Between Join Partners](https://help.sap.com/docs/HANA_CLOUD_DATABASE/d625b46ef0b445abb2c2fd9ba008c265/997ec7b767794160a373894ee96a365f.html).
 
 
 
@@ -167,14 +167,195 @@ SAP Business Application Studio
 </td>
 <td valign="top">
 
-2022-12-08
+2022-12-21
 
 
 
 </td>
 <td valign="top">
 
-2022-12-08
+2022-12-21
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Calculation Views
+
+
+
+</td>
+<td valign="top">
+
+The following new options are available for snapshots in a calculation view:
+
+-   Create Snapshot After Deployment Automatically
+
+-   Keep Snapshot During Redeployment
+
+-   Mode of Generated Procedure
+
+
+See [Create Snapshots](https://help.sap.com/docs/HANA_CLOUD_DATABASE/d625b46ef0b445abb2c2fd9ba008c265/d35f768ce50145d2ad0e5916898f004d.html).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2022-12-21
+
+
+
+</td>
+<td valign="top">
+
+2022-12-21
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Calculation Views
+
+
+
+</td>
+<td valign="top">
+
+The calculation view editor now lets you undo and redo operations on calculation views. See [Undo and Redo Modeling Operations](https://help.sap.com/docs/HANA_CLOUD_DATABASE/d625b46ef0b445abb2c2fd9ba008c265/74d4fa8d18724f3e9ffb09b82c7553b5.html).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2022-12-21
+
+
+
+</td>
+<td valign="top">
+
+2022-12-21
 
 
 
@@ -246,21 +427,21 @@ Not applicable
 </td>
 <td valign="top">
 
- 
+SAP Business Application Studio
 
 
 
 </td>
 <td valign="top">
 
-2022-12-15
+2022-12-21
 
 
 
 </td>
 <td valign="top">
 
-2022-12-15
+2022-12-21
 
 
 
@@ -332,21 +513,21 @@ Not applicable
 </td>
 <td valign="top">
 
- 
+SAP Business Application Studio
 
 
 
 </td>
 <td valign="top">
 
-2022-12-15
+2022-12-21
 
 
 
 </td>
 <td valign="top">
 
-2022-12-15
+2022-12-21
 
 
 
@@ -418,21 +599,21 @@ Not applicable
 </td>
 <td valign="top">
 
- 
+SAP Business Application Studio
 
 
 
 </td>
 <td valign="top">
 
-2022-12-15
+2022-12-21
 
 
 
 </td>
 <td valign="top">
 
-2022-12-15
+2022-12-21
 
 
 
@@ -504,21 +685,107 @@ Not applicable
 </td>
 <td valign="top">
 
- 
+SAP Business Application Studio
 
 
 
 </td>
 <td valign="top">
 
-2022-12-15
+2022-12-21
 
 
 
 </td>
 <td valign="top">
 
-2022-12-15
+2022-12-21
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Development Experience
+
+
+
+</td>
+<td valign="top">
+
+You can now configure and run continuous integration and delivery \(CI/CD\) pipelines that automatically build, test, and deploy your code changes to speed up your development and delivery cycles. See[Continuous Integration and Delivery](https://help.sap.com/docs/SAP%20Business%20Application%20Studio/9d1db9835307451daa8c930fbd9ab264/b357cfe698f3424cb76c7a3070d9a2b3.html).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2022-12-08
+
+
+
+</td>
+<td valign="top">
+
+2022-12-08
 
 
 

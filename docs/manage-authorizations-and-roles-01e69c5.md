@@ -4,7 +4,7 @@
 
 The subaccount administrator can assign the user a role for developing with SAP Business Application Studio or for managing data.
 
-Role collections are user-related authorizations that restrict access to resources and services based on defined user permissions. They consist of individual roles. The roles are based on role templates. For SAP Business Application Studio there are 3 relevant role templates available: Developer role, Extension Deployer role, and Administrator role:
+Role collections are user-related authorizations that restrict access to resources and services based on defined user permissions. They consist of individual roles. The roles are based on role templates. For SAP Business Application Studio there are three relevant role templates available: Developer role, Extension Deployer role, and Administrator role:
 
 -   To allow development using SAP Business Application Studio, you must assign the Developer role to the developer.
 
@@ -17,6 +17,9 @@ Role collections are user-related authorizations that restrict access to resourc
 -   To allow a developer to create an SAP Business Application Studio extension, you must assign the Extension Deployer role to the user.
 
 The Developer and Administrator role collections together with their corresponding role templates are created automatically when you subscribe to SAP Business Application Studio.
+
+> ### Note:  
+> If you want to perform both administrator and developer tasks, you must have both roles assigned.
 
 
 
@@ -63,9 +66,9 @@ You can assign permissions as follows:
     -   If you live in the China \(Shanghai\) region, select a role collection that you created, as described in the [Prerequisites](manage-authorizations-and-roles-01e69c5.md#loio01e69c53003c4b0a8a64310a3f08867d__section_x4s_bsf_xhb).
 
 4.  Click *Edit*.
-5.  Enter the e-mail address of the user who you want to give permissions to in the *ID* field.
+5.  Enter the email address of the user who you want to give permissions to in the *ID* field.
 6.  Select the relevant identity provider, for example, *Default Identity provider*.
-7.  Enter the e-mail address of the user who you want to give permissions to in the *E-Mail* field.
+7.  Enter the email address of the user who you want to give permissions to in the *E-Mail* field.
 8.  Click *Save*.
 
 To assign permissions to groups, follow the instructions in the [Map Role Collections to User Groups](https://help.sap.com/products/BTP/65de2977205c403bbc107264b8eccf4b/51acfc82c0c54db59de0a528f343902c.html) topic.
