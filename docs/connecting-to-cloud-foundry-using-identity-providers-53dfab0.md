@@ -47,7 +47,7 @@ Corporate IdP
 <tr>
 <td valign="top">
 
- SAP Business Application Studio UI-based login
+ SAP Business Application Studio UI-based login with username and password
 
 
 
@@ -69,6 +69,36 @@ Not supported
 <td valign="top">
 
 Not supported
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+SAP Business Application Studio UI-based SSO login
+
+
+
+</td>
+<td valign="top">
+
+Supported
+
+
+
+</td>
+<td valign="top">
+
+Supported
+
+
+
+</td>
+<td valign="top">
+
+Supported
 
 
 
