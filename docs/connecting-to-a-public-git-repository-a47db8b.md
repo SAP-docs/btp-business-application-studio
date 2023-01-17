@@ -2,7 +2,7 @@
 
 # Connecting to a Public Git Repository
 
-Using SAP Business Application Studio, you can connect to all public git services, such as GitHub, GitLab, and GitBucket.
+Using SAP Business Application Studio, you can connect to all public git services, such as GitHub, GitLab, and BitBucket.
 
 
 

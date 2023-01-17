@@ -55,7 +55,7 @@ Gerrit is a web-based software code review tool for reviewing, approving, or rej
 
 [Connect to Your Git Source Control System](connect-to-your-git-source-control-system-e7a42bc.md "SAP Business Application Studio allows you to connect to public and corporate repositories.")
 
-[Connecting to a Public Git Repository](connecting-to-a-public-git-repository-a47db8b.md "Using SAP Business Application Studio, you can connect to all public git services, such as GitHub, GitLab, and GitBucket.")
+[Connecting to a Public Git Repository](connecting-to-a-public-git-repository-a47db8b.md "Using SAP Business Application Studio, you can connect to all public git services, such as GitHub, GitLab, and BitBucket.")
 
 [Troubleshooting](troubleshooting-73e1a38.md "")
 
