@@ -123,9 +123,12 @@ You can add a new system to your SAP Business Application Studio subaccount:
 >     -   For SAP S/4HANA on-premise, SAP ERP, or another on-premise ABAP, make sure that the Cloud Connector is set up. See this [blog post](https://blogs.sap.com/2021/08/31/connect-to-external-data-sources-with-sap-business-application-studio/) \(under the **Create a Data Source \(Destination\)** heading in the **Service Catalog** section\).
 >     -   For SAP S/4HANA Cloud or the SAP BTP ABAP environment, which both use SAML Bearer Assertion authentication, see [Create a Destination to Connect to SAP Business Application Studio](https://help.sap.com/viewer/6aa39f1ac05441e5a23f484f31e477e7/Latest/en-US/0af2819bbe064a3da455753c8518dd81.html).
 
-1.  Hover over the subaccount and click ![](images/Add_system-_service_center-_plus_icon_3701d6b.jpg) \(Add system\).
+1.  Click the relevant button to add a system:
+    -   If you are adding a system for the first time, click *Add System*.
+    -   If you already have a system, hover over the subaccount and click ![](images/Add_system-_service_center-_plus_icon_3701d6b.jpg) \(Add system\).
 
-    A new tab opens.
+        A new tab opens.
+
 
 2.  Enter the system name and URL and select the system type, proxy, authentication method, and product, if needed.
 

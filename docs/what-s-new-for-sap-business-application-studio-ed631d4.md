@@ -111,6 +111,95 @@ Available as of
 </td>
 <td valign="top">
 
+Service Center
+
+
+
+</td>
+<td valign="top">
+
+The Service Center now includes the following additions that make it easier to get started:
+
+-   The *HELP* section provides an overview of the Service Center and links to detailed documentation for each service provider.
+-   The SAP System service provider includes a button to add a system for the first time. See [SAP System Service Provider](sap-system-service-provider-892114c.md).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2023-01-15
+
+
+
+</td>
+<td valign="top">
+
+2023-01-15
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
 Calculation Views
 
 

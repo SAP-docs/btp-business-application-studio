@@ -63,7 +63,7 @@ Development Tools for SAP Build Work Zone
 
 Allows you to build UI Integration cards, which are user interface elements that present new means to provide application information to the end user in a unified way. The business information is represented compactly and allows interaction on it being executed. This editor allows users to create new cards or build cards from available samples, edit card properties, and preview the changes. Finally, users can bundle and deploy the cards into different systems.
 
-See [SAP Work Zone Developer Guide](https://help.sap.com/viewer/7d3b9c7211ca4d7a9630b524205ee836/Cloud/en-US/87a6a5e1c64c4df49747b82a540701f8.html).
+See [SAP Build Work Zone, advanced edition Developer Guide](https://help.sap.com/viewer/7d3b9c7211ca4d7a9630b524205ee836/Cloud/en-US/87a6a5e1c64c4df49747b82a540701f8.html).
 
 
 
@@ -303,16 +303,16 @@ See [Extending an SAP Fiori Application](https://help.sap.com/viewer/584e0bcbfd4
 <tr>
 <td valign="top">
 
-SAPUI5 Layout Editor
+SAPUI5 Layout Editor& Extensibility
 
 
 
 </td>
 <td valign="top">
 
-Allows you to visually develop your XML view.
+Allows you to visually develop your XML viewand extend an existing SAPUI5 application that resides in the SAPUI5 ABAP repository.
 
-See [Working with the Layout Editor](https://help.sap.com/products/SAP%20Business%20Application%20Studio/9d1db9835307451daa8c930fbd9ab264/8fbbaad310eb4712a5d8169331106b25.html?version=Cloud).
+See [Working with the Layout Editor](https://help.sap.com/products/SAP%20Business%20Application%20Studio/9d1db9835307451daa8c930fbd9ab264/8fbbaad310eb4712a5d8169331106b25.html?version=Cloud)and [Extend SAPUI5 Applications](https://help.sap.com/docs/SAP%20Business%20Application%20Studio/9d1db9835307451daa8c930fbd9ab264/47c6ad87909b4246a5cbfe42b604207a.html).
 
 
 
