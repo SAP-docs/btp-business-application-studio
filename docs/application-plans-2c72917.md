@@ -2,7 +2,7 @@
 
 # Application Plans
 
-SAP Business Application Studio provides 2 types of application plans: free and standard-edition. Both plans are provided only in Enterprise accounts.
+SAP Business Application Studio provides two types of application plans in SAP BTP enterprise accounts: free and standard-edition.
 
 You select the plan when subscribing to the application. See [Subscribe to SAP Business Application Studio](subscribe-to-sap-business-application-studio-6331319.md).
 
@@ -10,7 +10,7 @@ The type of plan you choose determines pricing, conditions of use, and resources
 
 Both plans provide preinstalled runtimes and tools tailored for developing key scenarios such as: SAP S/4HANA extensions, full stack business applications, SAP Fiori applications, and more. However, the free plan contains some restrictions. See [Free Plan Restrictions](application-plans-2c72917.md#loio2c72917df87e47c290e061a556d92398__section_v4w_f1z_tpb).
 
-Each subaccount has only 1 subscription. If you selected the free plan and want to upgrade to the standard-edition plan, you can do so as described in [Upgrading to the Standard-Edition Plan](application-plans-2c72917.md#loio2c72917df87e47c290e061a556d92398__section_dzc_j1z_tpb).
+Each subaccount has only 1 subscription. If you selected the free plan and want to upgrade to the paid standard-edition plan, you can do so as described in [Upgrading to the Standard-Edition Plan](application-plans-2c72917.md#loio2c72917df87e47c290e061a556d92398__section_dzc_j1z_tpb).
 
 You can use different plans in separate subaccounts.
 
@@ -45,7 +45,7 @@ To upgrade the application subscription from the free plan to the standard-editi
     A list of the applications to which your subaccount is subscribed in the Cloud Foundry environment is displayed.
 
 4.  Search for SAP Business Application Studio.
-5.  Select the ellipsis at the end of the subscription row, and from the menu, select *Update*.
+5.  Select the ellipsis at the end of the subscription row, and from the menu, click *Update*.
 
     ![Access the Update menu to subscribe to the standard-edition plan.](images/upgrade_plan_0e07bae.png)
 

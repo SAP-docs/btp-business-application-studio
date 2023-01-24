@@ -111,6 +111,92 @@ Available as of
 </td>
 <td valign="top">
 
+Adaptation Project
+
+
+
+</td>
+<td valign="top">
+
+With Adaptation Project, you can now create manifest app descriptor changes using a wizard. The possible types of changes are - Replace OData Service, Add Annotation file, Add OData Service and SAPUI5 Model, and Add Component usage. See [Adding App Descriptor Changes](https://help.sap.com/docs/SAP%20Business%20Application%20Studio/584e0bcbfd4a4aff91c815cefa0bce2d/0d18a12137b84f2ca04bbfea93bbb47b.html).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2023-01-20
+
+
+
+</td>
+<td valign="top">
+
+2023-01-20
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
 Service Center
 
 

@@ -8,6 +8,20 @@ Here's a checklist for setting up your system so you can develop applications us
 > If you are working in a trial account, follow the procedure in [Getting Started with a Trial Account](getting-started-with-a-trial-account-48ed55e.md).
 
 
+
+<a name="loio19611ddbe82f4bf2b493283e0ed602e5__section_nwl_ctn_fwb"/>
+
+## Prerequisites
+
+You have an SAP BTP global account. See [Getting a Global Account](https://help.sap.com/docs/btp/sap-business-technology-platform/getting-global-account).
+
+
+
+<a name="loio19611ddbe82f4bf2b493283e0ed602e5__section_txg_dtn_fwb"/>
+
+## Procedure
+
+
 <table>
 <tr>
 <th valign="top">
@@ -26,7 +40,7 @@ Description
 </th>
 <th valign="top">
 
-Links/Information
+Additional Information
 
 
 
@@ -35,30 +49,7 @@ Links/Information
 <tr>
 <td valign="top">
 
- **Sign up for a global account.** 
-
-
-
-</td>
-<td valign="top">
-
-You require a global account to enable SAP Business Application Studio.
-
-
-
-</td>
-<td valign="top">
-
-[Getting a Global Account](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/d61c2819034b48e68145c45c36acba6e.html)
-
-
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-**Create subaccounts in the Cloud Foundry environment.**
+**1. Create a subaccount in your global account.**
 
 Select a region according to the guidelines in the [SAP Business Application Studio Availability](sap-business-application-studio-availability-8509485.md) topic.
 
@@ -83,7 +74,7 @@ Create a subaccount in the SAP BTP, Cloud Foundry environment.
 <tr>
 <td valign="top">
 
-**Configure entitlements for your global account**.
+**2. Configure the SAP Business Application Studio entitlement in your global account.**
 
 Relevant for Feature Set B accounts only.
 
@@ -94,14 +85,15 @@ To check if your global account belongs to Feature Set A or Feature Set B, see [
 </td>
 <td valign="top">
 
-From the SAP BTP cockpit, assign entitlements to subaccounts, including the SAP Business Application Studio entitlement, by adding service plans, including an SAP Business Application Studio service plan.
+Assign the SAP Business Application Studio application to your subaccount by adding its relevant service plan.
 
 
 
 </td>
 <td valign="top">
 
-[Configure Entitlements and Quotas for Subaccounts](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/5ba357b4fa1e4de4b9fcc4ae771609da.html)
+-   [Configure Entitlements and Quotas for Subaccounts](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/5ba357b4fa1e4de4b9fcc4ae771609da.html)
+-   [Application Plans](application-plans-2c72917.md)
 
 
 
@@ -110,14 +102,14 @@ From the SAP BTP cockpit, assign entitlements to subaccounts, including the SAP 
 <tr>
 <td valign="top">
 
- **Subscribe to SAP Business Application Studio.** 
+ **3. Subscribe to SAP Business Application Studio.** 
 
 
 
 </td>
 <td valign="top">
 
-You need to subscribe to the SAP Business Application Studio.
+You need to subscribe to the SAP Business Application Studio application from your subaccount.
 
 
 
@@ -133,14 +125,14 @@ You need to subscribe to the SAP Business Application Studio.
 <tr>
 <td valign="top">
 
-**Grant user permissions.**
+**4. Grant user permissions.**
 
 
 
 </td>
 <td valign="top">
 
-To enable working with SAP Business Application Studio, developers need to be assigned the `Business_Application_Studio_Developer` role.
+Assign the `Business_Application_Studio_Developer` role to developers so that they can work with SAP Business Application Studio.
 
 
 
@@ -156,7 +148,7 @@ To enable working with SAP Business Application Studio, developers need to be as
 <tr>
 <td valign="top">
 
-**OPTIONAL: Enable identity provider \(IdP\)-based authentication for SAP Business Application Studio applications \(optional\).**
+**5. OPTIONAL: Enable identity provider \(IdP\)-based authentication for SAP Business Application Studio applications \(optional\).**
 
 
 
@@ -179,7 +171,7 @@ If you define a custom identity provider for your subaccount, be sure to configu
 <tr>
 <td valign="top">
 
-**OPTIONAL: Connect to your Git source control system.**
+**6. OPTIONAL: Connect to your Git source control system.**
 
 
 
@@ -202,7 +194,7 @@ If you define a custom identity provider for your subaccount, be sure to configu
 <tr>
 <td valign="top">
 
-**OPTIONAL: Create spaces.**
+**7. OPTIONAL: Create spaces.**
 
 Relevant for developers who want to work in Cloud Foundry runtime.
 
@@ -231,7 +223,7 @@ For staging/test and production organizations, 1 space is sufficient.
 <tr>
 <td valign="top">
 
-**OPTIONAL: Assign members to your Cloud Foundry organizations and spaces.**
+**8. OPTIONAL: Assign members to your Cloud Foundry organizations and spaces.**
 
 Relevant for developers developing Cloud Foundry applications.
 
