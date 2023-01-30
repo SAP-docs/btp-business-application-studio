@@ -111,6 +111,92 @@ Available as of
 </td>
 <td valign="top">
 
+Extension Project
+
+
+
+</td>
+<td valign="top">
+
+You can now migrate and extend existing SAPUI5 applications that reside in the SAPUI5 ABAP repository. See [Extend SAPUI5 Applications](https://help.sap.com/docs/SAP%20Business%20Application%20Studio/9d1db9835307451daa8c930fbd9ab264/47c6ad87909b4246a5cbfe42b604207a.html).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2023-01-29
+
+
+
+</td>
+<td valign="top">
+
+2023-01-29
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
 Adaptation Project
 
 
@@ -997,8 +1083,6 @@ You can now add an SAP Cloud for Customer system to your SAP Business Applicatio
 </td>
 <td valign="top">
 
-Info only
-
 
 
 </td>
@@ -1161,8 +1245,6 @@ Development Experience
 
 </td>
 <td valign="top">
-
-SAP Business Application Studio now uses Code-OSS, the open source used for building Visual Studio Code. This change comes with many user experience improvements that will speed up your productivity.
 
 All business functionality is still available. Some basic IDE capabilities have been updated. Once you are used to the new UI, your development experience will be better and faster.
 

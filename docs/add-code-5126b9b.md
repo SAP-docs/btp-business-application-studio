@@ -18,9 +18,6 @@ Display the content of an XML view in the layout editor to see it in a way that 
 		connect and interact with the Git source control system, letting you connect and interact
 		with remote Git repositories.")**  
 SAP Business Application Studio enables you to connect and interact with the Git source control system, letting you connect and interact with remote Git repositories.
--   **[Continuous Integration and Delivery](continuous-integration-and-delivery-b357cfe.md "SAP Continuous Integration and Delivery lets you configure and run predefined continuous integration and delivery (CI/CD) pipelines that
-		automatically build, test, and deploy your code changes to speed up your development and delivery cycles.")**  
-SAP Continuous Integration and Delivery lets you configure and run predefined continuous integration and delivery \(CI/CD\) pipelines that automatically build, test, and deploy your code changes to speed up your development and delivery cycles.
 -   **[Terminal](terminal-c8b4ae9.md "Opening the integrated terminal allows you to access the underlying system. The terminal is a convenient tool because you don't need to
 		switch windows or change the state of an existing terminal to perform a quick command-line task. ")**  
 Opening the integrated terminal allows you to access the underlying system. The terminal is a convenient tool because you don't need to switch windows or change the state of an existing terminal to perform a quick command-line task.

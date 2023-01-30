@@ -164,3 +164,6 @@ You can access on-premise SAP ABAP systems using a built-in Web Proxy. Your dev 
 6.  Choose *Save*.
 
 
+-   **[Requirements for Connecting to ABAP Systems](requirements-for-connecting-to-abap-systems-49df13c.md "The following is prerequisite information for connecting to ABAP systems.")**  
+The following is prerequisite information for connecting to ABAP systems.
+

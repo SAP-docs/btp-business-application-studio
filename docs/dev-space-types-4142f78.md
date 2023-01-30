@@ -28,7 +28,7 @@ Easily develop, test, build, and deploy apps using the Low Code Application Plat
 
 -   **[SAP Mobile Application](sap-mobile-application-95f86cc.md "")**  
 
--   **[Additional Extensions](additional-extensions-7188fed.md "You can extend and enrich your development environment with tools and capabilities based
-		on your needs. ")**  
+-   **[Additional Extensions](additional-extensions-7188fed.md "You can extend and enrich your development environment with tools and capabilities
+		based on your needs. ")**  
 You can extend and enrich your development environment with tools and capabilities based on your needs.
 

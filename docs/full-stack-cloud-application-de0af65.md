@@ -95,10 +95,12 @@ The Full Stack Cloud Application scenario contains the following predefined exte
 
     Allows you to leverage a trigger and perform an action.
 
--   **SAPUI5 Layout Editor**
+-   **SAPUI5 Layout Editor & Extensibility**
 
-    Allows you to visually develop your XML view.
+    Allows you to visually develop your XML view and extend an existing SAPUI5 application that resides in the SAPUI5 ABAP repository.
 
-    See [Working with the Layout Editor](https://help.sap.com/products/SAP%20Business%20Application%20Studio/9d1db9835307451daa8c930fbd9ab264/8fbbaad310eb4712a5d8169331106b25.html?version=Cloud).
+    See [Working with the Layout Editor](https://help.sap.com/products/SAP%20Business%20Application%20Studio/9d1db9835307451daa8c930fbd9ab264/8fbbaad310eb4712a5d8169331106b25.html?version=Cloud) and [Extend SAPUI5 Applications](https://help.sap.com/docs/SAP%20Business%20Application%20Studio/9d1db9835307451daa8c930fbd9ab264/47c6ad87909b4246a5cbfe42b604207a.html).
+
+    .
 
 
