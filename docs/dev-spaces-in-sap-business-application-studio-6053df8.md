@@ -67,8 +67,8 @@ It is possible to install additional tools on a dev space or consume additional 
 -   **[Working in the Dev Space Manager](working-in-the-dev-space-manager-ad40d52.md "You can create, delete, stop, and start dev spaces. You can also download dev space
 		content, and import dev space content.")**  
 You can create, delete, stop, and start dev spaces. You can also download dev space content, and import dev space content.
--   **[Dev Space Types](dev-space-types-4142f78.md "When creating a new dev space, select the dev space type that best fits the application
-		you want to create.")**  
+-   **[Dev Space Types](dev-space-types-4142f78.md "When creating a new dev space, select the dev space type that best fits the
+		application you want to create.")**  
 When creating a new dev space, select the dev space type that best fits the application you want to create.
 -   **[Extending SAP Business Application Studio](extending-sap-business-application-studio-f6681fa.md "Enrich the IDE with additional features and capabilities to make your development more
 		efficient.")**  

@@ -19,8 +19,6 @@ It includes information on the following:
 
 -   **[Data Protection and Privacy](data-protection-and-privacy-3ad7520.md "")**  
 
--   **[Connecting to Cloud Foundry Using Identity Providers](connecting-to-cloud-foundry-using-identity-providers-53dfab0.md "Connect to Cloud Foundry using the UI or the command line.")**  
-Connect to Cloud Foundry using the UI or the command line.
 -   **[Auditing and Logging Information](auditing-and-logging-information-9ff1a8d.md "Here you can find a list of the security events that are logged by SAP Business Application Studio.")**  
 Here you can find a list of the security events that are logged by SAP Business Application Studio.
 

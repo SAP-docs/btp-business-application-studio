@@ -16,6 +16,9 @@ You must be logged in to Cloud Foundry to use the Cloud Foundry Tools.
 
 1.  In the command palette, select ***CF: Login to Cloud Foundry***. The *Cloud Foundry Sign In and Targets* page opens.
 2.  Select the type of authentication method you prefer.
+
+    See [Connecting to Cloud Foundry Using Identity Providers](connecting-to-cloud-foundry-using-identity-providers-53dfab0.md).
+
 3.  Depending on the method you selected, enter your username and Cloud Foundry password or your temporary SSO authentication code.
 4.  Select the organization to which you want to connect.
 5.  Select the desired space within the organization.
@@ -126,4 +129,7 @@ Once you have set up your targets, you can define which one will be the active t
 If the target tree is not showing updated information, you can manually trigger a reload to refresh the view.
 
 1.  In the command palette, select ***CF: Reload Targets Tree***.
+
+-   **[Connecting to Cloud Foundry Using Identity Providers](connecting-to-cloud-foundry-using-identity-providers-53dfab0.md "Connect to Cloud Foundry using the UI or the command line.")**  
+Connect to Cloud Foundry using the UI or the command line.
 

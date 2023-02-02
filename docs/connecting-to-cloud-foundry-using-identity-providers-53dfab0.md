@@ -6,6 +6,8 @@ Connect to Cloud Foundry using the UI or the command line.
 
 The manner in which you can connect to Cloud Foundry depends on the identity provider \(IdP\) you use.
 
+![](images/Sign_in_to_CF_742f3fe.png)
+
 
 
 <a name="loio53dfab0d97d0476b8327d0ab63342e62__section_ncw_4jf_drb"/>
@@ -138,6 +140,8 @@ Supported
 <td valign="top">
 
 CLI-based login example
+
+![](images/cli_cf_login_4f61410.png)
 
 
 

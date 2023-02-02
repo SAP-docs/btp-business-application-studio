@@ -1246,6 +1246,8 @@ Development Experience
 </td>
 <td valign="top">
 
+SAP Business Application Studio now uses Code-OSS, the open source used for building Visual Studio Code. This change comes with many user experience improvements that will speed up your productivity.
+
 All business functionality is still available. Some basic IDE capabilities have been updated. Once you are used to the new UI, your development experience will be better and faster.
 
 
