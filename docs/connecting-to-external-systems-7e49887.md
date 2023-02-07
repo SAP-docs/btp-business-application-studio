@@ -12,17 +12,23 @@ For applications that do not need to run on Cloud Foundry, establish a connectio
 
 You can access on-premise SAP ABAP systems using a built-in Web Proxy. Your dev space includes a built-in Web Proxy \(`http://localhost:8887`\) that allows you access to on-premise systems. It is already configured with the HTTP\_PROXY and the HTTPS\_PROXY environment variables. The proxy requires destination configuration to your on-premise system from your Cloud Foundry Subaccount.
 
+You can create a destination that points to your system, either from the Service Center or from the SAP BTP cockpit.
+
 
 
 <a name="loio7e49887e6fd34182bebeca5a6841a0cc__steps_orm_myk_m4"/>
 
 ## Procedure
 
-1.  Open SAP BTP cockpit in the Cloud Foundry environment and go to the subaccount that is subscribed to SAP Business Application Studio.
+1.  **Create a Destination from the Service Center**
 
-2.  Create a destination of type HTTP that points to your system. For more information, see [HTTP Destinations](https://help.sap.com/viewer/cca91383641e40ffbe03bdc78f00f681/Cloud/en-US/783fa1c418a244d0abb5f153e69ca4ce.html). HTTP requests including the host and port provided with this destination URL made from your dev space using the proxy, will be transferred through this destination.
+    See [Add a System](sap-system-service-provider-892114c.md#loio892114ce078b4e17a9ff7e751e6330cc__section_n2k_zx3_qqb) to add a destination from the Service Center with all the required properties.
 
-3.  Add these new properties:
+    **Create a Destination from the SAP BTP Cockpit**
+
+2.  Open the SAP BTP cockpit in the Cloud Foundry environment and go to the subaccount that is subscribed to SAP Business Application Studio.
+
+3.  Add the following properties in the SAP BTP cockpit:
 
 
     <table>
@@ -99,16 +105,38 @@ You can access on-premise SAP ABAP systems using a built-in Web Proxy. Your dev 
     <tr>
     <td valign="top">
 
-    **Service Catalog**
+    **ABAP Service Catalog**
 
 
     
     </td>
     <td valign="top">
 
-    *WebIDEUsage* includes `odata_abap` and `dev_abap` \(to deploy\).
+    **WebIDEUsage** includes `odata_abap` and `dev_abap`.
 
-    See [Developing an SAP Fiori Application Based on an SAP S/4HANA System](https://help.sap.com/viewer/584e0bcbfd4a4aff91c815cefa0bce2d/Cloud/en-US/22f3401b2e464344943f2a6abf05d092.html).
+    `odata_abap`:
+
+    For exploring ABAP service catalogs
+
+    `dev_abap`:
+
+    For deploying to the SAPUI5 ABAP Repository
+
+
+    
+    </td>
+    </tr>
+    <tr>
+    <td valign="top">
+
+    **SAP Cloud for Customer Service Catalog**
+
+
+    
+    </td>
+    <td valign="top">
+
+    *WebIDEUsage* includes `odata_c4c` to explore SAP Cloud for Customer catalogs.
 
 
     
@@ -124,9 +152,9 @@ You can access on-premise SAP ABAP systems using a built-in Web Proxy. Your dev 
     </td>
     <td valign="top">
 
-    *WebIDEUsage* includes `odata_gen`. You can use the full URL option or not.
+    *WebIDEUsage* includes `odata_gen`.
 
-    See [Consume an OData Service](https://help.sap.com/viewer/584e0bcbfd4a4aff91c815cefa0bce2d/Cloud/en-US/ff9d287ba8ef4011baaad58d516dce3f.html).
+    For an absolute URL, you can use the full URL option \(*WebIDEAdditionalData* property and *full\_url* as the value\). For a service host, the relative URL should be added upon login.
 
 
     
@@ -142,9 +170,7 @@ You can access on-premise SAP ABAP systems using a built-in Web Proxy. Your dev 
     </td>
     <td valign="top">
 
-    *WebIDEUsage* includes `apihub_catalog` and `api_sandbox`.
-
-    See [Run Your Application with the SAP API Business Hub](https://help.sap.com/viewer/584e0bcbfd4a4aff91c815cefa0bce2d/Cloud/en-US/54ce98a4f9cf454e8b18224623c00aba.html).
+    *WebIDEUsage* includes `apihub_sandbox`.
 
 
     
@@ -152,16 +178,13 @@ You can access on-premise SAP ABAP systems using a built-in Web Proxy. Your dev 
     </tr>
     </table>
     
-5.  If you are using an on-premise system:
+5.  If you are using an on-premise system, configure the Cloud Connector so that your system is correctly exposed. See Cloud Connector.
 
-    1.  Configure the Cloud Connector so that your system is correctly exposed. See [Cloud Connector](https://help.sap.com/viewer/cca91383641e40ffbe03bdc78f00f681/Cloud/en-US/e6c7616abb5710148cfcf3e75d96d596.html).
-
-        If you don't have any Cloud Connector to use, you can set up a Cloud Connector on your local machine/VM by following [this tutorial](https://developers.sap.com/tutorials/cp-connectivity-install-cloud-connector.html).
-
-    2.  Add a new property with *WebIDEEnabled* as the name and *true* as the value.
-
+    If you don't have any Cloud Connector to use, you can set up a Cloud Connector on your local machine/VM.
 
 6.  Choose *Save*.
+
+    See [HTTP Destinations](https://help.sap.com/viewer/cca91383641e40ffbe03bdc78f00f681/Cloud/en-US/783fa1c418a244d0abb5f153e69ca4ce.html) for more information. HTTP requests including the host and port provided with this destination URL made from your dev space using the proxy, will be transferred through this destination.
 
 
 -   **[Requirements for Connecting to ABAP Systems](requirements-for-connecting-to-abap-systems-49df13c.md "The following is prerequisite information for connecting to ABAP systems.")**  
