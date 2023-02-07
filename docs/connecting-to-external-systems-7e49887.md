@@ -178,7 +178,7 @@ You can create a destination that points to your system, either from the Service
     </tr>
     </table>
     
-5.  If you are using an on-premise system, configure the Cloud Connector so that your system is correctly exposed. See Cloud Connector.
+5.  If you are using an on-premise system, configure the Cloud Connector so that your system is correctly exposed. See [Cloud Connector](https://help.sap.com/docs/CP_CONNECTIVITY/cca91383641e40ffbe03bdc78f00f681/e6c7616abb5710148cfcf3e75d96d596.html).
 
     If you don't have any Cloud Connector to use, you can set up a Cloud Connector on your local machine/VM.
 
