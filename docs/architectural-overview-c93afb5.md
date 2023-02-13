@@ -27,5 +27,5 @@ The developers can access different services \(outside of SAP BTP\), from the de
 
 [Manage Authorizations from SAP BTP cockpit](https://help.sap.com/products/SAP%20Business%20Application%20Studio/9d1db9835307451daa8c930fbd9ab264/01e69c53003c4b0a8a64310a3f08867d.html)
 
-[Connecting to External Systems](connecting-to-external-systems-7e49887.md "For applications that do not need to run on Cloud Foundry, establish a connection to an external system by creating one destination for multi-usage.")
+[Connecting to External Systems](connecting-to-external-systems-7e49887.md "To connect any on-premise system from SAP Business Application Studio, you must create a destination. Additionally, some business cases will also require a destination to perform OData service exploration and to select an OData service for creating and viewing applications.")
 

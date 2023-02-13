@@ -37,7 +37,7 @@ The SAP HANA Native Application scenario contains the following predefined exten
 
     Allows you to develop native SAP HANA applications. The extension includes tools such as enhanced graphical and text-based editors, project generators, and productivity tools.
 
-    See [Working with SAP Business Application Studio](https://help.sap.com/viewer/c2b99f19e9264c4d9ae9221b22f6f589/latest/en-US).
+    See [SAP HANA Cloud Developer Guide](https://help.sap.com/viewer/c2b99f19e9264c4d9ae9221b22f6f589/latest/en-US).
 
 -   **MTA Tools**
 

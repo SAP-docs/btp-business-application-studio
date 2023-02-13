@@ -9,7 +9,7 @@ When creating a new dev space, select the dev space type that best fits the appl
 SAP Business Application Studio has the following dev space types:
 
 -   [SAP Fiori](sap-fiori-354f00c.md): Develop SAP Fiori applications based on various environments, including Cloud Foundry, ABAP Cloud, and SAP S/4HANA.
--   [Low-Code-Based Full-Stack Cloud Application](low-code-based-full-stack-cloud-application-00ad048.md): Easily develop, test, build, and deploy apps using the Low Code Application Platform.
+-   [Full-Stack Application Using Productivity Tools](full-stack-application-using-productivity-tools-00ad048.md): Easily develop, test, build, and deploy apps using high productivity tools.
 -   [Full Stack Cloud Application](full-stack-cloud-application-de0af65.md): Build business services, business applications, and extend S/4HANA using the SAP Cloud Application Programming Model, Fiori and [Java](https://www.java.com/) or [Node.js](https://nodejs.org/).
 -   [SAP HANA Native Application](sap-hana-native-application-7eae9c5.md): Build and deploy native SAP HANA applications or analytical models. This dev space contains a comprehensive set of editors to support the creation of database artifacts \(calculation views, tables, SQLScript procedures, and more\), as well as tools to enable an end-to-end development flow from project creation to the deployment to the SAP BTP.
 -   **SAP SME Business Application**: Use our SME programming model to build and extend SME applications based on Business Application Factory.
@@ -18,9 +18,9 @@ SAP Business Application Studio has the following dev space types:
 
 -   **[SAP Fiori](sap-fiori-354f00c.md "")**  
 
--   **[Low-Code-Based Full-Stack Cloud Application](low-code-based-full-stack-cloud-application-00ad048.md "Easily develop, test, build, and deploy apps using the Low Code Application
-		Platform.")**  
-Easily develop, test, build, and deploy apps using the Low Code Application Platform.
+-   **[Full-Stack Application Using Productivity Tools](full-stack-application-using-productivity-tools-00ad048.md "Easily develop, test, build, and deploy apps using high productivity
+		tools.")**  
+Easily develop, test, build, and deploy apps using high productivity tools.
 -   **[Full Stack Cloud Application](full-stack-cloud-application-de0af65.md "")**  
 
 -   **[SAP HANA Native Application](sap-hana-native-application-7eae9c5.md "")**  

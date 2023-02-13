@@ -16,9 +16,11 @@ SAP Business Application Studio provides two types of application plans in SAP B
 -   **[Manage Authorizations and Roles](manage-authorizations-and-roles-01e69c5.md "The subaccount administrator can assign the user a role for developing with SAP Business Application Studio or for managing
 		data.")**  
 The subaccount administrator can assign the user a role for developing with SAP Business Application Studio or for managing data.
--   **[Connecting to External Systems](connecting-to-external-systems-7e49887.md "For applications that do not need to run on Cloud Foundry, establish a connection to
-		an external system by creating one destination for multi-usage. ")**  
-For applications that do not need to run on Cloud Foundry, establish a connection to an external system by creating one destination for multi-usage.
+-   **[Connecting to External Systems](connecting-to-external-systems-7e49887.md " To connect any on-premise system from SAP Business Application Studio, you must create a
+		destination. Additionally, some business cases will also require a destination to perform
+		OData service exploration and to select an OData service for creating and viewing
+		applications.")**  
+ To connect any on-premise system from SAP Business Application Studio, you must create a destination. Additionally, some business cases will also require a destination to perform OData service exploration and to select an OData service for creating and viewing applications.
 -   **[Connect to Your Git Source Control System](connect-to-your-git-source-control-system-e7a42bc.md "SAP Business Application Studio allows you to
 		connect to public and corporate repositories.")**  
 SAP Business Application Studio allows you to connect to public and corporate repositories.

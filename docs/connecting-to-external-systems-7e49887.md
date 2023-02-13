@@ -2,7 +2,7 @@
 
 # Connecting to External Systems
 
-For applications that do not need to run on Cloud Foundry, establish a connection to an external system by creating one destination for multi-usage.
+To connect any on-premise system from SAP Business Application Studio, you must create a destination. Additionally, some business cases will also require a destination to perform OData service exploration and to select an OData service for creating and viewing applications.
 
 
 
@@ -10,7 +10,11 @@ For applications that do not need to run on Cloud Foundry, establish a connectio
 
 ## Context
 
-You can access on-premise SAP ABAP systems using a built-in Web Proxy. Your dev space includes a built-in Web Proxy \(`http://localhost:8887`\) that allows you access to on-premise systems. It is already configured with the HTTP\_PROXY and the HTTPS\_PROXY environment variables. The proxy requires destination configuration to your on-premise system from your Cloud Foundry Subaccount.
+ SAP Business Application Studio dev spaces include a built-in web proxy that allows you access to on premise systems \(such as ABAP systems, Git on-premise, npm on-premise, etc.\)
+
+The proxy requires destination configuration to your on-premise system from your Cloud Foundry subaccount.
+
+HTTP requests including the host and port provided with this destination URL made from the dev space using the proxy, will be transferred through this destination.
 
 You can create a destination that points to your system, either from the Service Center or from the SAP BTP cockpit.
 
@@ -20,7 +24,7 @@ You can create a destination that points to your system, either from the Service
 
 ## Procedure
 
-1.  **Create a Destination from the Service Center**
+1.  **Create a Destination from the Service Center for OData Services**
 
     See [Add a System](sap-system-service-provider-892114c.md#loio892114ce078b4e17a9ff7e751e6330cc__section_n2k_zx3_qqb) to add a destination from the Service Center with all the required properties.
 
@@ -28,7 +32,9 @@ You can create a destination that points to your system, either from the Service
 
 2.  Open the SAP BTP cockpit in the Cloud Foundry environment and go to the subaccount that is subscribed to SAP Business Application Studio.
 
-3.  Add the following properties in the SAP BTP cockpit:
+3.  Create a destination with the system endpoint URL. For more information, see [Create HTTP Destinations](https://help.sap.com/viewer/cca91383641e40ffbe03bdc78f00f681/Cloud/en-US/783fa1c418a244d0abb5f153e69ca4ce.html).
+
+4.  Add the following additional properties to the created destination:
 
 
     <table>
@@ -82,7 +88,7 @@ You can create a destination that points to your system, either from the Service
     </tr>
     </table>
     
-4.  Set the *WebIDEUsage* property for your destination type:
+5.  Set the *WebIDEUsage* property for your destination type:
 
 
     <table>
@@ -105,14 +111,14 @@ You can create a destination that points to your system, either from the Service
     <tr>
     <td valign="top">
 
-    **ABAP Service Catalog**
+    **ABAP System**
 
 
     
     </td>
     <td valign="top">
 
-    **WebIDEUsage** includes `odata_abap` and `dev_abap`.
+    *WebIDEUsage* value: `odata_abap,dev_abap` 
 
     `odata_abap`:
 
@@ -120,7 +126,7 @@ You can create a destination that points to your system, either from the Service
 
     `dev_abap`:
 
-    For deploying to the SAPUI5 ABAP Repository
+    For deploying to the SAPUI5 ABAP Repository and developing extension projects.
 
 
     
@@ -129,14 +135,16 @@ You can create a destination that points to your system, either from the Service
     <tr>
     <td valign="top">
 
-    **SAP Cloud for Customer Service Catalog**
+    **SAP Cloud for Customer**
 
 
     
     </td>
     <td valign="top">
 
-    *WebIDEUsage* includes `odata_c4c` to explore SAP Cloud for Customer catalogs.
+    *WebIDEUsage* value: `odata_c4c`
+
+    Used to explore SAP Cloud for Customer catalogs.
 
 
     
@@ -152,7 +160,7 @@ You can create a destination that points to your system, either from the Service
     </td>
     <td valign="top">
 
-    *WebIDEUsage* includes `odata_gen`.
+    *WebIDEUsage* value: `odata_gen` 
 
     For an absolute URL, you can use the full URL option \(*WebIDEAdditionalData* property and *full\_url* as the value\). For a service host, the relative URL should be added upon login.
 
@@ -170,7 +178,7 @@ You can create a destination that points to your system, either from the Service
     </td>
     <td valign="top">
 
-    *WebIDEUsage* includes `apihub_sandbox`.
+    *WebIDEUsage* value: `apihub_sandbox`
 
 
     
@@ -178,15 +186,20 @@ You can create a destination that points to your system, either from the Service
     </tr>
     </table>
     
-5.  If you are using an on-premise system, configure the Cloud Connector so that your system is correctly exposed. See [Cloud Connector](https://help.sap.com/docs/CP_CONNECTIVITY/cca91383641e40ffbe03bdc78f00f681/e6c7616abb5710148cfcf3e75d96d596.html).
+6.  Choose *Save*.
+
+7.  If you are using an on-premise system, configure the Cloud Connector so that your system is correctly exposed. See [Cloud Connector](https://help.sap.com/docs/CP_CONNECTIVITY/cca91383641e40ffbe03bdc78f00f681/e6c7616abb5710148cfcf3e75d96d596.html).
 
     If you don't have any Cloud Connector to use, you can set up a Cloud Connector on your local machine/VM.
 
-6.  Choose *Save*.
+    > ### Note:  
+    > In the *Access Control* tab of the Cloud Connector, grant access to all relevant URL paths \(Resources\) to access the system \(for*Access Policy*, select the *Path and all sub-paths* option\).
+    > 
+    > For example: `/sap/opu/data`, `sap/bc/adt`, and `/sap/bc/ui2/app_index/` .
 
-    See [HTTP Destinations](https://help.sap.com/viewer/cca91383641e40ffbe03bdc78f00f681/Cloud/en-US/783fa1c418a244d0abb5f153e69ca4ce.html) for more information. HTTP requests including the host and port provided with this destination URL made from your dev space using the proxy, will be transferred through this destination.
+8.  Once the destination has been created, SAP Business Application Studio developers can use it in their dev spaces. See [Accessing On Premise Systems](https://help.sap.com/docs/SAP%20Business%20Application%20Studio/9d1db9835307451daa8c930fbd9ab264/e72930c96b664e3ea4ce5288eb84075f.html).
 
+    > ### Note:  
+    > If you cannot access the on-premise system and there is an allowlist in your network, make sure you allowed BAS inbound IPs as described in [SAP Business Application Studio Availability](sap-business-application-studio-availability-8509485.md).
 
--   **[Requirements for Connecting to ABAP Systems](requirements-for-connecting-to-abap-systems-49df13c.md "The following is prerequisite information for connecting to ABAP systems.")**  
-The following is prerequisite information for connecting to ABAP systems.
 

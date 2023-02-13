@@ -1,6 +1,6 @@
 <!-- loio1e8ec75c9c784b51a91c7370f269ff98 -->
 
-# Service Center
+# Explore Services Using the Service Center
 
 The Service Center provides a central entry point to explore services from various service providers.
 

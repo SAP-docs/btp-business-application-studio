@@ -4,7 +4,14 @@
 
 Create run configurations that define how your project or unit test is executed.
 
-SAP Business Application Studio provides default run configurations for your projects. You can create and configure additional run configurations that define how your project or unit test is executed. You can also create a new run cofiguration by duplicating an existing run configuration and then editing it.
+SAP Business Application Studio provides default run configurations for your projects. You can create and configure additional run configurations that define how your project or unit test is executed. You can also create a new run configuration by duplicating an existing run configuration and then editing it.
+
+Clicking ![Run](images/run_from_header_568fb6d.png) \(Run and Debug\) on the right-hand side of the header provides one of the following options:
+
+-   If there is a default run configuration that's created during project creation, this configuration runs.
+-   If you add a new configuration and run it, this configuration runs.
+-   If you add multiple configurations, the last configuration that you ran runs.
+-   If you have run configurations from multiple projects, you can choose which configuration to run.
 
 
 

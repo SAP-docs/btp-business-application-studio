@@ -1,12 +1,12 @@
 <!-- loio00ad0484344c461caf80a7c695fd38af -->
 
-# Low-Code-Based Full-Stack Cloud Application
+# Full-Stack Application Using Productivity Tools
 
-Easily develop, test, build, and deploy apps using the Low Code Application Platform.
+Easily develop, test, build, and deploy apps using high productivity tools.
 
 See [Develop a Low–Code Application Using SAP Business Application Studio](https://help.sap.com/docs/Application%20Development/f9814e8df1cb43e1890e0f8d25374b8f/f7b2c2a73196480f96ad41db7be871a5.html).
 
-The Low-Code-Based Full-Stack Cloud Application scenario contains the following predefined extensions:
+The Full-Stack Application Using Productivity Tools scenario contains the following predefined extensions:
 
 -   **Basic Tools**
 

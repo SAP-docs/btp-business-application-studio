@@ -1674,7 +1674,7 @@ SAP HANA
 </td>
 <td valign="top">
 
-When using the SAP HANA Native Application development tools to create a database artifact, the last-used path is now stored as a workspace setting, which you can edit and configure manually, too. See *Add Database Artifacts to your SAP HANA Cloud Database Application* in the [SAP HANA Cloud, SAP HANA Database Developer Guide for Cloud Foundry Multitarget Applications](https://help.sap.com/viewer/c2b99f19e9264c4d9ae9221b22f6f589/Latest/en-US/f8e431e3cdc14516b4ba8c9932afd1f4.html).
+When using the SAP HANA Native Application development tools to create a database artifact, the last-used path is now stored as a workspace setting, which you can edit and configure manually, too. See[Add Database Artifacts to your SAP HANA Cloud Database Application](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/1aa916563bea48c8a880efba306fb7f9.html?version=latest).
 
 
 

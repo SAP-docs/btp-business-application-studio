@@ -6,10 +6,13 @@ SAP Business Application Studio provides the features needed for the entire life
 
 -   **[Get Started](get-started-826b587.md "Get started with SAP Business Application Studio.")**  
 Get started with SAP Business Application Studio.
+-   **[Explore Services Using the Service Center](explore-services-using-the-service-center-1e8ec75.md "The Service Center provides a central entry point to explore services from various
+		service providers.")**  
+The Service Center provides a central entry point to explore services from various service providers.
 -   **[Create a Project](create-a-project-fa59c5a.md "You can create a project from scratch using the project wizard, you can clone a
 		project, or you can import an already existing project to your workspace.")**  
 You can create a project from scratch using the project wizard, you can clone a project, or you can import an already existing project to your workspace.
--   **[Add Code](add-code-5126b9b.md "SAP Business Application Studio provides you with
+-   **[Develop](develop-5126b9b.md "SAP Business Application Studio provides you with
 		the tools you require for making your development experience more efficient and
 		productive.")**  
 SAP Business Application Studio provides you with the tools you require for making your development experience more efficient and productive.
