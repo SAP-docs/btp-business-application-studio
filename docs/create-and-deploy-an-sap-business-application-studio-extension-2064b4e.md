@@ -22,7 +22,7 @@ To create an SAP Business Application Studio extension:
 
     -   The extension metadata.
 
-    -   The list of components that are part of the extension: VS Code extensions, Yeoman generators, and global NPM packages.
+    -   The list of components that are part of the extension: VS Code extensions, Yeoman generators
 
         > ### Note:  
         > You must include at least one of these components in the file.
@@ -42,12 +42,6 @@ To create an SAP Business Application Studio extension:
     >   },
     >   "version": "<version>",
     >   "yeomanPackages": [
-    >     {
-    >       "name": "<package name>",
-    >       "versionRange": "<package version>"
-    >     }
-    >   ],
-    >   "globalNpmPackages": [
     >     {
     >       "name": "<package name>",
     >       "versionRange": "<package version>"

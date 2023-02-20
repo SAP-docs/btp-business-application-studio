@@ -2,7 +2,7 @@
 
 # Extend SAPUI5 Applications
 
-You can extend SAPUI5 applications that reside remotely on the SAPUI5 ABAP repository.
+You can extend SAPUI5 applications that reside remotely on the on-premise SAPUI5 ABAP repository.
 
 
 
@@ -33,7 +33,7 @@ You can extend SAPUI5 applications that reside remotely on the SAPUI5 ABAP repos
 
     See [Preview an Application](https://help.sap.com/docs/SAP_FIORI_tools/17d50220bcd848aa854c9c182d65b699/b962685bdf9246f6bced1d1cc1d9ba1c.html).
 
-5.  Deploy your extension project to the SAPUI5 ABAP repository.
+5.  Deploy your extension project to the on-premise SAPUI5 ABAP repository.
 
     See [Deployment to ABAP](https://help.sap.com/docs/SAP_FIORI_tools/17d50220bcd848aa854c9c182d65b699/607014e278d941fda4440f92f4a324a6.html#deployment-to-abap).
 
