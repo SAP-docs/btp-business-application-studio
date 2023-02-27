@@ -17,19 +17,14 @@ You configured the required Cloud Connector and destination in your account.
 ## Procedure
 
 1.  Enable Gerrit:
-    1.  Navigate to *File* \> *Settings* \> *Open Preferences*.
+    1.  Navigate to *File* \> *Preferences* \> *Settings*.
     2.  From the list of preferences, under *Extensions*, click *Sapbas*.
-    3.  Under **Gerrit: Enabled**, select the *whether gerrit is enabled* checkbox.
-    4.  Under **Gerrit: Configuration**, click *Edit in settings.json* and copy the code below into the editor:
+    3.  Under **Gerrit: Enabled**, select the *Whether gerrit is enabled* checkbox.
+    4.  Under **Gerrit: Configuration**, click *Add Item* and add the required properties \(*hookPath*, *protocol*, and *hostname*\) and their values, which can be obtained from your organization's Gerrit administrator.
 
-        ```
-        "sapbas.gerrit.configuration": {
-            "hookPath": "tools/hooks/commit-msg",
-            "protocol": "https",
-            "hostname": "git.wdf.sap.corp"
-        }
-        
-        ```
+        This is the configuration for SAP WDF Gerrit system:
+
+        ![](images/gerrit_config-_28cm_bc760b2.png)
 
 
 2.  Clone your project. See [Cloning Repositories](cloning-repositories-7a68bfa.md).
@@ -40,12 +35,15 @@ You configured the required Cloud Connector and destination in your account.
 
 5.  Select *Push to Gerrit*.
 
+    ![Push to Gerrit](images/push_to_geritt_c182387.png)
+
+
 **Related Information**  
 
 
 [Cloud Connector](https://help.sap.com/viewer/cca91383641e40ffbe03bdc78f00f681/Cloud/en-US/e6c7616abb5710148cfcf3e75d96d596.html)
 
-[Install the cloud connector](https://developers.sap.com/tutorials/hana-cloud-mission-extend-08.html#10dcb97c-ab26-4ee1-973e-6f1f6638b079)
+[Install the cloud connector](https://developers.sap.com/tutorials/hana-cloud-mission-extend-08.html#9e28ce44-889d-4d6c-a0ff-ac406eb21c05)
 
 [Configure Systems in Cloud Connector](https://developers.sap.com/tutorials/btp-app-ext-service-cloud-connector.html)
 
