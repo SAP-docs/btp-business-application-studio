@@ -195,7 +195,7 @@ You can create a destination that points to your system, either from the Service
     > ### Note:  
     > In the *Access Control* tab of the Cloud Connector, grant access to all relevant URL paths \(Resources\) to access the system \(for*Access Policy*, select the *Path and all sub-paths* option\).
     > 
-    > For example: `/sap/opu/data`, `sap/bc/adt`, and `/sap/bc/ui2/app_index/` .
+    > For example: `/sap/opu/odata`, `/sap/bc/adt`, and `/sap/bc/ui2/app_index/` .
 
 8.  Once the destination has been created, SAP Business Application Studio developers can use it in their dev spaces. See [Accessing On Premise Systems](https://help.sap.com/docs/SAP%20Business%20Application%20Studio/9d1db9835307451daa8c930fbd9ab264/e72930c96b664e3ea4ce5288eb84075f.html).
 
