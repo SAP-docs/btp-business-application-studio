@@ -24,11 +24,10 @@ You can use different plans in separate subaccounts.
 > Only community support is available for free service plans and these are not subject to SLAs. Use of free tier service plans are subject to additional terms and conditions as provided in the [SAP Business Technology Platform Supplement](https://www.sap.com/about/trust-center/agreements/cloud/cloud-services.html?tag=language:english&search=Supplement%20Business%20Technology%20Platform&sort=latest_desc).
 
 -   A user can only have up to 2 dev spaces.
-
 -   A user can only have 1 dev space in the RUNNING state at a time.
-
+-   A user can deploy a maximum of 2 times.
+-   When working in the *Full-Stack Application Using Productivity Tools* dev space, a user can deploy a maximum of 2 times.
 -   The maximum size limit of a dev space is 4 GB.
-
 
 
 

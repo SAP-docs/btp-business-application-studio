@@ -14,7 +14,7 @@ The SAP Fiori scenario contains the following predefined extensions:
 
 -   **SAPUI5 Adaptation Project**
 
-    Allows you to extend SAPUI5 applications, using the Adaptation Project and the Visual Editor.
+    Allows you to extend SAPUI5 applications, using the Adaptation Project and the Visual Editor. See [Extending an SAP Fiori Application](https://help.sap.com/docs/SAP%20Business%20Application%20Studio/584e0bcbfd4a4aff91c815cefa0bce2d/ada9567b767941aba8d49fdb4fdedea7.html).
 
 -   **Basic Tools**
 

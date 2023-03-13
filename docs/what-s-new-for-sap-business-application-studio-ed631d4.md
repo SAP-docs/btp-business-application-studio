@@ -118,6 +118,92 @@ Low-code Development
 </td>
 <td valign="top">
 
+In the *Full-Stack Application Using Productivity Tools* dev space, a run configuration is automatically generated when you add an external data model to a service from the SAP System service provider. See [Add an External Data Model](https://help.sap.com/docs/Application%20Development/f9814e8df1cb43e1890e0f8d25374b8f/71817b1ad86d4ca5a27fb5ccfd04cf6f.html).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2023-03-13
+
+
+
+</td>
+<td valign="top">
+
+2023-03-13
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Low-code Development
+
+
+
+</td>
+<td valign="top">
+
 In the *Full-Stack Application Using Productivity Tools* dev space, a run configuration is automatically generated when you add an external data model to a service from the SAP API Business Hub or the API business hub enterprise. See [Add an External Data Model](https://help.sap.com/docs/Application%20Development/f9814e8df1cb43e1890e0f8d25374b8f/71817b1ad86d4ca5a27fb5ccfd04cf6f.html).
 
 
