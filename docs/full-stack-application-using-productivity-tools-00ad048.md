@@ -4,7 +4,7 @@
 
 Easily develop, test, build, and deploy apps using high productivity tools.
 
-See [Develop a Low–Code Application Using SAP Business Application Studio](https://help.sap.com/docs/Application%20Development/f9814e8df1cb43e1890e0f8d25374b8f/f7b2c2a73196480f96ad41db7be871a5.html).
+See [Develop a Business Application Using Productivity Tools](https://help.sap.com/docs/bas/developing-business-applications-using-productivity-tools/develop-business-application-using-productivity-tools).
 
 The Full-Stack Application Using Productivity Tools scenario contains the following predefined extensions:
 
@@ -26,7 +26,7 @@ The Full-Stack Application Using Productivity Tools scenario contains the follow
 
     Includes enhanced code editors and database management capabilities.
 
--   **Low-code Tools**
+-   **Productivity Tools**
 
     Collection of low code tools enabling developers to easily build full stack applications for desktop and mobile use.
 
