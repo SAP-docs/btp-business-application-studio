@@ -1,22 +1,22 @@
 <!-- loio265962e20eee43f499516de9011ac2e3 -->
 
-# Using the Git View
+# Using the Advanced Git View
 
-General overview of the Git view in SAP Business Application Studio.
+General overview of the advanced Git view, the *SOURCE CONTROL* view, in SAP Business Application Studio.
 
-SAP Business Application Studio provides a graphical user interface for executing Git commands and managing your source control and versioning. You can also manually perform other Git commands from the terminal.
+SAP Business Application Studio provides a graphical user interface for executing Git commands and managing your source control and versioning. You can also manually perform other Git commands from the terminal. This view contains all the options for Git source control.
 
 
 
 <a name="loio265962e20eee43f499516de9011ac2e3__section_wlx_4kf_zlb"/>
 
-## Git View
+## Source Control View
 
-To open the Git view, click ![Open Git view](images/Open_Source_Control_view_abdab3a.png) from the activity bar.
+To open the *SOURCE CONTROL* view, click ![Open Source Control view](images/Open_Source_Control_view_abdab3a.png) from the activity bar.
 
-![Git View](images/Git_View_df291d4.png)
+![Source Control View](images/Git_View_df291d4.png)
 
-The Git view is divided into the following sections:
+The *SOURCE CONTROL* view is divided into the following sections:
 
 *SOURCE CONTROL* view menu
 
@@ -118,7 +118,18 @@ If you open a folder that is a Git repository and begin making changes, annotati
 -   A blue bar indicates modified lines.
 
 
+-   **[Connecting an Existing Project to Git](connecting-an-existing-project-to-git-0930e56.md "You can add an existing project to Git.")**  
+You can add an existing project to Git.
+-   **[Understanding the UI](understanding-the-ui-d14646a.md "SAP Business Application Studio provides a
+		graphical user interface for executing Git commands and managing your source control and
+		versioning. ")**  
+SAP Business Application Studio provides a graphical user interface for executing Git commands and managing your source control and versioning.
 -   **[Git Commands](git-commands-5914548.md "SAP Business Application Studio supports Git
 		commands from the Git view and from the command palette.")**  
 SAP Business Application Studio supports Git commands from the Git view and from the command palette.
+-   **[Setting Up Git to Work with Gerrit](setting-up-git-to-work-with-gerrit-82a5dfe.md "Gerrit is a web-based software code review tool for reviewing, approving, or
+		rejecting changes to the source code developed by your colleagues. Gerrit works as an
+		intermediate environment for source control between the local environment and the remote Git
+		repository.")**  
+Gerrit is a web-based software code review tool for reviewing, approving, or rejecting changes to the source code developed by your colleagues. Gerrit works as an intermediate environment for source control between the local environment and the remote Git repository.
 

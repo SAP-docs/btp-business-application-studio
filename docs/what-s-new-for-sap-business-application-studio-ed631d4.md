@@ -97,6 +97,92 @@ Available as of
 <tr>
 <td valign="top">
 
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Git
+
+
+
+</td>
+<td valign="top">
+
+You can now use the Simplified Git view to perform Git operations and manage Git repositories in SAP Business Application Studio. See [Using the Simplified Git View](using-the-simplified-git-view-16eaaa6.md).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2023-03-26
+
+
+
+</td>
+<td valign="top">
+
+2023-03-26
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
  SAP Business Application Studio 
 
 

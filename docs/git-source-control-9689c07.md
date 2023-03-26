@@ -11,7 +11,7 @@ SAP Business Application Studio enables you to connect and interact with the Git
 -   Ask your administrator which is the recommended authentication method for your company. See [Connect to Your Git Source Control System](connect-to-your-git-source-control-system-e7a42bc.md).
 
 
-You can perform all your Git tasks using the terminal, but SAP Business Application Studio allows you to use the Git view if you prefer.
+You can perform all your Git tasks using the terminal, but SAP Business Application Studio allows you to use the the *SIMPLIFIED GIT* view or the *SOURCE CONTROL* view, if you prefer.
 
 
 
@@ -23,35 +23,34 @@ Using Git is easy. The basic workflow is as follows:
 
 1.  **Clone:** Clone a repository from a remote Git source control system. All the information about the repository is copied, and a local master branch is created and is visible in your workspace. If the remote repository has several branches, you can create additional local branches based on those remote branches.
 
-2.  **Develop:** Once you have the code, you can develop – add files, delete files, modify files. Your changes are visible in the status table of the *Git* pane. When you are ready, you can stage your changes and commit them.
+2.  **Develop:** Once you have the code, you can develop – add files, delete files, modify files. Your changes are visible. When you are ready, you can stage your changes and commit them.
 
 3.  **Fetch and Merge/Rebase:** \(Optional\) Before sending back your changes to the remote repository, you can fetch all the changes made by others. Then you can merge or rebase the changes into your changes to make sure there are no conflicts. If there are conflicts, you can adjust your code.
 
 4.  **Push:** Add your changes to the remote repository.
 
 
--   **[Connecting an Existing Project to Git](connecting-an-existing-project-to-git-0930e56.md "You can add an existing project to Git.")**  
-You can add an existing project to Git.
--   **[Understanding the UI](understanding-the-ui-d14646a.md "SAP Business Application Studio provides a
-		graphical user interface for executing Git commands and managing your source control and
-		versioning. ")**  
-SAP Business Application Studio provides a graphical user interface for executing Git commands and managing your source control and versioning.
--   **[Using the Git View](using-the-git-view-265962e.md "General overview of the Git view in SAP Business Application Studio.")**  
-General overview of the Git view in SAP Business Application Studio.
--   **[Setting Up Git to Work with Gerrit](setting-up-git-to-work-with-gerrit-82a5dfe.md "Gerrit is a web-based software code review tool for reviewing, approving, or
-		rejecting changes to the source code developed by your colleagues. Gerrit works as an
-		intermediate environment for source control between the local environment and the remote Git
-		repository.")**  
-Gerrit is a web-based software code review tool for reviewing, approving, or rejecting changes to the source code developed by your colleagues. Gerrit works as an intermediate environment for source control between the local environment and the remote Git repository.
+-   **[Using the Simplified Git View](using-the-simplified-git-view-16eaaa6.md "You can use the SIMPLIFIED GIT view to perform Git operations
+		and manage Git repositories in SAP Business Application Studio.")**  
+You can use the *SIMPLIFIED GIT* view to perform Git operations and manage Git repositories in SAP Business Application Studio.
+-   **[Using the Advanced Git View](using-the-advanced-git-view-265962e.md "General overview of the advanced Git view, the SOURCE CONTROL
+		view, in SAP Business Application Studio.")**  
+General overview of the advanced Git view, the *SOURCE CONTROL* view, in SAP Business Application Studio.
 
 **Related Information**  
 
 
+[Clone a Repository in the Simplified Git View](clone-a-repository-in-the-simplified-git-view-58c25d9.md "You can clone a repository using the SIMPLIFIED GIT view.")
+
 [Cloning Repositories](cloning-repositories-7a68bfa.md "Add an existing project to your local workspace by cloning its repository from Git.")
+
+[Connect to a Remote Git Repository](connect-to-a-remote-git-repository-5a151f3.md "You can connect to a remote Git repository to enable contributions from other developers and to track changes to your project.")
 
 [Connecting an Existing Project to Git](connecting-an-existing-project-to-git-0930e56.md "You can add an existing project to Git.")
 
-[Using the Git View](using-the-git-view-265962e.md "General overview of the Git view in SAP Business Application Studio.")
+[Using the Simplified Git View](using-the-simplified-git-view-16eaaa6.md "You can use the SIMPLIFIED GIT view to perform Git operations and manage Git repositories in SAP Business Application Studio.")
+
+[Using the Advanced Git View](using-the-advanced-git-view-265962e.md "General overview of the advanced Git view, the SOURCE CONTROL view, in SAP Business Application Studio.")
 
 [Connect to Your Git Source Control System](connect-to-your-git-source-control-system-e7a42bc.md "SAP Business Application Studio allows you to connect to public and corporate repositories.")
 
