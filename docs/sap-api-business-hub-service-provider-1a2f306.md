@@ -43,6 +43,7 @@ The SAP API Business Hub service provider includes SAP API Business Hub products
         > -   Data for simple data types
 
 
+6.  You can click *Open Diagram* to see the service entities, their properties, and the relationships between the entities in a new tab.
 
 
 

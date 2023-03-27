@@ -423,6 +423,7 @@ You can add a new system, referring to the API business hub enterprise instance,
         > -   Data for simple data types
 
 
+6.  You can click *Open Diagram* to see the service entities, their properties, and the relationships between the entities in a new tab.
 
 
 
