@@ -118,7 +118,7 @@ CAP
 </td>
 <td valign="top">
 
-You can no longer use SAP Business Application Studio run configurations to create and run CAP Java applications based on the classic Java stack. \(The CAP classic Java stack was deprecated in 2021.\)
+You can no longer use SAP Business Application Studio run configurations to create and run CAP Java applications based on the classic Java stack. \(The CAP classic Java stack was deprecated in 2021.\) To continue using SAP Business Application Studio run configurations for CAP Java applications, migrate to the new CAP Java stack. See [Java Migration Towards the new CAP Java SDK](https://cap.cloud.sap/docs/java/migration).
 
 
 
