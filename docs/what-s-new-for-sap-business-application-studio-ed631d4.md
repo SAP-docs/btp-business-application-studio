@@ -97,6 +97,350 @@ Available as of
 <tr>
 <td valign="top">
 
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+SAP HANA Development Tooling
+
+
+
+</td>
+<td valign="top">
+
+In the SAP HANA Native Application extension for SAP Business Application Studio, you can now use the SAP HANA Project Explorer to include trace information in the deployment log displayed in the terminal pane. See [User Preferences for SAP HANA Native Application Development Tools](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/57e2fe608bb042d48b799d41a8d121a7.html).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2023-03-31
+
+
+
+</td>
+<td valign="top">
+
+2023-03-31
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+SAP HANA Development Tooling
+
+
+
+</td>
+<td valign="top">
+
+In the SAP HANA Native Application extension for SAP Business Application Studio, you can now use the Database Explorer's SQL console as a custom editor. See [Use the SQL Console for SAP HANA to Query the Database](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/7ffe3cc490f04ca997e22326e013e73f.html).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2023-03-31
+
+
+
+</td>
+<td valign="top">
+
+2023-03-31
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+SAP HANA Development Tooling
+
+
+
+</td>
+<td valign="top">
+
+In the SAP HANA Native Application extension for SAP Business Application Studio, you can now use the Project Explorer to provide support for SAP Cloud Application Programming \(CAP\) projects and access to tools that help you to maintain native SAP HANA database artifacts. See [Working with the SAP Cloud Application Programming Model](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/166f4fbbcbc64df3bd74220fd75c5b1e.html).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2023-03-31
+
+
+
+</td>
+<td valign="top">
+
+2023-03-31
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+SAP HANA Development Tooling
+
+
+
+</td>
+<td valign="top">
+
+In the SAP HANA Native Application extension for SAP Business Application Studio, you can now display syntax suggestions and dependency information in a side panel in the Database Explorer's SQL console. See [Use the SQL Console for SAP HANA to Query the Database](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/7ffe3cc490f04ca997e22326e013e73f.html).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2023-03-31
+
+
+
+</td>
+<td valign="top">
+
+2023-03-31
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
 SAP Business Application Studio
 
 
@@ -433,350 +777,6 @@ SAP Business Application Studio
 <td valign="top">
 
 2023-03-26
-
-
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
- SAP Business Application Studio 
-
-
-
-</td>
-<td valign="top">
-
--   Cloud Foundry
-
-
-
-</td>
-<td valign="top">
-
-SAP HANA Development Tooling
-
-
-
-</td>
-<td valign="top">
-
-In the SAP HANA Native Application extension for SAP Business Application Studio, you can now use the Database Explorer's SQL console as a custom editor. See [Use the SQL Console for SAP HANA to Query the Database](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/7ffe3cc490f04ca997e22326e013e73f.html).
-
-
-
-</td>
-<td valign="top">
-
-Info only
-
-
-
-</td>
-<td valign="top">
-
-General Availability
-
-
-
-</td>
-<td valign="top">
-
-New
-
-
-
-</td>
-<td valign="top">
-
-Technology
-
-
-
-</td>
-<td valign="top">
-
-Not applicable
-
-
-
-</td>
-<td valign="top">
-
-SAP Business Application Studio
-
-
-
-</td>
-<td valign="top">
-
-2023-03-16
-
-
-
-</td>
-<td valign="top">
-
-2023-03-16
-
-
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
- SAP Business Application Studio 
-
-
-
-</td>
-<td valign="top">
-
--   Cloud Foundry
-
-
-
-</td>
-<td valign="top">
-
-SAP HANA Development Tooling
-
-
-
-</td>
-<td valign="top">
-
-In the SAP HANA Native Application extension for SAP Business Application Studio, you can now use the Project Explorer to provide support for SAP Cloud Application Programming \(CAP\) projects and access to tools that help you to maintain native SAP HANA database artifacts. See [Working with the SAP Cloud Application Programming Model](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/166f4fbbcbc64df3bd74220fd75c5b1e.html).
-
-
-
-</td>
-<td valign="top">
-
-Info only
-
-
-
-</td>
-<td valign="top">
-
-General Availability
-
-
-
-</td>
-<td valign="top">
-
-New
-
-
-
-</td>
-<td valign="top">
-
-Technology
-
-
-
-</td>
-<td valign="top">
-
-Not applicable
-
-
-
-</td>
-<td valign="top">
-
-SAP Business Application Studio
-
-
-
-</td>
-<td valign="top">
-
-2023-03-16
-
-
-
-</td>
-<td valign="top">
-
-2023-03-16
-
-
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
- SAP Business Application Studio 
-
-
-
-</td>
-<td valign="top">
-
--   Cloud Foundry
-
-
-
-</td>
-<td valign="top">
-
-SAP HANA Development Tooling
-
-
-
-</td>
-<td valign="top">
-
-In the SAP HANA Native Application extension for SAP Business Application Studio, you can now display syntax suggestions and dependency information in a side panel in the Database Explorer's SQL console. See [Use the SQL Console for SAP HANA to Query the Database](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/7ffe3cc490f04ca997e22326e013e73f.html).
-
-
-
-</td>
-<td valign="top">
-
-Info only
-
-
-
-</td>
-<td valign="top">
-
-General Availability
-
-
-
-</td>
-<td valign="top">
-
-New
-
-
-
-</td>
-<td valign="top">
-
-Technology
-
-
-
-</td>
-<td valign="top">
-
-Not applicable
-
-
-
-</td>
-<td valign="top">
-
-SAP Business Application Studio
-
-
-
-</td>
-<td valign="top">
-
-2023-03-16
-
-
-
-</td>
-<td valign="top">
-
-2023-03-16
-
-
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
- SAP Business Application Studio 
-
-
-
-</td>
-<td valign="top">
-
--   Cloud Foundry
-
-
-
-</td>
-<td valign="top">
-
-SAP HANA Development Tooling
-
-
-
-</td>
-<td valign="top">
-
-In the SAP HANA Native Application extension for SAP Business Application Studio, you can now use the SAP HANA Project Explorer to include trace information in the deployment log displayed in the terminal pane. See [User Preferences for SAP HANA Native Application Development Tools](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/57e2fe608bb042d48b799d41a8d121a7.html).
-
-
-
-</td>
-<td valign="top">
-
-Info only
-
-
-
-</td>
-<td valign="top">
-
-General Availability
-
-
-
-</td>
-<td valign="top">
-
-New
-
-
-
-</td>
-<td valign="top">
-
-Technology
-
-
-
-</td>
-<td valign="top">
-
-Not applicable
-
-
-
-</td>
-<td valign="top">
-
-SAP Business Application Studio
-
-
-
-</td>
-<td valign="top">
-
-2023-03-16
-
-
-
-</td>
-<td valign="top">
-
-2023-03-16
 
 
 
