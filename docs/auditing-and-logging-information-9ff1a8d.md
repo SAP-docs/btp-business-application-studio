@@ -509,6 +509,10 @@ The following information is described in the table columns:
 -   *How to identify related log events* - Search criteria or key words, that are specific for a log event that is created along with the logged event.
 
 
+-   **[Detect Malware in the Dev Spaces](detect-malware-in-the-dev-spaces-d259b7a.md "You can use the SAP Audit Log Viewer service to check if any dev spaces are infected
+		with malware.")**  
+You can use the SAP Audit Log Viewer service to check if any dev spaces are infected with malware.
+
 **Related Information**  
 
 

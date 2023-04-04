@@ -134,4 +134,5 @@ SAP Application Studio is a new SAP Cloud Platform service in SAP Cloud Foundry 
     -   [Standards and Best Practices](standards-and-best-practices-2937779.md)
     -   [Data Protection and Privacy](data-protection-and-privacy-3ad7520.md)
     -   [Auditing and Logging Information](auditing-and-logging-information-9ff1a8d.md)
+        -   [Detect Malware in the Dev Spaces](detect-malware-in-the-dev-spaces-d259b7a.md)
 
