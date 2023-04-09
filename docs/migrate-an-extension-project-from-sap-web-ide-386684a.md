@@ -12,7 +12,7 @@ To add new extensions to your extension project, you need to first migrate it fr
 
 Copy the destination from the SAP Web IDE subaccount to the SAP Business Application Studio subaccount:
 
-1.  Find the name of the destination to be copied from extension project’s `neo-app.json` file.
+1.  Find the name of the destination to be copied from the extension project’s `neo-app.json` file.
 
 2.  Export the destination from the Neo subaccount.
 

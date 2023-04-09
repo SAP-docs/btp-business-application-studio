@@ -237,6 +237,9 @@ The Unified Customer Landscape service provider includes packages and services f
 
 1.  Click the gray arrow to display the available systems \(![System](images/SC_API_Hub_product_icon_a999bc7.png)\) for the account.
 2.  Click the gray arrow to display the packages \(![Package](images/SC_system_icon_5178796.png)\) under a system.
+
+    If the package is available and connected \(![Available Package](images/SC-_system_connected_icon_1c4c936.png)\), you can search for services within it. Click the search icon \(![](images/service_center_search_a1d4e5e.png)\) and select the relevant service from the command palette.
+
 3.  Click the gray arrow to display the services under a package.
 4.  Click a service \(![Service](images/SC-_service_icon_fc5c112.png)\) to see its properties, including the service name, protocol, version, URL, and status.
 
@@ -257,7 +260,7 @@ The Unified Customer Landscape service provider includes packages and services f
         > -   Data for simple data types
 
 
-6.  You can click *Open Diagram* to see the service entities, their properties, and the relationships between the entities in a new tab.
+6.  You can click *View Diagram* to see the service entities, their properties, and the relationships between the entities in a new tab.
 
 
 

@@ -60,7 +60,7 @@ Login occurs automatically, using the SAP Business Application Studio user crede
         > -   Data for simple data types
 
 
-6.  You can click *Open Diagram* to see the service entities, their properties, and the relationships between the entities in a new tab.
+6.  You can click *View Diagram* to see the service entities, their properties, and the relationships between the entities in a new tab.
 
 
 

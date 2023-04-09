@@ -376,6 +376,8 @@ You can add a new system, referring to the API business hub enterprise instance,
 
     Multiple APIs are grouped into a product.
 
+    If the product is available and connected \(![Available Product](images/SC-_system_connected_icon_1c4c936.png)\), you can search for services within it. Click the search icon \(![](images/service_center_search_a1d4e5e.png)\) and select the relevant service from the command palette.
+
 3.  Click the gray arrow next to the products \(![Product](images/ABHE_product_icon_c456c90.png)\) to display the services \(APIs\).
 
     If the product is available, the icon has a green dot \(![Available Product](images/ABHE_available_product_icon_db3f35e.png)\).
@@ -423,7 +425,7 @@ You can add a new system, referring to the API business hub enterprise instance,
         > -   Data for simple data types
 
 
-6.  You can click *Open Diagram* to see the service entities, their properties, and the relationships between the entities in a new tab.
+6.  You can click *View Diagram* to see the service entities, their properties, and the relationships between the entities in a new tab.
 
 
 

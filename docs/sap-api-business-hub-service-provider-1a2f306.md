@@ -16,6 +16,9 @@ The SAP API Business Hub service provider includes SAP API Business Hub products
     SAP S/4HANA Cloud, SAP S/4HANA, SAP SuccessFactors, SAP Customer Experience, and SAP Business Technology Platform
 
 2.  Click the gray arrow next to the product \(![Product](images/SC_API_Hub_product_icon_a999bc7.png)\) to display the packages.
+
+    If the package is available and connected \(![Available Package](images/SC-_system_connected_icon_1c4c936.png)\), you can search for services within it. Click the search icon \(![](images/service_center_search_a1d4e5e.png)\) and select the relevant service from the command palette.
+
 3.  Click the gray arrow next to the package \(![Available Package](images/SC-_system_connected_icon_1c4c936.png)\) to display the services \(APIs\).
 4.  Click a service \(![Service](images/SC-_service_icon_fc5c112.png)\) and log in with your SAP API Business Hub credentials, if needed.
 
@@ -43,7 +46,7 @@ The SAP API Business Hub service provider includes SAP API Business Hub products
         > -   Data for simple data types
 
 
-6.  You can click *Open Diagram* to see the service entities, their properties, and the relationships between the entities in a new tab.
+6.  You can click *View Diagram* to see the service entities, their properties, and the relationships between the entities in a new tab.
 
 
 
