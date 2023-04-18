@@ -16,13 +16,15 @@ The original application must have an `i18n` folder with at least one `Propertie
 
 ## Procedure
 
-1.  Right-click on any folder of the extension project to which you want to add the extension and click *Create Extension*.
+1.  In the *File Explorer*, navigate to the extension project to which you want to add the extension.
 
-2.  Make sure that the desired extension project is selected and click *Next*.
+2.  Right-click the `.extconfig.json` file and click *Create Extension*.
 
-3.  Select the *i18n Resource Text Customization* tile and click *Next*.
+3.  Make sure that the desired extension project is selected and click *Next*.
 
-4.  Click *Finish* to confirm and add the extension.
+4.  Select the *i18n Resource Text Customization* tile and click *Next*.
+
+5.  Click *Finish* to confirm and add the extension.
 
 
 

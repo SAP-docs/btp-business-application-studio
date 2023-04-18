@@ -15,18 +15,20 @@ You can replace a specific view in an original application with a new view.
 
 ## Procedure
 
-1.  Right-click on any folder of the extension project to which you want to add the extension and click *Create Extension*.
+1.  In the *File Explorer*, navigate to the extension project to which you want to add the extension.
 
-2.  Make sure that the desired extension project is selected and click *Next*.
+2.  Right-click the `.extconfig.json` file and click *Create Extension*.
 
-3.  Select *Replace View* and click *Next*.
+3.  Make sure that the desired extension project is selected and click *Next*.
 
-4.  Select the view that you want to replace.
+4.  Select *Replace View* and click *Next*.
 
-5.  From the *Replace with* dropdown list, select *Copy of the original view* to edit the view based on the original view, or select *Empty View* to replace the view with an entirely new one.
+5.  Select the view that you want to replace.
 
-6.  Click *Next*.
+6.  From the *Replace with* dropdown list, select *Copy of the original view* to edit the view based on the original view, or select *Empty View* to replace the view with an entirely new one.
 
-7.  Click *Finish* to add the extension to the selected extension project.
+7.  Click *Next*.
+
+8.  Click *Finish* to add the extension to the selected extension project.
 
 

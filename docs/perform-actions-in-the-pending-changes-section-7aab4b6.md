@@ -1,8 +1,8 @@
 <!-- loio7aab4b6a630f40c4b1bb77fd829e1186 -->
 
-# Perform Actions from the Pending Changes Section
+# Perform Actions in the Pending Changes Section
 
-You can discard all changes, individually ignore each pending change, or you can open an updated file from the *PENDING CHANGES* section.
+You can discard all changes, individually ignore each pending change, or you can open an updated file in the *PENDING CHANGES* section.
 
 
 
@@ -10,7 +10,7 @@ You can discard all changes, individually ignore each pending change, or you can
 
 ## Discard All Changes
 
-1.  From the *PENDING CHANGES* section, click the arrow to discard all changes.
+1.  In the *PENDING CHANGES* section, click the arrow to discard all changes.
 
     ![Discard All Changes](images/discard_changes2_c1a194d.png)
 

@@ -48,7 +48,7 @@ SAP Application Studio is a new SAP Cloud Platform service in SAP Cloud Foundry 
                     -   [Pull Changes in the Simplified View](pull-changes-in-the-simplified-view-cd2408c.md)
                     -   [Resolve Conflicts in the Simplified Git View](resolve-conflicts-in-the-simplified-git-view-52c441b.md)
                     -   [Clone a Repository in the Simplified Git View](clone-a-repository-in-the-simplified-git-view-58c25d9.md)
-                    -   [Perform Actions from the Pending Changes Section](perform-actions-from-the-pending-changes-section-7aab4b6.md)
+                    -   [Perform Actions in the Pending Changes Section](perform-actions-in-the-pending-changes-section-7aab4b6.md)
                     -   [Create a Branch in the Simplified Git View](create-a-branch-in-the-simplified-git-view-aee0b08.md)
                 -   [Using the Advanced Git View](using-the-advanced-git-view-265962e.md)
                     -   [Connecting an Existing Project to Git](connecting-an-existing-project-to-git-0930e56.md)

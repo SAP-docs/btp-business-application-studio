@@ -2,9 +2,9 @@
 
 # Pull Changes in the Simplified View
 
-From the *SIMPLIFIED GIT* view, you can pull changes to download objects and references from the remote repository into your local repository, and then merge the changes into your project.
+In the *SIMPLIFIED GIT* view, you can pull changes to download objects and references from the remote repository into your local repository, and then merge the changes into your project.
 
-From the *PENDING CHANGES* section, you can see a list of all changes.
+You can see a list of all changes in the *PENDING CHANGES* section.
 
 For example, if you make a change to the project from the terminal, the change is automatically detected and appears in the *PENDING CHANGES* section.
 

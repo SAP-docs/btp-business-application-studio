@@ -2,7 +2,7 @@
 
 # Commit Changes in the Simplified Git View
 
-From the *SIMPLIFIED GIT* view, you can add the current changes to the last commit.
+In the *SIMPLIFIED GIT* view, you can add the current changes to the last commit.
 
 To add your changes to the remote Git repository, enter a message describing your changes and click *Commit & Sync*.
 

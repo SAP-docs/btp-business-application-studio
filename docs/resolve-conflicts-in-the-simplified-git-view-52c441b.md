@@ -2,7 +2,7 @@
 
 # Resolve Conflicts in the Simplified Git View
 
-Merge operations can fail because of conflicts between the current branch and the branch you choose from which to incorporate the changes. You can resolve merge conflicts using the *SIMPLIFIED GIT* view.
+Merge operations can fail because of conflicts between the current branch and the branch from which you choose to incorporate the changes. You can resolve merge conflicts using the *SIMPLIFIED GIT* view.
 
 1.  When there are conflicts, the *MERGE FILES* section is displayed.
 
@@ -18,7 +18,7 @@ Merge operations can fail because of conflicts between the current branch and th
     -   *Accept Current Change*: Apply the selected line of change from the current branch.
     -   *Accept Incoming Change*: Apply the selected line of change from the remote branch.
     -   *Ignore*: Ignore the selected line of change.
-    -   *Complete Merge*: Clicking this option opens the *SOURCE CONTROL* view to complete the merge. Only choose this option if you want to use the *SOURCE CONTROL* view.
+    -   *Complete Merge*: Open the *SOURCE CONTROL* view to complete the merge. Only choose this option if you want to use the *SOURCE CONTROL* view.
 
 4.  Enter a message describing your changes and click *Commit & Sync* to complete the conflict resolution and sync your changes to the remote repository.
 

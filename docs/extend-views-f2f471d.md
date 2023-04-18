@@ -16,21 +16,23 @@ You must have defined extension points in the original application.
 
 ## Procedure
 
-1.  Right-click on any folder of the extension project to which you want to add the extension and click *Create Extension*.
+1.  In the *File Explorer*, navigate to the extension project to which you want to add the extension.
 
-2.  Make sure that the desired extension project is selected and click *Next*.
+2.  Right-click the `.extconfig.json` file and click *Create Extension*.
 
-3.  Select *Extend View/Fragment* and click *Next*.
+3.  Make sure that the desired extension project is selected and click *Next*.
 
-4.  Select the view or fragment that you want to extend.
+4.  Select *Extend View/Fragment* and click *Next*.
 
-5.  Select the desired extension point.
+5.  Select the view or fragment that you want to extend.
+
+6.  Select the desired extension point.
 
     > ### Note:  
     > Not all views or fragments have extension points.
 
-6.  Click *Next*.
+7.  Click *Next*.
 
-7.  Click *Finish* to add the extension to the selected extension project.
+8.  Click *Finish* to add the extension to the selected extension project.
 
 
