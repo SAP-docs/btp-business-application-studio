@@ -4,9 +4,11 @@
 
 Use the project explorer to browse the contents of your current workspace.
 
-On the left side of your screen, you can find the activity bar for opening the SAP Business Application Studio views.
+The project explorer displays application components in a logical view, which simplifies browsing of the contents of your application.
 
-The most important, is the *Explorer* view that displays the contents of your current workspace.
+It gives you a bird's-eye view of the components involved in your application at any point in time.
+
+Open the project explorer from the activity bar
 
 ![project explorer view](images/Project_Explorer_f95bf3b.png)
 

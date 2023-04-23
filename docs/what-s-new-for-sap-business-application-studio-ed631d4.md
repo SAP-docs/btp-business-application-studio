@@ -111,6 +111,180 @@ Available as of
 </td>
 <td valign="top">
 
+Storyboard
+
+
+
+</td>
+<td valign="top">
+
+In the storyboard, you can now create data models and service entities from the column headers or from the toolbar.
+
+In the settings, you can define if you want them created in the default namespace or service or to select the location manually.
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2023-04-23
+
+
+
+</td>
+<td valign="top">
+
+2023-04-23
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Service Center
+
+
+
+</td>
+<td valign="top">
+
+In the Service Center, you can now search for a service within a package from the SAP API Business Hub, the API business hub enterprise, or the Unified Customer Landscape service provider. See [SAP API Business Hub Service Provider](https://help.sap.com/docs/bas/sap-business-application-studio/sap-api-business-hub-service-provider?version=Cloud).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2023-04-23
+
+
+
+</td>
+<td valign="top">
+
+2023-04-23
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
 Service Center
 
 
