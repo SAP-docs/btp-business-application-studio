@@ -125,7 +125,7 @@ You can create a job for your project using a CI/CD pipeline.
 
 1.  From the left-side menu, select *View* \> *Command Palette*.
 
-2.  Search for *Guided Development: Create a CI/CD Job*. Select the guide and follow the instructions.
+2.  Search for *Guide Center: Create a CI/CD Job*. Select the guide and follow the instructions.
 
 
 Each job is configured using a `config.yaml` file in the project Git repository.

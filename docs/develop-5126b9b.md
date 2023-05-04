@@ -4,7 +4,7 @@
 
 SAP Business Application Studio provides you with the tools you require for making your development experience more efficient and productive.
 
--   **[Guided Development](guided-development-fe03a4e.md "This tool shows you how to execute common development tasks for specific SAP
+-   **[Guide Center](guide-center-fe03a4e.md "This tool shows you how to execute common development tasks for specific SAP
 		scenarios.")**  
 This tool shows you how to execute common development tasks for specific SAP scenarios.
 -   **[Project Explorer](project-explorer-780ba0f.md "Use the project explorer to browse the contents of your current workspace.")**  

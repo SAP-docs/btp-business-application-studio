@@ -43,7 +43,14 @@ Basic UI5 Template
 </td>
 <td valign="top">
 
-Allows you to create a basic SAPUI5 application, using the template wizard.
+Allows you to perform operations such as build and deployment of multitarget applications, while optimizing your web development workflow. The extension includes capabilities such as the Cloud Foundry CLI, a code editor, preferences, and settings. The following tools will be installed as part of the extension:
+
+-   Cloud Foundry environment CLI
+
+-   Cloud Foundry environment deployment plugin
+
+-   Cloud MTA Build Tool
+
 
 See [Basic Template](https://help.sap.com/viewer/17d50220bcd848aa854c9c182d65b699/Latest/en-US/14fdcc0a9d834090a07435cfef962b01.html).
 
@@ -117,7 +124,7 @@ SAP BTP, serverless runtime
 
 Allows you to create and deploy extensions in a serverless environment.
 
-See [Create Extensions with Extension Factory, serverless runtime Project Template](https://help.sap.com/viewer/bf7b2ff68518427c85b30ac3184ad215/Cloud/en-US/4c67df38735d48a7be0043a96c6a2827.html).
+See [https://help.sap.com/viewer/bf7b2ff68518427c85b30ac3184ad215/Cloud/en-US/4c67df38735d48a7be0043a96c6a2827.html](https://help.sap.com/viewer/bf7b2ff68518427c85b30ac3184ad215/Cloud/en-US/4c67df38735d48a7be0043a96c6a2827.html).
 
 
 
@@ -133,7 +140,7 @@ Workflow Management
 </td>
 <td valign="top">
 
-Allows you to create workflow applications and process templates with SAP Workflow Management.
+Create Extensions with Extension Factory,Allows you to create workflow applications and process templates with SAP Workflow Management.
 
 See [SAP Workflow Management](https://help.sap.com/viewer/e157c391253b4ecd93647bf232d18a83/Cloud/en-US/bd2004f2fa25468d949eed0bf745b34c.html).
 
@@ -194,6 +201,24 @@ Chromium Browser Tools
 <td valign="top">
 
 Allows you to use Chromium tools.
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+Headless Testing Framework
+
+
+
+</td>
+<td valign="top">
+
+Allows you to run cross-platform end-to-end tests on a UI5 application, with selectors compatible to OPA5.
+
+See [Using BAS with wdi5](https://ui5-community.github.io/wdi5/#/usage?id=using-bas-with-wdi5).
 
 
 
@@ -265,16 +290,7 @@ MTA Tools
 </td>
 <td valign="top">
 
-Allows you to perform operations such as build, deployment, and validation on multitarget applications. The following tools are installed as part of the extension:
-
--   Cloud Foundry environment CLI
-
--   Cloud Foundry environment deployment plugin
-
--   Cloud MTA Build Tool
-
--   MTA module runner \(VS Code extension\)
-
+Allows you to create and develop multitarget applications.
 
 See [MTA Tools](https://help.sap.com/viewer/209802f55bfd47fcaccecf1241df99f8/Cloud/en-US).
 

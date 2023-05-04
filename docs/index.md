@@ -38,7 +38,7 @@ SAP Application Studio is a new SAP Cloud Platform service in SAP Cloud Foundry 
             -   [Project Visibility in SAP Business Application Studio](project-visibility-in-sap-business-application-studio-0919ce1.md)
             -   [Template Wizard](template-wizard-ba59cb6.md)
         -   [Develop](develop-5126b9b.md)
-            -   [Guided Development](guided-development-fe03a4e.md)
+            -   [Guide Center](guide-center-fe03a4e.md)
             -   [Project Explorer](project-explorer-780ba0f.md)
             -   [Storyboard](storyboard-6ca2941.md)
             -   [Git Source Control](git-source-control-9689c07.md)

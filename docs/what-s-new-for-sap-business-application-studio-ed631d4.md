@@ -111,6 +111,96 @@ Available as of
 </td>
 <td valign="top">
 
+Development Experience
+
+
+
+</td>
+<td valign="top">
+
+You can now enable the *Headless Testing Framework* extension for your dev space.
+
+This extension allows you to run cross-platform end-to-end tests on a UI5 application, with selectors compatible to OPA5.
+
+See [Using BAS with wdi5](https://ui5-community.github.io/wdi5/#/usage?id=using-bas-with-wdi5).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2023-05-04
+
+
+
+</td>
+<td valign="top">
+
+2023-05-04
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
 Storyboard
 
 
