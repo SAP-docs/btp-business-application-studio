@@ -2,19 +2,26 @@
 
 # Perform Actions in the Pending Changes Section
 
-You can discard all changes, individually ignore each pending change, or you can open an updated file in the *PENDING CHANGES* section.
+You can discard all selected changes, individually discard or ignore each pending change, or you can open an updated file in the *PENDING CHANGES* section.
 
 
 
 <a name="loio7aab4b6a630f40c4b1bb77fd829e1186__section_qqh_qny_xwb"/>
 
-## Discard All Changes
+## Discard Changes
 
-1.  In the *PENDING CHANGES* section, click the arrow to discard all changes.
+Discarding removes changes from the active branch.
 
-    ![Discard All Changes](images/discard_changes2_c1a194d.png)
+In the *PENDING CHANGES* section, discard the relevant changes:
 
-2.  Confirm that you want to merge all files without any of your changes.
+-   To discard the selected changes, hover over the *PENDING CHANGES* section title and click ![Discard icon](images/arrow-_new_9951ce4.png).
+
+    ![Discard selected changes](images/discard_selected_changes-_smaller_ace2823.png)
+
+-   To discard changes for an individual file, hover over the file containing the changes you want to discard and click ![Discard icon](images/arrow-_new_9951ce4.png).
+
+    ![Discard changes in a file](images/discard_changes_in_file-_smaller_fb511d8.png)
+
 
 
 
@@ -22,7 +29,7 @@ You can discard all changes, individually ignore each pending change, or you can
 
 ## Ignore Pending Changes Individually
 
-Click ![Ignore Change](images/ignore_changes_a925a2d.png) \(Add to .gitignore\) to ignore pending changes individually.
+Click ![Ignore Change Icon](images/ignore_change-resize_2d93d95.png) \(Add to .gitignore\) to ignore pending changes individually.
 
 
 
@@ -30,5 +37,5 @@ Click ![Ignore Change](images/ignore_changes_a925a2d.png) \(Add to .gitignore\) 
 
 ## Open Updated File
 
-Click ![Open File](images/open_file_37389ab.png) \(Open File\) to open an updated file.
+Click ![Open file icon](images/open_file-_new_479c353.png) \(Open File\) to open an updated file.
 

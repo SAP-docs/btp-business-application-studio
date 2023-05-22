@@ -4,7 +4,14 @@
 
 In the *SIMPLIFIED GIT* view, you can add the current changes to the last commit.
 
-To add your changes to the remote Git repository, enter a message describing your changes and click *Commit & Sync*.
+You can see a list of all changes in the *PENDING CHANGES* section.
 
-![Commit & Sync](images/commit_91b9df8.png)
+For example, if you make a change to the project from the terminal, the change is automatically detected and appears in the *PENDING CHANGES* section.
+
+To add your changes to the remote Git repository, perform the following steps:
+
+1.  In the *PENDING CHANGES* section, select the files with changes that you want to include in the commit.
+2.  Enter a message describing your changes and click *Commit & Sync*.
+
+![Commit & Sync](images/commit_6447921.png)
 

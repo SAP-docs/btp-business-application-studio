@@ -15,6 +15,6 @@ Create a new branch using the *SIMPLIFIED GIT* view and publish it to the remote
 
 4.  Select *Publish Branch* to sync the new branch with the remote repository.
 
-    ![Publish Branch](images/publish_branch_4ae4e80.png)
+    ![Publish Branch button](images/publish_branch-_7cm_84febc3.png)
 
 

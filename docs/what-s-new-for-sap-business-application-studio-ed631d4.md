@@ -111,6 +111,92 @@ Available as of
 </td>
 <td valign="top">
 
+Git
+
+
+
+</td>
+<td valign="top">
+
+You can now select the changes you want to commit or discard in the Simplified Git view. See [Commit Changes in the Simplified Git View](https://help.sap.com/docs/bas/sap-business-application-studio/commit-changes-in-simplified-git-view?version=Cloud) and [Perform Actions in the Pending Changes Section](https://help.sap.com/docs/bas/sap-business-application-studio/perform-actions-from-pending-changes-section?version=Cloud).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2023-05-21
+
+
+
+</td>
+<td valign="top">
+
+2023-05-21
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
 Development Experience
 
 
