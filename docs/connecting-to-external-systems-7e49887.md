@@ -12,6 +12,9 @@ To connect any on-premise system from SAP Business Application Studio, you must 
 
  SAP Business Application Studio dev spaces include a built-in web proxy that allows you access to on premise systems \(such as ABAP systems, Git on-premise, npm on-premise, etc.\)
 
+> ### Note:  
+> Always protect your access to an external system, including a Private Artifact Repository manager, an on-premise system, or a trusted system.
+
 The proxy requires destination configuration to your on-premise system from your Cloud Foundry subaccount.
 
 HTTP requests including the host and port provided with this destination URL made from the dev space using the proxy, will be transferred through this destination.
@@ -56,15 +59,15 @@ You can create a destination that points to your system, either from the Service
     </tr>
     <tr>
     <td valign="top">
-
-    `WebIDEEnabled`
+    
+        `WebIDEEnabled`
 
 
     
     </td>
     <td valign="top">
-
-    `true`
+    
+        `true`
 
 
     
@@ -72,15 +75,15 @@ You can create a destination that points to your system, either from the Service
     </tr>
     <tr>
     <td valign="top">
-
-    `HTML5.DynamicDestination`
+    
+        `HTML5.DynamicDestination`
 
 
     
     </td>
     <td valign="top">
-
-    `true`
+    
+        `true`
 
 
     
@@ -110,15 +113,15 @@ You can create a destination that points to your system, either from the Service
     </tr>
     <tr>
     <td valign="top">
-
-    **ABAP System**
+    
+        **ABAP System**
 
 
     
     </td>
     <td valign="top">
-
-    *WebIDEUsage* value: `odata_abap,dev_abap` 
+    
+        *WebIDEUsage* value: `odata_abap,dev_abap` 
 
     `odata_abap`:
 
@@ -134,15 +137,15 @@ You can create a destination that points to your system, either from the Service
     </tr>
     <tr>
     <td valign="top">
-
-    **SAP Cloud for Customer**
+    
+        **SAP Cloud for Customer**
 
 
     
     </td>
     <td valign="top">
-
-    *WebIDEUsage* value: `odata_c4c`
+    
+        *WebIDEUsage* value: `odata_c4c`
 
     Used to explore SAP Cloud for Customer catalogs.
 
@@ -152,15 +155,15 @@ You can create a destination that points to your system, either from the Service
     </tr>
     <tr>
     <td valign="top">
-
-    **Service URL**
+    
+        **Service URL**
 
 
     
     </td>
     <td valign="top">
-
-    *WebIDEUsage* value: `odata_gen` 
+    
+        *WebIDEUsage* value: `odata_gen` 
 
     For an absolute URL, you can use the full URL option \(*WebIDEAdditionalData* property and *full\_url* as the value\). For a service host, the relative URL should be added upon login.
 
@@ -170,15 +173,15 @@ You can create a destination that points to your system, either from the Service
     </tr>
     <tr>
     <td valign="top">
-
-    **SAP API Business Hub**
+    
+        **SAP API Business Hub**
 
 
     
     </td>
     <td valign="top">
-
-    *WebIDEUsage* value: `apihub_sandbox`
+    
+        *WebIDEUsage* value: `apihub_sandbox`
 
 
     

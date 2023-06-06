@@ -25,7 +25,7 @@ To work with the Git view in SAP Business Application Studio, you need to store 
 -   Store credentials indefinitely in a file on your dev space. See [Git Credential Store](https://git-scm.com/docs/git-credential-store).
 
 
-You can use a **Personal Access Token** \(PAT\) instead of a password.
+If it's supported, it's recommended to use a **Personal Access Token** \(PAT\) instead of a password.
 
 For example, you can create a PAT in GitHub following [these instructions](http://help.sap.com/disclaimer?site=https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token). Other Git providers will have different ways of creating PATs.
 
@@ -67,31 +67,15 @@ Make sure to use the exact same host and port as defined in the destination URL 
     </tr>
     <tr>
     <td valign="top">
-
-     *Back-end Type* 
+    
+         *Back-end Type* 
 
 
     
     </td>
     <td valign="top">
-
-     *Non-SAP System* 
-
-
     
-    </td>
-    </tr>
-    <tr>
-    <td valign="top">
-
-    *Protocol*
-
-
-    
-    </td>
-    <td valign="top">
-
-     *HTTPS* 
+         *Non-SAP System* 
 
 
     
@@ -99,31 +83,15 @@ Make sure to use the exact same host and port as defined in the destination URL 
     </tr>
     <tr>
     <td valign="top">
-
-     *Internal Host / Port* 
+    
+        *Protocol*
 
 
     
     </td>
     <td valign="top">
-
-    Enter the internal host and port for your Git system.
-
-
     
-    </td>
-    </tr>
-    <tr>
-    <td valign="top">
-
-     *Host / Port* 
-
-
-    
-    </td>
-    <td valign="top">
-
-    Enter a virtual host and port for your Git system. You can use the same host and port as for the virtual host and port.
+         *HTTPS* 
 
 
     
@@ -131,15 +99,47 @@ Make sure to use the exact same host and port as defined in the destination URL 
     </tr>
     <tr>
     <td valign="top">
-
-     *Principal Type* 
+    
+         *Internal Host / Port* 
 
 
     
     </td>
     <td valign="top">
+    
+        Enter the internal host and port for your Git system.
 
-     *None* 
+
+    
+    </td>
+    </tr>
+    <tr>
+    <td valign="top">
+    
+         *Host / Port* 
+
+
+    
+    </td>
+    <td valign="top">
+    
+        Enter a virtual host and port for your Git system. You can use the same host and port as for the virtual host and port.
+
+
+    
+    </td>
+    </tr>
+    <tr>
+    <td valign="top">
+    
+         *Principal Type* 
+
+
+    
+    </td>
+    <td valign="top">
+    
+         *None* 
 
 
     
@@ -169,31 +169,15 @@ Make sure to use the exact same host and port as defined in the destination URL 
     </tr>
     <tr>
     <td valign="top">
-
-     *Enabled* 
+    
+         *Enabled* 
 
 
     
     </td>
     <td valign="top">
-
-    Checked
-
-
     
-    </td>
-    </tr>
-    <tr>
-    <td valign="top">
-
-     *URL Path* 
-
-
-    
-    </td>
-    <td valign="top">
-
-     ***/*** 
+        Checked
 
 
     
@@ -201,15 +185,31 @@ Make sure to use the exact same host and port as defined in the destination URL 
     </tr>
     <tr>
     <td valign="top">
-
-     *Access Policy* 
+    
+         *URL Path* 
 
 
     
     </td>
     <td valign="top">
+    
+         ***/*** 
 
-     *Path and all sub-paths* 
+
+    
+    </td>
+    </tr>
+    <tr>
+    <td valign="top">
+    
+         *Access Policy* 
+
+
+    
+    </td>
+    <td valign="top">
+    
+         *Path and all sub-paths* 
 
 
     
@@ -245,31 +245,15 @@ Make sure to use the exact same host and port as defined in the destination URL 
         </tr>
         <tr>
         <td valign="top">
-
-        WebIDEEnabled
+        
+                WebIDEEnabled
 
 
         
         </td>
         <td valign="top">
-
-        true
-
-
         
-        </td>
-        </tr>
-        <tr>
-        <td valign="top">
-
-        HTML5.DynamicDestination
-
-
-        
-        </td>
-        <td valign="top">
-
-        true
+                true
 
 
         
@@ -277,8 +261,24 @@ Make sure to use the exact same host and port as defined in the destination URL 
         </tr>
         <tr>
         <td valign="top">
+        
+                HTML5.DynamicDestination
 
-        HTML5.Timeout
+
+        
+        </td>
+        <td valign="top">
+        
+                true
+
+
+        
+        </td>
+        </tr>
+        <tr>
+        <td valign="top">
+        
+                HTML5.Timeout
 
         \(Optional property\)
 
@@ -286,8 +286,8 @@ Make sure to use the exact same host and port as defined in the destination URL 
         
         </td>
         <td valign="top">
-
-        60000
+        
+                60000
 
 
         

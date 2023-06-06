@@ -28,15 +28,15 @@ We suggest you report an incident or error through the SAP Support Portal.
     </tr>
     <tr>
     <td valign="top">
-
-    CA-BAS
+    
+        CA-BAS
 
 
     
     </td>
     <td valign="top">
-
-    SAP Business Application Studio issues.
+    
+        SAP Business Application Studio issues.
 
 
     
@@ -64,31 +64,15 @@ We suggest you report an incident or error through the SAP Support Portal.
     </tr>
     <tr>
     <td valign="top">
-
-    CA-BAS
+    
+        CA-BAS
 
 
     
     </td>
     <td valign="top">
-
-    SAP Business Application Studio issues.
-
-
     
-    </td>
-    </tr>
-    <tr>
-    <td valign="top">
-
-    CA-BAS-BLD-HTML5
-
-
-    
-    </td>
-    <td valign="top">
-
-    HTML5 module build - SAP Business Application Studio
+        SAP Business Application Studio issues.
 
 
     
@@ -96,31 +80,15 @@ We suggest you report an incident or error through the SAP Support Portal.
     </tr>
     <tr>
     <td valign="top">
-
-    CA-BAS-BLD-MTA
+    
+        CA-BAS-BLD-HTML5
 
 
     
     </td>
     <td valign="top">
-
-    Build MTA applications - SAP Business Application Studio 
-
-
     
-    </td>
-    </tr>
-    <tr>
-    <td valign="top">
-
-    CA-BAS-DPL-ABAP
-
-
-    
-    </td>
-    <td valign="top">
-
-    Deploy to ABAP - SAP Business Application Studio
+        HTML5 module build - SAP Business Application Studio
 
 
     
@@ -128,31 +96,15 @@ We suggest you report an incident or error through the SAP Support Portal.
     </tr>
     <tr>
     <td valign="top">
-
-    CA-BAS-DPL-MTA
+    
+        CA-BAS-BLD-MTA
 
 
     
     </td>
     <td valign="top">
-
-    Deploy MTA applications - SAP Business Application Studio 
-
-
     
-    </td>
-    </tr>
-    <tr>
-    <td valign="top">
-
-    CA-BAS-RUN-HTML5
-
-
-    
-    </td>
-    <td valign="top">
-
-    Run HTML5 Module - SAP Business Application Studio
+        Build MTA applications - SAP Business Application Studio 
 
 
     
@@ -160,31 +112,15 @@ We suggest you report an incident or error through the SAP Support Portal.
     </tr>
     <tr>
     <td valign="top">
-
-    CA-BAS-RUN-CFG
+    
+        CA-BAS-DPL-ABAP
 
 
     
     </td>
     <td valign="top">
-
-    Run Configurations view - SAP Business Application Studio 
-
-
     
-    </td>
-    </tr>
-    <tr>
-    <td valign="top">
-
-    CA-BAS-RUN-CAP
-
-
-    
-    </td>
-    <td valign="top">
-
-    Run CAP application - SAP Business Application Studio 
+        Deploy to ABAP - SAP Business Application Studio
 
 
     
@@ -192,31 +128,15 @@ We suggest you report an incident or error through the SAP Support Portal.
     </tr>
     <tr>
     <td valign="top">
-
-    CA-BAS-TPL-FIORI
+    
+        CA-BAS-DPL-MTA
 
 
     
     </td>
     <td valign="top">
-
-    SAP Fiori project template - SAP Business Application Studio
-
-
     
-    </td>
-    </tr>
-    <tr>
-    <td valign="top">
-
-    CA-BAS-TPL-MTA
-
-
-    
-    </td>
-    <td valign="top">
-
-    MTA templates - SAP Business Application Studio 
+        Deploy MTA applications - SAP Business Application Studio 
 
 
     
@@ -224,31 +144,15 @@ We suggest you report an incident or error through the SAP Support Portal.
     </tr>
     <tr>
     <td valign="top">
-
-    CA-BAS-WS-MNG
+    
+        CA-BAS-RUN-HTML5
 
 
     
     </td>
     <td valign="top">
-
-    Dev space Manager - SAP Business Application Studio
-
-
     
-    </td>
-    </tr>
-    <tr>
-    <td valign="top">
-
-    CA-BAS-WS-CTRL
-
-
-    
-    </td>
-    <td valign="top">
-
-    Dev Space Controller - SAP Business Application Studio 
+        Run HTML5 Module - SAP Business Application Studio
 
 
     
@@ -256,31 +160,15 @@ We suggest you report an incident or error through the SAP Support Portal.
     </tr>
     <tr>
     <td valign="top">
-
-    CA-BAS-EDT-HTML5
+    
+        CA-BAS-RUN-CFG
 
 
     
     </td>
     <td valign="top">
-
-    Fiori development \(code assist, validations, i18n\) - SAP Business Application Studio 
-
-
     
-    </td>
-    </tr>
-    <tr>
-    <td valign="top">
-
-    CA-BAS-EDT-W5G
-
-
-    
-    </td>
-    <td valign="top">
-
-    Layout Editor \(WYSIWYG\) - SAP Business Application Studio 
+        Run Configurations view - SAP Business Application Studio 
 
 
     
@@ -288,31 +176,15 @@ We suggest you report an incident or error through the SAP Support Portal.
     </tr>
     <tr>
     <td valign="top">
-
-    CA-BAS-EDT-JAVA
+    
+        CA-BAS-RUN-CAP
 
 
     
     </td>
     <td valign="top">
-
-    JAVA tools - SAP Business Application Studio 
-
-
     
-    </td>
-    </tr>
-    <tr>
-    <td valign="top">
-
-    CA-BAS-EDT-MTA
-
-
-    
-    </td>
-    <td valign="top">
-
-    MTA descriptor \(`mta.yaml`\) editor
+        Run CAP application - SAP Business Application Studio 
 
 
     
@@ -320,31 +192,15 @@ We suggest you report an incident or error through the SAP Support Portal.
     </tr>
     <tr>
     <td valign="top">
-
-    CA-BAS-CNSM
+    
+        CA-BAS-TPL-FIORI
 
 
     
     </td>
     <td valign="top">
-
-    Consume SAP Services - SAP Business Application Studio 
-
-
     
-    </td>
-    </tr>
-    <tr>
-    <td valign="top">
-
-    CA-BAS-BSC
-
-
-    
-    </td>
-    <td valign="top">
-
-    Basic Tools \(npm, GIT\) - SAP Business Application Studio 
+        SAP Fiori project template - SAP Business Application Studio
 
 
     
@@ -352,31 +208,15 @@ We suggest you report an incident or error through the SAP Support Portal.
     </tr>
     <tr>
     <td valign="top">
-
-    CA-BAS-CF
+    
+        CA-BAS-TPL-MTA
 
 
     
     </td>
     <td valign="top">
-
-    Cloud Foundry Tools command palette - SAP Business Application Studio 
-
-
     
-    </td>
-    </tr>
-    <tr>
-    <td valign="top">
-
-    CA-BAS-WIZ
-
-
-    
-    </td>
-    <td valign="top">
-
-    Yeoman-UI generator - SAP Business Application Studio 
+        MTA templates - SAP Business Application Studio 
 
 
     
@@ -384,31 +224,15 @@ We suggest you report an incident or error through the SAP Support Portal.
     </tr>
     <tr>
     <td valign="top">
-
-    CA-BAS-FLO
+    
+        CA-BAS-WS-MNG
 
 
     
     </td>
     <td valign="top">
-
-    File system, logging, Operator Clusters - SAP Business Application Studio
-
-
     
-    </td>
-    </tr>
-    <tr>
-    <td valign="top">
-
-    CA-BAS-MON
-
-
-    
-    </td>
-    <td valign="top">
-
-    Monitoring - SAP Business Application Studio 
+        Dev space Manager - SAP Business Application Studio
 
 
     
@@ -416,31 +240,15 @@ We suggest you report an incident or error through the SAP Support Portal.
     </tr>
     <tr>
     <td valign="top">
-
-    CA-BAS-AUT
+    
+        CA-BAS-WS-CTRL
 
 
     
     </td>
     <td valign="top">
-
-    Login, roles, authentication, authorizations - SAP Business Application Studio 
-
-
     
-    </td>
-    </tr>
-    <tr>
-    <td valign="top">
-
-    CA-BAS-WEX
-
-
-    
-    </td>
-    <td valign="top">
-
-    Extension management - SAP Business Application Studio 
+        Dev Space Controller - SAP Business Application Studio 
 
 
     
@@ -448,15 +256,207 @@ We suggest you report an incident or error through the SAP Support Portal.
     </tr>
     <tr>
     <td valign="top">
-
-    CA-BAS-HAN-DPL
+    
+        CA-BAS-EDT-HTML5
 
 
     
     </td>
     <td valign="top">
+    
+        Fiori development \(code assist, validations, i18n\) - SAP Business Application Studio 
 
-    HANA Explorer for SAP Business Application Studio
+
+    
+    </td>
+    </tr>
+    <tr>
+    <td valign="top">
+    
+        CA-BAS-EDT-W5G
+
+
+    
+    </td>
+    <td valign="top">
+    
+        Layout Editor \(WYSIWYG\) - SAP Business Application Studio 
+
+
+    
+    </td>
+    </tr>
+    <tr>
+    <td valign="top">
+    
+        CA-BAS-EDT-JAVA
+
+
+    
+    </td>
+    <td valign="top">
+    
+        JAVA tools - SAP Business Application Studio 
+
+
+    
+    </td>
+    </tr>
+    <tr>
+    <td valign="top">
+    
+        CA-BAS-EDT-MTA
+
+
+    
+    </td>
+    <td valign="top">
+    
+        MTA descriptor \(`mta.yaml`\) editor
+
+
+    
+    </td>
+    </tr>
+    <tr>
+    <td valign="top">
+    
+        CA-BAS-CNSM
+
+
+    
+    </td>
+    <td valign="top">
+    
+        Consume SAP Services - SAP Business Application Studio 
+
+
+    
+    </td>
+    </tr>
+    <tr>
+    <td valign="top">
+    
+        CA-BAS-BSC
+
+
+    
+    </td>
+    <td valign="top">
+    
+        Basic Tools \(npm, GIT\) - SAP Business Application Studio 
+
+
+    
+    </td>
+    </tr>
+    <tr>
+    <td valign="top">
+    
+        CA-BAS-CF
+
+
+    
+    </td>
+    <td valign="top">
+    
+        Cloud Foundry Tools command palette - SAP Business Application Studio 
+
+
+    
+    </td>
+    </tr>
+    <tr>
+    <td valign="top">
+    
+        CA-BAS-WIZ
+
+
+    
+    </td>
+    <td valign="top">
+    
+        Yeoman-UI generator - SAP Business Application Studio 
+
+
+    
+    </td>
+    </tr>
+    <tr>
+    <td valign="top">
+    
+        CA-BAS-FLO
+
+
+    
+    </td>
+    <td valign="top">
+    
+        File system, logging, Operator Clusters - SAP Business Application Studio
+
+
+    
+    </td>
+    </tr>
+    <tr>
+    <td valign="top">
+    
+        CA-BAS-MON
+
+
+    
+    </td>
+    <td valign="top">
+    
+        Monitoring - SAP Business Application Studio 
+
+
+    
+    </td>
+    </tr>
+    <tr>
+    <td valign="top">
+    
+        CA-BAS-AUT
+
+
+    
+    </td>
+    <td valign="top">
+    
+        Login, roles, authentication, authorizations - SAP Business Application Studio 
+
+
+    
+    </td>
+    </tr>
+    <tr>
+    <td valign="top">
+    
+        CA-BAS-WEX
+
+
+    
+    </td>
+    <td valign="top">
+    
+        Extension management - SAP Business Application Studio 
+
+
+    
+    </td>
+    </tr>
+    <tr>
+    <td valign="top">
+    
+        CA-BAS-HAN-DPL
+
+
+    
+    </td>
+    <td valign="top">
+    
+        HANA Explorer for SAP Business Application Studio
 
 
     

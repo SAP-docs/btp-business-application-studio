@@ -33,31 +33,15 @@ The Unified Customer Landscape service provider includes packages and services f
     </tr>
     <tr>
     <td valign="top">
-
-    *Name*
+    
+        *Name*
 
 
     
     </td>
     <td valign="top">
-
-    Provide a name of your choice.
-
-
     
-    </td>
-    </tr>
-    <tr>
-    <td valign="top">
-
-    *Type*
-
-
-    
-    </td>
-    <td valign="top">
-
-    *HTTP*
+        Provide a name of your choice.
 
 
     
@@ -65,15 +49,31 @@ The Unified Customer Landscape service provider includes packages and services f
     </tr>
     <tr>
     <td valign="top">
-
-    *URL*
+    
+        *Type*
 
 
     
     </td>
     <td valign="top">
+    
+        *HTTP*
 
-    Enter the URL of the the SAP S/4HANA Cloud target system.
+
+    
+    </td>
+    </tr>
+    <tr>
+    <td valign="top">
+    
+        *URL*
+
+
+    
+    </td>
+    <td valign="top">
+    
+        Enter the URL of the the SAP S/4HANA Cloud target system.
 
     This value is displayed in the *System Landscape* \> *System Details* \> *URL* field in the SAP BTP cockpit.
 
@@ -86,15 +86,15 @@ The Unified Customer Landscape service provider includes packages and services f
     </tr>
     <tr>
     <td valign="top">
-
-    *Proxy Type*
+    
+        *Proxy Type*
 
 
     
     </td>
     <td valign="top">
-
-    *Internet*
+    
+        *Internet*
 
 
     
@@ -102,15 +102,15 @@ The Unified Customer Landscape service provider includes packages and services f
     </tr>
     <tr>
     <td valign="top">
-
-    *Authentication*
+    
+        *Authentication*
 
 
     
     </td>
     <td valign="top">
-
-    Select the authentication based on your SAP S/4HANA Cloud system inbound communication settings.
+    
+        Select the authentication based on your SAP S/4HANA Cloud system inbound communication settings.
 
 
     
@@ -140,31 +140,15 @@ The Unified Customer Landscape service provider includes packages and services f
     </tr>
     <tr>
     <td valign="top">
-
-    *HTML5.DynamicDestination*
+    
+        *HTML5.DynamicDestination*
 
 
     
     </td>
     <td valign="top">
-
-    ***true***
-
-
     
-    </td>
-    </tr>
-    <tr>
-    <td valign="top">
-
-    *WebIDEEnabled*
-
-
-    
-    </td>
-    <td valign="top">
-
-    ***true***
+        ***true***
 
 
     
@@ -172,15 +156,31 @@ The Unified Customer Landscape service provider includes packages and services f
     </tr>
     <tr>
     <td valign="top">
-
-    *x-system-type*
+    
+        *WebIDEEnabled*
 
 
     
     </td>
     <td valign="top">
+    
+        ***true***
 
-    ***SAP S/4HANA Cloud***
+
+    
+    </td>
+    </tr>
+    <tr>
+    <td valign="top">
+    
+        *x-system-type*
+
+
+    
+    </td>
+    <td valign="top">
+    
+        ***SAP S/4HANA Cloud***
 
     This value is displayed in the *System Landscape* \> *System Details* \> *System Type* field in the SAP BTP cockpit.
 
@@ -190,15 +190,15 @@ The Unified Customer Landscape service provider includes packages and services f
     </tr>
     <tr>
     <td valign="top">
-
-    *x-correlation-id*
+    
+        *x-correlation-id*
 
 
     
     </td>
     <td valign="top">
-
-    ***sap.s4:communicationScenario:SAP\_COM\_<XXXX\>***
+    
+        ***sap.s4:communicationScenario:SAP\_COM\_<XXXX\>***
 
     Replace the number based on the relevant com\_scenario for the destination.
 
@@ -210,15 +210,15 @@ The Unified Customer Landscape service provider includes packages and services f
     </tr>
     <tr>
     <td valign="top">
-
-    *x-system-id*
+    
+        *x-system-id*
 
 
     
     </td>
     <td valign="top">
-
-    Enter the name of the system ID.
+    
+        Enter the name of the system ID.
 
     This value is displayed in the *System Landscape* \> *System Details* \> *System ID* field in the SAP BTP cockpit.
 

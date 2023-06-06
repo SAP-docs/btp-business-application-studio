@@ -1,8 +1,8 @@
 <!-- loio47c6ad87909b4246a5cbfe42b604207a -->
 
-# Extend SAPUI5 Applications
+# Use an Extension Project
 
-You can extend SAPUI5 applications that reside remotely on the on-premise SAPUI5 ABAP repository.
+You can extend SAPUI5 applications that reside remotely on the on-premise SAPUI5 ABAP repository. If you want to extend a legacy application and you are not able to create an SAPUI5 Adaptation Project, you can create an SAPUI5 extension project.
 
 
 
@@ -19,7 +19,7 @@ You can extend SAPUI5 applications that reside remotely on the on-premise SAPUI5
 
 1.  Migrate your extension project from SAP Web IDE.
 
-    See [Migrate an Extension Project from SAP Web IDE](migrate-an-extension-project-from-sap-web-ide-386684a.md).
+    See [Migration](https://help.sap.com/docs/SAP_FIORI_tools/17d50220bcd848aa854c9c182d65b699/70d41f3ee29d453a90efab3ce025d450.html).
 
 2.  \(Optional\) Use source control, such as Git, to maintain your extension project source code.
 
@@ -44,9 +44,6 @@ You can extend SAPUI5 applications that reside remotely on the on-premise SAPUI5
     > The SAPUI5 ABAP repository is based on the BSP repository of the ABAP Server. The BSP repository is used only as a repository or storage for SAPUI5 application files. However, BSP server-side processing is not used at runtime and therefore the flow logic of ABAP parts cannot be used, since they are not executed at runtime.
 
 
--   **[Migrate an Extension Project from SAP Web IDE](migrate-an-extension-project-from-sap-web-ide-386684a.md "To add new extensions to your extension project, you need to first migrate it from
-		SAP Web IDE.")**  
-To add new extensions to your extension project, you need to first migrate it from SAP Web IDE.
 -   **[Create New Extensions](create-new-extensions-06b93dc.md "Extensions enable you to change the views or the logic of an extended
 		project.")**  
 Extensions enable you to change the views or the logic of an extended project.

@@ -111,6 +111,178 @@ Available as of
 </td>
 <td valign="top">
 
+Development with Productivity Tools
+
+
+
+</td>
+<td valign="top">
+
+When you select a Full-Stack Application Using Productivity Tools dev space, the storyboard opens by default as the initial view. See [Get Started](https://help.sap.com/docs/sap-build/developing-business-applications-using-productivity-tools/storyboard).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2023-05-31
+
+
+
+</td>
+<td valign="top">
+
+2023-05-31
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Development with Productivity Tools
+
+
+
+</td>
+<td valign="top">
+
+When working in a Full-Stack Application Using Productivity Tools dev space, you can now use the context menu in the Project Explorer view to deploy, delete, or view your last deployed project. See [Deploy an Application](https://help.sap.com/docs/sap-build/developing-business-applications-using-productivity-tools/deploying-applications#deploy-an-application).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2023-05-31
+
+
+
+</td>
+<td valign="top">
+
+2023-05-31
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
 Git
 
 
@@ -1156,7 +1328,7 @@ Git
 </td>
 <td valign="top">
 
-You can now use the Simplified Git view to perform Git operations and manage Git repositories in SAP Business Application Studio. See [Using the Simplified Git View](using-the-simplified-git-view-16eaaa6.md).
+You can now use the Simplified Git view to perform Git operations and manage Git repositories in SAP Business Application Studio. See [Using the Simplified Git View](https://help.sap.com/docs/bas/sap-business-application-studio/using-simplified-git-view?version=Cloud).
 
 
 
@@ -1589,7 +1761,7 @@ Service Center
 The Service Center now includes the following additions that make it easier to get started:
 
 -   The *HELP* section provides an overview of the Service Center and links to detailed documentation for each service provider.
--   The SAP System service provider includes a button to add a system for the first time. See [SAP System Service Provider](sap-system-service-provider-892114c.md).
+-   The SAP System service provider includes a button to add a system for the first time. See [SAP System Service Provider](https://help.sap.com/docs/bas/sap-business-application-studio/sap-system-service-provider?version=Cloud)..
 
 
 

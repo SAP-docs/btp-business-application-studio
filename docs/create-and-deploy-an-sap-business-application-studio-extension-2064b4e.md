@@ -18,6 +18,9 @@ To create an SAP Business Application Studio extension:
     > ### Note:  
     > Make sure to replace the placeholders in the file with the relevant information.
 
+    > ### Note:  
+    > Make sure you only install secured artifacts with your custom SAP Business Application Studio extension.
+
     The extension definition file includes two main parts:
 
     -   The extension metadata

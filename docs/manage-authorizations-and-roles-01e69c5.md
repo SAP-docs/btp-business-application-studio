@@ -14,6 +14,9 @@ Role collections are user-related authorizations that restrict access to resourc
 
     The Administrator role allows administrators to manage \(export and delete\) user data and to restart a user's dev space. See [Export and Download Personal Data from Specific Users](export-and-download-personal-data-from-specific-users-8091e47.md), [Delete Personal Data](delete-personal-data-03da2fa.md), and [Restart a Dev Space](restart-a-dev-space-1f54583.md).
 
+    > ### Note:  
+    > It is recommended to limit the number of administrators with full management permissions.
+
 -   To allow a developer to create an SAP Business Application Studio extension, you must assign the Extension Deployer role to the user.
 
 The Developer and Administrator role collections together with their corresponding role templates are created automatically when you subscribe to SAP Business Application Studio.
