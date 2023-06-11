@@ -103,7 +103,7 @@ SAP Application Studio is a new SAP Cloud Platform service in SAP Cloud Foundry 
                 -   [Hide Controls](hide-controls-0e044a3.md)
                 -   [Edit Strings](edit-strings-d90686f.md)
                 -   [Replace Views](replace-views-57beb9e.md)
-        -   [Access the Studio from VS Code](access-the-studio-from-vs-code-6b18cc8.md)
+        -   [Access SAP Business Application Studio from VS Code](access-sap-business-application-studio-from-vs-code-6b18cc8.md)
     -   [Working with a Trial Account](working-with-a-trial-account-2cf6ec0.md)
         -   [Getting Started with a Trial Account](getting-started-with-a-trial-account-48ed55e.md)
         -   [Trial Account Restrictions](trial-account-restrictions-a45742a.md)

@@ -30,7 +30,7 @@ You can develop your application with different subaccounts. You use one subacco
 		extend a legacy application and you are not able to create an SAPUI5 Adaptation Project, you
 		can create an SAPUI5 extension project.")**  
 You can extend SAPUI5 applications that reside remotely on the on-premise SAPUI5 ABAP repository. If you want to extend a legacy application and you are not able to create an SAPUI5 Adaptation Project, you can create an SAPUI5 extension project.
--   **[Access the Studio from VS Code](access-the-studio-from-vs-code-6b18cc8.md "Connect securely to SAP Business Application Studio dev spaces directly from a local Visual Studio
-		Code desktop application.")**  
+-   **[Access SAP Business Application Studio from VS Code](access-sap-business-application-studio-from-vs-code-6b18cc8.md "Connect securely to SAP Business Application Studio dev spaces directly from a
+		local Visual Studio Code desktop application.")**  
 Connect securely to SAP Business Application Studio dev spaces directly from a local Visual Studio Code desktop application.
 

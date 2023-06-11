@@ -1,6 +1,6 @@
 <!-- loio6b18cc8329b54bff9bccf82c2b60f445 -->
 
-# Access the Studio from VS Code
+# Access SAP Business Application Studio from VS Code
 
 Connect securely to SAP Business Application Studio dev spaces directly from a local Visual Studio Code desktop application.
 
@@ -12,9 +12,12 @@ The remote connection to SAP Business Application Studio allows you to:
 -   Separate your development environment to avoid impacting your local machine configuration.
 -   Access an existing dev space from multiple machines or locations.
 -   Access multiple dev spaces from one VS Code desktop installation.
--   Create new dev spaces directly from your VS Code desktop installation.
 -   Debug an application running somewhere else, such as a customer site or in the cloud.
 -   Use the extensions available in the VS Code marketplace.
+
+    > ### Caution:  
+    > If you install third-party extensions while using a remote connection to SAP Business Application Studio, the third party may be able to access your data from the dev space.
+
 -   Allows easy access through a hosted secure environment, available anywhere, anytime.
 
 
@@ -67,6 +70,16 @@ All the landscapes you connect to and their respective dev spaces are displayed 
 
 
 
+<a name="loio6b18cc8329b54bff9bccf82c2b60f445__section_tcg_qjs_sxb"/>
+
+## Disconnecting from the Landscapes
+
+1.  From the left action bar, click ![Accounts icon](images/accounts_a2325b0.png).
+2.  Select *BAS Access Token \(Business Application Studio\)*.
+3.  Click *Sign Out*.
+
+
+
 <a name="loio6b18cc8329b54bff9bccf82c2b60f445__section_nc4_32x_pxb"/>
 
 ## Managing Dev Spaces
@@ -90,7 +103,7 @@ The **SAP Business Application Studio** view contains all the landscapes you add
     ![dev space menu options highlighting the New Folder icon](images/open_dev_space_vs_code_9165513.png)
 
     > ### Note:  
-    > You can open only one open dev space at a time.
+    > You can only have 2 dev spaces running at a time.
 
 
 The dev space opens in a new tab.
