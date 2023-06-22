@@ -1,17 +1,17 @@
 <!-- loio1a2f306c9f9b4628bfa143f8e404ef0a -->
 
-# SAP API Business Hub Service Provider
+# SAP Business Accelerator Hub Service Provider
 
-The SAP API Business Hub service provider includes SAP API Business Hub products, packages, and services. You can use the services as data sources in your application or for application development.
+The SAP Business Accelerator Hub \(formerly known as the SAP API Business Hub\) service provider includes SAP Business Accelerator Hub products, packages, and services. You can use the services as data sources in your application or for application development.
 
 > ### Note:  
-> The Service Center only shows SAP API Business Hub products and packages with OData services.
+> The Service Center only shows SAP Business Accelerator Hub products and packages with OData services.
 
 
 
-## Explore SAP API Business Hub Services
+## Explore SAP Business Accelerator Hub Services
 
-1.  From the Service Center, click the gray arrow to display the SAP API Business Hub products:
+1.  From the Service Center, click the gray arrow to display the SAP Business Accelerator Hub products:
 
     SAP S/4HANA Cloud, SAP S/4HANA, SAP SuccessFactors, SAP Customer Experience, and SAP Business Technology Platform
 
@@ -20,10 +20,10 @@ The SAP API Business Hub service provider includes SAP API Business Hub products
     If the package is available and connected \(![Available Package](images/SC-_system_connected_icon_1c4c936.png)\), you can search for services within it. Click the search icon \(![](images/service_center_search_a1d4e5e.png)\) and select the relevant service from the command palette.
 
 3.  Click the gray arrow next to the package \(![Available Package](images/SC-_system_connected_icon_1c4c936.png)\) to display the services \(APIs\).
-4.  Click a service \(![Service](images/SC-_service_icon_fc5c112.png)\) and log in with your SAP API Business Hub credentials, if needed.
+4.  Click a service \(![Service](images/SC-_service_icon_fc5c112.png)\) and log in with your SAP Business Accelerator Hub credentials, if needed.
 
     > ### Note:  
-    > You must log in with your SAP API Business Hub credentials one time at the beginning of your session.
+    > You must log in with your SAP Business Accelerator Hub credentials one time at the beginning of your session.
 
     After you log in to a service, the icon has a green dot \(![Available Service](images/green_dot-_system_available_ac1aa72.jpg)\).
 
@@ -31,7 +31,7 @@ The SAP API Business Hub service provider includes SAP API Business Hub products
 
     You can navigate to the API package by clicking ![Open API Package](images/go_to_API_59e0aba.png).
 
-    You can also navigate to the service in the SAP API Business Hub by clicking the URL. From the SAP API Business Hub, you can click *Try Out* to test the API in the sandbox environment.
+    You can also navigate to the service in the SAP Business Accelerator Hub by clicking the URL. From the SAP Business Accelerator Hub, you can click *Try Out* to test the API in the sandbox environment.
 
 5.  Click an entity to see the service details, including entity data and live data:
     1.  You can see the entity's metadata from the *Entity Details* tab.
@@ -65,7 +65,7 @@ The SAP API Business Hub service provider includes SAP API Business Hub products
 2.  Use the template wizard to create the relevant project.
 
     > ### Note:  
-    > To run your project with the SAP API Business Hub sandbox, see the prerequisites in[Developing an HTML5 Application for Cloud Foundry](https://help.sap.com/viewer/0e2ec06ee34742fd9054fabe09c12d35/Cloud/en-US/3daa8d63fccb40959cdd0f52aab2d931.html).
+    > To run your project with the SAP Business Accelerator Hub sandbox, see the prerequisites in[Developing an HTML5 Application for Cloud Foundry](https://help.sap.com/viewer/0e2ec06ee34742fd9054fabe09c12d35/Cloud/en-US/3daa8d63fccb40959cdd0f52aab2d931.html).
 
 
 

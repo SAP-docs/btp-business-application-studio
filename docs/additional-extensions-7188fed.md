@@ -245,7 +245,7 @@ Allows you to develop, test, and run Java applications. Includes debugging capab
 -   Tomcat V 9.0.33
 
 
-You can configure the Java version to either JavaSE-11 or JavaSE-1.8.
+You can configure the Java version to either JavaSE-11, JavaSE-17, or JavaSE-1.8.
 
 To set the default Java version, enter the following command:
 

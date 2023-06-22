@@ -7,6 +7,8 @@ Once you have finished coding, you can test and run your application.
 -   **[Creating Run Configurations](creating-run-configurations-e3cbf81.md "Create run configurations that define how your project or unit test is
 		executed.")**  
 Create run configurations that define how your project or unit test is executed.
+-   **[Running Applications in Incognito Mode](running-applications-in-incognito-mode-f5cacd1.md "Running an application in Incognito mode allows you to test it with different users. ")**  
+Running an application in Incognito mode allows you to test it with different users.
 -   **[Application Preview Settings](application-preview-settings-91fc8bf.md "Each application runs on a specific port. If you want to open a new browser tab with
 		your running application, use the Ports: Preview command.")**  
 Each application runs on a specific port. If you want to open a new browser tab with your running application, use the ***Ports: Preview*** command.

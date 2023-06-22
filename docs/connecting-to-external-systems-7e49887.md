@@ -174,7 +174,7 @@ You can create a destination that points to your system, either from the Service
     <tr>
     <td valign="top">
     
-        **SAP API Business Hub**
+        **SAP Business Accelerator Hub \(formerly known as the SAP API Business Hub\)**
 
 
     
