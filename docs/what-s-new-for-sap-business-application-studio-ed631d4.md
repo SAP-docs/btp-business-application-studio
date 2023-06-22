@@ -111,6 +111,608 @@ Available as of
 </td>
 <td valign="top">
 
+SAP HANA Development Tooling
+
+
+
+</td>
+<td valign="top">
+
+In the SAP HANA Native Application extension for SAP Business Application Studio, it is now possible to filter by name the list of objects displayed in the *CATALOG* pane of the embedded SAP HANA Database Explorer. See [View Database Objects with the Database Explorer](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/0e5ac0b0625b411c8f05346566a3341f.html).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2023-06-22
+
+
+
+</td>
+<td valign="top">
+
+2023-06-22
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+SAP HANA Development Tooling
+
+
+
+</td>
+<td valign="top">
+
+In the SAP HANA Native Application extension for SAP Business Application Studio, use the SAP HANA Project Explorer to bind an application to a service managed by the Service Manager. See [Bind an Application to a Service Managed by the Service Manager](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/818a87c6299a43488f80f92fa8453d4b.html).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2023-06-22
+
+
+
+</td>
+<td valign="top">
+
+2023-06-22
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+SAP HANA Development Tooling
+
+
+
+</td>
+<td valign="top">
+
+In the SAP HANA Native Application extension for SAP Business Application Studio, you can now filter by name the list of databases displayed in the embedded SAP HANA Database Explorer. See [View Database Objects with the Database Explorer](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/0e5ac0b0625b411c8f05346566a3341f.html).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2023-06-22
+
+
+
+</td>
+<td valign="top">
+
+2023-06-22
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+SAP HANA Development Tooling
+
+
+
+</td>
+<td valign="top">
+
+In the SAP HANA Native Application extension for SAP Business Application Studio, you can now use the embedded SAP HANA Database Explorer to create SQL `CALL` statements. See [View Database Objects with the Database Explorer](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/0e5ac0b0625b411c8f05346566a3341f.html).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2023-06-22
+
+
+
+</td>
+<td valign="top">
+
+2023-06-22
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+SAP HANA Development Tooling
+
+
+
+</td>
+<td valign="top">
+
+In the SAP HANA Native Application extension for SAP Business Application Studio, the SAP HANA Project Explorer now displays a warning if an application is using an outdated version of the HDI deployer \(`@sap/hdi-deploy`\). See [Deploy Artifacts with SAP HANA Projects Explorer](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/4bbbaae1d8694005adcfe1ec06a5cd46.html).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2023-06-22
+
+
+
+</td>
+<td valign="top">
+
+2023-06-22
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+SAP HANA Development Tooling
+
+
+
+</td>
+<td valign="top">
+
+In the SAP HANA Native Application extension for SAP Business Application Studio, you can now use the SAP HANA artifact-creation Wizard to add a job-schedule artifact \(`.hdbschedulerjob`\) to your database application. See [Scheduler Jobs \(.hdbschedulerjob\)](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2cc2e43458d4abda6788049c58143dc/f92e31d2a23f4470829ab300dcce850e.html).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2023-06-22
+
+
+
+</td>
+<td valign="top">
+
+2023-06-22
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+SAP HANA Development Tooling
+
+
+
+</td>
+<td valign="top">
+
+In the SAP HANA Native Application extension for SAP Business Application Studio, you can now use the SAP HANA Project Explorer to bind an application to a database schema service. See [Bind an Application to a Database Schema Service](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/4f5add96a6a04d9f81dbaed135bf84ab.html).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2023-06-22
+
+
+
+</td>
+<td valign="top">
+
+2023-06-22
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
 Development with Productivity Tools
 
 
@@ -554,7 +1156,7 @@ Service Center
 </td>
 <td valign="top">
 
-In the Service Center, you can now search for a service within a package from the SAP API Business Hub, the API business hub enterprise, or the Unified Customer Landscape service provider. See [SAP API Business Hub Service Provider](https://help.sap.com/docs/bas/sap-business-application-studio/sap-api-business-hub-service-provider?version=Cloud).
+In the Service Center, you can now search for a service within a package from the SAP Business Accelerator Hub, the API business hub enterprise, or the Unified Customer Landscape service provider. See [SAP Business Accelerator Hub Service Provider](https://help.sap.com/docs/bas/sap-business-application-studio/sap-api-business-hub-service-provider?version=Cloud).
 
 
 
@@ -1500,7 +2102,7 @@ Development with Productivity Tools
 </td>
 <td valign="top">
 
-In the *Full-Stack Application Using Productivity Tools* dev space, a run configuration is automatically generated when you add an external data model to a service from the SAP API Business Hub or the API business hub enterprise. See [Add an External Data Model](https://help.sap.com/docs/Application%20Development/f9814e8df1cb43e1890e0f8d25374b8f/71817b1ad86d4ca5a27fb5ccfd04cf6f.html).
+In the *Full-Stack Application Using Productivity Tools* dev space, a run configuration is automatically generated when you add an external data model to a service from the SAP Business Accelerator Hub or the API business hub enterprise. See [Add an External Data Model](https://help.sap.com/docs/Application%20Development/f9814e8df1cb43e1890e0f8d25374b8f/71817b1ad86d4ca5a27fb5ccfd04cf6f.html).
 
 
 
@@ -5839,7 +6441,7 @@ Service Center
 </td>
 <td valign="top">
 
-You can now preview the entity data of an SAP API Business Hub service before application creation from the Service Center. See [SAP API Business Hub Service Provider](https://help.sap.com/docs/SAP%20Business%20Application%20Studio/9d1db9835307451daa8c930fbd9ab264/1a2f306c9f9b4628bfa143f8e404ef0a.html?locale=en-US&version=Cloud).
+You can now preview the entity data of an SAP Business Accelerator Hub service before application creation from the Service Center. See [SAP Business Accelerator Hub Service Provider](https://help.sap.com/docs/SAP%20Business%20Application%20Studio/9d1db9835307451daa8c930fbd9ab264/1a2f306c9f9b4628bfa143f8e404ef0a.html?locale=en-US&version=Cloud).
 
 
 

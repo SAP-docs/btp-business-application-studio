@@ -1206,7 +1206,7 @@ Running SAP Fiori Applications
 </td>
 <td valign="top">
 
-You can now run an SAP Fiori application locally with an SAP API Business Hub service. See [Run Your Application with the SAP API Business Hub](https://help.sap.com/viewer/584e0bcbfd4a4aff91c815cefa0bce2d/Cloud/en-US/54ce98a4f9cf454e8b18224623c00aba.html).
+You can now run an SAP Fiori application locally with an SAP Business Accelerator Hub service. See [Run Your Application with the SAP Business Accelerator Hub](https://help.sap.com/viewer/584e0bcbfd4a4aff91c815cefa0bce2d/Cloud/en-US/54ce98a4f9cf454e8b18224623c00aba.html).
 
 
 

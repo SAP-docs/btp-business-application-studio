@@ -162,7 +162,7 @@ Service Center
 </td>
 <td valign="top">
 
-When you add a data model to a CAP project from the Service Center, XML and CDS files are now generated in the project folder. See [SAP System Service Provider](https://help.sap.com/products/SAP%20Business%20Application%20Studio/9d1db9835307451daa8c930fbd9ab264/892114ce078b4e17a9ff7e751e6330cc.html?locale=en-US&version=Cloud) and [SAP API Business Hub Service Provider](https://help.sap.com/products/SAP%20Business%20Application%20Studio/9d1db9835307451daa8c930fbd9ab264/1a2f306c9f9b4628bfa143f8e404ef0a.html?locale=en-US&version=Cloud).
+When you add a data model to a CAP project from the Service Center, XML and CDS files are now generated in the project folder. See [SAP System Service Provider](https://help.sap.com/products/SAP%20Business%20Application%20Studio/9d1db9835307451daa8c930fbd9ab264/892114ce078b4e17a9ff7e751e6330cc.html?locale=en-US&version=Cloud) and [SAP Business Accelerator Hub Service Provider](https://help.sap.com/products/SAP%20Business%20Application%20Studio/9d1db9835307451daa8c930fbd9ab264/1a2f306c9f9b4628bfa143f8e404ef0a.html?locale=en-US&version=Cloud).
 
 
 
@@ -1032,7 +1032,7 @@ Service Center
 </td>
 <td valign="top">
 
-The SAP API Business Hub service provider is now displayed in the Service Center. You can explore OData-based services from 5 SAP products. See [SAP API Business Hub Service Provider](https://help.sap.com/products/SAP%20Business%20Application%20Studio/9d1db9835307451daa8c930fbd9ab264/1a2f306c9f9b4628bfa143f8e404ef0a.html?locale=en-US&version=Cloud).
+The SAP Business Accelerator Hub service provider is now displayed in the Service Center. You can explore OData-based services from 5 SAP products. See [SAP Business Accelerator Hub Service Provider](https://help.sap.com/products/SAP%20Business%20Application%20Studio/9d1db9835307451daa8c930fbd9ab264/1a2f306c9f9b4628bfa143f8e404ef0a.html?locale=en-US&version=Cloud).
 
 
 
@@ -1090,7 +1090,7 @@ HTML5 Application Development
 </td>
 <td valign="top">
 
-You can now create an HTML5 project based on the selected SAP API Business Hub service and locally run it from SAP Business Application Studio. See [Run Your HTML5 Application with the SAP API Business Hub](https://help.sap.com/viewer/0e2ec06ee34742fd9054fabe09c12d35/Cloud/en-US/3fca8fcfe27a43c0b8bbde8fe2113e82.html).
+You can now create an HTML5 project based on the selected SAP Business Accelerator Hub service and locally run it from SAP Business Application Studio. See [Run Your HTML5 Application with the SAP Business Accelerator Hub](https://help.sap.com/viewer/0e2ec06ee34742fd9054fabe09c12d35/Cloud/en-US/3fca8fcfe27a43c0b8bbde8fe2113e82.html).
 
 
 
@@ -1148,7 +1148,7 @@ SAP Fiori Development
 </td>
 <td valign="top">
 
-You can now create an SAP Fiori project based on the selected SAP API Business Hub service and locally run it from SAP Business Application Studio. See [Develop SAP Fiori Applications with SAP Fiori tools](https://help.sap.com/viewer/17d50220bcd848aa854c9c182d65b699/Latest/en-US/f09752ebcf63473e9194ea29ca232e56.html).
+You can now create an SAP Fiori project based on the selected SAP Business Accelerator Hub service and locally run it from SAP Business Application Studio. See [Develop SAP Fiori Applications with SAP Fiori tools](https://help.sap.com/viewer/17d50220bcd848aa854c9c182d65b699/Latest/en-US/f09752ebcf63473e9194ea29ca232e56.html).
 
 
 

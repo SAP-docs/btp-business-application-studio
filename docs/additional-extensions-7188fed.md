@@ -238,6 +238,8 @@ Allows you to develop, test, and run Java applications. Includes debugging capab
 
 -   SapMachine 11
 
+-   SapMachine 17
+
 -   SAP JVM 8
 
 -   Maven V 3.8.1
