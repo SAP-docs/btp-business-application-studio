@@ -211,7 +211,7 @@ Calculation Views
 </td>
 <td valign="top">
 
-You can now open SQL Editor from the context menu of calculation view nodes. See [Preview Calculation View Output](https://help.sap.com/docs/HANA_CLOUD_DATABASE/d625b46ef0b445abb2c2fd9ba008c265/903eff885ebd4c5cadb1e0c3e58f681d.html).
+You can now open the SQL Editor from the context menu of the calculation view nodes. See [Preview Calculation View Output](https://help.sap.com/docs/HANA_CLOUD_DATABASE/d625b46ef0b445abb2c2fd9ba008c265/903eff885ebd4c5cadb1e0c3e58f681d.html).
 
 
 
