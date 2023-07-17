@@ -1,6 +1,6 @@
 <!-- loio47c6ad87909b4246a5cbfe42b604207a -->
 
-# Use an Extension Project
+# Extend Using Extension Projects
 
 You can extend SAPUI5 applications that reside remotely on the on-premise SAPUI5 ABAP repository. If you want to extend a legacy application and you are not able to create an SAPUI5 Adaptation Project, you can create an SAPUI5 extension project.
 
@@ -27,7 +27,7 @@ You can extend SAPUI5 applications that reside remotely on the on-premise SAPUI5
 
     See [Git Source Control](git-source-control-9689c07.md).
 
-3.  Add an extension, such as a view or controller extension, to the extension project. See [Create New Extensions](create-new-extensions-06b93dc.md).
+3.  Add an extension, such as a view or controller extension, to the extension project. See [Create New SAPUI5 Extensions](create-new-sapui5-extensions-06b93dc.md).
 
 4.  Preview your extension project locally in the SAP Business Application Studio workspace.
 
@@ -44,7 +44,7 @@ You can extend SAPUI5 applications that reside remotely on the on-premise SAPUI5
     > The SAPUI5 ABAP repository is based on the BSP repository of the ABAP Server. The BSP repository is used only as a repository or storage for SAPUI5 application files. However, BSP server-side processing is not used at runtime and therefore the flow logic of ABAP parts cannot be used, since they are not executed at runtime.
 
 
--   **[Create New Extensions](create-new-extensions-06b93dc.md "Extensions enable you to change the views or the logic of an extended
-		project.")**  
-Extensions enable you to change the views or the logic of an extended project.
+-   **[Create New SAPUI5 Extensions](create-new-sapui5-extensions-06b93dc.md "You can create SAPUI5 extensions in the SAPUI5 extension project to change the views
+		or the logic of an SAP Fiori application.")**  
+You can create SAPUI5 extensions in the SAPUI5 extension project to change the views or the logic of an SAP Fiori application.
 

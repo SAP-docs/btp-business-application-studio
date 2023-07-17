@@ -21,7 +21,7 @@ There are several ways for building multitarget applications in SAP Business App
     2.  Choose *Build MTA Project*.
 
 -   From the command palette.
-    1.  Enter ***MTA***.
+    1.  Enter `MTA`.
     2.  Choose *Build MTA Project*.
     3.  Select the desired `mta.yaml` file.
 
@@ -65,9 +65,10 @@ There are several ways for deploying multitarget applications to SAP Cloud Found
 -   From the context menu.
     1.  Right-click on the relevant MTAR file.
     2.  Choose *Deploy MTA Archive*.
+    3.  If relevant, select the MTA extension that you want to deploy from the command palette.
 
 -   From the command palette.
-    1.  Enter ***MTA***.
+    1.  Enter `MTA`.
     2.  Choose *Deploy MTA Archive*.
     3.  Select the desired MTAR file.
 

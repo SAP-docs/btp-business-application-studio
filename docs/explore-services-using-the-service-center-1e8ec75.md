@@ -6,7 +6,7 @@ The Service Center provides a central entry point to explore services from vario
 
 You can use the services as data sources in your application and you can trigger application development from the Service Center.
 
-To explore services, click ![Service Center](images/smaller_service_center_icon-_VS_code_8136996.png) \(Service Center\) from the activity bar or select *View* \> *Open View* from the left-side menu, and enter ***Service Center*** in the input field.
+To explore services, click ![Service Center](images/smaller_service_center_icon-_VS_code_8136996.png) \(Service Center\) from the activity bar or select *View* \> *Open View* from the left-side menu, and enter `Service Center` in the input field.
 
 The Service Center opens with the various service providers displayed, including the [SAP System Service Provider](sap-system-service-provider-892114c.md), the [SAP Business Accelerator Hub Service Provider](sap-business-accelerator-hub-service-provider-1a2f306.md), the [API Business Hub Enterprise Service Provider](api-business-hub-enterprise-service-provider-328519b.md), and the [Unified Customer Landscape Service Provider](unified-customer-landscape-service-provider-830adeb.md).
 

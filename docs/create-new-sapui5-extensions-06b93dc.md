@@ -1,16 +1,8 @@
 <!-- loio06b93dc3bd0d4ee1b3a5da903d3a1daa -->
 
-# Create New Extensions
+# Create New SAPUI5 Extensions
 
-Extensions enable you to change the views or the logic of an extended project.
-
-
-
-<a name="loio06b93dc3bd0d4ee1b3a5da903d3a1daa__prereq_tfw_qcp_bwb"/>
-
-## Prerequisites
-
-You migrated an extension project.
+You can create SAPUI5 extensions in the SAPUI5 extension project to change the views or the logic of an SAP Fiori application.
 
 
 

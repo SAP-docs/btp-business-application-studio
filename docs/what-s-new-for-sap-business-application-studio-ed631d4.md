@@ -111,6 +111,264 @@ Available as of
 </td>
 <td valign="top">
 
+Development with Productivity Tools
+
+
+
+</td>
+<td valign="top">
+
+When working in a *Full-Stack Application Using Productivity Tools* dev space, you can now create a multitenant \(SaaS\) application, which you can share among several consumer subaccounts within your SAP BTP global account. See [Enabling SaaS](https://help.sap.com/docs/bas/developing-business-applications-using-productivity-tools/enabling-saas?locale=en-US).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2023-07-20
+
+
+
+</td>
+<td valign="top">
+
+2023-07-20
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+MTA
+
+
+
+</td>
+<td valign="top">
+
+You can now select a specific MTA extension file for deployment. See [Building and Deploying Multitarget Applications](https://help.sap.com/docs/bas/sap-business-application-studio/building-and-deploying-multitarget-applications?version=Cloud#deploying-multitarget-applications).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2023-07-17
+
+
+
+</td>
+<td valign="top">
+
+2023-07-17
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Storyboard
+
+
+
+</td>
+<td valign="top">
+
+When working in an *SAP Fiori* dev space, you can now use the storyboard to trigger the graphical editors and other tools required to develop an SAP Fiori elements application. See [Storyboard](https://help.sap.com/docs/bas/sap-business-application-studio/storyboard-in-sap-fiori-dev-space?version=Cloud).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2023-07-17
+
+
+
+</td>
+<td valign="top">
+
+2023-07-17
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+ SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
 Calculation Views
 
 
@@ -1243,7 +1501,7 @@ Development with Productivity Tools
 </td>
 <td valign="top">
 
-When you select a Full-Stack Application Using Productivity Tools dev space, the storyboard opens by default as the initial view. See [Get Started](https://help.sap.com/docs/sap-build/developing-business-applications-using-productivity-tools/storyboard).
+When you select a *Full-Stack Application Using Productivity Tools* dev space, the storyboard opens by default as the initial view. See [Get Started](https://help.sap.com/docs/sap-build/developing-business-applications-using-productivity-tools/storyboard).
 
 
 
@@ -1329,7 +1587,7 @@ Development with Productivity Tools
 </td>
 <td valign="top">
 
-When working in a Full-Stack Application Using Productivity Tools dev space, you can now use the context menu in the Project Explorer view to deploy, delete, or view your last deployed project. See [Deploy an Application](https://help.sap.com/docs/sap-build/developing-business-applications-using-productivity-tools/deploying-applications#deploy-an-application).
+When working in a *Full-Stack Application Using Productivity Tools* dev space, you can now use the context menu in the Project Explorer view to deploy, delete, or view your last deployed project. See [Deploy an Application](https://help.sap.com/docs/sap-build/developing-business-applications-using-productivity-tools/deploying-applications#deploy-an-application).
 
 
 

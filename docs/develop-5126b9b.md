@@ -9,7 +9,8 @@ SAP Business Application Studio provides you with the tools you require for maki
 This tool shows you how to execute common development tasks for specific SAP scenarios.
 -   **[Project Explorer](project-explorer-780ba0f.md "Use the project explorer to browse the contents of your current workspace.")**  
 Use the project explorer to browse the contents of your current workspace.
--   **[Storyboard](storyboard-6ca2941.md "The Storyboard allows you to develop applications using graphical editors and wizards.")**  
+-   **[Storyboard](storyboard-6ca2941.md "The Storyboard allows you to develop applications using graphical editors and
+		wizards.")**  
 The Storyboard allows you to develop applications using graphical editors and wizards.
 -   **[Git Source Control](git-source-control-9689c07.md "SAP Business Application Studio enables you to
 		connect and interact with the Git source control system, letting you connect and interact

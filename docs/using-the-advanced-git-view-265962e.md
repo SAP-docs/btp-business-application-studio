@@ -96,7 +96,7 @@ There is also a *Synchronize Changes* action in the status bar, next to the bran
 
 ## Branches
 
-You can create and check out branches directly within the IDE by using the ***Git: Checkout*** command in the command palette.
+You can create and check out branches directly within the IDE by using the `Git: Checkout` command in the command palette.
 
 To create a new branch:
 

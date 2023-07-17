@@ -217,7 +217,7 @@ You can add a new system, referring to the API business hub enterprise instance,
     </td>
     <td valign="top">
     
-        ***true***
+        `true`
 
 
     
@@ -233,7 +233,7 @@ You can add a new system, referring to the API business hub enterprise instance,
     </td>
     <td valign="top">
     
-        ***true***
+        `true`
 
 
     
@@ -249,7 +249,7 @@ You can add a new system, referring to the API business hub enterprise instance,
     </td>
     <td valign="top">
     
-        ***apihub\_enterprise***
+        `apihub_enterprise`
 
 
     

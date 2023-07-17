@@ -85,7 +85,7 @@ Perform the following configuration steps to use SAP Continuous Integration and 
     </td>
     <td valign="top">
     
-        ***cicd-backend***
+        `cicd-backend`
 
 
     
@@ -101,7 +101,7 @@ Perform the following configuration steps to use SAP Continuous Integration and 
     </td>
     <td valign="top">
     
-        ***true***
+        `true`
 
 
     

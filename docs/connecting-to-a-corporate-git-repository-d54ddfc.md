@@ -193,7 +193,7 @@ Make sure to use the exact same host and port as defined in the destination URL 
     </td>
     <td valign="top">
     
-         ***/*** 
+         `/` 
 
 
     

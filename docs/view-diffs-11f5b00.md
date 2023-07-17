@@ -23,7 +23,7 @@ Clicking a modified file opens a diff viewer. Its left-hand side is a read-only 
 
 
 1.  Select a modified file from the task explorer.
-2.  From the command palette, enter ***Git Diff: Compare With***.
+2.  From the command palette, enter `Git Diff: Compare With`.
 3.  Select the branch to which you want to compare the currently active branch.
 
 A diff viewer is displayed. Its left-hand side is a read-only editor showing the current branch, and the right-hand side shows the file in the selected branch.

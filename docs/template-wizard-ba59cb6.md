@@ -7,7 +7,7 @@ SAP Business Application Studio allows you to use any type of Yeoman generator i
 > ### Note:  
 > When you create a project using a template, you become the code owner and as such, you are responsible for any updates or fixes that must be performed for it. We recommend you follow the industry best practice of using automated vulnerability scanning in the CI/CD pipeline to avoid supply chain and other cyber-attacks.
 
-1.  Enter ***Open Template Wizard*** in the command palette.
+1.  Enter `Open Template Wizard` in the command palette.
 
     The Template wizard opens showing all the Yeoman generators that are installed in your machine.
 

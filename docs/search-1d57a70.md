@@ -10,7 +10,7 @@ You can perform a search from the Search view or from the Find widget in the edi
 
     ![search view](images/search_cee2f2e.png)
 
--   To open the Find widget within a file, press ***Ctrl+F***.
+-   To open the Find widget within a file, press `Ctrl+F`.
 
     ![Find widget](images/find_widget_8095927.png)
 
@@ -21,7 +21,7 @@ You can perform a search from the Search view or from the Find widget in the edi
 
 You can find text and replace in the currently opened file. The search results will be highlighted in the editor, overview ruler, and minimap.
 
-If there is more than one matched result in the current opened file, you can press ***Enter*** and ***Shift+Enter*** to navigate to next or previous result when the find input box is focused.
+If there is more than one matched result in the current opened file, you can press `Enter` and `Shift+Enter` to navigate to next or previous result when the find input box is focused.
 
 When the Find Widget is open, it will automatically populate the selected text in the editor into the find input box. If the selection is empty, the word under the cursor will be inserted into the input box instead.
 
@@ -31,7 +31,7 @@ By default, the find operations are run on the entire file in the editor. It can
 
 **Multiline support**
 
-You can search text in multiple lines by pasting it into the *Find* input box. Pressing ***Ctrl+Enter*** inserts a new line in the input box.
+You can search text in multiple lines by pasting it into the *Find* input box. Pressing `Ctrl+Enter` inserts a new line in the input box.
 
 **Resize Find Widget**
 
@@ -39,7 +39,7 @@ You can drag the left sash of the Find Widget to enlarge it. You can also double
 
 **Search across files**
 
-You can search over all files in the currently opened folder. Press ***Ctrl+Shift+F*** and enter your search term. Search results are grouped into files containing the search term, with an indication of the hits in each file and its location. Expand a file to see a preview of all of the hits within that file. Then single-click on one of the hits to view it in the editor.
+You can search over all files in the currently opened folder. Press `Ctrl+Shift+F` and enter your search term. Search results are grouped into files containing the search term, with an indication of the hits in each file and its location. Expand a file to see a preview of all of the hits within that file. Then single-click on one of the hits to view it in the editor.
 
 **Advanced search options**
 
@@ -47,25 +47,25 @@ In the input box below the search box, you can enter patterns to include or excl
 
 If you enter a word, a search will be performed on every folder and file with the name of the word you entered in the workspace.
 
-If you enter ***./*** before the word, that will match the folder name at the top level of your workspace.
+If you enter `./` before the word, that will match the folder name at the top level of your workspace.
 
-Use an exclamation mark ***!*** to exclude those patterns from the search.
+Use an exclamation mark `!` to exclude those patterns from the search.
 
-Use a comma ***,*** to separate multiple patterns.
+Use a comma `,` to separate multiple patterns.
 
 Paths must use forward slashes.
 
 You can also use glob syntax:
 
--   ***\**** to match one or more characters in a path segment
+-   `*` to match one or more characters in a path segment
 
--   ***?*** to match on one character in a path segment
+-   `?` to match on one character in a path segment
 
--   ***\*\**** to match any number of path segments, including none
+-   `**` to match any number of path segments, including none
 
--   ***\{\}*** to group conditions \(for example ***\{\*\*/\*.html,\*\*/\*.txt\}*** matches all HTML and text files\)
+-   `{}` to group conditions \(for example `{**/*.html,**/*.txt}` matches all HTML and text files\)
 
--   ***\[\]*** to declare a range of characters to match
+-   `[]` to declare a range of characters to match
 
 
 Some folders are excluded by default to reduce the number of search results that you are not interested in \(for example, `node_modules`\). Open settings to change these rules.

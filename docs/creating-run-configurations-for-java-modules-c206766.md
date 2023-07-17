@@ -90,7 +90,7 @@ To unbind the resource:
 ## Run a Configuration
 
 1.  If you bound your service to a service that requires Chisel to run:
-    1.  In the command palette, enter ***Tasks*** and select *Tasks: Run Task*.
+    1.  In the command palette, enter `Tasks` and select *Tasks: Run Task*.
     2.  Select `openChiselTunnelFor-<service name>`.
 
         > ### Note:  

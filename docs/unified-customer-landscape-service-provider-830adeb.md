@@ -148,7 +148,7 @@ The Unified Customer Landscape service provider includes packages and services f
     </td>
     <td valign="top">
     
-        ***true***
+        `true`
 
 
     
@@ -164,7 +164,7 @@ The Unified Customer Landscape service provider includes packages and services f
     </td>
     <td valign="top">
     
-        ***true***
+        `true`
 
 
     
@@ -180,7 +180,7 @@ The Unified Customer Landscape service provider includes packages and services f
     </td>
     <td valign="top">
     
-        ***SAP S/4HANA Cloud***
+        `SAP S/4HANA Cloud`
 
     This value is displayed in the *System Landscape* \> *System Details* \> *System Type* field in the SAP BTP cockpit.
 
@@ -198,7 +198,7 @@ The Unified Customer Landscape service provider includes packages and services f
     </td>
     <td valign="top">
     
-        ***sap.s4:communicationScenario:SAP\_COM\_<XXXX\>***
+        `sap.s4:communicationScenario:SAP_COM_<XXXX>`
 
     Replace the number based on the relevant com\_scenario for the destination.
 

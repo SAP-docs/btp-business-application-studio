@@ -4,7 +4,7 @@
 
 Connect and perform actions on the Cloud Foundry environment.
 
-You can access the Cloud Foundry tools by opening the command palette and entering ***CF***. You can also create a list of pre-defined targets using the *CLOUD FOUNDRY: TARGETS* view.
+You can access the Cloud Foundry tools by opening the command palette and entering `CF`. You can also create a list of pre-defined targets using the *CLOUD FOUNDRY: TARGETS* view.
 
 
 
@@ -14,7 +14,7 @@ You can access the Cloud Foundry tools by opening the command palette and enteri
 
 You must be logged in to Cloud Foundry to use the Cloud Foundry Tools.
 
-1.  In the command palette, select ***CF: Login to Cloud Foundry***. The *Cloud Foundry Sign In and Targets* page opens.
+1.  In the command palette, select `CF: Login to Cloud Foundry`. The *Cloud Foundry Sign In and Targets* page opens.
 2.  Select the type of authentication method you prefer.
 
     See [Connecting to Cloud Foundry Using Identity Providers](connecting-to-cloud-foundry-using-identity-providers-53dfab0.md).
@@ -43,7 +43,7 @@ Click on the status bar to change the target.
 
 You can change the organization and space you defined when logging into Cloud Foundry.
 
-1.  In the command palette, select ***CF: Select a space from your allowed spaces***. The *Cloud Foundry Sign In and Targets* page opens.
+1.  In the command palette, select `CF: Select a space from your allowed spaces`. The *Cloud Foundry Sign In and Targets* page opens.
 2.  Select the organization to which you want to connect.
 3.  Select the desired space within the organization.
 
@@ -55,7 +55,7 @@ You can change the organization and space you defined when logging into Cloud Fo
 
 Create service instance in your current Cloud Foundry org and space. You can later consume this service for your development needs.
 
-1.  In the command palette, select ***CF: Create a service instance***.
+1.  In the command palette, select `CF: Create a service instance`.
 2.  Provide a service instance name. The name must be unique, if you enter an already existing name, the creation fails.
 3.  Select a Cloud Foundry service.
 4.  Select the service plan that best fits your service instance.
@@ -91,7 +91,7 @@ With a user-provided service instance, you can use services that are not availab
 
 ## Bind a Service to a Locally Run Application
 
-1.  In the command palette, select ***CF: Bind a service to a locally run application***.
+1.  In the command palette, select `CF: Bind a service to a locally run application`.
 2.  Select the folder where the `.env` file will be created. This file contains the information for connecting to the Cloud Foundry service.
 3.  Click *OK*.
 4.  Select the service instance to which you want to bind.
@@ -128,7 +128,7 @@ Once you have set up your targets, you can define which one will be the active t
 
 If the target tree is not showing updated information, you can manually trigger a reload to refresh the view.
 
-1.  In the command palette, select ***CF: Reload Targets Tree***.
+1.  In the command palette, select `CF: Reload Targets Tree`.
 
 -   **[Connecting to Cloud Foundry Using Identity Providers](connecting-to-cloud-foundry-using-identity-providers-53dfab0.md "Connect to Cloud Foundry using the UI or the command line.")**  
 Connect to Cloud Foundry using the UI or the command line.

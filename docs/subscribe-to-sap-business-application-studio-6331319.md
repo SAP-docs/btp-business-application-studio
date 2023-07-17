@@ -32,7 +32,7 @@ Before you can work in SAP Business Application Studio, the account administrato
     > ### Note:  
     > The *Instances and Subscriptions* page displays all subscriptions and instances in your subaccount.
 
-4.  Search for ***Studio***. The SAP Business Application Studio tile appears.
+4.  Search for `Studio`. The SAP Business Application Studio tile appears.
 
     > ### Note:  
     > If you don't see the SAP Business Application Studio tile in the results, make sure that there's an entitlement for SAP Business Application Studio in your subaccount. See [Configure Entitlements and Quotas for Subaccounts](https://help.sap.com/products/BTP/65de2977205c403bbc107264b8eccf4b/5ba357b4fa1e4de4b9fcc4ae771609da.html).

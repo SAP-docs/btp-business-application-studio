@@ -27,17 +27,17 @@ You can create a destination that points to your system, either from the Service
 
 ## Procedure
 
-1.  **Create a Destination from the Service Center for OData Services**
+**Create a Destination from the Service Center for OData Services**
 
-    See [Add a System](sap-system-service-provider-892114c.md#loio892114ce078b4e17a9ff7e751e6330cc__section_n2k_zx3_qqb) to add a destination from the Service Center with all the required properties.
+See [Add a System](sap-system-service-provider-892114c.md#loio892114ce078b4e17a9ff7e751e6330cc__section_n2k_zx3_qqb) to add a destination from the Service Center with all the required properties.
 
-    **Create a Destination from the SAP BTP Cockpit**
+**Create a Destination from the SAP BTP Cockpit**
 
-2.  Open the SAP BTP cockpit in the Cloud Foundry environment and go to the subaccount that is subscribed to SAP Business Application Studio.
+1.  Open the SAP BTP cockpit in the Cloud Foundry environment and go to the subaccount that is subscribed to SAP Business Application Studio.
 
-3.  Create a destination with the system endpoint URL. For more information, see [Create HTTP Destinations](https://help.sap.com/viewer/cca91383641e40ffbe03bdc78f00f681/Cloud/en-US/783fa1c418a244d0abb5f153e69ca4ce.html).
+2.  Create a destination with the system endpoint URL. For more information, see [Create HTTP Destinations](https://help.sap.com/viewer/cca91383641e40ffbe03bdc78f00f681/Cloud/en-US/783fa1c418a244d0abb5f153e69ca4ce.html).
 
-4.  Add the following additional properties to the created destination:
+3.  Add the following additional properties to the created destination:
 
 
     <table>
@@ -91,7 +91,7 @@ You can create a destination that points to your system, either from the Service
     </tr>
     </table>
     
-5.  Set the *WebIDEUsage* property for your destination type:
+4.  Set the *WebIDEUsage* property for your destination type:
 
 
     <table>
@@ -189,7 +189,12 @@ You can create a destination that points to your system, either from the Service
     </tr>
     </table>
     
-6.  Choose *Save*.
+5.  Choose *Save*.
+
+6.  If you are using an ABAP system from the SAP BTP environment or SAP S/4HANA Cloud, make sure to follow the required integration steps for setting up the communication between the system and SAP Business Application Studio:
+
+    -   SAP S/4HANA Cloud, public edition: [Integrating SAP Business Application Studio](https://help.sap.com/docs/SAP_S4HANA_CLOUD/0f69f8fb28ac4bf48d2b57b9637e81fa/22bc724fd51a4aa4a4d1c5854db7e026.html)
+    -   SAP BTP, ABAP environment: [Setup of UI Development in SAP Business Application Studio](https://help.sap.com/docs/sap-btp-abap-environment/abap-environment/setup-of-ui-development-in-sap-business-application-studio-optional)
 
 7.  If you are using an on-premise system, configure the Cloud Connector so that your system is correctly exposed. See [Cloud Connector](https://help.sap.com/docs/CP_CONNECTIVITY/cca91383641e40ffbe03bdc78f00f681/e6c7616abb5710148cfcf3e75d96d596.html).
 
@@ -198,7 +203,7 @@ You can create a destination that points to your system, either from the Service
     > ### Note:  
     > In the *Access Control* tab of the Cloud Connector, grant access to all relevant URL paths \(Resources\) to access the system \(for*Access Policy*, select the *Path and all sub-paths* option\).
     > 
-    > For example: `/sap/opu/odata`, `/sap/bc/adt`, and `/sap/bc/ui2/app_index/` .
+    > For example: `/sap/opu/odata`, `/sap/bc/adt`, `/sap/bc/ui2/app_index/`, and `/sap/bc/ui5_ui5`.
 
 8.  Once the destination has been created, SAP Business Application Studio developers can use it in their dev spaces. See [Accessing On Premise Systems](https://help.sap.com/docs/SAP%20Business%20Application%20Studio/9d1db9835307451daa8c930fbd9ab264/e72930c96b664e3ea4ce5288eb84075f.html).
 

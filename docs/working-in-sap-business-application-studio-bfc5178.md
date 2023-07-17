@@ -24,7 +24,7 @@ Use our dedicated tools to build and deploy your application.
 		create and run your application in SAP Business Application Studio. You use the other
 		subaccount, in a different region, to deploy your application to Cloud Foundry.")**  
 You can develop your application with different subaccounts. You use one subaccount to create and run your application in SAP Business Application Studio. You use the other subaccount, in a different region, to deploy your application to Cloud Foundry.
--   **[Use an Extension Project](use-an-extension-project-47c6ad8.md "You can extend SAPUI5 applications
+-   **[Extend Using Extension Projects](extend-using-extension-projects-47c6ad8.md "You can extend SAPUI5 applications
 		that
 		reside remotely on the on-premise SAPUI5 ABAP repository. If you want to
 		extend a legacy application and you are not able to create an SAPUI5 Adaptation Project, you

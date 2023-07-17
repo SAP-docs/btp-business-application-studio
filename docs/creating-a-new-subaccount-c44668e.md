@@ -17,7 +17,7 @@ Your trial account comes with a default subaccount that contains all the relevan
 
 6.  Click *Configure Entitlements*.
 7.  Click *Add Service Plans*.
-8.  Search for ***Studio***.
+8.  Search for `Studio`.
 9.  Select SAP Business Application Studio and, under *Available Plans*, select *trial \(Application\)*.
 10. Click *Add 1 Service Plan*.
 
@@ -28,7 +28,7 @@ Your trial account comes with a default subaccount that contains all the relevan
     ![](images/save_entitlements_1e2d42f.png)
 
 12. From the navigation area, click *Service Marketplace*.
-13. Search for ***Studio***.
+13. Search for `Studio`.
 14. Select SAP Business Application Studio and click *Create*.
 15. From the *New Instance or Subscription* dialog box, leave the default selections and click *Create*.
 16. Click *View Subscription* to see the details of your new subaccount.
