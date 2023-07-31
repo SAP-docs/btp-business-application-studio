@@ -11,7 +11,7 @@ You can add an existing project to Git.
 
     ![Changes section](images/Add_changes_icon_9d8513a.png)
 
-5.  Click ![Commit icon](images/commit_icon_5792efe.png) \(or press  [<Ctrl\>\] + [<Enter\>\] \) to commit the files that you've staged in your local repository.
+5.  Click ![Commit icon](images/commit_icon_5792efe.png) \(or press [<Ctrl\>\] + [<Enter\>\] \) to commit the files that you've staged in your local repository.
 
     ![Commit](images/commit_icon_60601cc.png)
 

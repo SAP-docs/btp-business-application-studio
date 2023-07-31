@@ -62,30 +62,14 @@ Perform the following configuration steps to use SAP Continuous Integration and 
     <tr>
     <td valign="top">
     
-        *Service Instance*
+    *Service Instance*
 
 
     
     </td>
     <td valign="top">
     
-        <the instance created earlier\>
-
-
-    
-    </td>
-    </tr>
-    <tr>
-    <td valign="top">
-    
-        *Name*
-
-
-    
-    </td>
-    <td valign="top">
-    
-        `cicd-backend`
+    <the instance created earlier\>
 
 
     
@@ -94,14 +78,30 @@ Perform the following configuration steps to use SAP Continuous Integration and 
     <tr>
     <td valign="top">
     
-        *Additional Property* \> ***HTML5.DynamicDestination*
+    *Name*
 
 
     
     </td>
     <td valign="top">
     
-        `true`
+    `cicd-backend`
+
+
+    
+    </td>
+    </tr>
+    <tr>
+    <td valign="top">
+    
+    *Additional Property* \> ***HTML5.DynamicDestination*
+
+
+    
+    </td>
+    <td valign="top">
+    
+    `true`
 
 
     

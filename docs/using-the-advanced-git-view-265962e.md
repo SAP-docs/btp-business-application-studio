@@ -20,15 +20,15 @@ The *SOURCE CONTROL* view is divided into the following sections:
 
 *SOURCE CONTROL* view menu
 
-![](images/source_control_GIT_menu_e10ab7d.png) 
+![](images/source_control_GIT_menu_e10ab7d.png)
 
 -   Click ![Toggle](images/toggle_icon_e7e5e6d.png) to toggle between list and tree views.
--   Click ![commit changes](images/commit_icon_5792efe.png) \(or press  [<Ctrl\>\] + [<Enter\>\] \) to commit the changes.
+-   Click ![commit changes](images/commit_icon_5792efe.png) \(or press [<Ctrl\>\] + [<Enter\>\] \) to commit the changes.
 -   Click ![Refresh](images/Git_refresh_5d003be.png) to refresh the Git pane.
 -   Click ![Git history](images/Git_history_8341762.png) to view the Git history.
 -   Click ![more actions](images/more_actions_new_ab37e83.png) to see more available actions. See [Git Commands](git-commands-5914548.md)
 
- *Message* section
+*Message* section
 
 Enter a description for the commit.
 

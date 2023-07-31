@@ -24,7 +24,7 @@ Below this, you find the commit section, which lists the changed files by their 
 
     Click ![Open file icon](images/Git_open_file_787f08b.png) to open the selected file, ![Stage file icon](images/Git_Stage_changes_icon_67e32ee.png) to stage the file, or ![Refresh icon](images/Git_refresh_5d003be.png) to refresh it.
 
-     ![Git Changes section](images/Git_Changes_section_0b3f741.png)
+    ![Git Changes section](images/Git_Changes_section_0b3f741.png)
 
 
 The files can be in any of the following statuses:

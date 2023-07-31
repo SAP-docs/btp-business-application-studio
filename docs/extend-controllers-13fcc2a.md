@@ -4,7 +4,7 @@
 
 You can extend a controller of the original application by replacing it with an empty controller or with a copy of the original controller. You can also implement UI controller hooks if they are provided by the original application. Once one of these controllers is in place, you can customize it as needed.
 
- <a name="task_xtp_5fp_bwb"/>
+<a name="task_xtp_5fp_bwb"/>
 
 <!-- task\_xtp\_5fp\_bwb -->
 
@@ -34,7 +34,7 @@ You can extend a controller of the original application by replacing it with an 
     > The new controller extends the controller that is provided by SAP. Methods of the custom controller override standard methods with the same name \(except for the controller lifecycle methods that are called in addition to the original controller method implementations\). When overriding a controller method, any functionality that was previously provided by the SAP controller in this method is no longer available. Likewise, any future changes made to the SAP controller method implementation will not be reflected in the custom controller.
 
 
- <a name="task_zvj_ggp_bwb"/>
+<a name="task_zvj_ggp_bwb"/>
 
 <!-- task\_zvj\_ggp\_bwb -->
 

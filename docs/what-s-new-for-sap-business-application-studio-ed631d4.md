@@ -97,7 +97,179 @@ Available as of
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Service Center
+
+
+
+</td>
+<td valign="top">
+
+When working in a *Full Stack Cloud Application* or a *Full Stack Cloud Application Using Productivity Tools* dev space, you can now add SAP S/4HANA Cloud events to your project from the Service Center and then consume them. See [Add SAP S/4HANA Events](https://help.sap.com/docs/bas/developing-business-applications-using-productivity-tools/add-sap-s-4hana-cloud-events).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2023-07-31
+
+
+
+</td>
+<td valign="top">
+
+2023-07-31
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Development Experience
+
+
+
+</td>
+<td valign="top">
+
+You can now enable the *Python Tools* extension to improve your Python coding experience.
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2023-07-19
+
+
+
+</td>
+<td valign="top">
+
+2023-07-19
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+SAP Business Application Studio 
 
 
 
@@ -183,7 +355,7 @@ SAP Business Application Studio
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -269,7 +441,7 @@ SAP Business Application Studio
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -355,7 +527,7 @@ SAP Business Application Studio
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -448,7 +620,7 @@ SAP Business Application Studio
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -534,7 +706,7 @@ SAP Business Application Studio
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -620,7 +792,7 @@ SAP Business Application Studio
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -706,7 +878,7 @@ SAP Business Application Studio
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -792,7 +964,7 @@ SAP Business Application Studio
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -878,7 +1050,7 @@ SAP Business Application Studio
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -964,7 +1136,7 @@ SAP Business Application Studio
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -1050,7 +1222,7 @@ SAP Business Application Studio
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -1136,7 +1308,7 @@ SAP Business Application Studio
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -1222,7 +1394,7 @@ SAP Business Application Studio
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -1308,7 +1480,7 @@ SAP Business Application Studio
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -1394,7 +1566,7 @@ SAP Business Application Studio
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -1480,7 +1652,7 @@ SAP Business Application Studio
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -1566,7 +1738,7 @@ SAP Business Application Studio
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -1652,7 +1824,7 @@ SAP Business Application Studio
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -1738,7 +1910,7 @@ SAP Business Application Studio
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -1828,7 +2000,7 @@ SAP Business Application Studio
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -1916,7 +2088,7 @@ SAP Business Application Studio
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -2002,7 +2174,7 @@ SAP Business Application Studio
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -2088,7 +2260,7 @@ SAP Business Application Studio
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -2174,7 +2346,7 @@ SAP Business Application Studio
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -2260,7 +2432,7 @@ SAP Business Application Studio
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -2346,7 +2518,7 @@ SAP Business Application Studio
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -2539,7 +2711,7 @@ Java
 </td>
 <td valign="top">
 
- SAP Business Application Studio now supports JAVA 17. You can select this version from the command palette. Open the command palette and select *JAVA Set Default JDK*.
+SAP Business Application Studio now supports JAVA 17. You can select this version from the command palette. Open the command palette and select *JAVA Set Default JDK*.
 
 
 
@@ -2776,7 +2948,7 @@ SAP Business Application Studio
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -2862,7 +3034,7 @@ SAP Business Application Studio
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -2948,7 +3120,7 @@ SAP Business Application Studio
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -3034,7 +3206,7 @@ SAP Business Application Studio
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -3120,7 +3292,7 @@ SAP Business Application Studio
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -3209,7 +3381,7 @@ SAP Business Application Studio
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -3295,7 +3467,7 @@ SAP Business Application Studio
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -3390,7 +3562,7 @@ SAP Business Application Studio
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -3476,7 +3648,7 @@ SAP Business Application Studio
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -3562,7 +3734,7 @@ SAP Business Application Studio
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -3648,7 +3820,7 @@ SAP Business Application Studio
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -3734,7 +3906,7 @@ SAP Business Application Studio
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -3820,7 +3992,7 @@ SAP Business Application Studio
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -3906,7 +4078,7 @@ SAP Business Application Studio
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -3990,7 +4162,7 @@ SAP Business Application Studio
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -4076,7 +4248,7 @@ SAP Business Application Studio
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -4164,7 +4336,7 @@ SAP Business Application Studio
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -4252,7 +4424,7 @@ SAP Business Application Studio
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -4336,7 +4508,7 @@ SAP Business Application Studio
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -4420,7 +4592,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -4504,7 +4676,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -4588,7 +4760,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -4672,7 +4844,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -4756,7 +4928,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -4840,7 +5012,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -4924,7 +5096,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -5008,7 +5180,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -5092,7 +5264,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -5176,7 +5348,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -5260,7 +5432,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -5344,7 +5516,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -5428,7 +5600,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -5512,7 +5684,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -5596,7 +5768,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -5680,7 +5852,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -5764,7 +5936,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -5848,7 +6020,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -5932,7 +6104,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -6016,7 +6188,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -6100,7 +6272,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -6193,7 +6365,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -6277,7 +6449,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -6361,7 +6533,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -6445,7 +6617,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -6529,7 +6701,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -6613,7 +6785,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -6697,7 +6869,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -6781,7 +6953,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -6865,7 +7037,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -6949,7 +7121,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -7033,7 +7205,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -7117,7 +7289,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -7201,7 +7373,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -7285,7 +7457,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -7369,7 +7541,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -7453,7 +7625,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -7537,7 +7709,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -7621,7 +7793,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -7705,7 +7877,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -7789,7 +7961,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -7873,7 +8045,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -7957,7 +8129,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -8041,7 +8213,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -8125,7 +8297,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -8209,7 +8381,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -8293,7 +8465,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -8377,7 +8549,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -8461,7 +8633,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -8545,7 +8717,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -8629,7 +8801,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -8715,7 +8887,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -8799,7 +8971,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -8883,7 +9055,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -8967,7 +9139,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -9051,7 +9223,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -9135,7 +9307,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -9219,7 +9391,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -9305,7 +9477,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -9389,7 +9561,7 @@ Not applicable
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 

@@ -303,6 +303,22 @@ See [MTA Tools](https://help.sap.com/viewer/209802f55bfd47fcaccecf1241df99f8/Clo
 <tr>
 <td valign="top">
 
+Python Tools
+
+
+
+</td>
+<td valign="top">
+
+Allows you to improve your Python coding experience. This extension includes IntelliSense, formatting, linting, and debugging support for Python files and Jupyter notebooks.
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
 SAPUI5 Adaptation Project
 
 
@@ -310,7 +326,7 @@ SAPUI5 Adaptation Project
 </td>
 <td valign="top">
 
-SAPUI5 Adaptation Project allows developers to extend SAP Fiori applications in SAP Business Application Studio.
+Allows you to extend SAP Fiori applications in SAP Business Application Studio.
 
 See [Extending an SAP Fiori Application](https://help.sap.com/viewer/584e0bcbfd4a4aff91c815cefa0bce2d/Cloud/en-US/ada9567b767941aba8d49fdb4fdedea7.html).
 

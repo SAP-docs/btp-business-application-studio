@@ -8,6 +8,8 @@ Select the control that you want to add to the canvas from the *Controls* tab on
 
 
 
+## Example
+
 If you want to add an *HBox* layout with a *Button* control to your view, do the following:
 
 1.  Choose the *Controls* tab.

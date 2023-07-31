@@ -49,7 +49,7 @@ Corporate IdP
 <tr>
 <td valign="top">
 
- SAP Business Application Studio UI-based login with username and password
+SAP Business Application Studio UI-based login with username and password
 
 
 
@@ -109,7 +109,7 @@ Supported
 <tr>
 <td valign="top">
 
- SAP Business Application Studio CLI-based login
+SAP Business Application Studio CLI-based login
 
 
 

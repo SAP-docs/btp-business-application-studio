@@ -102,7 +102,7 @@ Assign the SAP Business Application Studio application to your subaccount by add
 <tr>
 <td valign="top">
 
- **3. Subscribe to SAP Business Application Studio.** 
+**3. Subscribe to SAP Business Application Studio.** 
 
 
 
@@ -116,7 +116,7 @@ You need to subscribe to the SAP Business Application Studio application from yo
 </td>
 <td valign="top">
 
- [Subscribe to SAP Business Application Studio](subscribe-to-sap-business-application-studio-6331319.md) 
+[Subscribe to SAP Business Application Studio](subscribe-to-sap-business-application-studio-6331319.md) 
 
 
 
@@ -139,7 +139,7 @@ Assign the `Business_Application_Studio_Developer` role to developers so that th
 </td>
 <td valign="top">
 
- [Manage Authorizations and Roles](manage-authorizations-and-roles-01e69c5.md) 
+[Manage Authorizations and Roles](manage-authorizations-and-roles-01e69c5.md) 
 
 
 
@@ -162,7 +162,7 @@ If you define a custom identity provider for your subaccount, be sure to configu
 </td>
 <td valign="top">
 
- [Configure Trust to the SAML Identity Provider](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/dc618538d97610148155d97dcd123c24.html#loiob6cfc4bb4bff4ace90afc71b0962fcb5) 
+[Configure Trust to the SAML Identity Provider](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/dc618538d97610148155d97dcd123c24.html#loiob6cfc4bb4bff4ace90afc71b0962fcb5) 
 
 
 
@@ -178,7 +178,7 @@ If you define a custom identity provider for your subaccount, be sure to configu
 </td>
 <td valign="top">
 
- SAP Business Application Studio allows you to connect to public and corporate Git repositories.
+SAP Business Application Studio allows you to connect to public and corporate Git repositories.
 
 
 
@@ -227,7 +227,7 @@ For staging/test and production organizations, 1 space is sufficient.
 
 Relevant for developers developing Cloud Foundry applications.
 
- 
+
 
 
 

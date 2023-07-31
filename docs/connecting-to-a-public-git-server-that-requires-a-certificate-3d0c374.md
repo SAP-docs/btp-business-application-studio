@@ -57,30 +57,14 @@ You can manage the connectivity to a public Git server that requires a client ce
     <tr>
     <td valign="top">
     
-        WebIDEEnabled
+    WebIDEEnabled
 
 
     
     </td>
     <td valign="top">
     
-        true
-
-
-    
-    </td>
-    </tr>
-    <tr>
-    <td valign="top">
-    
-        WebIDEUsage
-
-
-    
-    </td>
-    <td valign="top">
-    
-        git
+    true
 
 
     
@@ -89,14 +73,30 @@ You can manage the connectivity to a public Git server that requires a client ce
     <tr>
     <td valign="top">
     
-        WebIDEAdditionalData
+    WebIDEUsage
 
 
     
     </td>
     <td valign="top">
     
-        git\_host\_<Git host name\>
+    git
+
+
+    
+    </td>
+    </tr>
+    <tr>
+    <td valign="top">
+    
+    WebIDEAdditionalData
+
+
+    
+    </td>
+    <td valign="top">
+    
+    git\_host\_<Git host name\>
 
     The Git host name must be entered as it appears in the URL. For example, if the URL is `https://git.acme.corp:443`, the host name would be `git.acme.corp`.
 

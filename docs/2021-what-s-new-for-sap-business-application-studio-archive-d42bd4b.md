@@ -76,7 +76,7 @@ Available as of
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -104,7 +104,7 @@ Theia
 </td>
 <td valign="top">
 
- SAP Business Application Studio has been updated to include fixes and improvements that are part of [Eclipse Theia 1.19.0](https://github.com/eclipse-theia/theia/blob/master/CHANGELOG.md#v1190---10282021).
+SAP Business Application Studio has been updated to include fixes and improvements that are part of [Eclipse Theia 1.19.0](https://github.com/eclipse-theia/theia/blob/master/CHANGELOG.md#v1190---10282021).
 
 
 
@@ -134,7 +134,7 @@ Changed
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -192,7 +192,7 @@ Changed
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -250,7 +250,7 @@ New
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -308,7 +308,7 @@ New
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -366,7 +366,7 @@ New
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -424,7 +424,7 @@ New
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -482,7 +482,7 @@ New
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -540,7 +540,7 @@ Changed
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -598,7 +598,7 @@ Changed
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -656,7 +656,7 @@ New
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -714,7 +714,7 @@ New
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -772,7 +772,7 @@ Changed
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -830,7 +830,7 @@ Changed
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -858,7 +858,7 @@ Theia
 </td>
 <td valign="top">
 
- SAP Business Application Studio has been updated to include fixes and improvements that are part of [Eclipse Theia 1.15.0](https://github.com/eclipse-theia/theia/blob/master/CHANGELOG.md#v1150---6302021) 
+SAP Business Application Studio has been updated to include fixes and improvements that are part of [Eclipse Theia 1.15.0](https://github.com/eclipse-theia/theia/blob/master/CHANGELOG.md#v1150---6302021) 
 
 
 
@@ -888,7 +888,7 @@ New
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -946,7 +946,7 @@ New
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -1004,7 +1004,7 @@ New
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -1062,7 +1062,7 @@ New
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -1120,7 +1120,7 @@ New
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -1178,7 +1178,7 @@ New
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -1240,7 +1240,7 @@ New
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -1298,7 +1298,7 @@ Changed
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -1356,7 +1356,7 @@ New
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -1414,7 +1414,7 @@ New
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -1472,7 +1472,7 @@ New
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -1530,7 +1530,7 @@ New
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -1588,7 +1588,7 @@ New
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -1646,7 +1646,7 @@ Changed
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -1704,7 +1704,7 @@ New
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -1762,7 +1762,7 @@ New
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -1820,7 +1820,7 @@ New
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -1878,7 +1878,7 @@ New
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -1936,7 +1936,7 @@ New
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -1994,7 +1994,7 @@ New
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -2052,7 +2052,7 @@ New
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -2110,7 +2110,7 @@ New
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -2168,7 +2168,7 @@ New
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -2226,7 +2226,7 @@ New
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -2254,7 +2254,7 @@ Theia
 </td>
 <td valign="top">
 
- SAP Business Application Studio has been updated to include fixes and improvements that are part of [Eclipse Theia 1.12.0](https://github.com/eclipse-theia/theia/blob/master/CHANGELOG.md#v1120---3252020).
+SAP Business Application Studio has been updated to include fixes and improvements that are part of [Eclipse Theia 1.12.0](https://github.com/eclipse-theia/theia/blob/master/CHANGELOG.md#v1120---3252020).
 
 
 
@@ -2284,7 +2284,7 @@ Changed
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -2342,7 +2342,7 @@ New
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -2400,7 +2400,7 @@ New
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -2458,7 +2458,7 @@ New
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -2495,7 +2495,7 @@ You can now perform the following actions when creating a calculation view using
 -   Display an intermediate data preview directly from calculation-view nodes.
 
 
- [SAP HANA Cloud, SAP HANA Database Developer Guide for Cloud Foundry Multitarget Applications](https://help.sap.com/viewer/c2b99f19e9264c4d9ae9221b22f6f589/Latest/en-US/f8e431e3cdc14516b4ba8c9932afd1f4.html) 
+[SAP HANA Cloud, SAP HANA Database Developer Guide for Cloud Foundry Multitarget Applications](https://help.sap.com/viewer/c2b99f19e9264c4d9ae9221b22f6f589/Latest/en-US/f8e431e3cdc14516b4ba8c9932afd1f4.html) 
 
 
 
@@ -2525,7 +2525,7 @@ New
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -2583,7 +2583,7 @@ New
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -2641,7 +2641,7 @@ Changed
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -2699,7 +2699,7 @@ New
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -2757,7 +2757,7 @@ New
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -2815,7 +2815,7 @@ Changed
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -2843,7 +2843,7 @@ Theia
 </td>
 <td valign="top">
 
- SAP Business Application Studio has been updated to include fixes and improvements that are part of [Eclipse Theia 1.11.0](https://github.com/eclipse-theia/theia/blob/master/CHANGELOG.md#v1110---2252021).
+SAP Business Application Studio has been updated to include fixes and improvements that are part of [Eclipse Theia 1.11.0](https://github.com/eclipse-theia/theia/blob/master/CHANGELOG.md#v1110---2252021).
 
 
 
@@ -2873,7 +2873,7 @@ Changed
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -2931,7 +2931,7 @@ New
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -2989,7 +2989,7 @@ New
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -3047,7 +3047,7 @@ New
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -3105,7 +3105,7 @@ Changed
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -3163,7 +3163,7 @@ Changed
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -3221,7 +3221,7 @@ Changed
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -3279,7 +3279,7 @@ Changed
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -3307,7 +3307,7 @@ Theia
 </td>
 <td valign="top">
 
- SAP Business Application Studio has been updated to include fixes and improvements that are part of [Eclipse Theia 1.10.0](https://github.com/eclipse-theia/theia/blob/master/CHANGELOG.md#v1100---1282021).
+SAP Business Application Studio has been updated to include fixes and improvements that are part of [Eclipse Theia 1.10.0](https://github.com/eclipse-theia/theia/blob/master/CHANGELOG.md#v1100---1282021).
 
 
 
@@ -3337,7 +3337,7 @@ Changed
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -3395,7 +3395,7 @@ New
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -3453,7 +3453,7 @@ New
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -3511,7 +3511,7 @@ Changed
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -3569,7 +3569,7 @@ New
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -3627,7 +3627,7 @@ New
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -3685,7 +3685,7 @@ Changed
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -3713,7 +3713,7 @@ Theia
 </td>
 <td valign="top">
 
- SAP Business Application Studio has been updated to include fixes and improvements that are part of [Eclipse Theia 1.9.0](https://github.com/eclipse-theia/theia/blob/master/CHANGELOG.md#v190---16122020).
+SAP Business Application Studio has been updated to include fixes and improvements that are part of [Eclipse Theia 1.9.0](https://github.com/eclipse-theia/theia/blob/master/CHANGELOG.md#v190---16122020).
 
 
 
@@ -3743,7 +3743,7 @@ Changed
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -3801,7 +3801,7 @@ New
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 
@@ -3859,7 +3859,7 @@ New
 <tr>
 <td valign="top">
 
- SAP Business Application Studio 
+SAP Business Application Studio 
 
 
 

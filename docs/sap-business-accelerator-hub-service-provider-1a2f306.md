@@ -100,3 +100,9 @@ You can select a service from the Service Center and add it as an external data 
     -   If you added a sample service with the relevant entities, the `<service_name>.cds` and the `<service_name>.js` files appear in the *srv* \> *external* folder of the CAP project.
 
 
+
+
+### Add SAP S/4HANA Cloud Events
+
+To add SAP S/4HANA Cloud events for consumption to your project, see [Adding SAP S/4HANA Cloud Events to Your Project](https://help.sap.com/viewer/9c36fdb911ae4cadab467a314d9e331f/Cloud/en-US/bf6fa41b00f54a4cb1699975edc7fa94.html "Add events for consumption from SAP S/4HANA Cloud to your Full Stack Cloud Application project.") :arrow_upper_right: for the *Full Stack Cloud Application* dev space and [Add SAP S/4HANA Cloud Events](https://help.sap.com/viewer/f9814e8df1cb43e1890e0f8d25374b8f/Cloud/en-US/5d3cebeddeee458186f1896cfe656f6a.html "Add events for consumption from SAP S/4HANA Cloud to your Full-Stack Application Using Productivity Tools project.") :arrow_upper_right: for the *Full-Stack Application Using Productivity Tools* dev space.
+

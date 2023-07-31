@@ -14,7 +14,7 @@ If you selected a control in the canvas of the layout editor, you can move the s
 -   [DOWN ARROW\]: moves the selection to the child of the selected control
 -   [LEFT ARROW\]: moves the selection to the control that is up/to the right of the selected control \(within the same aggregation\)
 -   [RIGHT ARROW\]: moves the selection to the control that is down/to the left of the selected control \(within the same aggregation\)
--    [CTRL\]+ click: moves the selection to the parent of the selected control
+-   [CTRL\]+ click: moves the selection to the parent of the selected control
 
 
 

@@ -16,8 +16,9 @@ The Storyboard allows you to develop applications using graphical editors and wi
 		connect and interact with the Git source control system, letting you connect and interact
 		with remote Git repositories.")**  
 SAP Business Application Studio enables you to connect and interact with the Git source control system, letting you connect and interact with remote Git repositories.
--   **[Terminal](terminal-c8b4ae9.md "Opening the integrated terminal allows you to access the underlying system. The terminal is a convenient tool because you don't need to
-		switch windows or change the state of an existing terminal to perform a quick command-line task. ")**  
+-   **[Terminal](terminal-c8b4ae9.md "Opening the integrated terminal allows you to access the underlying system. The
+		terminal is a convenient tool because you don't need to switch windows or change the state
+		of an existing terminal to perform a quick command-line task. ")**  
 Opening the integrated terminal allows you to access the underlying system. The terminal is a convenient tool because you don't need to switch windows or change the state of an existing terminal to perform a quick command-line task.
 -   **[Layout Editor](layout-editor-90ba99a.md "Display the content of an XML view in the layout editor to see it in a way that closely corresponds to how it will appear in your
 		finished application.")**  

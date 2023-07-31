@@ -12,7 +12,7 @@ From the left-side menu, select *Terminal* \> *New Terminal* to open the termina
 
 To open the terminal at a specific directory, right-click the desired file in the *File Explorer*, and select *Open in Integrated Terminal*.
 
-![](images/terminal_7da3a84.png)![Terminal]()
+![The terminal in SAP Business Application Studio](images/new_terminal-_cropped_2d7dce3.png)
 
 **Related Information**  
 

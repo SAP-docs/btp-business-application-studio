@@ -56,30 +56,14 @@ You can add a new system, referring to the API business hub enterprise instance,
     <tr>
     <td valign="top">
     
-        *Name*
+    *Name*
 
 
     
     </td>
     <td valign="top">
     
-        Provide a name for the system.
-
-
-    
-    </td>
-    </tr>
-    <tr>
-    <td valign="top">
-    
-        *Type*
-
-
-    
-    </td>
-    <td valign="top">
-    
-        *HTTP*
+    Provide a name for the system.
 
 
     
@@ -88,14 +72,30 @@ You can add a new system, referring to the API business hub enterprise instance,
     <tr>
     <td valign="top">
     
-        *URL*
+    *Type*
 
 
     
     </td>
     <td valign="top">
     
-        Use the `url` value from the service key of the API business hub enterprise instance.
+    *HTTP*
+
+
+    
+    </td>
+    </tr>
+    <tr>
+    <td valign="top">
+    
+    *URL*
+
+
+    
+    </td>
+    <td valign="top">
+    
+    Use the `url` value from the service key of the API business hub enterprise instance.
 
     You can find the service key for the service instance that you created \(in the Prerequisite\) in the SAP BTP cockpit, under the *API Management, API Business Hub Enterprise* service.
 
@@ -108,30 +108,14 @@ You can add a new system, referring to the API business hub enterprise instance,
     <tr>
     <td valign="top">
     
-        *Proxy Type*
+    *Proxy Type*
 
 
     
     </td>
     <td valign="top">
     
-        *Internet*
-
-
-    
-    </td>
-    </tr>
-    <tr>
-    <td valign="top">
-    
-        *Authentication*
-
-
-    
-    </td>
-    <td valign="top">
-    
-        *OAuth2ClientCredentials*
+    *Internet*
 
 
     
@@ -140,30 +124,14 @@ You can add a new system, referring to the API business hub enterprise instance,
     <tr>
     <td valign="top">
     
-        *Client ID*
+    *Authentication*
 
 
     
     </td>
     <td valign="top">
     
-        Use the `clientId` value from the service key of the API business hub enterprise instance.
-
-
-    
-    </td>
-    </tr>
-    <tr>
-    <td valign="top">
-    
-        *Client Secret*
-
-
-    
-    </td>
-    <td valign="top">
-    
-        Use the `clientSecret` value from the service key of the API business hub enterprise instance.
+    *OAuth2ClientCredentials*
 
 
     
@@ -172,14 +140,46 @@ You can add a new system, referring to the API business hub enterprise instance,
     <tr>
     <td valign="top">
     
-        *Token Service URL*
+    *Client ID*
 
 
     
     </td>
     <td valign="top">
     
-        Use the `tokenUrl` value from the service key of the API business hub enterprise instance.
+    Use the `clientId` value from the service key of the API business hub enterprise instance.
+
+
+    
+    </td>
+    </tr>
+    <tr>
+    <td valign="top">
+    
+    *Client Secret*
+
+
+    
+    </td>
+    <td valign="top">
+    
+    Use the `clientSecret` value from the service key of the API business hub enterprise instance.
+
+
+    
+    </td>
+    </tr>
+    <tr>
+    <td valign="top">
+    
+    *Token Service URL*
+
+
+    
+    </td>
+    <td valign="top">
+    
+    Use the `tokenUrl` value from the service key of the API business hub enterprise instance.
 
 
     
@@ -210,30 +210,14 @@ You can add a new system, referring to the API business hub enterprise instance,
     <tr>
     <td valign="top">
     
-        *HTML5.DynamicDestination*
+    *HTML5.DynamicDestination*
 
 
     
     </td>
     <td valign="top">
     
-        `true`
-
-
-    
-    </td>
-    </tr>
-    <tr>
-    <td valign="top">
-    
-        *WebIDEEnabled*
-
-
-    
-    </td>
-    <td valign="top">
-    
-        `true`
+    `true`
 
 
     
@@ -242,14 +226,14 @@ You can add a new system, referring to the API business hub enterprise instance,
     <tr>
     <td valign="top">
     
-        *WebIDEUsage*
+    *WebIDEEnabled*
 
 
     
     </td>
     <td valign="top">
     
-        `apihub_enterprise`
+    `true`
 
 
     
@@ -258,14 +242,30 @@ You can add a new system, referring to the API business hub enterprise instance,
     <tr>
     <td valign="top">
     
-        *apiBusinessHubEnterpriseURL*
+    *WebIDEUsage*
 
 
     
     </td>
     <td valign="top">
     
-        Adding this property is optional.
+    `apihub_enterprise`
+
+
+    
+    </td>
+    </tr>
+    <tr>
+    <td valign="top">
+    
+    *apiBusinessHubEnterpriseURL*
+
+
+    
+    </td>
+    <td valign="top">
+    
+    Adding this property is optional.
 
     This property enables navigation from the Service Center to the API business hub enterprise.
 
@@ -296,14 +296,14 @@ You can add a new system, referring to the API business hub enterprise instance,
     <tr>
     <td valign="top">
     
-        subscribed subaccount name
+    subscribed subaccount name
 
 
     
     </td>
     <td valign="top">
     
-        Use the first part of the `tokenUrl` from the destination system of API business hub enterprise.
+    Use the first part of the `tokenUrl` from the destination system of API business hub enterprise.
 
     For example, if the URL is https://abcd123trial.authentication.eu10.hana.ondemand.com/oauth/token
 
@@ -316,14 +316,14 @@ You can add a new system, referring to the API business hub enterprise instance,
     <tr>
     <td valign="top">
     
-        devportal\_url
+    devportal\_url
 
 
     
     </td>
     <td valign="top">
     
-        -   For trial, use **integrationsuitetrial-devportal**
+    -   For trial, use **integrationsuitetrial-devportal**
     -   For production, use **apibhubenterprise**
 
 
@@ -333,14 +333,14 @@ You can add a new system, referring to the API business hub enterprise instance,
     <tr>
     <td valign="top">
     
-        region
+    region
 
 
     
     </td>
     <td valign="top">
     
-        Find it in the `tokenUrl`.
+    Find it in the `tokenUrl`.
 
     For example, if the `tokenUrl` is https://abcd123trial.authentication.eu10.hana.ondemand.com/oauth/token
 
