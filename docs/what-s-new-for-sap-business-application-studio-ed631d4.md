@@ -111,6 +111,180 @@ SAP Business Application Studio
 </td>
 <td valign="top">
 
+SAP HANA Development Tooling
+
+
+
+</td>
+<td valign="top">
+
+In on-premise scenarios, you can now use SAP Business Application Studio for database development with SAP HANA extended application services, advanced model \(XS advanced\). See [SAP HANA Developer Guide for XS Advanced Model \(SAP Business App Studio\)](https://help.sap.com/docs/SAP_HANA_PLATFORM/cf8b4c5847374960a68b55cb86eae013?locale=en-US&version=2.0.07).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2023-08-25
+
+
+
+</td>
+<td valign="top">
+
+2023-08-25
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Development Experience
+
+
+
+</td>
+<td valign="top">
+
+JAVA 17 is now the default Java version for SAP Business Application Studio. You can manually change the default version from the command pallete.
+
+Open the command palette and select *JAVA Set Default JDK*.
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2023-08-03
+
+
+
+</td>
+<td valign="top">
+
+2023-08-03
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
 Service Center
 
 
@@ -118,7 +292,7 @@ Service Center
 </td>
 <td valign="top">
 
-When working in a *Full Stack Cloud Application* or a *Full Stack Cloud Application Using Productivity Tools* dev space, you can now add SAP S/4HANA Cloud events to your project from the Service Center and then consume them. See [Add SAP S/4HANA Events](https://help.sap.com/docs/bas/developing-business-applications-using-productivity-tools/add-sap-s-4hana-cloud-events).
+When working in a *Full Stack Cloud Application* or a *Full Stack Cloud Application Using Productivity Tools* dev space, you can now add SAP S/4HANA or SAP S/4HANA Cloud events to your project from the Service Center and then consume them. See [Add SAP S/4HANA or SAP S/4HANA Cloud Events](https://help.sap.com/docs/bas/developing-business-applications-using-productivity-tools/add-sap-s-4hana-cloud-events).
 
 
 
@@ -290,7 +464,7 @@ Development with Productivity Tools
 </td>
 <td valign="top">
 
-When working in a *Full-Stack Application Using Productivity Tools* dev space, you can now create a multitenant \(SaaS\) application, which you can share among several consumer subaccounts within your SAP BTP global account. See [Enabling SaaS](https://help.sap.com/docs/bas/developing-business-applications-using-productivity-tools/enabling-saas?locale=en-US).
+When working in a *Full-Stack Application Using Productivity Tools* dev space, you can now create a multitenant \(SaaS\) application, which you can share among several consumer subaccounts within your SAP BTP global account. See [Enabling Multitenancy](https://help.sap.com/docs/bas/developing-business-applications-using-productivity-tools/enabling-saas?locale=en-US).
 
 
 

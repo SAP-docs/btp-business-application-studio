@@ -26,7 +26,7 @@ The remote connection to SAP Business Application Studio allows you to:
 
 ## Getting Started
 
-1.  Install the *SAP Business Application Studio toolkit* from the [Visual Studio marketplace](https://marketplace.visualstudio.com/search?term=SAP%20Business%20Application%20Studio&target=VSCode&category=All%20categories&sortBy=Relevance).
+1.  Install the *Remote Access for SAP Business Application Studio* extension from the [Visual Studio marketplace](https://marketplace.visualstudio.com/search?term=SAP%20Business%20Application%20Studio&target=VSCode&category=All%20categories&sortBy=Relevance).
 2.  Click ![SAP Business Application Studio icon.](images/bas_view_cff2717.png) in the VS Code activity bar to open the **SAP Business Application Studio** view.
 
 
