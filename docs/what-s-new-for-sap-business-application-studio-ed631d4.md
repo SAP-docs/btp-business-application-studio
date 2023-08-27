@@ -111,6 +111,219 @@ SAP Business Application Studio
 </td>
 <td valign="top">
 
+VS Code Updates
+
+
+
+</td>
+<td valign="top">
+
+You can now enjoy the following new features that are available with the release of VS Code 1.80:
+
+-   [More help when editor is readonly](https://code.visualstudio.com/updates/v1_80#_more-help-when-editor-is-readonly)
+
+    With the introduction of [readonly mode](https://code.visualstudio.com/updates/v1_79#_readonly-mode) in VS Code last milestone, editors can be readonly due to workspace configuration.
+
+    This milestone, we enhanced the notification message in the editor when you try to type in a readonly editor and in some cases provide a link to change the `files.readonly` settings.
+
+-   [Editor group split sizing changed to 'auto'](https://code.visualstudio.com/updates/v1_80#_editor-group-split-sizing-changed-to-auto)
+
+    A new value for the `workbench.editor.splitSizing` setting called `auto` is the new default. In this mode, splitting an editor group distributes the available size evenly to all editor groups only if none of the editor groups has been resized. Otherwise, the space of the split editor group is divided in half and placed in the new editor group.
+
+    The intent of this change is to not break layouts that you have created when you split, but still preserve the previous default behavior of distributing the size evenly otherwise.
+
+-   [Resizable content hover](https://code.visualstudio.com/updates/v1_80#_resizable-content-hover)
+
+    It is now possible to resize the content hover control. You can hover over the control borders and drag the sashes to change the size of the hover.
+
+-   [Terminal](https://code.visualstudio.com/updates/v1_80#_terminal)
+
+    [Image Support](https://code.visualstudio.com/updates/v1_80#_image-support)
+
+    Images in the terminal, which were previewed last release, are now enabled by default. Images in a terminal typically work by encoding the image pixel data as text, which is written to the terminal via a special escape sequence. The current protocols supported are [sixel](https://en.wikipedia.org/wiki/Sixel) and the inline images protocol pioneered by iTerm.
+
+    To test images manually, you can download and `cat` a `.six` example file from [the libsixel repository](https://github.com/saitoha/libsixel/tree/master/images).
+
+    This feature can be disabled by setting:
+
+    ```
+    "terminal.integrated.enableImages": false
+    ```
+
+-   [Testing](https://code.visualstudio.com/updates/v1_80#_testing) 
+
+    [Terminal output support](https://code.visualstudio.com/updates/v1_80#_terminal-output-support)
+
+    Previously, test output shown in the *Test Results* view would always be shown in an embedded text editor. This stripped it of rich styling such as colors, styles, and symbols it may have had when run in a terminal. In this release, we show output in a real xterm.js terminal.
+
+    Now that the *Test Results* view is fully featured, the commands to *Show Test Output* have been redirected to open the Test Results view instead of creating a temporary terminal.
+
+
+This list is based on the VS Code [Updates](https://code.visualstudio.com/updates/v1_80) document.
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2023-08-27
+
+
+
+</td>
+<td valign="top">
+
+2023-08-27
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Development Experience
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio now supports \`login.cf.sap.hana.ondemand.com\` as a trusted domain, including the cf endpoint links.
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2023-08-27
+
+
+
+</td>
+<td valign="top">
+
+2023-08-27
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
 SAP HANA Development Tooling
 
 
