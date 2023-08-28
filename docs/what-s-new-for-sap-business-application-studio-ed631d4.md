@@ -136,9 +136,7 @@ You can now enjoy the following new features that are available with the release
 
     It is now possible to resize the content hover control. You can hover over the control borders and drag the sashes to change the size of the hover.
 
--   [Terminal](https://code.visualstudio.com/updates/v1_80#_terminal)
-
-    [Image Support](https://code.visualstudio.com/updates/v1_80#_image-support)
+-   [Terminal - Image Support](https://code.visualstudio.com/updates/v1_80#_image-support)
 
     Images in the terminal, which were previewed last release, are now enabled by default. Images in a terminal typically work by encoding the image pixel data as text, which is written to the terminal via a special escape sequence. The current protocols supported are [sixel](https://en.wikipedia.org/wiki/Sixel) and the inline images protocol pioneered by iTerm.
 
@@ -150,9 +148,7 @@ You can now enjoy the following new features that are available with the release
     "terminal.integrated.enableImages": false
     ```
 
--   [Testing](https://code.visualstudio.com/updates/v1_80#_testing) 
-
-    [Terminal output support](https://code.visualstudio.com/updates/v1_80#_terminal-output-support)
+-   [Testing - Terminal output support](https://code.visualstudio.com/updates/v1_80#_terminal-output-support)
 
     Previously, test output shown in the *Test Results* view would always be shown in an embedded text editor. This stripped it of rich styling such as colors, styles, and symbols it may have had when run in a terminal. In this release, we show output in a real xterm.js terminal.
 
