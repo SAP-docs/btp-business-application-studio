@@ -466,7 +466,7 @@ We suggest you report an incident or error through the SAP Support Portal.
     
 
 > ### Note:  
-> Contact the Customer Interaction Center \(CIC\) in order to ask for a speed-up to your request. You will find additional information in SAP Note [560499](https://launchpad.support.sap.com/#/notes/560499).
+> Contact the Customer Interaction Center \(CIC\) in order to ask for a speed-up to your request. You will find additional information in SAP Note [560499](https://me.sap.com/notes/560499).
 > 
-> We invite you to participate in the SAP Product Support Accreditation Program. This program will show you how you can work best with Product Support to get faster, easier closure to your incidents. For additional information see the SAP KBA [2911278](https://launchpad.support.sap.com/#/notes/2911278).
+> We invite you to participate in the SAP Product Support Accreditation Program. This program will show you how you can work best with Product Support to get faster, easier closure to your incidents. For additional information see the SAP KBA [2911278](https://me.sap.com/notes/2911278).
 

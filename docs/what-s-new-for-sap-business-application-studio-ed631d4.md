@@ -111,6 +111,1382 @@ SAP Business Application Studio
 </td>
 <td valign="top">
 
+Extension Project
+
+
+
+</td>
+<td valign="top">
+
+You can now create an SAPUI5 extension project to extend a legacy SAP Fiori application from an on-premise ABAP system. See [Create the Project](https://help.sap.com/docs/bas/developing-sap-fiori-app-in-sap-business-application-studio/create-adaptation-project).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2023-09-01
+
+
+
+</td>
+<td valign="top">
+
+2023-09-01
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+SAP HANA Development Tooling
+
+
+
+</td>
+<td valign="top">
+
+In the SAP HANA Native Application extension for SAP Business Application Studio, it is now possible to use the artifact-creation Wizard to generate enterprise-search configuration \(`.hdbeshconfig`\) artifacts. See [Enterprise Search Configurations \(.hdbeshconfig\)](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2cc2e43458d4abda6788049c58143dc/eb019bb757404a0591182ac7acf05400.html?version=2023_3_QRC).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2023-09-14
+
+
+
+</td>
+<td valign="top">
+
+2023-09-14
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+SAP HANA Development Tooling
+
+
+
+</td>
+<td valign="top">
+
+In the SAP HANA Native Application extension for SAP Business Application Studio, it is now possible to use the SAP HANA Projects Explorer to delete a database connection. See [Bind Applications to Database Services with SAP HANA Projects Explorer](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/a3865b12c0354c9fa312f88aa4572b7b.html?version=2023_3_QRC).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2023-09-14
+
+
+
+</td>
+<td valign="top">
+
+2023-09-14
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+SAP HANA Development Tooling
+
+
+
+</td>
+<td valign="top">
+
+In the SAP HANA Native Application extension for SAP Business Application Studio, it is now possible to use the SAP HANA Database Explorer to bind new database connections to application-managed service instances. See [Bind an Application to a Service Managed by the Service Manager](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/818a87c6299a43488f80f92fa8453d4b.html?version=2023_3_QRC).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2023-09-14
+
+
+
+</td>
+<td valign="top">
+
+2023-09-14
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+SAP HANA Development Tooling
+
+
+
+</td>
+<td valign="top">
+
+In the SAP HANA Native Application extension for SAP Business Application Studio, it is now possible to use the SAP HANA Database Explorer to visualize the connections between database objects with the dependency viewer. See [View Database Objects with the Database Explorer](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/0e5ac0b0625b411c8f05346566a3341f.html?version=2023_3_QRC).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2023-09-14
+
+
+
+</td>
+<td valign="top">
+
+2023-09-14
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+SAP HANA Development Tooling
+
+
+
+</td>
+<td valign="top">
+
+In the SAP HANA Native Application extension for SAP Business Application Studio, it is now possible to use the SAP HANA Database Explorer to view the metadata of procedures and functions in the catalog browser. See [View Database Objects with the Database Explorer](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/0e5ac0b0625b411c8f05346566a3341f.html?version=2023_3_QRC).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2023-09-14
+
+
+
+</td>
+<td valign="top">
+
+2023-09-14
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+SAP HANA Development Tooling
+
+
+
+</td>
+<td valign="top">
+
+In the SAP HANA Native Application extension for SAP Business Application Studio, it is now possible to configure a user preference to set the maximum size of a large object \(LOB\) displayed in the SAP HANA Database Explorer . See [User Preferences for SAP HANA Native Application Development Tools](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/57e2fe608bb042d48b799d41a8d121a7.html?version=2023_3_QRC).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2023-09-14
+
+
+
+</td>
+<td valign="top">
+
+2023-09-14
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Calculation Views
+
+
+
+</td>
+<td valign="top">
+
+You can now change the order and sequence of data sources in nodes that support multiple data sources. See [Changing the Sequence of Data Sources in Nodes](https://help.sap.com/docs/HANA_CLOUD_DATABASE/d625b46ef0b445abb2c2fd9ba008c265/fe537212b56447ee9dacdbb5527fa0dd.html?version=2023_3_QRC).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2023-09-14
+
+
+
+</td>
+<td valign="top">
+
+2023-09-14
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Calculation Views
+
+
+
+</td>
+<td valign="top">
+
+You can now change the order and sequence of elements \(columns, parameters, etc.\) in calculation views, for example, in the Mapping pane, the Calculated Columns pane, the Restricted Columns panes, and the Snapshots pane. See [Changing the Sequence of Elements](https://help.sap.com/docs/HANA_CLOUD_DATABASE/d625b46ef0b445abb2c2fd9ba008c265/ffe1a32156414237901d6ada03beb0ef.html?version=2023_3_QRC).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2023-09-14
+
+
+
+</td>
+<td valign="top">
+
+2023-09-14
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Calculation Views
+
+
+
+</td>
+<td valign="top">
+
+In the SAP HANA Native Application extension for SAP Business Application Studio the calculation-view editor now enables you to generate multidimensional statements \(MDS\) data and define an MDS cube on a calculation view. See [Define an MDS Cube Based on Elements in a Calculation View](https://help.sap.com/docs/HANA_CLOUD_DATABASE/d625b46ef0b445abb2c2fd9ba008c265/0e5f70d8c7204cc69839aa9452717753.html?version=2023_3_QRC).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2023-09-14
+
+
+
+</td>
+<td valign="top">
+
+2023-09-14
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Calculation Views
+
+
+
+</td>
+<td valign="top">
+
+In the SAP HANA Native Application extension for SAP Business Application Studio the calculation-view editor now enables you to see where objects are used and what the impact and dependencies are. See [Checking Object Dependencies](https://help.sap.com/docs/HANA_CLOUD_DATABASE/d625b46ef0b445abb2c2fd9ba008c265/ff885ce0d2494b5fbc35905a3e549185.html?version=2023_3_QRC) and [Where Used Functionality](https://help.sap.com/docs/HANA_CLOUD_DATABASE/d625b46ef0b445abb2c2fd9ba008c265/d79577f0cda74f4faa1ba5a8b0a6ba45.html?version=2023_3_QRC).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2023-09-14
+
+
+
+</td>
+<td valign="top">
+
+2023-09-14
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Calculation Views
+
+
+
+</td>
+<td valign="top">
+
+In the SAP HANA Native Application extension for SAP Business Application Studio the calculation-view editor now enables you to dispay a list of output parameters in the user-defined function \(UDF\) tab of the expressions editor. See [Checking Object Dependencies](https://help.sap.com/docs/HANA_CLOUD_DATABASE/d625b46ef0b445abb2c2fd9ba008c265/150a8dec9cc64aad96bafb452df29a7b.html?version=2023_3_QRC).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2023-09-14
+
+
+
+</td>
+<td valign="top">
+
+2023-09-14
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Calculation Views
+
+
+
+</td>
+<td valign="top">
+
+In the SAP HANA Native Application extension for SAP Business Application Studio the calculation-view editor now enables you to select specific T009/T009B tables \(or synonyms pointing to T009/T009B tables\) when generating fiscal time-table data. See [Create Time-Related Tables and Generate Time Data](https://help.sap.com/docs/HANA_CLOUD_DATABASE/d625b46ef0b445abb2c2fd9ba008c265/37b3dfd8a5ba47469a4bb50b8f2ace5f.html?version=2023_3_QRC).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2023-09-14
+
+
+
+</td>
+<td valign="top">
+
+2023-09-14
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Calculation Views
+
+
+
+</td>
+<td valign="top">
+
+In the SAP HANA Native Application extension for SAP Business Application Studio the calculation-view editor now enables you to configure filter mapping in the same way as you configure join mapping. See [Map Filters Between Join Partners](https://help.sap.com/docs/HANA_CLOUD_DATABASE/d625b46ef0b445abb2c2fd9ba008c265/997ec7b767794160a373894ee96a365f.html?version=2023_3_QRC).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2023-09-14
+
+
+
+</td>
+<td valign="top">
+
+2023-09-14
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Calculation Views
+
+
+
+</td>
+<td valign="top">
+
+In the SAP HANA Native Application extension for SAP Business Application Studio the calculation-view editor now enables you to rename and refactor calculation views and propagate the changes recursively through consuming views. See [Renaming and Refactoring Calculation Views](https://help.sap.com/docs/HANA_CLOUD_DATABASE/d625b46ef0b445abb2c2fd9ba008c265/168c9b47c8c1438fa928ba8a7116cefe.html?version=2023_3_QRC).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2023-09-14
+
+
+
+</td>
+<td valign="top">
+
+2023-09-14
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Service Center
+
+
+
+</td>
+<td valign="top">
+
+You can now add an SAP Business One system to your SAP Business Application Studio subaccount from the Service Center. See [SAP System Service Provider](https://help.sap.com/docs/bas/sap-business-application-studio/sap-system-service-provider?version=Cloud).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2023-09-10
+
+
+
+</td>
+<td valign="top">
+
+2023-09-10
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
 Security Recommendations
 
 
@@ -413,7 +1789,7 @@ SAP HANA Development Tooling
 </td>
 <td valign="top">
 
-In on-premise scenarios, you can now use SAP Business Application Studio for database development with SAP HANA extended application services, advanced model \(XS advanced\). See [SAP HANA Developer Guide for XS Advanced Model \(SAP Business App Studio\)](https://help.sap.com/docs/SAP_HANA_PLATFORM/cf8b4c5847374960a68b55cb86eae013?locale=en-US&version=2.0.07).
+In the SAP HANA Native Application extension for SAP Business Application Studio, it is now possible to change the sequence of data sources in nodesSee [SAP HANA Developer Guide for XS Advanced Model \(SAP Business App Studio\)](https://help.sap.com/docs/SAP_HANA_PLATFORM/cf8b4c5847374960a68b55cb86eae013?locale=en-US&version=2.0.07).
 
 
 

@@ -162,7 +162,7 @@ If you define a custom identity provider for your subaccount, be sure to configu
 </td>
 <td valign="top">
 
-[Configure Trust to the SAML Identity Provider](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/dc618538d97610148155d97dcd123c24.html#loiob6cfc4bb4bff4ace90afc71b0962fcb5) 
+[Federation Attribute Settings of Any Identity Provider](https://help.sap.com/docs/btp/sap-business-technology-platform/federation-attribute-settings-of-any-identity-provider) 
 
 
 
