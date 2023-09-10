@@ -111,6 +111,92 @@ SAP Business Application Studio
 </td>
 <td valign="top">
 
+Service Center
+
+
+
+</td>
+<td valign="top">
+
+You can now add an SAP Business One system to your SAP Business Application Studio subaccount from the Service Center. See [SAP System Service Provider](https://help.sap.com/docs/bas/sap-business-application-studio/sap-system-service-provider?version=Cloud).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2023-09-10
+
+
+
+</td>
+<td valign="top">
+
+2023-09-10
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
 Extension Project
 
 
@@ -1379,92 +1465,6 @@ SAP Business Application Studio
 <td valign="top">
 
 2023-09-14
-
-
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-SAP Business Application Studio 
-
-
-
-</td>
-<td valign="top">
-
--   Cloud Foundry
-
-
-
-</td>
-<td valign="top">
-
-Service Center
-
-
-
-</td>
-<td valign="top">
-
-You can now add an SAP Business One system to your SAP Business Application Studio subaccount from the Service Center. See [SAP System Service Provider](https://help.sap.com/docs/bas/sap-business-application-studio/sap-system-service-provider?version=Cloud).
-
-
-
-</td>
-<td valign="top">
-
-Info only
-
-
-
-</td>
-<td valign="top">
-
-General Availability
-
-
-
-</td>
-<td valign="top">
-
-New
-
-
-
-</td>
-<td valign="top">
-
-Technology
-
-
-
-</td>
-<td valign="top">
-
-Not applicable
-
-
-
-</td>
-<td valign="top">
-
-SAP Business Application Studio
-
-
-
-</td>
-<td valign="top">
-
-2023-09-10
-
-
-
-</td>
-<td valign="top">
-
-2023-09-10
 
 
 

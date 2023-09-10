@@ -37,6 +37,16 @@ Login occurs automatically, using the SAP Business Application Studio user crede
 
         If the service catalog is available and connected \(![Available System](images/SC-_system_connected_icon_1c4c936.png)\), you can search for services within it. Click the search icon \(![](images/service_center_search_a1d4e5e.png)\) and select the relevant service from the command palette.
 
+    -   SAP Business One
+
+        The destination points to the SAP Business One system directly. Adding this system enables you to create an SAP BTP application consuming an SAP Business One service.
+
+        > ### Note:  
+        > -   Only *No Authentication* or *Basic Authentication* types are supported.
+        > -   You must use SAP Business One 10.0 Feature Package \(FP\) 2305 to enable adding a system.
+
+        For more information about SAP Business One and the catalog that exposes a list of services, see [Service Layer API Reference](https://help.sap.com/doc/056f69366b5345a386bb8149f1700c19/10.0/en-US/Service%20Layer%20API%20Reference.html) and [What's New in SAP Business One 10.0, version for SAP HANA](https://help.sap.com/whats-new/753529e7d6144b59b353c94f0cdddbd0?locale=en-US).
+
 
     If you maintain credentials in the destination configuration of the account, login can occur automatically. If a system is available, the icon has a green dot \(![Available System](images/SC-_system_connected_icon_1c4c936.png)\).
 
