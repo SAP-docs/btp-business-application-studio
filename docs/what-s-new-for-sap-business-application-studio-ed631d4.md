@@ -111,6 +111,92 @@ SAP Business Application Studio
 </td>
 <td valign="top">
 
+Development with Productivity Tools
+
+
+
+</td>
+<td valign="top">
+
+When working in a *Full-Stack Application Using Productivity Tools* dev space, you can now share your deployed multitenant application with others by subscribing to the application and then sending the destination to them. This update provides automation for multitenant application subscription, with routes created and mapped automatically. See Enable SaaS in Your Application in the [Guide Center](https://help.sap.com/docs/sap-build/developing-business-applications-using-productivity-tools/accessing-guides).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+New
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+
+
+</td>
+<td valign="top">
+
+2023-09-10
+
+
+
+</td>
+<td valign="top">
+
+2023-09-10
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+SAP Business Application Studio 
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
 Service Center
 
 
