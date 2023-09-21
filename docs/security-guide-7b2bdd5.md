@@ -17,9 +17,9 @@ It includes information on the following:
 
 -   **[Standards and Best Practices](standards-and-best-practices-2937779.md "")**  
 
--   **[Encryption with Customer-Managed Keys](encryption-with-customer-managed-keys-68e6d6f.md "SAP Business Application Studio supports
-		customer-managed keys (CMK) to encrypt files and folders.")**  
-SAP Business Application Studio supports customer-managed keys \(CMK\) to encrypt files and folders.
+-   **[Encryption with a Customer-Controlled Encryption Key](encryption-with-a-customer-controlled-encryption-key-68e6d6f.md "SAP Business Application Studio supports using a
+		customer-controlled encryption key (CCEK) to encrypt files and folders.")**  
+SAP Business Application Studio supports using a customer-controlled encryption key \(CCEK\) to encrypt files and folders.
 -   **[Data Protection and Privacy](data-protection-and-privacy-3ad7520.md "")**  
 
 -   **[Auditing and Logging Information](auditing-and-logging-information-9ff1a8d.md "Here you can find a list of the security events that are logged by SAP Business Application Studio.")**  

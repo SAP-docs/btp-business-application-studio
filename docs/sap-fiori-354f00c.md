@@ -4,17 +4,17 @@
 
 Develop SAP Fiori applications based on various environments: Cloud Foundry, ABAP on-prem, and ABAP Cloud.
 
-See [Develop SAP Fiori Applications with SAP Fiori tools](https://help.sap.com/viewer/17d50220bcd848aa854c9c182d65b699/Latest/en-US/f09752ebcf63473e9194ea29ca232e56.html).
+See [Developing and Extending SAP Fiori Applications](https://help.sap.com/docs/bas/developing-sap-fiori-app-in-sap-business-application-studio/developing-and-extending-sap-fiori-applications).
 
 **Migration from SAP Web IDE**
 
-If you have projects that were created using SAP Web IDE, you can migrate them to SAP Business Application Studio. See [Migration](https://help.sap.com/viewer/17d50220bcd848aa854c9c182d65b699/Latest/en-US/70d41f3ee29d453a90efab3ce025d450.html) in the *SAP Fiori tools Users Guide*.
+If you have projects that were created using SAP Web IDE, you can migrate them to SAP Business Application Studio. See [Migration](https://help.sap.com/docs/bas/developing-sap-fiori-app-in-sap-business-application-studio/migration).
 
 The SAP Fiori scenario contains the following predefined extensions:
 
 -   **SAPUI5 Adaptation Project**
 
-    Allows you to extend SAPUI5 applications, using the Adaptation Project and the Visual Editor. See [Extending an SAP Fiori Application](https://help.sap.com/docs/SAP%20Business%20Application%20Studio/584e0bcbfd4a4aff91c815cefa0bce2d/ada9567b767941aba8d49fdb4fdedea7.html).
+    Allows you to extend SAPUI5 applications, using the Adaptation Project and the Visual Editor. See [Extending SAP Fiori Applications](https://help.sap.com/docs/SAP%20Business%20Application%20Studio/584e0bcbfd4a4aff91c815cefa0bce2d/ada9567b767941aba8d49fdb4fdedea7.html).
 
 -   **Basic Tools**
 
@@ -67,7 +67,7 @@ The SAP Fiori scenario contains the following predefined extensions:
     -   XML Annotation Language Server
 
 
-    See [Getting Started with SAP Fiori tools](https://help.sap.com/viewer/17d50220bcd848aa854c9c182d65b699/Latest/en-US/2d8b1cb11f6541e5ab16f05461c64201.html).
+    See [Getting Started with SAP Fiori tools](https://help.sap.com/docs/bas/developing-sap-fiori-app-in-sap-business-application-studio/getting-started-with-sap-fiori-tools).
 
 -   **Startup Server**
 
@@ -77,6 +77,6 @@ The SAP Fiori scenario contains the following predefined extensions:
 
     Allows you to visually develop your XML view and extend an existing SAPUI5 application that resides in the SAPUI5 ABAP repository.
 
-    See [Working with the Layout Editor](https://help.sap.com/products/SAP%20Business%20Application%20Studio/9d1db9835307451daa8c930fbd9ab264/8fbbaad310eb4712a5d8169331106b25.html?version=Cloud) and [Extend SAPUI5 Applications](https://help.sap.com/docs/SAP%20Business%20Application%20Studio/9d1db9835307451daa8c930fbd9ab264/47c6ad87909b4246a5cbfe42b604207a.html).
+    See [Working with the Layout Editor](https://help.sap.com/products/SAP%20Business%20Application%20Studio/9d1db9835307451daa8c930fbd9ab264/8fbbaad310eb4712a5d8169331106b25.html?version=Cloud) and [Extending an SAP Fiori Application for an On-Premise System](https://help.sap.com/docs/bas/developing-sap-fiori-app-in-sap-business-application-studio/adaptation-project-for-on-premise-system).
 
 
