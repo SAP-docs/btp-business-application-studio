@@ -12,7 +12,7 @@ Add an existing project to your local workspace by cloning its repository from G
 
 1.  Open a terminal.
 2.  Change the current working directory to the location where you want the cloned directory.
-3.  Type `git clone`, and then paste your URL.
+3.  Enter `git clone`, and then paste your URL.
 
     For example:
 

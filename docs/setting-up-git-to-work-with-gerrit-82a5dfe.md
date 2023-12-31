@@ -24,7 +24,7 @@ You configured the required Cloud Connector and destination in your account.
 
         This is the configuration for SAP WDF Gerrit system:
 
-        ![](images/gerrit_config-_28cm_bc760b2.png)
+        ![Sample Gerrit Configuration](images/gerrit_config-_28cm_bc760b2.png)
 
 
 2.  Clone your project. See [Cloning Repositories](cloning-repositories-7a68bfa.md).

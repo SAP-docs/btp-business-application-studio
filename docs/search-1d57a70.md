@@ -6,9 +6,9 @@ There are different Search capabilities in SAP Business Application Studio.
 
 You can perform a search from the Search view or from the Find widget in the editor.
 
--   To open the Search view, select *View* \> *Search* from the left-side menu.
+-   To open the Search view, navigate to *View* \> *Search* from the menu.
 
-    ![search view](images/search_cee2f2e.png)
+    ![Search view](images/search_cee2f2e.png)
 
 -   To open the Find widget within a file, press `Ctrl+F`.
 
@@ -80,7 +80,7 @@ You can search and replace across files. Expand the Search input field to displa
 
 ![](images/search_and_replace_0edb70d.png)
 
-When you type text into the Replace input field, you will see a diff display of the pending changes. You can replace across all files from the Replace input field, replace all in one file or replace a single change.
+When you enter text into the Replace input field, you will see a diff display of the pending changes. You can replace across all files from the Replace input field, replace all in one file or replace a single change.
 
 **Advanced Search and Replace Options**
 

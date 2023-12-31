@@ -13,7 +13,7 @@ Display the content of an XML view in the layout editor to see it in a way that 
 
 ## Layout Editor Landscape
 
-The layout editor is composed of a canvas, a pane on the left that includes the *Controls* and *Outline* tabs, and a pane on the right that includes the *Properties* pane.*Events* and *Properties* panes.
+The layout editor consists of a canvas in the center, and two panes on either side. On one side, you will find the *Controls* and *Outline* tabs, while on the other side, you will find the *Properties* pane.*Events* and *Properties* panes.
 
 ![Layout Editor](images/layout_editor-_VS_code_0fbe61b.png)
 
@@ -23,15 +23,15 @@ The layout editor is composed of a canvas, a pane on the left that includes the 
 
 ## Toolbar
 
-The buttons on the layout editor toolbar allow you to:
+The layout editor toolbar allows you to:
 
 -   Change the device format of the canvas to smartphone, tablet, or desktop view.
 
--   Expand and collapse the panes to the right and left of the canvas.
+-   Expand and collapse the panes to the sides of the canvas.
 
-    -   The pane on the left side includes the *Controls* and *Outline* tabs.
+    -   One side includes the *Controls* and *Outline* tabs.
 
-    -   The pane on the right side includes the *Properties* pane.
+    -   The other side includes the *Properties* pane.
 
         The pane on the right side includes the *Properties* and *Events* panes.
 
@@ -39,7 +39,7 @@ The buttons on the layout editor toolbar allow you to:
 -   Undo and redo actions.
 
 
-![](images/1_19_what_s_new_toolbar_7c8f4b8.jpg)
+![Buttons in the layout editor toolbar](images/1_19_what_s_new_toolbar_7c8f4b8.jpg)
 
 
 
@@ -54,7 +54,7 @@ You can expand or collapse each section by clicking the arrow on each section he
 
 You can drag and drop controls from the *Controls* tab onto the canvas. For more information, see [Add Controls from the Controls Tab](add-controls-from-the-controls-tab-3a1f27e.md).
 
-![](images/BAS_Control_Pane-_cropped_d146acd.jpg)
+![Controls tab in the layout editor](images/BAS_Control_Pane-_cropped_d146acd.jpg)
 
 You can find the list of available controls in [SAPUI5 Controls Supported in the Layout Editor](sapui5-controls-supported-in-the-layout-editor-c5d123e.md).
 
@@ -70,7 +70,7 @@ You can use the *Outline* tab to see the hierarchy of controls on the canvas. In
 
 For more information, see [Add Controls from the Outline Tab](add-controls-from-the-outline-tab-1cf5a5b.md).
 
-![](images/outline_pane-_new_1df47d2.png)
+![Outline tab in the layout editor](images/outline_pane-_new_1df47d2.png)
 
 
 
@@ -82,11 +82,11 @@ The canvas in the middle of the layout editor area provides a graphical display 
 
 Click a control on the canvas to select it. To select a parent control, hold *Ctrl* and click. You can keep clicking until you reach the highest control in the hierarchy and then the focus will return to the original control. Click outside the canvas to undo the selection.
 
-![](images/canvas_webide_7b7dfdb.jpg)
+![Canvas in the layout editor](images/canvas_webide_7b7dfdb.jpg)
 
 **Properties Pane****Events and Properties Pane**
 
-On the right side of the canvas is a pane that displays the following pane:
+On the side of the canvas is a pane that displays the following:
 
 On the right side of the canvas is a pane that displays the following panes:
 
@@ -109,18 +109,19 @@ The *Events* pane allows you to select an existing event handler from the contro
 
 ## Properties Pane
 
-The *Properties* pane shows the properties of the control that is currently selected in the canvas and allows you to modify its property values. The most commonly used properties for each control are displayed at the top of the list. The ![](images/data_binding_button_852457c.jpg) icon next to each property opens the *Data Binding* dialog box.
+The *Properties* pane shows the properties of the control that is currently selected in the canvas and allows you to modify its property values. The most commonly used properties for each control are displayed at the top of the list. The ![Data binding](images/data_binding_button_852457c.jpg) icon next to each property opens the *Data Binding* dialog box.
 
 For more information, see [Binding Data](binding-data-c24e9c4.md), [Bind Data to a Simple Control](bind-data-to-a-simple-control-93f40e6.md), and [Bind Data to an Aggregate-Type Control](bind-data-to-an-aggregate-type-control-2d625d5.md).
 
-![](images/Properties_Pane_074591c.png)
+![Properties pane](images/Properties_Pane_074591c.png)
 
 > ### Note:  
 > Deprecated properties or aggregations are marked with the label *deprecated* \(also in the *Outline* tab\). For more information, see *SAP Library for User Interface Add-On 1.0 for SAP NetWeaver* on SAP Help Portal at [http://help.sap.com/nw-uiaddon](http://help.sap.com/nw-uiaddon). Under *Application Help*, open *SAP Library*, and search for *deprecation*.
 
 -   **[Working with the Layout Editor](working-with-the-layout-editor-8fbbaad.md "An overview of the steps required to edit a project using the layout editor.")**  
 An overview of the steps required to edit a project using the layout editor.
--   **[SAPUI5 Controls Supported in the Layout Editor](sapui5-controls-supported-in-the-layout-editor-c5d123e.md "Provides a list of SAPUI5 controls that are supported in the layout editor.")**  
+-   **[SAPUI5 Controls Supported in the Layout Editor](sapui5-controls-supported-in-the-layout-editor-c5d123e.md "Provides a list of SAPUI5 controls that are supported in the layout
+		editor.")**  
 Provides a list of SAPUI5 controls that are supported in the layout editor.
 
 **Related Information**  

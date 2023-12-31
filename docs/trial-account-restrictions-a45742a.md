@@ -2,6 +2,8 @@
 
 # Trial Account Restrictions
 
+There are additional restrictions that apply to SAP Business Application Studio trial accounts.
+
 In addition to the regular SAP Business Application Studio [restrictions](restrictions-76db362.md), when using a trial account the following restrictions also apply:
 
 -   A user can only have up to 2 dev spaces.

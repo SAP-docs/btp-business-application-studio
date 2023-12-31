@@ -47,15 +47,11 @@ Perform the following configuration steps to use SAP Continuous Integration and 
     <th valign="top">
 
     Property
-
-
     
     </th>
     <th valign="top">
 
     Value
-
-
     
     </th>
     </tr>
@@ -63,15 +59,11 @@ Perform the following configuration steps to use SAP Continuous Integration and 
     <td valign="top">
     
     *Service Instance*
-
-
     
     </td>
     <td valign="top">
     
     <the instance created earlier\>
-
-
     
     </td>
     </tr>
@@ -79,15 +71,11 @@ Perform the following configuration steps to use SAP Continuous Integration and 
     <td valign="top">
     
     *Name*
-
-
     
     </td>
     <td valign="top">
     
     `cicd-backend`
-
-
     
     </td>
     </tr>
@@ -95,15 +83,11 @@ Perform the following configuration steps to use SAP Continuous Integration and 
     <td valign="top">
     
     *Additional Property* \> ***HTML5.DynamicDestination*
-
-
     
     </td>
     <td valign="top">
     
     `true`
-
-
     
     </td>
     </tr>
@@ -123,7 +107,7 @@ The *CI/CD* view in SAP Business Application Studio, allows you to see all jobs 
 
 You can create a job for your project using a CI/CD pipeline.
 
-1.  From the left-side menu, select *View* \> *Command Palette*.
+1.  From the menu, navigate to *View* \> *Command Palette*.
 
 2.  Search for *Guide Center: Create a CI/CD Job*. Select the guide and follow the instructions.
 
@@ -153,5 +137,5 @@ From the job’s context menu, you can:
     Click *Delete* to remove the job from the SAP Continuous Integration and Delivery service and the configuration file is deleted from the repository. This affects all users working in the repository.
 
 
-From the *CI/CD JOBS* view menu bar, you can click ![](images/Settings_8317c84.png) \(Settings\) to open the Settings page, or *\+* to add a new job.
+From the *CI/CD JOBS* view menu bar, you can click ![Settings icon](images/Settings_8317c84.png) \(Settings\) to open the Settings page, or *\+* to add a new job.
 

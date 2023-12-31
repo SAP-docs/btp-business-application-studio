@@ -10,19 +10,20 @@ An overview of the steps required to edit a project using the layout editor.
 
 ## Prerequisites
 
-You have created a project using the *SAP Fiori List-Detail Application* template.
+You have created or imported an SAP Fiori project using the *SAP Fiori Application* template.
 
-To create a project using this template, perform the following steps:
+To create a project using this template:
 
-1.  From the template wizard, select the *SAP Fiori application* generator.
-2.  Select the *SAPUI5 freestyle* application type.
-3.  Select the *SAP Fiori List-Detail Application*.
+1.  Enter `New Project` in the command palette and select *SAP Business Application Studio: New Project from Template*. The Project Wizard opens showing the project templates that are relevant based on the dev space and additional extensions that you selected.
+2.  Select the *SAP Fiori application* tile, and click *Start*.
+
+3.  Select the *Basic* template, and click *Next*.
 4.  Follow the wizard steps and provide the required information.
 
 In the `view` folder of this project, you can edit the following views:
 
--   `Detail.view.xml`
--   `List.view.xml`
+-   `App.view.xml`
+-   `View1.view.xml`
 
 
 
@@ -30,7 +31,7 @@ In the `view` folder of this project, you can edit the following views:
 
 ## Procedure
 
-1.  From the context menu of the XML view, choose *Open With...* and select the *Layout Editor* from the command center.
+1.  From the context menu of the XML view, choose *Open With...* and select the *Layout Editor* from the command palette.
 
 2.  Edit the views of your application as follows:
 

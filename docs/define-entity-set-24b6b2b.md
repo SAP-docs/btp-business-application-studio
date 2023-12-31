@@ -30,7 +30,7 @@ Before you can bind data to a control, you need to define an entity set.
 3.  Select and configure one of the entity sets for your control.
 
     > ### Note:  
-    > Most users should use either of the first two entity sets listed below.
+    > Most users should use either of the first two entity sets listed here.
 
     -   *Use ancestor's entity set.*
     -   *Define dummy entity set for the selected control.*

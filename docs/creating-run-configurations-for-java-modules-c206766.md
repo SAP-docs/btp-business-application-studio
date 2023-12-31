@@ -70,7 +70,7 @@ The resource is bound to the service.
 
 ![Resource Bound](images/resource_bound-_new_53a7c05.png)
 
-This updates the resource's configuration files. See the *Advanced Options* section below to see the changes made to the configuration files.
+This updates the resource's configuration files. See the *Advanced Options* section to see the changes made to the configuration files.
 
 If you're binding to an SAP HANA service, a new connection called `'<my_service_instance name>'` is added to the SQLTools view where your tables and data are displayed.
 
@@ -98,7 +98,7 @@ To unbind the resource:
 
 
 2.  Select the desired run configuration.
-3.  Click ![](images/Run_Configuration_icon_1897e99.png) \(Run\) to run the project.
+3.  Click ![Run icon](images/Run_Configuration_icon_1897e99.png) \(Run\) to run the project.
 
     Prelaunch and dependent tasks are run.
 
@@ -108,7 +108,7 @@ To unbind the resource:
 5.  If you need to stop a configuration that is already running, you can do so from the *Run and Debug* view.
 
 > ### Note:  
-> For more information about the tasks triggered by the run configuration, see the *Advanced Options* section below.
+> For more information about the tasks triggered by the run configuration, see the *Advanced Options* section.
 > 
 > Stopping a configuration from the *Run and Debug* view doesn't stop any running tasks.
 
@@ -165,7 +165,7 @@ In addition to the `launch.json` file that is created as part of the new configu
 
         This task enables you to define additional tasks to run before starting the configuration \(using the `dependsOn` property\).
 
-        ![](images/Prelaunch_Tasks_a891a4e.png)
+        ![dependsOn property in the task](images/Prelaunch_Tasks_a891a4e.png)
 
     -   A task that triggers the Apache Tomcat server running with the context of the application resources.
 

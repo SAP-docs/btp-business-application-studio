@@ -4,6 +4,10 @@
 
 Connect securely to SAP Business Application Studio dev spaces directly from a local Visual Studio Code desktop application.
 
+**Prerequisites**
+
+To ensure the best functionality, make sure you are always working \(locally\) on the latest officially released version of VS Code and that you regularly update the *SAP Business Application Studio toolkit* extension to the latest version.
+
 The remote connection to SAP Business Application Studio allows you to:
 
 -   Work in your SAP Business Application Studio tailored dev spaces directly from your local VS Code installation, including the tools and configurations that are not available on your local OS.
@@ -27,7 +31,7 @@ The remote connection to SAP Business Application Studio allows you to:
 ## Getting Started
 
 1.  Install the *Remote Access for SAP Business Application Studio* extension from the [Visual Studio marketplace](https://marketplace.visualstudio.com/search?term=SAP%20Business%20Application%20Studio&target=VSCode&category=All%20categories&sortBy=Relevance).
-2.  Click ![SAP Business Application Studio icon.](images/bas_view_cff2717.png) in the VS Code activity bar to open the **SAP Business Application Studio** view.
+2.  Click ![SAP Business Application Studio icon](images/bas_view_cff2717.png) in the VS Code activity bar to open the **SAP Business Application Studio** view.
 
 
 
@@ -37,7 +41,7 @@ The remote connection to SAP Business Application Studio allows you to:
 
 1.  In the *SAP Business Application Studio* view, click *Connect Landscape* to add the landscape you want to access.
 
-    ![shows the SAP Business Application Studio view in VS Code and the button to add a landscape.](images/Add_a_landscape_6fd8072.png)
+    ![shows the SAP Business Application Studio view in VS Code and the button to add a landscape](images/Add_a_landscape_6fd8072.png)
 
 2.  In the command palette, enter your landscape URL.
 
@@ -74,7 +78,7 @@ All the landscapes you connect to and their respective dev spaces are displayed 
 
 ## Disconnecting from the Landscapes
 
-1.  From the left action bar, click ![Accounts icon](images/accounts_a2325b0.png).
+1.  From the action bar, click ![Accounts icon](images/accounts_a2325b0.png).
 2.  Select *BAS Access Token \(Business Application Studio\)*.
 3.  Click *Sign Out*.
 
@@ -90,7 +94,7 @@ The **SAP Business Application Studio** view contains all the landscapes you add
 
     ![dev space menu options highlighting the Play icon](images/start_dev_space_7b58bde.png)
 
-    A green dot appears the dev space's icon once the status changes to STARTED.
+    A dot appears on the dev space's icon once the status changes to STARTED.
 
     ![dev space icon indicating that the dev space's status is STARTED](images/started_icon_6a6a8ab.png)
 
@@ -108,5 +112,5 @@ The **SAP Business Application Studio** view contains all the landscapes you add
 
 The dev space opens in a new tab.
 
-![](images/storyboard_in_vs_code_2edddc4.png)
+![Open dev space](images/storyboard_in_vs_code_2edddc4.png)
 

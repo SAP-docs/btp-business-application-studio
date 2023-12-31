@@ -53,25 +53,7 @@ The Full-Stack Application Using Productivity Tools scenario contains the follow
 
 -   **Java Tools**
 
-    Allows you to develop, test, and run Java applications. Includes debugging capabilities and enhanced code editors. The following tools are installed as part of the extension:
-
-    -   Redhat Java V 0.76.0
-
-    -   Project Manager for Java V 0.18.1
-
-    -   Java Test Runner V 0.28.0
-
-    -   Wing Java Run V 1.6.0
-
-    -   Springboot Tools V 1.19.0-RC.1
-
-    -   Java Debug V 0.31.0
-
-
-    See [Language support for Java ™ for Visual Studio Code](https://github.com/redhat-developer/vscode-java), [Debugger for Java](https://github.com/Microsoft/vscode-java-debug), [Spring Boot tools](https://github.com/spring-projects/sts4), [Java Test Runner](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-test), and [Project Manager for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-dependency).
-
-    > ### Note:  
-    > Not all the features described in the extension documentation are supported.
+    Allows you to develop, test, and run Java applications. Includes debugging capabilities and enhanced code editors.
 
 -   **MTA Tools**
 

@@ -19,7 +19,7 @@ You can install VS Code extensions from the [Open VSX Registry](https://open-vsx
 
 **To install an extension:**
 
-1.  Click ![Extensions](images/Extensions-smaller_icon_0f2e96d.jpg) \(Extensions\) from the activity bar or select *View* \> *Extensions* from the left-side menu.
+1.  Click ![Extensions](images/Extensions-smaller_icon_0f2e96d.jpg) \(Extensions\) from the activity bar or navigate to *View* \> *Extensions* from the menu.
 2.  The first time you open this view, a disclaimer is displayed. Click *OK* to open the *Extensions* view. To read it again later, click *Show Disclaimer*.
 
     The *Extensions* view includes the following sections:

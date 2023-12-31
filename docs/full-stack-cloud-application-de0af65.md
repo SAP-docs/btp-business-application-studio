@@ -45,19 +45,7 @@ The Full Stack Cloud Application scenario contains the following predefined exte
 
 -   **Java Tools**
 
-    Allows you to develop, test, and run Java applications. Includes debugging capabilities and enhanced code editors. The following tools are installed as part of the extension:
-
-    -   SapMachine 11
-
-    -   Maven V 3.8.1
-
-    -   Tomcat V 9.0.33
-
-
-    See [Language support for Java ™ for Visual Studio Code](https://github.com/redhat-developer/vscode-java), [Debugger for Java](https://github.com/Microsoft/vscode-java-debug), [Spring Boot tools](https://github.com/spring-projects/sts4), [Java Test Runner](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-test), and [Project Manager for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-dependency).
-
-    > ### Note:  
-    > Not all the features described in the extension documentation are supported.
+    Allows you to develop, test, and run Java applications. Includes debugging capabilities and enhanced code editors.
 
 -   **MTA Tools**
 

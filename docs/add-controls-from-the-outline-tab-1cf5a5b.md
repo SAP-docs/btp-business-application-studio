@@ -10,7 +10,7 @@ You can add controls to the canvas from the *Outline* tab.
 
 1.  On the *Outline* tab, select a control to which you want to add another control.
 
-2.  At the top of the *Outline* tab, click the *Add* ![](images/add_button_webide_36f45e9.jpg) button, then in the popup menu, select the control you want to add.
+2.  At the top of the *Outline* tab, click ![Add icon](images/add_button_webide_36f45e9.jpg), then in the popup menu, select the control you want to add.
 
     The control is added on the *Outline* tab and appears on the canvas.
 

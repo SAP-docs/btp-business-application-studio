@@ -6,14 +6,14 @@ Your trial account comes with a default subaccount that contains all the relevan
 
 1.  From the SAP BTP cockpit, click *Enter your Trial Account*.
 
-    ![](images/Enter_Trial_Account_7fd9d26.png)
+    ![Enter Your Trial Account Button in the SAP BTP cockpit](images/Enter_Trial_Account_7fd9d26.png)
 
 2.  Click *New Subaccount*.
 3.  Fill in the required fields and click *Create*.
 4.  Open your new subaccount.
 5.  From the navigation area, click *Entitlements*.
 
-    ![](images/Entitlements_5f196b2.png)
+    ![Entitlements in SAP BTP cockpit](images/Entitlements_5f196b2.png)
 
 6.  Click *Configure Entitlements*.
 7.  Click *Add Service Plans*.
@@ -21,11 +21,11 @@ Your trial account comes with a default subaccount that contains all the relevan
 9.  Select SAP Business Application Studio and, under *Available Plans*, select *trial \(Application\)*.
 10. Click *Add 1 Service Plan*.
 
-    ![](images/Add_Service_Plan_and_Entitlement_251495f.png)
+    ![Add 1 Service Plan button for entitlement](images/Add_Service_Plan_and_Entitlement_251495f.png)
 
 11. Click *Save*.
 
-    ![](images/save_entitlements_1e2d42f.png)
+    ![Save](images/save_entitlements_1e2d42f.png)
 
 12. From the navigation area, click *Service Marketplace*.
 13. Search for `Studio`.

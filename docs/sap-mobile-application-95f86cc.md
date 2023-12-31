@@ -24,16 +24,7 @@ The SAP Mobile Application scenario contains the following predefined extensions
 
 -   **Java Tools**
 
-    Allows you to develop and run Java applications. Includes debugging capabilities and enhanced code editors. The following tools will be installed as part of the extension:
-
-    -   Java JDK V 8
-
-    -   Maven V 3.8.1
-
-    -   Tomcat V 9.0.33
-
-
-    See [Language support for Java ™ for Visual Studio Code](https://github.com/redhat-developer/vscode-java) and [Debugger for Java](https://github.com/Microsoft/vscode-java-debug).
+    Allows you to develop and run Java applications. Includes debugging capabilities and enhanced code editors.
 
 -   **MTA Tools**
 

@@ -2,35 +2,7 @@
 
 # Connecting to a Corporate Git Repository
 
-As an administrator, you can work with on-premise Git repositories once an appropriate destination has been created in your subaccount.
-
-
-
-<a name="loiod54ddfc1bc4f45b19dabfa0950799685__section_rml_hxl_tnb"/>
-
-## Providing Authentication
-
-SAP Business Application Studio supports basic authentication, which means you must provide your username and password to access your Git provider.
-
-> ### Note:  
-> SSH is not available for on-premise Git installations.
-
-To work with the Git view in SAP Business Application Studio, you need to store or cache credentials. Once you have enabled one of these methods, you will not have to enter your credentials every time you use Git.
-
-> ### Note:  
-> Doing this requires you to entrust your credentials to SAP and to a third party.
-
--   Cache credentials in memory for a short period of time. See [Git Credential Cache](https://git-scm.com/docs/git-credential-cache).
-
--   Store credentials indefinitely in a file on your dev space. See [Git Credential Store](https://git-scm.com/docs/git-credential-store).
-
-
-If it's supported, it's recommended to use a **Personal Access Token** \(PAT\) instead of a password.
-
-For example, you can create a PAT in GitHub following [these instructions](http://help.sap.com/disclaimer?site=https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token). Other Git providers will have different ways of creating PATs.
-
-> ### Note:  
-> PATs are an alternative to using passwords for authentication to Git, and as such, they should be frequently renewed.
+As an administrator, you can work with on-premise Git repositories once an appropriate destination has been created in your subaccount or OAuth has been enabled.
 
 
 
@@ -38,7 +10,7 @@ For example, you can create a PAT in GitHub following [these instructions](http:
 
 ## Connecting to Git
 
-Make sure to use the exact same host and port as defined in the destination URL property.
+Make sure to use the same host and port as defined in the destination URL property.
 
 > ### Note:  
 > The corporate Git connectivity supports only secure HTTPS connections. HTTP, SSH, and other protocols are not supported.
@@ -53,15 +25,11 @@ Make sure to use the exact same host and port as defined in the destination URL 
     <th valign="top">
 
     Field
-
-
     
     </th>
     <th valign="top">
 
     Value
-
-
     
     </th>
     </tr>
@@ -69,15 +37,11 @@ Make sure to use the exact same host and port as defined in the destination URL 
     <td valign="top">
     
     *Back-end Type* 
-
-
     
     </td>
     <td valign="top">
     
     *Non-SAP System* 
-
-
     
     </td>
     </tr>
@@ -85,15 +49,11 @@ Make sure to use the exact same host and port as defined in the destination URL 
     <td valign="top">
     
     *Protocol*
-
-
     
     </td>
     <td valign="top">
     
     *HTTPS* 
-
-
     
     </td>
     </tr>
@@ -101,15 +61,11 @@ Make sure to use the exact same host and port as defined in the destination URL 
     <td valign="top">
     
     *Internal Host / Port* 
-
-
     
     </td>
     <td valign="top">
     
     Enter the internal host and port for your Git system.
-
-
     
     </td>
     </tr>
@@ -117,15 +73,11 @@ Make sure to use the exact same host and port as defined in the destination URL 
     <td valign="top">
     
     *Host / Port* 
-
-
     
     </td>
     <td valign="top">
     
     Enter a virtual host and port for your Git system. You can use the same host and port as for the virtual host and port.
-
-
     
     </td>
     </tr>
@@ -133,15 +85,11 @@ Make sure to use the exact same host and port as defined in the destination URL 
     <td valign="top">
     
     *Principal Type* 
-
-
     
     </td>
     <td valign="top">
     
     *None* 
-
-
     
     </td>
     </tr>
@@ -155,15 +103,11 @@ Make sure to use the exact same host and port as defined in the destination URL 
     <th valign="top">
 
     Field
-
-
     
     </th>
     <th valign="top">
 
     Value
-
-
     
     </th>
     </tr>
@@ -171,15 +115,11 @@ Make sure to use the exact same host and port as defined in the destination URL 
     <td valign="top">
     
     *Enabled* 
-
-
     
     </td>
     <td valign="top">
     
     Checked
-
-
     
     </td>
     </tr>
@@ -187,15 +127,11 @@ Make sure to use the exact same host and port as defined in the destination URL 
     <td valign="top">
     
     *URL Path* 
-
-
     
     </td>
     <td valign="top">
     
     `/` 
-
-
     
     </td>
     </tr>
@@ -203,15 +139,11 @@ Make sure to use the exact same host and port as defined in the destination URL 
     <td valign="top">
     
     *Access Policy* 
-
-
     
     </td>
     <td valign="top">
     
     *Path and all sub-paths* 
-
-
     
     </td>
     </tr>
@@ -231,15 +163,11 @@ Make sure to use the exact same host and port as defined in the destination URL 
         <th valign="top">
 
         Property
-
-
         
         </th>
         <th valign="top">
 
         Value
-
-
         
         </th>
         </tr>
@@ -247,15 +175,11 @@ Make sure to use the exact same host and port as defined in the destination URL 
         <td valign="top">
         
         WebIDEEnabled
-
-
         
         </td>
         <td valign="top">
         
         true
-
-
         
         </td>
         </tr>
@@ -263,15 +187,11 @@ Make sure to use the exact same host and port as defined in the destination URL 
         <td valign="top">
         
         HTML5.DynamicDestination
-
-
         
         </td>
         <td valign="top">
         
         true
-
-
         
         </td>
         </tr>
@@ -281,15 +201,11 @@ Make sure to use the exact same host and port as defined in the destination URL 
         HTML5.Timeout
 
         \(Optional property\)
-
-
         
         </td>
         <td valign="top">
         
         60000
-
-
         
         </td>
         </tr>
@@ -301,6 +217,18 @@ Make sure to use the exact same host and port as defined in the destination URL 
 
 > ### Note:  
 > To start consuming the new configurations, users can either restart their dev space or reload the destinations into the dev space. See [Accessing On Premise Systems](accessing-on-premise-systems-e72930c.md).
+
+
+
+<a name="loiod54ddfc1bc4f45b19dabfa0950799685__section_c41_3ls_gzb"/>
+
+## Enabling OAuth in GitHub Enterprise
+
+1.  Create an OAuth app as described in the [GitHub documentation](https://docs.github.com/en/apps/oauth-apps/building-oauth-apps/creating-an-oauth-app). Make sure to click *Enable Device Flow* when creating the app since OAuth app will use the device flow to identify and authorize users.
+
+2.  Once the app is created, from the *General* tab of the application, copy the *Client ID* number.
+
+3.  Add the `GitHubEnterpriseClientID` as an additional property to the GitHub Enterprise destination, where the value is the *Client ID* number you copied before.
 
 
 

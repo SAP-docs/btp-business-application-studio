@@ -16,7 +16,7 @@ SAP Business Application Studio is based on Code-OSS, an open source used for bu
 > -   :pencil2: Edit: Contribute to a documentation page. This option opens a pull request on GitHub.
 > -   <span class="SAP-icons"></span> Feedback: Provide feedback about a documentation page. This option opens an issue on GitHub.
 > 
-> You need a GitHub account to use these options. For more information, [introduction video](https://www.youtube.com/watch?v=WJ0oarMlVW4).
+> You need a GitHub account to use these options. For more information, see the [introduction video](https://www.youtube.com/watch?v=WJ0oarMlVW4).
 
 
 
@@ -71,7 +71,7 @@ The following browsers are supported for working in SAP Business Application Stu
 
 You can find the regions where SAP Business Application Studio is available in the *Pricing* tab of the [SAP Discovery Center](https://discovery-center.cloud.sap/#/serviceCatalog/business-application-studio?region=all&tab=service_plan&licenseModel=cpea).
 
-![](images/Regions_cacf286.png)
+![The graphic is explained in the accompanying text.](images/Regions_cacf286.png)
 
 -   **[Accessibility Features in SAP Business Application Studio](accessibility-features-in-sap-business-application-studio-704ce0a.md "To optimize your experience, SAP Business Application Studio provides features and settings that help
 		you use the software efficiently.")**  

@@ -14,7 +14,7 @@ You can export and download personal data from specific users from your workspac
 3.  From the list provided, identify the dev space you want to export \(for example by searching for the username property\).
 4.  Copy the `baseUrl` property under the `runtime` section in the dev space you want to export.
 
-    This URL is the `<runtime-url>` parameter used in the request below.
+    This URL is the `<runtime-url>` parameter used in the request in Step 6.
 
 5.  Make sure the dev space you want to export is in the *Running* state. If not, restart the dev space before exporting the data. See [Restart a Dev Space](restart-a-dev-space-1f54583.md).
 6.  Use the following request to export data:

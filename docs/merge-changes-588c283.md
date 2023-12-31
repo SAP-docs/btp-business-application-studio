@@ -23,16 +23,16 @@ Merge operations can fail because of conflicts between the current branch and th
 
 -   The console displays a list of all files with merge conflicts.
 
-    ![](images/merge_conflict_in_console_24ba0af.png)
+    ![Files with merge conflicts](images/merge_conflict_in_console_24ba0af.png)
 
 -   The explorer displays "!" next to any files with conflicts.
 
-    ![](images/merge_conflict_in_explorer_65b86be.png)
+    ![Indication that files have conflicts](images/merge_conflict_in_explorer_65b86be.png)
 
 
 When you access a file with conflicts, the conflicts and the options for resolving them are displayed in the file.
 
-![](images/merge_conflict_resolution_5c11c85.png)
+![Options for resolving conflicts displayed in the file](images/merge_conflict_resolution_5c11c85.png)
 
 Choose from the following options to resolve the merge conflict:
 

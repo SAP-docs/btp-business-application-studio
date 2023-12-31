@@ -8,7 +8,7 @@ To create a different set of roles or update a role collection, perform the foll
 
 1.  In the SAP BTP cockpit, navigate to your subaccount.
 2.  From the Navigation area, choose *Security* \> *Role Collections*.
-3.  Select an existing role collection or click ![](images/Create_Role_Collection_icon_09b623b.png) \(Create Role Collection\), provide a name, click *Create*, and select the new role collection.
+3.  Select an existing role collection or click *Create*, provide a name, click *Create*, and select the new role collection.
 4.  Click *Edit*.
 5.  Open the *Role Name* dialog box to add a new role.
     1.  From the *Role Template* dropdown list, select the relevant role:

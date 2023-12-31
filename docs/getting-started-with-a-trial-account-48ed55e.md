@@ -16,7 +16,7 @@ Set up your trial system to develop applications using SAP Business Application 
 2.  Open the SAP BTP trial cockpit.
 3.  From the *Quick Tool Access* section, click *SAP Business Application Studio*.
 
-    ![](images/Opening_BAS_cc2319f.png)
+    ![SAP Business Application Studio in the SAP BTP trial cockpit](images/Opening_BAS_cc2319f.png)
 
     *SAP Business Application Studio* opens.
 

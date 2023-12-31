@@ -80,7 +80,7 @@ To assign permissions to groups, follow the instructions in the [Map Role Collec
 
 If you want to create a different set of roles, see [Manage Role Collections](manage-role-collections-7870faf.md).
 
--   **[Manage Role Collections](manage-role-collections-7870faf.md "You can create a new role collection with a different set of roles or you can update an
-		existing role collection.")**  
+-   **[Manage Role Collections](manage-role-collections-7870faf.md "You can create a new role collection with a different set of roles or you can update
+		an existing role collection.")**  
 You can create a new role collection with a different set of roles or you can update an existing role collection.
 

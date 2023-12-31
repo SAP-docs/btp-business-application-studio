@@ -4,7 +4,8 @@
 
 This guide describes the administrator tasks of subscription, management of authorizations and roles, connecting to external systems and selecting the application plans, amongst others.
 
--   **[Getting Started](getting-started-19611dd.md "Here's a checklist for setting up your system so you can develop applications using SAP Business Application Studio.")**  
+-   **[Set Up SAP Business Application Studio](set-up-sap-business-application-studio-19611dd.md "Here's a checklist for setting up your system so you can develop applications using
+			SAP Business Application Studio.")**  
 Here's a checklist for setting up your system so you can develop applications using SAP Business Application Studio.
 -   **[Subscribe to SAP Business Application Studio](subscribe-to-sap-business-application-studio-6331319.md "Before you can work in SAP Business Application Studio, the account administrator
 		must subscribe the subaccount to the SAP Business Application Studio application.")**  

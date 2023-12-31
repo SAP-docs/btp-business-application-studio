@@ -12,8 +12,8 @@ Login occurs automatically, using the SAP Business Application Studio user crede
 
 ## Explore SAP System Services
 
-1.  Click the gray arrow to display the SAP Business Application Studio subaccount's destinations \(![Destination](images/SC_API_Hub_product_icon_a999bc7.png)\).
-2.  Click the system \(![System](images/SC_system_icon_5178796.png)\) to see the system properties, including the name, description, URL, authentication type, and status.
+1.  Click the arrow to display the SAP Business Application Studio subaccount's destinations \(![Destination icon](images/SC_API_Hub_product_icon_a999bc7.png)\).
+2.  Click the system \(![System icon](images/SC_system_icon_5178796.png)\) to see the system properties, including the name, description, URL, authentication type, and status.
 
     There are different types of systems displayed using the SAP Business Application Studio subaccount's destinations:
 
@@ -21,7 +21,7 @@ Login occurs automatically, using the SAP Business Application Studio user crede
 
         The destination points to the ABAP system directly. The system shows its service catalogs with a list of services \(V2 and V4, for example\). To see the list of services, click the system and log in with your user credentials, if needed.
 
-        If the service catalog is available and connected \(![Available System](images/SC-_system_connected_icon_1c4c936.png)\), you can search for services within it. Click the search icon \(![](images/service_center_search_a1d4e5e.png)\) and select the relevant service from the command palette.
+        If the service catalog is available and connected \(![Available System icon](images/SC-_system_connected_icon_1c4c936.png)\), you can search for services within it. Click the search icon \(![Search icon](images/service_center_search_a1d4e5e.png)\) and select the relevant service from the command palette.
 
     -   Service Host
 
@@ -35,7 +35,7 @@ Login occurs automatically, using the SAP Business Application Studio user crede
 
         The destination points to the SAP Cloud for Customer system directly. The system shows its service catalog with a list of services \(V2\). To see the list of services, click the system and log in with your user credentials, if needed.
 
-        If the service catalog is available and connected \(![Available System](images/SC-_system_connected_icon_1c4c936.png)\), you can search for services within it. Click the search icon \(![](images/service_center_search_a1d4e5e.png)\) and select the relevant service from the command palette.
+        If the service catalog is available and connected \(![Available System icon](images/SC-_system_connected_icon_1c4c936.png)\), you can search for services within it. Click the search icon \(![Search icon](images/service_center_search_a1d4e5e.png)\) and select the relevant service from the command palette.
 
     -   SAP Business One
 
@@ -48,14 +48,14 @@ Login occurs automatically, using the SAP Business Application Studio user crede
         For more information about SAP Business One and the catalog that exposes a list of services, see [Service Layer API Reference](https://help.sap.com/doc/056f69366b5345a386bb8149f1700c19/10.0/en-US/Service%20Layer%20API%20Reference.html) and [What's New in SAP Business One 10.0, version for SAP HANA](https://help.sap.com/whats-new/753529e7d6144b59b353c94f0cdddbd0?locale=en-US).
 
 
-    If you maintain credentials in the destination configuration of the account, login can occur automatically. If a system is available, the icon has a green dot \(![Available System](images/SC-_system_connected_icon_1c4c936.png)\).
+    If you maintain credentials in the destination configuration of the account, login can occur automatically. If a system is available, there's a dot next to the icon \(![Available System icon](images/SC-_system_connected_icon_1c4c936.png)\).
 
     If you don't maintain the credentials in the destination configuration of the account, you need to log in manually to open the system information.
 
-3.  Click the gray arrow to display the list of services.
-4.  Click a service \(![Service](images/SC-_service_icon_fc5c112.png)\) to see its properties, including the service name, URL, and status.
+3.  Click the arrow to display the list of services.
+4.  Click a service \(![Service icon](images/SC-_service_icon_fc5c112.png)\) to see its properties, including the service name, URL, and status.
 
-    If a service is available, the icon has a green dot \(![Available Service](images/green_dot-_system_available_ac1aa72.jpg)\).
+    If a service is available, there's a dot next to the icon \(![Available Service icon](images/green_dot-_system_available_ac1aa72.jpg)\).
 
 5.  Click an entity to see the service details, including entity data and live data:
     1.  You can see the entity's metadata from the *Entity Details* tab.
@@ -90,6 +90,27 @@ Login occurs automatically, using the SAP Business Application Studio user crede
 
 
 
+### Add an External Service to an SAP Fiori Project
+
+You can add a service to an empty SAP Fiori project or to an SAP Fiori project that doesn't have a service:
+
+1.  Click *Service Actions* \> *Add External Service to SAP Fiori Project*.
+
+    If you only have one empty project:
+
+    -   The service is added and is displayed in the *External Resources* section of the storyboard.
+    -   The `.service.metadata` file is added to the project folder in the file explorer.
+
+        You can then add a UI and integrate the service.
+
+
+    If the SAP Fiori project already had a UI, the added service is integrated into the UI.
+
+    If you have more than one empty SAP Fiori project, you must select the project where you want to add the service.
+
+
+
+
 ### Add an External Data Model to a CAP Project
 
 You can select a service from the Service Center and add it as an external data model to a CAP Node project:
@@ -118,6 +139,7 @@ You can select a service from the Service Center and add it as an external data 
         ```
 
     -   If you added a sample service with the relevant entities, the `<service_name>.cds` and the `<service_name>.js` files appear in the *srv* \> *external* folder of the CAP project.
+    -   The external data model is added to the the storyboard, under *External Resources*.
 
 
 
@@ -129,14 +151,14 @@ You can select a service from the Service Center and add it as an external data 
 You can add a new system to your SAP Business Application Studio subaccount:
 
 > ### Note:  
-> -   If your account isn't a trial account, make sure that the *Business\_Application\_Studio\_Administrator* role is assigned to you in the cockpit. See [Manage Authorizations and Roles](manage-authorizations-and-roles-01e69c5.md).
+> -   If your account isn't a trial account, make sure that the *Business\_Application\_Studio\_Administrator* role is assigned to you in the cockpit. See [Manage Authorizations and Roles](https://help.sap.com/docs/bas/sap-business-application-studio/manage-authorizations-and-roles?version=Cloud&q=SAP%20System%20Service%20Provider).
 > -   If you're adding a system based on an ABAP Service Catalog, the following prerequisites apply:
 >     -   For SAP S/4HANA on-premise, SAP ERP, or another on-premise ABAP, make sure that the Cloud Connector is set up. See this [blog post](https://blogs.sap.com/2021/08/31/connect-to-external-data-sources-with-sap-business-application-studio/) \(under the **Create a Data Source \(Destination\)** heading in the **Service Catalog** section\).
 >     -   For SAP S/4HANA Cloud or the SAP BTP ABAP environment, which both use SAML Bearer Assertion authentication, see [Create a Destination to Connect to SAP Business Application Studio](https://help.sap.com/viewer/6aa39f1ac05441e5a23f484f31e477e7/Latest/en-US/0af2819bbe064a3da455753c8518dd81.html).
 
 1.  Click the relevant button to add a system:
     -   If you are adding a system for the first time, click *Add System*.
-    -   If you already have a system, hover over the subaccount and click ![](images/Add_system-_service_center-_plus_icon_3701d6b.jpg) \(Add system\).
+    -   If you already have a system, hover over the subaccount and click ![Add system icon](images/Add_system-_service_center-_plus_icon_3701d6b.jpg) \(Add system\).
 
         A new tab opens.
 

@@ -11,25 +11,27 @@ The SAP Business Accelerator Hub \(formerly known as the SAP API Business Hub\) 
 
 ## Explore SAP Business Accelerator Hub Services
 
-1.  From the Service Center, click the gray arrow to display the SAP Business Accelerator Hub products:
+1.  From the Service Center, click the arrow to display the SAP Business Accelerator Hub products:
 
     SAP S/4HANA Cloud, SAP S/4HANA, SAP SuccessFactors, SAP Customer Experience, and SAP Business Technology Platform
 
-2.  Click the gray arrow next to the product \(![Product](images/SC_API_Hub_product_icon_a999bc7.png)\) to display the packages.
+2.  Click the arrow next to the product \(![Product icon](images/SC_API_Hub_product_icon_a999bc7.png)\) to display the packages.
 
-    If the package is available and connected \(![Available Package](images/SC-_system_connected_icon_1c4c936.png)\), you can search for services within it. Click the search icon \(![](images/service_center_search_a1d4e5e.png)\) and select the relevant service from the command palette.
+    To explore events, see[Explore SAP S/4HANA or SAP S/4HANA Cloud Events](https://help.sap.com/docs/bas/developing-cap-application-in-sap-business-application-studio/adding-sap-s-4hana-cloud-events-to-your-project#explore-sap-s%2F4hana-or-sap-s%2F4hana-cloud-events) for the *Full Stack Cloud Application* dev space and [Explore SAP S/4HANA or SAP S/4HANA Cloud Events](https://help.sap.com/docs/bas/developing-business-applications-using-productivity-tools/add-sap-s-4hana-cloud-events#explore-sap-s%2F4hana-or-sap-s%2F4hana-cloud-events) for the *Full-Stack Application Using Productivity Tools* dev space.
 
-3.  Click the gray arrow next to the package \(![Available Package](images/SC-_system_connected_icon_1c4c936.png)\) to display the services \(APIs\).
-4.  Click a service \(![Service](images/SC-_service_icon_fc5c112.png)\) and log in with your SAP Business Accelerator Hub credentials, if needed.
+    If the package is available and connected \(![Available Package icon](images/SC-_system_connected_icon_1c4c936.png)\), you can search for services within it. Click the search icon \(![Search icon](images/service_center_search_a1d4e5e.png)\) and select the relevant service from the command palette.
+
+3.  Click the arrow next to the package \(![Available Package icon](images/SC-_system_connected_icon_1c4c936.png)\) to display the services \(APIs\).
+4.  Click a service \(![Service icon](images/SC-_service_icon_fc5c112.png)\) and log in with your SAP Business Accelerator Hub credentials, if needed.
 
     > ### Note:  
     > You must log in with your SAP Business Accelerator Hub credentials one time at the beginning of your session.
 
-    After you log in to a service, the icon has a green dot \(![Available Service](images/green_dot-_system_available_ac1aa72.jpg)\).
+    After you log in to a service, there's a dot next to the icon \(![Available Service icon](images/green_dot-_system_available_ac1aa72.jpg)\).
 
     The service editor displays the service's properties, including the service name, protocol, status, and product.
 
-    You can navigate to the API package by clicking ![Open API Package](images/go_to_API_59e0aba.png).
+    You can navigate to the API package by clicking ![Open API Package icon](images/go_to_API_59e0aba.png).
 
     You can also navigate to the service in the SAP Business Accelerator Hub by clicking the URL. From the SAP Business Accelerator Hub, you can click *Try Out* to test the API in the sandbox environment.
 
@@ -70,6 +72,27 @@ The SAP Business Accelerator Hub \(formerly known as the SAP API Business Hub\) 
 
 
 
+### Add an External Service to an SAP Fiori Project
+
+You can add a service to an empty SAP Fiori project or to an SAP Fiori project that doesn't have a service:
+
+1.  Click *Service Actions* \> *Add External Service to SAP Fiori Project*.
+
+    If you only have one empty project:
+
+    -   The service is added and is displayed in the *External Resources* section of the storyboard.
+    -   The `.service.metadata` file is added to the project folder in the file explorer.
+
+        You can then add a UI and integrate the service.
+
+
+    If the SAP Fiori project already had a UI, the added service is integrated into the UI.
+
+    If you have more than one empty SAP Fiori project, you must select the project where you want to add the service.
+
+
+
+
 ### Add an External Data Model to a CAP Project
 
 You can select a service from the Service Center and add it as an external data model to a CAP Node project:
@@ -98,11 +121,12 @@ You can select a service from the Service Center and add it as an external data 
         ```
 
     -   If you added a sample service with the relevant entities, the `<service_name>.cds` and the `<service_name>.js` files appear in the *srv* \> *external* folder of the CAP project.
+    -   The external data model is added to the the storyboard, under *External Resources*.
 
 
 
 
 ### Add SAP S/4HANA or SAP S/4HANA Cloud Events
 
-To add SAP S/4HANA or SAP S/4HANA Cloud events for consumption to your project, see [Adding SAP S/4HANA or SAP S/4HANA Cloud Events to Your Project](https://help.sap.com/viewer/9c36fdb911ae4cadab467a314d9e331f/Cloud/en-US/bf6fa41b00f54a4cb1699975edc7fa94.html "Add events for consumption from SAP S/4HANA or SAP S/4HANA Cloud to your Full Stack Cloud Application project.") :arrow_upper_right: for the *Full Stack Cloud Application* dev space and [Add SAP S/4HANA or SAP S/4HANA Cloud Events](https://help.sap.com/viewer/f9814e8df1cb43e1890e0f8d25374b8f/Cloud/en-US/5d3cebeddeee458186f1896cfe656f6a.html "Add events for consumption from SAP S/4HANA or SAP S/4HANA Cloud to your Full-Stack Application Using Productivity Tools project.") :arrow_upper_right: for the *Full-Stack Application Using Productivity Tools* dev space.
+To add SAP S/4HANA or SAP S/4HANA Cloud events for consumption to your project, see [Adding SAP S/4HANA or SAP S/4HANA Cloud Events to Your Project](https://help.sap.com/docs/bas/developing-cap-application-in-sap-business-application-studio/adding-sap-s-4hana-cloud-events-to-your-project) for the *Full Stack Cloud Application* dev space and [Add SAP S/4HANA or SAP S/4HANA Cloud Events](https://help.sap.com/docs/bas/developing-business-applications-using-productivity-tools/add-sap-s-4hana-cloud-events?q=SAP%20System%20Service%20Provider) for the *Full-Stack Application Using Productivity Tools* dev space.
 

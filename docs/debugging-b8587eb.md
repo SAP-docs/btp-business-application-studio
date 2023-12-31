@@ -49,7 +49,7 @@ There are two core debugging modes, Launch and Attach.
 
 The debugger can launch a program in debug mode, or it can attach to an already running program in debug mode.
 
-You can trigger these modes from the command palette: *Debug : Attach to Node Process* 
+You can trigger these modes from the command palette: *Debug: Attach to Node Process* 
 
 
 
@@ -61,9 +61,9 @@ Breakpoints can be toggled by clicking on the editor margin or using [F9\] on th
 
 You can also use the BREAKPOINTS section.
 
-![](images/breakpoints_db76b2b.png)
+![Breakpoints section](images/breakpoints_db76b2b.png)
 
--   Click ![](images/add_function_breakpoints_1b4f224.png) to add a function breakpoint.
--   Click ![](images/deactivate_breakpoint_4afda37.png) to deactivate a breakpoint.
--   Click ![](images/remove_breakpoints_2629bdf.png) to remove all breakpoints.
+-   Click ![Add a function breakpoint](images/add_function_breakpoints_1b4f224.png) to add a function breakpoint.
+-   Click ![Deactivate breakpoint](images/deactivate_breakpoint_4afda37.png) to deactivate a breakpoint.
+-   Click ![Remove all breakpoints](images/remove_breakpoints_2629bdf.png) to remove all breakpoints.
 

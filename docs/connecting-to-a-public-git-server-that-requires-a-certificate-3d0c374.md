@@ -42,15 +42,11 @@ You can manage the connectivity to a public Git server that requires a client ce
     <th valign="top">
 
     Property
-
-
     
     </th>
     <th valign="top">
 
     Value
-
-
     
     </th>
     </tr>
@@ -58,15 +54,11 @@ You can manage the connectivity to a public Git server that requires a client ce
     <td valign="top">
     
     WebIDEEnabled
-
-
     
     </td>
     <td valign="top">
     
     true
-
-
     
     </td>
     </tr>
@@ -74,15 +66,11 @@ You can manage the connectivity to a public Git server that requires a client ce
     <td valign="top">
     
     WebIDEUsage
-
-
     
     </td>
     <td valign="top">
     
     git
-
-
     
     </td>
     </tr>
@@ -90,8 +78,6 @@ You can manage the connectivity to a public Git server that requires a client ce
     <td valign="top">
     
     WebIDEAdditionalData
-
-
     
     </td>
     <td valign="top">
@@ -103,8 +89,6 @@ You can manage the connectivity to a public Git server that requires a client ce
     So you would enter in the field: `git_host_git.acme.corp`
 
     ![](images/PublicGitDestination_a2fedad.jpg)
-
-
     
     </td>
     </tr>

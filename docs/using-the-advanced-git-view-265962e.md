@@ -40,11 +40,11 @@ Shows the files that will be included in the next commit.
 
 Hover over the section title to see additional actions.
 
--   Click ![](images/unstage_changes_icon_684e1d1.png) to unstage all files in the section.
+-   Click ![Unstage icon](images/unstage_changes_icon_684e1d1.png) to unstage all files in the section.
 
 Hover over the files in this section to see additional actions:
 
--   Click ![](images/unstage_changes_icon_684e1d1.png) to unstage the changes in the file.
+-   Click ![Unstage icon](images/unstage_changes_icon_684e1d1.png) to unstage the changes in the file.
 -   Click ![open file](images/Git_open_file_787f08b.png) to open the file.
 
 *Changes* section

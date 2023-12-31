@@ -19,15 +19,11 @@ The Unified Customer Landscape service provider includes packages and services f
     <th valign="top">
 
     Property
-
-
     
     </th>
     <th valign="top">
 
     Value
-
-
     
     </th>
     </tr>
@@ -35,15 +31,11 @@ The Unified Customer Landscape service provider includes packages and services f
     <td valign="top">
     
     *Name*
-
-
     
     </td>
     <td valign="top">
     
     Provide a name of your choice.
-
-
     
     </td>
     </tr>
@@ -51,15 +43,11 @@ The Unified Customer Landscape service provider includes packages and services f
     <td valign="top">
     
     *Type*
-
-
     
     </td>
     <td valign="top">
     
     *HTTP*
-
-
     
     </td>
     </tr>
@@ -67,8 +55,6 @@ The Unified Customer Landscape service provider includes packages and services f
     <td valign="top">
     
     *URL*
-
-
     
     </td>
     <td valign="top">
@@ -88,15 +74,11 @@ The Unified Customer Landscape service provider includes packages and services f
     <td valign="top">
     
     *Proxy Type*
-
-
     
     </td>
     <td valign="top">
     
     *Internet*
-
-
     
     </td>
     </tr>
@@ -104,15 +86,11 @@ The Unified Customer Landscape service provider includes packages and services f
     <td valign="top">
     
     *Authentication*
-
-
     
     </td>
     <td valign="top">
     
     Select the authentication based on your SAP S/4HANA Cloud system inbound communication settings.
-
-
     
     </td>
     </tr>
@@ -126,15 +104,11 @@ The Unified Customer Landscape service provider includes packages and services f
     <th valign="top">
 
     Property
-
-
     
     </th>
     <th valign="top">
 
     Value
-
-
     
     </th>
     </tr>
@@ -142,15 +116,11 @@ The Unified Customer Landscape service provider includes packages and services f
     <td valign="top">
     
     *HTML5.DynamicDestination*
-
-
     
     </td>
     <td valign="top">
     
     `true`
-
-
     
     </td>
     </tr>
@@ -158,15 +128,11 @@ The Unified Customer Landscape service provider includes packages and services f
     <td valign="top">
     
     *WebIDEEnabled*
-
-
     
     </td>
     <td valign="top">
     
     `true`
-
-
     
     </td>
     </tr>
@@ -174,8 +140,6 @@ The Unified Customer Landscape service provider includes packages and services f
     <td valign="top">
     
     *x-system-type*
-
-
     
     </td>
     <td valign="top">
@@ -183,8 +147,6 @@ The Unified Customer Landscape service provider includes packages and services f
     `SAP S/4HANA Cloud`
 
     This value is displayed in the *System Landscape* \> *System Details* \> *System Type* field in the SAP BTP cockpit.
-
-
     
     </td>
     </tr>
@@ -192,8 +154,6 @@ The Unified Customer Landscape service provider includes packages and services f
     <td valign="top">
     
     *x-correlation-id*
-
-
     
     </td>
     <td valign="top">
@@ -203,8 +163,6 @@ The Unified Customer Landscape service provider includes packages and services f
     Replace the number based on the relevant com\_scenario for the destination.
 
     This value is displayed in the *System Landscape* \> *System Details* \> *Consumption Bundles* \> *Correlation IDs* column in the SAP BTP cockpit.
-
-
     
     </td>
     </tr>
@@ -212,8 +170,6 @@ The Unified Customer Landscape service provider includes packages and services f
     <td valign="top">
     
     *x-system-id*
-
-
     
     </td>
     <td valign="top">
@@ -221,8 +177,6 @@ The Unified Customer Landscape service provider includes packages and services f
     Enter the name of the system ID.
 
     This value is displayed in the *System Landscape* \> *System Details* \> *System ID* field in the SAP BTP cockpit.
-
-
     
     </td>
     </tr>
@@ -235,17 +189,20 @@ The Unified Customer Landscape service provider includes packages and services f
 
 ## Explore Unified Customer Landscape Services
 
-1.  Click the gray arrow to display the available systems \(![System](images/SC_API_Hub_product_icon_a999bc7.png)\) for the account.
-2.  Click the gray arrow to display the packages \(![Package](images/SC_system_icon_5178796.png)\) under a system.
+1.  Click the arrow to display the available systems \(![System icon](images/SC_API_Hub_product_icon_a999bc7.png)\) for the account.
 
-    If the package is available and connected \(![Available Package](images/SC-_system_connected_icon_1c4c936.png)\), you can search for services within it. Click the search icon \(![](images/service_center_search_a1d4e5e.png)\) and select the relevant service from the command palette.
+    To explore events, see[Explore SAP S/4HANA or SAP S/4HANA Cloud Events](https://help.sap.com/docs/bas/developing-cap-application-in-sap-business-application-studio/adding-sap-s-4hana-cloud-events-to-your-project#explore-sap-s%2F4hana-or-sap-s%2F4hana-cloud-events) for the *Full Stack Cloud Application* dev space and [Explore SAP S/4HANA or SAP S/4HANA Cloud Events](https://help.sap.com/docs/bas/developing-business-applications-using-productivity-tools/add-sap-s-4hana-cloud-events#explore-sap-s%2F4hana-or-sap-s%2F4hana-cloud-events) for the *Full-Stack Application Using Productivity Tools* dev space.
 
-3.  Click the gray arrow to display the services under a package.
-4.  Click a service \(![Service](images/SC-_service_icon_fc5c112.png)\) to see its properties, including the service name, protocol, version, URL, and status.
+2.  Click the arrow to display the packages \(![Package icon](images/SC_system_icon_5178796.png)\) under a system.
 
-    If there are many destinations available for the Unified Customer Landscape service, you can see the *Connectivity Information* for the specific destination that you're exploring. You can see the destination's name, authentication, proxy, consumption bundle name and ID, and correlation ID.
+    If the package is available and connected \(![Available Package icon](images/SC-_system_connected_icon_1c4c936.png)\), you can search for services within it. Click the search icon \(![Search icon](images/service_center_search_a1d4e5e.png)\) and select the relevant service from the command palette.
 
-    If a service is available, the icon has a green dot \(![Available Service](images/green_dot-_system_available_ac1aa72.jpg)\).
+3.  Click the arrow to display the services under a package.
+4.  Click a service \(![Service icon](images/SC-_service_icon_fc5c112.png)\) to see its properties, including the service name, protocol, version, URL, and status.
+
+    In the *Connectivity Information*, you can see the consumption bundle name, ID, and correlation ID. If there is a destination, you can select it and see its name and authentication.
+
+    If a service is available, there's a dot next to the icon \(![Available Service](images/green_dot-_system_available_ac1aa72.jpg)\).
 
 5.  Click an entity to see the service details, including entity data and live data:
     1.  You can see the entity's metadata from the *Entity Details* tab.
@@ -280,6 +237,27 @@ The Unified Customer Landscape service provider includes packages and services f
 
 
 
+### Add an External Service to an SAP Fiori Project
+
+You can add a service to an empty SAP Fiori project or to an SAP Fiori project that doesn't have a service:
+
+1.  Click *Service Actions* \> *Add External Service to SAP Fiori Project*.
+
+    If you only have one empty project:
+
+    -   The service is added and is displayed in the *External Resources* section of the storyboard.
+    -   The `.service.metadata` file is added to the project folder in the file explorer.
+
+        You can then add a UI and integrate the service.
+
+
+    If the SAP Fiori project already had a UI, the added service is integrated into the UI.
+
+    If you have more than one empty SAP Fiori project, you must select the project where you want to add the service.
+
+
+
+
 ### Add an External Data Model to a CAP Project
 
 You can select a service from the Service Center and add it as an external data model to a CAP Node project:
@@ -308,5 +286,12 @@ You can select a service from the Service Center and add it as an external data 
         ```
 
     -   If you added a sample service with the relevant entities, the `<service_name>.cds` and the `<service_name>.js` files appear in the *srv* \> *external* folder of the CAP project.
+    -   The external data model is added to the the storyboard, under *External Resources*.
 
+
+
+
+### Add SAP S/4HANA or SAP S/4HANA Cloud Events
+
+To add SAP S/4HANA or SAP S/4HANA Cloud events for consumption to your project, see [Adding SAP S/4HANA or SAP S/4HANA Cloud Events to Your Project](https://help.sap.com/docs/bas/developing-cap-application-in-sap-business-application-studio/adding-sap-s-4hana-cloud-events-to-your-project) for the *Full Stack Cloud Application* dev space and [Add SAP S/4HANA or SAP S/4HANA Cloud Events](https://help.sap.com/docs/bas/developing-business-applications-using-productivity-tools/add-sap-s-4hana-cloud-events?q=SAP%20System%20Service%20Provider) for the *Full-Stack Application Using Productivity Tools* dev space.
 

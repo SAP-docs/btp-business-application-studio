@@ -10,7 +10,7 @@ You can remove controls from the *Outline* tab.
 
 1.  On the *Outline* tab, select a control that you want to delete.
 
-2.  At the top of the *Outline* tab, click the *Delete* ![](images/delete_button_webide2_3866aba.jpg) button.
+2.  At the top of the *Outline* tab, click ![Delete icon](images/delete_button_webide2_3866aba.jpg).
 
     The control is removed from the view.
 

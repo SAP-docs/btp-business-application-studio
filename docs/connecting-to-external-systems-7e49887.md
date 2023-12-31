@@ -45,15 +45,11 @@ See [Add a System](sap-system-service-provider-892114c.md#loio892114ce078b4e17a9
     <th valign="top">
 
     Property
-
-
     
     </th>
     <th valign="top">
 
     Value
-
-
     
     </th>
     </tr>
@@ -61,15 +57,11 @@ See [Add a System](sap-system-service-provider-892114c.md#loio892114ce078b4e17a9
     <td valign="top">
     
     `WebIDEEnabled`
-
-
     
     </td>
     <td valign="top">
     
     `true`
-
-
     
     </td>
     </tr>
@@ -77,15 +69,11 @@ See [Add a System](sap-system-service-provider-892114c.md#loio892114ce078b4e17a9
     <td valign="top">
     
     `HTML5.DynamicDestination`
-
-
     
     </td>
     <td valign="top">
     
     `true`
-
-
     
     </td>
     </tr>
@@ -99,15 +87,11 @@ See [Add a System](sap-system-service-provider-892114c.md#loio892114ce078b4e17a9
     <th valign="top">
 
     Destination Type
-
-
     
     </th>
     <th valign="top">
 
     Properties
-
-
     
     </th>
     </tr>
@@ -115,8 +99,6 @@ See [Add a System](sap-system-service-provider-892114c.md#loio892114ce078b4e17a9
     <td valign="top">
     
     **ABAP System**
-
-
     
     </td>
     <td valign="top">
@@ -130,8 +112,6 @@ See [Add a System](sap-system-service-provider-892114c.md#loio892114ce078b4e17a9
     `dev_abap`:
 
     For deploying to the SAPUI5 ABAP Repository and developing extension projects.
-
-
     
     </td>
     </tr>
@@ -139,8 +119,6 @@ See [Add a System](sap-system-service-provider-892114c.md#loio892114ce078b4e17a9
     <td valign="top">
     
     **SAP Cloud for Customer**
-
-
     
     </td>
     <td valign="top">
@@ -148,8 +126,6 @@ See [Add a System](sap-system-service-provider-892114c.md#loio892114ce078b4e17a9
     *WebIDEUsage* value: `odata_c4c`
 
     Used to explore SAP Cloud for Customer catalogs.
-
-
     
     </td>
     </tr>
@@ -157,8 +133,6 @@ See [Add a System](sap-system-service-provider-892114c.md#loio892114ce078b4e17a9
     <td valign="top">
     
     **Service URL**
-
-
     
     </td>
     <td valign="top">
@@ -166,8 +140,6 @@ See [Add a System](sap-system-service-provider-892114c.md#loio892114ce078b4e17a9
     *WebIDEUsage* value: `odata_gen` 
 
     For an absolute URL, you can use the full URL option \(*WebIDEAdditionalData* property and *full\_url* as the value\). For a service host, the relative URL should be added upon login.
-
-
     
     </td>
     </tr>
@@ -175,15 +147,11 @@ See [Add a System](sap-system-service-provider-892114c.md#loio892114ce078b4e17a9
     <td valign="top">
     
     **SAP Business Accelerator Hub**
-
-
     
     </td>
     <td valign="top">
     
     *WebIDEUsage* value: `apihub_sandbox`
-
-
     
     </td>
     </tr>
@@ -191,7 +159,7 @@ See [Add a System](sap-system-service-provider-892114c.md#loio892114ce078b4e17a9
     
 5.  Choose *Save*.
 
-6.  If you are using an ABAP system from the SAP BTP environment or SAP S/4HANA Cloud, make sure to follow the required integration steps for setting up the communication between the system and SAP Business Application Studio:
+6.  If you are using an ABAP system from the SAP BTP, ABAP environment or SAP S/4HANA Cloud, make sure to follow the required integration steps for setting up the communication between the system and SAP Business Application Studio:
 
     -   SAP S/4HANA Cloud, public edition: [Integrating SAP Business Application Studio](https://help.sap.com/docs/SAP_S4HANA_CLOUD/0f69f8fb28ac4bf48d2b57b9637e81fa/22bc724fd51a4aa4a4d1c5854db7e026.html)
     -   SAP BTP, ABAP environment: [Setup of UI Development in SAP Business Application Studio](https://help.sap.com/docs/sap-btp-abap-environment/abap-environment/setup-of-ui-development-in-sap-business-application-studio-optional)

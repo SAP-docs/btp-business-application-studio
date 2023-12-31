@@ -4,7 +4,7 @@
 
 You can create projects based on your development scenario and the extensions installed in the dev space using the terminal.
 
-1.  To open the terminal, select *Terminal* \> *New Terminal* from the left-side menu.
+1.  To open the terminal, navigate to *Terminal* \> *New Terminal* from the menu.
 2.  Enter `yo` in the terminal.
 3.  Select the relevant project type from the list, such as `Fiori Project` or `Basic Multitarget Application`.
 4.  Answer the questions according to the type of application that you want to create.

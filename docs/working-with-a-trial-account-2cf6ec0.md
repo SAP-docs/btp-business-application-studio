@@ -18,14 +18,10 @@ Trial accounts are intended for personal exploration, and not for production use
 > 
 > Provider
 > 
-> 
-> 
 > </th>
 > <th valign="top">
 > 
 > Supported Regions
-> 
-> 
 > 
 > </th>
 > </tr>
@@ -33,8 +29,6 @@ Trial accounts are intended for personal exploration, and not for production use
 > <td valign="top">
 > 
 > Amazon Web Services \(AWS\)
-> 
-> 
 > 
 > </td>
 > <td valign="top">
@@ -53,14 +47,10 @@ Trial accounts are intended for personal exploration, and not for production use
 > 
 > Microsoft Azure
 > 
-> 
-> 
 > </td>
 > <td valign="top">
 > 
 > Singapore
-> 
-> 
 > 
 > </td>
 > </tr>
@@ -78,9 +68,10 @@ See [What's New in SAP Business Application Studio](https://help.sap.com/viewer/
 
 -   **[Getting Started with a Trial Account](getting-started-with-a-trial-account-48ed55e.md "Set up your trial system to develop applications using SAP Business Application Studio.")**  
 Set up your trial system to develop applications using SAP Business Application Studio.
--   **[Trial Account Restrictions](trial-account-restrictions-a45742a.md "")**  
-
--   **[Creating a New Subaccount](creating-a-new-subaccount-c44668e.md "Your trial account comes with a default subaccount that contains all the relevant roles
-		and authorizations. You can create additional subaccounts, if needed.")**  
+-   **[Trial Account Restrictions](trial-account-restrictions-a45742a.md "There are additional restrictions that apply to SAP Business Application Studio trial
+		accounts.")**  
+There are additional restrictions that apply to SAP Business Application Studio trial accounts.
+-   **[Creating a New Subaccount](creating-a-new-subaccount-c44668e.md "Your trial account comes with a default subaccount that contains all the relevant
+		roles and authorizations. You can create additional subaccounts, if needed.")**  
 Your trial account comes with a default subaccount that contains all the relevant roles and authorizations. You can create additional subaccounts, if needed.
 

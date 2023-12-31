@@ -6,7 +6,7 @@ Connect to Cloud Foundry using the UI or the command line.
 
 The manner in which you can connect to Cloud Foundry depends on the identity provider \(IdP\) you use.
 
-![](images/Sign_in_to_CF_742f3fe.png)
+![Cloud Foundry Sign In](images/Sign_in_to_CF_742f3fe.png)
 
 
 
@@ -21,28 +21,20 @@ The manner in which you can connect to Cloud Foundry depends on the identity pro
 
  
 
-
-
 </th>
 <th valign="top">
 
 SAP ID Service
-
-
 
 </th>
 <th valign="top">
 
 Custom IdP
 
-
-
 </th>
 <th valign="top">
 
 Corporate IdP
-
-
 
 </th>
 </tr>
@@ -51,28 +43,20 @@ Corporate IdP
 
 SAP Business Application Studio UI-based login with username and password
 
-
-
 </td>
 <td valign="top">
 
 Supported
 
-
-
 </td>
 <td valign="top">
 
 Not supported
 
-
-
 </td>
 <td valign="top">
 
 Not supported
-
-
 
 </td>
 </tr>
@@ -81,28 +65,20 @@ Not supported
 
 SAP Business Application Studio UI-based SSO login
 
+</td>
+<td valign="top">
 
+Supported
 
 </td>
 <td valign="top">
 
 Supported
 
-
-
 </td>
 <td valign="top">
 
 Supported
-
-
-
-</td>
-<td valign="top">
-
-Supported
-
-
 
 </td>
 </tr>
@@ -111,28 +87,20 @@ Supported
 
 SAP Business Application Studio CLI-based login
 
+</td>
+<td valign="top">
 
+Supported
 
 </td>
 <td valign="top">
 
 Supported
 
-
-
 </td>
 <td valign="top">
 
 Supported
-
-
-
-</td>
-<td valign="top">
-
-Supported
-
-
 
 </td>
 </tr>
@@ -141,9 +109,7 @@ Supported
 
 CLI-based login example
 
-![](images/cli_cf_login_4f61410.png)
-
-
+![CLI-based login](images/cli_cf_login_4f61410.png)
 
 </td>
 <td valign="top">
@@ -152,16 +118,12 @@ Reference
 
 `cf login`
 
-
-
 </td>
 <td valign="top">
 
 Reference
 
 `cf login --origin <origin>`
-
-
 
 </td>
 <td valign="top">
@@ -170,8 +132,6 @@ Reference
 
 `cf login --sso`
 
-
-
 </td>
 </tr>
 <tr>
@@ -179,28 +139,20 @@ Reference
 
 Authorization flow
 
-
-
 </td>
 <td valign="top">
 
 OAuth Resource Owner Password
 
-
-
 </td>
 <td valign="top">
 
 OAuth Resource Owner Password
-
-
 
 </td>
 <td valign="top">
 
 OAuth Authorization Code Grant \(browser flow\) + One-Time Passcode
-
-
 
 </td>
 </tr>

@@ -8,7 +8,7 @@ The project explorer displays application components in a logical view, which si
 
 It gives you a bird's-eye view of the components involved in your application at any point in time.
 
-Open the project explorer from the activity bar
+Open the project explorer from the activity bar.
 
-![project explorer view](images/Project_Explorer_f95bf3b.png)
+![Project Explorer view](images/Project_Explorer_f95bf3b.png)
 

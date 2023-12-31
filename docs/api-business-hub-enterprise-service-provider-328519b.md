@@ -22,7 +22,7 @@ You can add a new system, referring to the API business hub enterprise instance,
 > -   You're assigned the *Business\_Application\_Studio\_Administrator* role in the cockpit. See [Manage Authorizations and Roles](manage-authorizations-and-roles-01e69c5.md).
 > -   You're connected to a space with a subscription to the API business hub enterprise.
 
-1.  Hover over the subaccount and click ![](images/Add_system-_service_center-_plus_icon_3701d6b.jpg) \(Add system\).
+1.  Hover over the subaccount and click ![Add system icon](images/Add_system-_service_center-_plus_icon_3701d6b.jpg) \(Add system\).
 
     A new tab opens.
 
@@ -41,15 +41,11 @@ You can add a new system, referring to the API business hub enterprise instance,
     <th valign="top">
 
     Property
-
-
     
     </th>
     <th valign="top">
 
     Value
-
-
     
     </th>
     </tr>
@@ -57,15 +53,11 @@ You can add a new system, referring to the API business hub enterprise instance,
     <td valign="top">
     
     *Name*
-
-
     
     </td>
     <td valign="top">
     
     Provide a name for the system.
-
-
     
     </td>
     </tr>
@@ -73,15 +65,11 @@ You can add a new system, referring to the API business hub enterprise instance,
     <td valign="top">
     
     *Type*
-
-
     
     </td>
     <td valign="top">
     
     *HTTP*
-
-
     
     </td>
     </tr>
@@ -89,8 +77,6 @@ You can add a new system, referring to the API business hub enterprise instance,
     <td valign="top">
     
     *URL*
-
-
     
     </td>
     <td valign="top">
@@ -99,9 +85,7 @@ You can add a new system, referring to the API business hub enterprise instance,
 
     You can find the service key for the service instance that you created \(in the Prerequisite\) in the SAP BTP cockpit, under the *API Management, API Business Hub Enterprise* service.
 
-    ![URL Value](images/service_instance_key-_ABHE-_cropped_9439c8c.png)
-
-
+    ![URL value from the service key of the API business hub enterprise instance](images/service_instance_key-_ABHE-_cropped_9439c8c.png)
     
     </td>
     </tr>
@@ -109,15 +93,11 @@ You can add a new system, referring to the API business hub enterprise instance,
     <td valign="top">
     
     *Proxy Type*
-
-
     
     </td>
     <td valign="top">
     
     *Internet*
-
-
     
     </td>
     </tr>
@@ -125,15 +105,11 @@ You can add a new system, referring to the API business hub enterprise instance,
     <td valign="top">
     
     *Authentication*
-
-
     
     </td>
     <td valign="top">
     
     *OAuth2ClientCredentials*
-
-
     
     </td>
     </tr>
@@ -141,15 +117,11 @@ You can add a new system, referring to the API business hub enterprise instance,
     <td valign="top">
     
     *Client ID*
-
-
     
     </td>
     <td valign="top">
     
     Use the `clientId` value from the service key of the API business hub enterprise instance.
-
-
     
     </td>
     </tr>
@@ -157,15 +129,11 @@ You can add a new system, referring to the API business hub enterprise instance,
     <td valign="top">
     
     *Client Secret*
-
-
     
     </td>
     <td valign="top">
     
     Use the `clientSecret` value from the service key of the API business hub enterprise instance.
-
-
     
     </td>
     </tr>
@@ -173,15 +141,11 @@ You can add a new system, referring to the API business hub enterprise instance,
     <td valign="top">
     
     *Token Service URL*
-
-
     
     </td>
     <td valign="top">
     
     Use the `tokenUrl` value from the service key of the API business hub enterprise instance.
-
-
     
     </td>
     </tr>
@@ -195,15 +159,11 @@ You can add a new system, referring to the API business hub enterprise instance,
     <th valign="top">
 
     Property
-
-
     
     </th>
     <th valign="top">
 
     Value
-
-
     
     </th>
     </tr>
@@ -211,15 +171,11 @@ You can add a new system, referring to the API business hub enterprise instance,
     <td valign="top">
     
     *HTML5.DynamicDestination*
-
-
     
     </td>
     <td valign="top">
     
     `true`
-
-
     
     </td>
     </tr>
@@ -227,15 +183,11 @@ You can add a new system, referring to the API business hub enterprise instance,
     <td valign="top">
     
     *WebIDEEnabled*
-
-
     
     </td>
     <td valign="top">
     
     `true`
-
-
     
     </td>
     </tr>
@@ -243,15 +195,11 @@ You can add a new system, referring to the API business hub enterprise instance,
     <td valign="top">
     
     *WebIDEUsage*
-
-
     
     </td>
     <td valign="top">
     
     `apihub_enterprise`
-
-
     
     </td>
     </tr>
@@ -259,8 +207,6 @@ You can add a new system, referring to the API business hub enterprise instance,
     <td valign="top">
     
     *apiBusinessHubEnterpriseURL*
-
-
     
     </td>
     <td valign="top">
@@ -281,15 +227,11 @@ You can add a new system, referring to the API business hub enterprise instance,
     <th valign="top">
 
     Property
-
-
     
     </th>
     <th valign="top">
 
     Value
-
-
     
     </th>
     </tr>
@@ -297,8 +239,6 @@ You can add a new system, referring to the API business hub enterprise instance,
     <td valign="top">
     
     subscribed subaccount name
-
-
     
     </td>
     <td valign="top">
@@ -308,8 +248,6 @@ You can add a new system, referring to the API business hub enterprise instance,
     For example, if the URL is https://abcd123trial.authentication.eu10.hana.ondemand.com/oauth/token
 
     Use **abcd123trial** for the subscribed subaccount name.
-
-
     
     </td>
     </tr>
@@ -317,8 +255,6 @@ You can add a new system, referring to the API business hub enterprise instance,
     <td valign="top">
     
     devportal\_url
-
-
     
     </td>
     <td valign="top">
@@ -334,8 +270,6 @@ You can add a new system, referring to the API business hub enterprise instance,
     <td valign="top">
     
     region
-
-
     
     </td>
     <td valign="top">
@@ -345,8 +279,6 @@ You can add a new system, referring to the API business hub enterprise instance,
     For example, if the `tokenUrl` is https://abcd123trial.authentication.eu10.hana.ondemand.com/oauth/token
 
     The region is **eu10**.
-
-
     
     </td>
     </tr>
@@ -368,21 +300,21 @@ You can add a new system, referring to the API business hub enterprise instance,
 > ### Note:  
 > The Service Center only shows API business hub enterprise systems and products with OData services.
 
-1.  From the Service Center, click the gray arrow to display the API business hub enterprise systems.
+1.  From the Service Center, click the arrow to display the API business hub enterprise systems.
 
     Each system points to an API business hub enterprise instance.
 
-2.  Click the gray arrow next to the system \(![System](images/SC_API_Hub_product_icon_a999bc7.png)\) to display the products within it.
+2.  Click the arrow next to the system \(![System icon](images/SC_API_Hub_product_icon_a999bc7.png)\) to display the products within it.
 
     Multiple APIs are grouped into a product.
 
-    If the product is available and connected \(![Available Product](images/SC-_system_connected_icon_1c4c936.png)\), you can search for services within it. Click the search icon \(![](images/service_center_search_a1d4e5e.png)\) and select the relevant service from the command palette.
+    If the product is available and connected \(![Available Product icon](images/SC-_system_connected_icon_1c4c936.png)\), you can search for services within it. Click the search icon \(![Search icon](images/service_center_search_a1d4e5e.png)\) and select the relevant service from the command palette.
 
-3.  Click the gray arrow next to the products \(![Product](images/ABHE_product_icon_c456c90.png)\) to display the services \(APIs\).
+3.  Click the arrow next to the products \(![Product icon](images/ABHE_product_icon_c456c90.png)\) to display the services \(APIs\).
 
-    If the product is available, the icon has a green dot \(![Available Product](images/ABHE_available_product_icon_db3f35e.png)\).
+    If the product is available, there's a dot next to the icon \(![Available Product icon](images/ABHE_available_product_icon_db3f35e.png)\).
 
-4.  Click a service \(![Service](images/SC-_service_icon_fc5c112.png)\) to see its properties, including the service name, protocol, and status.
+4.  Click a service \(![Service icon](images/SC-_service_icon_fc5c112.png)\) to see its properties, including the service name, protocol, and status.
 
     To see the service details, you must be onboarded to the API business hub enterprise and subscribed to the selected product:
 
@@ -406,7 +338,7 @@ You can add a new system, referring to the API business hub enterprise instance,
         This section includes the service name, protocol, and status.
 
 
-    If a service is available, the icon has a green dot \(![Available Service](images/green_dot-_system_available_ac1aa72.jpg)\).
+    If a service is available, there's a dot next to the icon \(![Available Service icon](images/green_dot-_system_available_ac1aa72.jpg)\).
 
     > ### Note:  
     > -   If a service is unavailable and the target endpoint of the service requires authentication, make sure that the target endpoint is configured to be authenticated via [Basic Authentication](https://help.sap.com/docs/SAP_CLOUD_PLATFORM_API_MANAGEMENT/66d066d903c2473f81ec33acfe2ccdb4/693c0d1720644d57918ed77acc6a95ef.html?locale=en-US&version=Cloud). See the "Configure API Management to Use the Basic Authentication Policy" section in this [blog post](https://blogs.sap.com/2019/05/23/securing-your-microservice-on-sap-cloud-platform-using-api-management-with-basic-authentication-for-last-mile-security/).
@@ -470,6 +402,27 @@ If you don’t have the SAP Business Application Studio Administrator role, the 
 
 
 
+### Add an External Service to an SAP Fiori Project
+
+You can add a service to an empty SAP Fiori project or to an SAP Fiori project that doesn't have a service:
+
+1.  Click *Service Actions* \> *Add External Service to SAP Fiori Project*.
+
+    If you only have one empty project:
+
+    -   The service is added and is displayed in the *External Resources* section of the storyboard.
+    -   The `.service.metadata` file is added to the project folder in the file explorer.
+
+        You can then add a UI and integrate the service.
+
+
+    If the SAP Fiori project already had a UI, the added service is integrated into the UI.
+
+    If you have more than one empty SAP Fiori project, you must select the project where you want to add the service.
+
+
+
+
 ### Add an External Data Model to a CAP Project
 
 You can select a service from the Service Center and add it as an external data model to a CAP Node project:
@@ -498,5 +451,6 @@ You can select a service from the Service Center and add it as an external data 
         ```
 
     -   If you added a sample service with the relevant entities, the `<service_name>.cds` and the `<service_name>.js` files appear in the *srv* \> *external* folder of the CAP project.
+    -   The external data model is added to the the storyboard, under *External Resources*.
 
 

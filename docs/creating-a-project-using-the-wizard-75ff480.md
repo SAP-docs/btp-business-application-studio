@@ -6,13 +6,16 @@ You can create projects based on your development scenario and the extensions in
 
 1.  Open the wizard in one of the following ways:
 
-    -   From the left-side menu, select *File* \> *New Project from Template*.
+    -   From the menu, navigate to *File* \> *New Project from Template*.
     -   Select *Start from template* from the *Get Started* page.
     -   Enter `New Project` in the command palette and select *SAP Business Application Studio: New Project from Template*.
 
     The Project Wizard opens showing the project templates that are relevant based on the dev space and additional extensions that you selected.
 
-2.  Follow the wizard steps and provide the required information. You can move between steps using the *Back* and *Next* buttons or clicking the steps from the wizard tree.
+    > ### Note:  
+    > When you create a project using a template, you become the code owner and as such, you are responsible for any updates or fixes that must be performed for it. We recommend you follow the industry best practice of using automated vulnerability scanning in the CI/CD pipeline to avoid supply chain and other cyber-attacks.
+
+2.  Follow the wizard steps and provide the required information. You can move between steps using *Back* and *Next* or by clicking the steps from the wizard tree.
 
     The wizard displays error notifications on the field level and on the step level.
 

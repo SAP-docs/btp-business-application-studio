@@ -10,8 +10,7 @@ You can bind data to an aggregate-type control, which creates a template.
 
 ## Prerequisites
 
--   You have defined an entity set. For more information, see [Define Entity Set](https://help.sap.com/viewer/825270ffffe74d9f988a0f0066ad59f0/CF/en-US/3cf6b06b3c414481beddf6a7543bb985.html).
-
+You have defined an entity set. For more information, see [Define Entity Set](https://help.sap.com/viewer/825270ffffe74d9f988a0f0066ad59f0/CF/en-US/3cf6b06b3c414481beddf6a7543bb985.html).
 
 
 
@@ -19,9 +18,9 @@ You can bind data to an aggregate-type control, which creates a template.
 
 ## Procedure
 
-1.  In the canvas or on the *Outline* tab to the left of the canvas, choose an aggregate-type control that you want to turn into a template, such as a *List Item* control.
+1.  In the canvas or on the *Outline* tab to the side of the canvas, choose an aggregate-type control that you want to turn into a template, such as a *List Item* control.
 
-2.  In the *Properties* pane to the right of the canvas, from the *Select Entity Set* dialog box, select *Define entity set and set the selected control as template.*, and click *Bind*.
+2.  In the *Properties* pane to the side of the canvas, from the *Select Entity Set* dialog box, select *Define entity set and set the selected control as template.*, and click *Bind*.
 
     This control becomes a template.
 

@@ -29,11 +29,11 @@ You can generate a dev space to create and manage applications. You can select t
 > ### Note:  
 > Dev Space creation is influenced by the application plan you are using.
 > 
-> -   If you are using a productive account, see SAP Business Application Studio [Restrictions](restrictions-76db362.md).
+> -   If you are using a productive account, see SAP Business Application Studio [Restrictions](https://help.sap.com/docs/bas/sap-business-application-studio/restrictions?version=Cloud).
 > 
 > -   If you are using a free account, see [Free Plan Restrictions](https://help.sap.com/docs/SAP%20Business%20Application%20Studio/9d1db9835307451daa8c930fbd9ab264/2c72917df87e47c290e061a556d92398.html/#free-plan-restrictions).
 > 
-> -   If you are using a trial account, see [Trial Account Restrictions](trial-account-restrictions-a45742a.md).
+> -   If you are using a trial account, see [Trial Account Restrictions](https://help.sap.com/docs/bas/sap-business-application-studio/trial-account-restrictions?version=Cloud).
 
 > ### Note:  
 > The maximum size limit of the dev space is 10 GB of disk space for productive accounts in the standard-edition plan. For trial accounts and accounts using the free plan, the maximum size limit of the dev space is 4 GB. Exceeding the maximum size limit can cause loss of data and other issues, including the inability to start the dev space. Note that additional restrictions apply to dev spaces in trial accounts. See [Trial Account Restrictions](trial-account-restrictions-a45742a.md).
@@ -51,7 +51,7 @@ When you restart your stopped dev space, all content in your dev space, includin
 You can also delete your dev space.
 
 > ### Note:  
-> By creating a dev space, you create a project and file system for yourself. If you delete your dev space, you can't recover it. We recommend syncing, backing up, and saving your project to a Git repository. See [Connect to Your Git Source Control System](connect-to-your-git-source-control-system-e7a42bc.md).
+> By creating a dev space, you create a project and file system for yourself. If you delete your dev space, you can't recover it. We recommend syncing, backing up, and saving your project to a Git repository. See [Connect to Your Git Source Control System](https://help.sap.com/docs/bas/sap-business-application-studio/connect-to-your-git-source-control-system?version=Cloud).
 
 
 

@@ -19,7 +19,7 @@ You can create a new function for a controller from the *Events* pane.
     > ### Note:  
     > The function name you enter must be a valid JavaScript function name.
 
-    After entering the name for your new function, the code is created by the layout editor in the code editor. To go directly to that code, click the *Go to code* ![](images/events_icon_91db674.jpg) icon next to the new function name in the *Events* pane.
+    After entering the name for your new function, the code is created by the layout editor in the code editor. To go directly to that code, click the *Go to code* ![Go to code icon](images/events_icon_91db674.jpg) icon next to the new function name in the *Events* pane.
 
 
 **Related Information**  

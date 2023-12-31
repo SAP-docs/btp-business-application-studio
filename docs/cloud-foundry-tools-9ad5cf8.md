@@ -107,7 +107,7 @@ With a user-provided service instance, you can use services that are not availab
 
 You can create a list of frequently used Cloud Foundry targets. You can then move from one target to the next with only one click.
 
-1.  From the left side menu, click The *CLOUD FOUNDRY: TARGETS* view opens. The *CLOUD FOUNDRY: TARGETS* view opens.
+1.  From the activity bar, click ![Cloud Foundry](images/cf_targets_a1ad998.png). The *CLOUD FOUNDRY: TARGETS* view opens.
 2.  Click ![create Cloud Foundry target](images/New_Target_e1681d1.png) \(Create a Cloud Foundry target\)
 3.  Click *Create New* in the command center. The target is based on the current org and space to which you are connected.
 4.  Provide a name for the target.

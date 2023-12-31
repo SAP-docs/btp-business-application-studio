@@ -11,7 +11,7 @@ SAP Business Application Studio allows you to use any type of Yeoman generator i
 
     The Template wizard opens showing all the Yeoman generators that are installed in your machine.
 
-2.  Follow the wizard steps and provide the required information. You can move between steps using the *Back* and *Next* buttons or clicking the steps from the wizard tree.
+2.  Follow the wizard steps and provide the required information. You can move between steps using *Back* and *Next* or by clicking the steps from the wizard tree.
 
     The wizard displays error notifications on the field level as well as on the step level.
 

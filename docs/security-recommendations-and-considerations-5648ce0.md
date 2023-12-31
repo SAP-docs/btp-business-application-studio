@@ -19,14 +19,10 @@ The following security recommendations are included in the list of [SAP BTP secu
 
 Summary
 
-
-
 </th>
 <th valign="top">
 
 Recommendation
-
-
 
 </th>
 </tr>
@@ -35,14 +31,10 @@ Recommendation
 
 Limit the number of administrators with full management permissions.
 
-
-
 </td>
 <td valign="top">
 
 [BTP-BAS-0001](https://help.sap.com/docs/BTP/c8a9bb59fe624f0981efa0eff2497d7d/531f33def8074ccdb6f1f784a34dafcb.html?seclist-index=BTP-BAS-0001)
-
-
 
 </td>
 </tr>
@@ -63,14 +55,10 @@ Decisions you make when using SAP Business Application Studio can have an impact
 
 Summary
 
-
-
 </th>
 <th valign="top">
 
 More Information
-
-
 
 </th>
 </tr>
@@ -79,14 +67,10 @@ More Information
 
 Use caution when installing third-party extensions while using a remote connection to SAP Business Application Studio.
 
-
-
 </td>
 <td valign="top">
 
 See [Access SAP Business Application Studio from VS Code](access-sap-business-application-studio-from-vs-code-6b18cc8.md).
-
-
 
 </td>
 </tr>
@@ -95,14 +79,10 @@ See [Access SAP Business Application Studio from VS Code](access-sap-business-ap
 
 When connecting to corporate Git source control systems, use PATs whenever possible.
 
-
-
 </td>
 <td valign="top">
 
 See [Connecting to a Corporate Git Repository](connecting-to-a-corporate-git-repository-d54ddfc.md).
-
-
 
 </td>
 </tr>
@@ -111,14 +91,10 @@ See [Connecting to a Corporate Git Repository](connecting-to-a-corporate-git-rep
 
 Always protect your access to an external system.
 
-
-
 </td>
 <td valign="top">
 
 See [Connecting to External Systems](connecting-to-external-systems-7e49887.md).
-
-
 
 </td>
 </tr>
@@ -127,14 +103,10 @@ See [Connecting to External Systems](connecting-to-external-systems-7e49887.md).
 
 Make sure you only install secured artifacts with your custom SAP Business Application Studio extension.
 
-
-
 </td>
 <td valign="top">
 
 See [Create and Deploy an SAP Business Application Studio Extension](create-and-deploy-an-sap-business-application-studio-extension-2064b4e.md).
-
-
 
 </td>
 </tr>

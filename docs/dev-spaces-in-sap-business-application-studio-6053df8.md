@@ -27,7 +27,7 @@ When creating a new dev space, select the dev space type that best fits the appl
 You can configure your preferred settings for working in the dev space:
 
 1.  Open your dev space.
-2.  From the left-side menu, select *File* \> *Preferences* \> *Settings*.
+2.  Navigate to *File* \> *Preferences* \> *Settings*.
 3.  Configure your settings:
     -   Keyboard shortcuts
     -   Color theme

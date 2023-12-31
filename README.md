@@ -17,8 +17,8 @@ We recommend using the SAP Business Application Studio documentation on SAP Help
 
 1. Open the [SAP Business Application Studio Documentation](https://help.sap.com/webcomponents/products/SAP%20Business%20Application%20Studio/9d1db9835307451daa8c930fbd9ab264/8f46c6e6f86641cc900871c903761fd4.html).
 1. You can either:
-    * Choose *Edit* to suggest a change for the current page you see in the Help Portal viewer, or
-    * Choose *Feedback* to open a GitHub issue in this repository.
+    * Choose *Feedback* > *Edit page* to suggest a change for the current page you see in the Help Portal viewer, or
+    * Choose *Feedback* > *Create issue* to open a GitHub issue in this repository.
 
 If you only make a small contribution, that's the quickest way to propose a change. For larger contributions, we recommend forking this repository to work locally. The filenames in the [docs](docs) directory are created based on the title of the page on SAP Help Portal.
 

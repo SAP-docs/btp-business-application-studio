@@ -4,7 +4,7 @@
 
 Use the *SIMPLIFIED GIT* view to perform Git operations and manage Git repositories in SAP Business Application Studio.
 
-To open the *SIMPLIFIED GIT* view, click ![Simplified Git](images/simplified_git_icon_f658a91.png) from the activity bar.
+To open the *SIMPLIFIED GIT* view, click ![Simplified Git icon](images/simplified_git_icon_f658a91.png) from the activity bar.
 
 -   **[Connect to a Remote Git Repository](connect-to-a-remote-git-repository-5a151f3.md "Connect to a remote Git repository to enable contributions from other developers and
 		to

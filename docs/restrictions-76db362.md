@@ -2,6 +2,8 @@
 
 # Restrictions
 
+When using SAP Business Application Studio, there are user restrictions on computing resources and project components to ensure optimal performance.
+
 SAP Business Application Studio computing resources \(CPU, memory, storage\) are limited and optimized for serving standard SAP application development use-cases.
 
 To ensure an optimal performance and developer experience, the following restrictions must be maintained:
@@ -21,7 +23,7 @@ To ensure an optimal performance and developer experience, the following restric
 -   A user can only have up to 1000 SAP HANA database artifacts on a single project compilation.
 
 
-If your resource usage is close to any of the restrictions above, the system performance may be impacted.
+If your resource usage is close to any of these restrictions, the system performance may be impacted.
 
 If the restrictions are surpassed, performance can't be assured by the SAP Business Application Studio product license.
 
