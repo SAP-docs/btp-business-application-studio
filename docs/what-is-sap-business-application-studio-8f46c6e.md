@@ -14,7 +14,7 @@ SAP Business Application Studio is based on Code-OSS, an open source used for bu
 > The English version of this guide is open for contributions and feedback using GitHub. This allows you to get in contact with responsible authors of SAP Help Portal pages and the development team to discuss documentation-related issues. To contribute to this guide, or to provide feedback, choose the corresponding option on SAP Help Portal:
 > 
 > -   :pencil2: Edit: Contribute to a documentation page. This option opens a pull request on GitHub.
-> -   <span class="SAP-icons"></span> Feedback: Provide feedback about a documentation page. This option opens an issue on GitHub.
+> -   <span class="SAP-icons-V5"></span> Feedback: Provide feedback about a documentation page. This option opens an issue on GitHub.
 > 
 > You need a GitHub account to use these options. For more information, see the [introduction video](https://www.youtube.com/watch?v=WJ0oarMlVW4).
 
@@ -76,4 +76,6 @@ You can find the regions where SAP Business Application Studio is available in t
 -   **[Accessibility Features in SAP Business Application Studio](accessibility-features-in-sap-business-application-studio-704ce0a.md "To optimize your experience, SAP Business Application Studio provides features and settings that help
 		you use the software efficiently.")**  
 To optimize your experience, SAP Business Application Studio provides features and settings that help you use the software efficiently.
+-   **[Commercial Information](commercial-information-58a858c.md)**  
+
 

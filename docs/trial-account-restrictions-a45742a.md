@@ -11,4 +11,5 @@ In addition to the regular SAP Business Application Studio [restrictions](restri
 -   The session times out after one hour of inactivity.
 -   The maximum size limit of a dev space is 4 GB.
 -   Dev spaces that have not been in the RUNNING state for 30 consecutive days will be deleted.
+-   When working in the **Full-Stack Application Using Productivity Tools** dev space, a user can deploy a maximum of 2 times.
 

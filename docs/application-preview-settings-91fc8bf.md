@@ -27,7 +27,7 @@ Each application runs on a specific port. If you want to open a new browser tab 
 
 You can define which ports should omit a notification when an application is being run.
 
-1.  In SAP Business Application Studio, click ![Open settings](images/Open_Settings_e87d6b3.png) to open the *Settings* view.
+1.  In SAP Business Application Studio, click ![Open settings](images/settings_icon_8365051.png) to open the *Settings* view.
 2.  Search for `Ports`.
 3.  From the list of preferences, select *Ports*.
 4.  Under *Exclude Expose Notifications* click *Edit in settings.json*.

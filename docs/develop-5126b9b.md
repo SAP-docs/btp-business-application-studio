@@ -7,7 +7,7 @@ SAP Business Application Studio provides you with the tools you require for maki
 -   **[Guide Center](guide-center-fe03a4e.md "This tool shows you how to execute common development tasks for specific SAP
 		scenarios.")**  
 This tool shows you how to execute common development tasks for specific SAP scenarios.
--   **[Project Explorer](project-explorer-780ba0f.md "Use the project explorer to browse the contents of your current
+-   **[Explorer](explorer-780ba0f.md "Use the project explorer to browse the contents of your current
 		workspace.")**  
 Use the project explorer to browse the contents of your current workspace.
 -   **[Storyboard](storyboard-6ca2941.md "The Storyboard allows you to develop applications using graphical editors and
@@ -31,10 +31,6 @@ The command palette provides access to all the IDE functionality including short
 		allow you to select which runtime versions to install and use for developing your
 		application.")**  
 SAP Business Application Studio uses asdf to allow you to select which runtime versions to install and use for developing your application.
--   **[Outline View](outline-view-6e9a280.md "The Outline view displays a symbol tree of the currently active editor. This view is
-		useful for understanding the structure of a file or for navigating to a specific element in
-		a file.")**  
-The Outline view displays a symbol tree of the currently active editor. This view is useful for understanding the structure of a file or for navigating to a specific element in a file.
 -   **[Problems View](problems-view-f5bd850.md "The Problems view displays the coding errors and warnings of all open files in a
 		list. When you click an item from the list, the problematic piece of code is highlighted in
 		the editor.")**  

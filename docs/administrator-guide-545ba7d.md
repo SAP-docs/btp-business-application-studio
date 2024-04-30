@@ -10,10 +10,8 @@ Here's a checklist for setting up your system so you can develop applications us
 -   **[Subscribe to SAP Business Application Studio](subscribe-to-sap-business-application-studio-6331319.md "Before you can work in SAP Business Application Studio, the account administrator
 		must subscribe the subaccount to the SAP Business Application Studio application.")**  
 Before you can work in SAP Business Application Studio, the account administrator must subscribe the subaccount to the SAP Business Application Studio application.
--   **[Application Plans](application-plans-2c72917.md "SAP Business Application Studio provides two types
-		of application plans in SAP BTP
-		enterprise accounts: free and standard-edition.")**  
-SAP Business Application Studio provides two types of application plans in SAP BTP enterprise accounts: free and standard-edition.
+-   **[Application Plans](application-plans-2c72917.md "SAP Business Application Studio provides three types of application plans in SAP BTP enterprise accounts: standard-edition, free, and build-code.")**  
+SAP Business Application Studio provides three types of application plans in SAP BTP enterprise accounts: standard-edition, free, and build-code.
 -   **[Manage Authorizations and Roles](manage-authorizations-and-roles-01e69c5.md "The subaccount administrator can assign the user a role for developing with SAP Business Application Studio or for managing
 		data.")**  
 The subaccount administrator can assign the user a role for developing with SAP Business Application Studio or for managing data.

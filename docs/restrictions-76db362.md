@@ -14,11 +14,11 @@ To ensure an optimal performance and developer experience, the following restric
 
 -   A user can have disk space of up to 10 GB per dev space.
 
--   A user can only have up to 100 projects stored on their dev space.
+-   A user can only have up to 50 projects stored on their dev space.
 
 -   A user can only have up to 20 projects or MTA modules open in their workspace.
 
--   A user can only have up to 1000 Java classes on a single project compilation.
+-   A user can only have up to 1000 Java classes \(comprising up to 27,000 code lines\) on a single project compilation.
 
 -   A user can only have up to 1000 SAP HANA database artifacts on a single project compilation.
 

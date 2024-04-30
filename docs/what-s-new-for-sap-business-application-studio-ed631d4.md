@@ -90,6 +90,1036 @@ Service Center
 </td>
 <td valign="top">
 
+You can now explore serivces in the new Service Center editor. See [Explore Services Using the Service Center](https://help.sap.com/docs/bas/sap-business-application-studio/explore-services-using-service-center?version=Cloud).
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+New
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+</td>
+<td valign="top">
+
+2024-04-18
+
+</td>
+<td valign="top">
+
+2024-04-18
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+SAP Business Application Studio 
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+SAP HANA Development Tooling
+
+</td>
+<td valign="top">
+
+In the SAP HANA Native Application extension for SAP Business Application Studio, it is now possible to open an SQL console from the SAP HANA project explorer.See [Use the SQL Console for SAP HANA to Query the Database](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/7ffe3cc490f04ca997e22326e013e73f.html).
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+New
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+</td>
+<td valign="top">
+
+2024-03-25
+
+</td>
+<td valign="top">
+
+2024-03-25
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+SAP Business Application Studio 
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+SAP HANA Development Tooling
+
+</td>
+<td valign="top">
+
+In the SAP HANA Native Application extension for SAP Business Application Studio, you can now use a new dedicated Wizard to grant HDI-container schema privileges to other users and roles. See [Grant HDI-Container Schema Privileges to a Selected User or User Role](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/7ecd0ce9b48c4f10ad480cd5da1ac8fb.html).
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+New
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+</td>
+<td valign="top">
+
+2024-03-25
+
+</td>
+<td valign="top">
+
+2024-03-25
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+SAP Business Application Studio 
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+SAP HANA Development Tooling
+
+</td>
+<td valign="top">
+
+In the SAP HANA Native Application extension for SAP Business Application Studio, you can set a maximum depth for nodes and connections displayed in the dependency viewer. See [View Database Objects with the Database Explorer](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/0e5ac0b0625b411c8f05346566a3341f.html).
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+New
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+</td>
+<td valign="top">
+
+2024-03-25
+
+</td>
+<td valign="top">
+
+2024-03-25
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+SAP Business Application Studio 
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+SAP HANA Development Tooling
+
+</td>
+<td valign="top">
+
+In the SAP HANA Native Application extension for SAP Business Application Studio, you can use the new export feature in the dependency viewer to export a graph snapshot as an image \(SVG\). See [View Database Objects with the Database Explorer](https://help.sap.com/docs/HANA_CLOUD_DATABASE/c2b99f19e9264c4d9ae9221b22f6f589/0e5ac0b0625b411c8f05346566a3341f.html).
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+New
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+</td>
+<td valign="top">
+
+2024-03-25
+
+</td>
+<td valign="top">
+
+2024-03-25
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+SAP Business Application Studio 
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Calculation Views
+
+</td>
+<td valign="top">
+
+In the calculation view editor in the SAP HANA Native Application extension for SAP Business Application Studio, when you add or delete input parameters in a calculation view, you can now propagate these changes recursively to dependent views. See [Propagate Adding and Deleting Columns or Input Parameters to Dependent Views](https://help.sap.com/docs/hana-cloud-database/sap-hana-cloud-sap-hana-database-modeling-guide-for-sap-business-application-studio/propagate-addition-or-deletion-of-columns).
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+Changed
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+</td>
+<td valign="top">
+
+2024-03-25
+
+</td>
+<td valign="top">
+
+2024-03-25
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+SAP Business Application Studio 
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Calculation Views
+
+</td>
+<td valign="top">
+
+In the calculation view editor in the SAP HANA Native Application extension for SAP Business Application Studio, you can now flexibly define how column names should be made unique when mapping columns in join nodes. See [Define Output Columns](https://help.sap.com/docs/hana-cloud-database/sap-hana-cloud-sap-hana-database-modeling-guide-for-sap-business-application-studio/define-output-columns).
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+New
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+</td>
+<td valign="top">
+
+2024-03-25
+
+</td>
+<td valign="top">
+
+2024-03-25
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+SAP Business Application Studio 
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Calculation Views
+
+</td>
+<td valign="top">
+
+In the calculation view editor in the SAP HANA Native Application extension for SAP Business Application Studio, you now have the option to block queries on a deprecated calculation view. See [Deprecate Calculation Views](https://help.sap.com/docs/hana-cloud-database/sap-hana-cloud-sap-hana-database-modeling-guide-for-sap-business-application-studio/deprecate-calculation-views).
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+Changed
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+</td>
+<td valign="top">
+
+2024-03-25
+
+</td>
+<td valign="top">
+
+2024-03-25
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+SAP Business Application Studio 
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Calculation Views
+
+</td>
+<td valign="top">
+
+In the calculation view editor in the SAP HANA Native Application extension for SAP Business Application Studio, you can now open a calculation view in read-only mode by right-clicking it and choosing *Open With…* \> *Calculation View Editor \(Read Only\)*. See [Opening Calculation Views in Read-Only Mode](https://help.sap.com/docs/hana-cloud-database/sap-hana-cloud-sap-hana-database-modeling-guide-for-sap-business-application-studio/opening-calculation-views-in-read-only-mode).
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+New
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+</td>
+<td valign="top">
+
+2024-03-25
+
+</td>
+<td valign="top">
+
+2024-03-25
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+SAP Business Application Studio 
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Calculation Views
+
+</td>
+<td valign="top">
+
+The handling of NULL values in rank nodes has been aligned with the NULL handling behavior of window function nodes. This means that NULL values are now considered valid values, which is the standard behavior of window function nodes.
+
+Action: To retain the former behavior, a projection node with an `IS NOT NULL` filter can be added as an input node for the rank node.
+
+See SAP Note [3419990](https://me.sap.com/notes/3419990).
+
+</td>
+<td valign="top">
+
+Recommended
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+Changed
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+</td>
+<td valign="top">
+
+2024-03-25
+
+</td>
+<td valign="top">
+
+2024-03-25
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+SAP Business Application Studio 
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Development Experience
+
+</td>
+<td valign="top">
+
+You can now create or view actions and functions from the storyboard.
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+New
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+</td>
+<td valign="top">
+
+2024-02-25
+
+</td>
+<td valign="top">
+
+2024-02-25
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+SAP Business Application Studio 
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Development Experience
+
+</td>
+<td valign="top">
+
+It is now easier to continue working after taking a break or in case of a connectivity glitch. Simply refresh the browser, if needed, start your dev space, and you're back in business.
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+New
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+</td>
+<td valign="top">
+
+2024-02-25
+
+</td>
+<td valign="top">
+
+2024-02-25
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+SAP Business Application Studio 
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Development Experience
+
+</td>
+<td valign="top">
+
+You can now select the Python version with which you want to work.
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+New
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+</td>
+<td valign="top">
+
+2024-01-28
+
+</td>
+<td valign="top">
+
+2024-01-28
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+SAP Business Application Studio 
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Development Experience
+
+</td>
+<td valign="top">
+
+You can now access the most used functions from the *Quick Access* bar in the Storyboard. See [Storyboard](https://help.sap.com/docs/bas/sap-business-application-studio/storyboard?version=Cloud).
+
+If the Quick Access bar is not visible in the Storyboard view, make sure it has not been hidden by another view.
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+New
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+</td>
+<td valign="top">
+
+2024-01-28
+
+</td>
+<td valign="top">
+
+2024-01-28
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+SAP Business Application Studio 
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Development Experience
+
+</td>
+<td valign="top">
+
+You can now access the most used functions from the *Quick Access* bar in the *Explorer* view. See [Explorer](https://help.sap.com/docs/bas/sap-business-application-studio/project-explorer?version=Cloud).
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+New
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+</td>
+<td valign="top">
+
+2024-01-14
+
+</td>
+<td valign="top">
+
+2024-01-14
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+SAP Business Application Studio 
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Development Experience
+
+</td>
+<td valign="top">
+
+New Code-OSS features have been released. You can learn about these features in the release notes for VS Code 1.84.. See [VS Code Updates](https://code.visualstudio.com/updates/v1_84).
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+New
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+SAP Business Application Studio
+
+</td>
+<td valign="top">
+
+2024-01-14
+
+</td>
+<td valign="top">
+
+2024-01-14
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+SAP Business Application Studio 
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Service Center
+
+</td>
+<td valign="top">
+
 You can now add a service to an SAP Fiori project with a UI from the Service Center. See [SAP System Service Provider](https://help.sap.com/docs/bas/sap-business-application-studio/sap-system-service-provider?version=Cloud#service-actions-for-development).
 
 </td>
@@ -1635,7 +2665,7 @@ SAP Business Application Studio
 </td>
 <td valign="top">
 
-
+2023-05-11
 
 </td>
 </tr>

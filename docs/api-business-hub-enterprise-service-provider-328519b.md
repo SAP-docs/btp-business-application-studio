@@ -19,7 +19,7 @@ You can add a new system, referring to the API business hub enterprise instance,
 > ### Note:  
 > To add a system, you must meet these criteria:
 > 
-> -   You're assigned the *Business\_Application\_Studio\_Administrator* role in the cockpit. See [Manage Authorizations and Roles](manage-authorizations-and-roles-01e69c5.md).
+> -   You're assigned the *Business\_Application\_Studio\_Administrator* role in the cockpit. See [**Manage Authorizations and Roles**](https://help.sap.com/docs/bas/sap-business-application-studio/manage-authorizations-and-roles?version=Cloud).
 > -   You're connected to a space with a subscription to the API business hub enterprise.
 
 1.  Hover over the subaccount and click ![Add system icon](images/Add_system-_service_center-_plus_icon_3701d6b.jpg) \(Add system\).
@@ -32,8 +32,7 @@ You can add a new system, referring to the API business hub enterprise instance,
     > You can select *Basic Authentication* and enter the username and password for your system. This configuration enables you to view the system information without needing to log in each time.
 
 3.  Click *Add*.
-
-1.  Create a destination in your SAP Business Application Studio subaccount from the cockpit with the following fields:
+4.  Create a destination in your SAP Business Application Studio subaccount from the cockpit with the following fields:
 
 
     <table>
@@ -151,7 +150,7 @@ You can add a new system, referring to the API business hub enterprise instance,
     </tr>
     </table>
     
-2.  In the *Additional Properties* section, configure the following:
+5.  In the *Additional Properties* section, configure the following:
 
 
     <table>
@@ -300,20 +299,17 @@ You can add a new system, referring to the API business hub enterprise instance,
 > ### Note:  
 > The Service Center only shows API business hub enterprise systems and products with OData services.
 
-1.  From the Service Center, click the arrow to display the API business hub enterprise systems.
+1.  In the Service Center, from the *Select System* dropdown list, select *API business hub enterprise*.
 
     Each system points to an API business hub enterprise instance.
 
-2.  Click the arrow next to the system \(![System icon](images/SC_API_Hub_product_icon_a999bc7.png)\) to display the products within it.
+2.  Select a system from the dropdown list to display the products within it.
 
     Multiple APIs are grouped into a product.
 
-    If the product is available and connected \(![Available Product icon](images/SC-_system_connected_icon_1c4c936.png)\), you can search for services within it. Click the search icon \(![Search icon](images/service_center_search_a1d4e5e.png)\) and select the relevant service from the command palette.
+    If the product is available and connected \(![Connected Product icon](images/SC-_system_connected_icon_1c4c936.png)\), you can search for services within it.
 
-3.  Click the arrow next to the products \(![Product icon](images/ABHE_product_icon_c456c90.png)\) to display the services \(APIs\).
-
-    If the product is available, there's a dot next to the icon \(![Available Product icon](images/ABHE_available_product_icon_db3f35e.png)\).
-
+3.  Click a product \(![Product icon](images/ABHE_product_icon_c456c90.png)\) to display the services \(APIs\).
 4.  Click a service \(![Service icon](images/SC-_service_icon_fc5c112.png)\) to see its properties, including the service name, protocol, and status.
 
     To see the service details, you must be onboarded to the API business hub enterprise and subscribed to the selected product:
@@ -338,24 +334,21 @@ You can add a new system, referring to the API business hub enterprise instance,
         This section includes the service name, protocol, and status.
 
 
-    If a service is available, there's a dot next to the icon \(![Available Service icon](images/green_dot-_system_available_ac1aa72.jpg)\).
+    If a service is connected, there's a dot next to the icon \(![Connected Service icon](images/green_dot-_system_available_ac1aa72.jpg)\).
 
     > ### Note:  
     > -   If a service is unavailable and the target endpoint of the service requires authentication, make sure that the target endpoint is configured to be authenticated via [Basic Authentication](https://help.sap.com/docs/SAP_CLOUD_PLATFORM_API_MANAGEMENT/66d066d903c2473f81ec33acfe2ccdb4/693c0d1720644d57918ed77acc6a95ef.html?locale=en-US&version=Cloud). See the "Configure API Management to Use the Basic Authentication Policy" section in this [blog post](https://blogs.sap.com/2019/05/23/securing-your-microservice-on-sap-cloud-platform-using-api-management-with-basic-authentication-for-last-mile-security/).
-    > -   It is recommended to use the [verify API key](https://help.sap.com/docs/SAP_CLOUD_PLATFORM_API_MANAGEMENT/66d066d903c2473f81ec33acfe2ccdb4/4d15a0427494452dbb42a319e9bb420f.html?locale=en-US&version=Cloud) policy to ensure secure access to the service. This policy is added in the PreFlow of the ProxyEndpoint of the corresponding API proxy.
+    > -   We recommend using the [verify API key](https://help.sap.com/docs/SAP_CLOUD_PLATFORM_API_MANAGEMENT/66d066d903c2473f81ec33acfe2ccdb4/4d15a0427494452dbb42a319e9bb420f.html?locale=en-US&version=Cloud) policy to ensure secure access to the service. This policy is added in the PreFlow of the ProxyEndpoint of the corresponding API proxy.
 
 5.  Click an entity to see the service details, including entity data and live data:
-    1.  You can see the entity's metadata from the *Entity Details* tab.
-    2.  You can see a preview of the live production data associated with the entity set from the *Live Data* tab.
-
-        This helps you choose an entity for your application.
+    1.  You can see the entity's metadata, details, and live data in the *Entities* tab. This helps you choose an entity for your application.
 
         > ### Note:  
-        > The live data only displays:
-        > 
-        > -   Up to 20 rows of data
-        > -   Data for simple data types
+        > The live data only displays up to 20 rows of data for simple data types.
 
+        You can also search for an entity.
+
+    2.  You can see details about the service in the *Properties* tab.
 
 6.  You can click *View Diagram* to see the service entities, their properties, and the relationships between the entities in a new tab.
 
@@ -373,7 +366,7 @@ If you don’t have the SAP Business Application Studio Administrator role, the 
 
 ### Create a Project from a Service
 
-1.  Click *Service Actions* \> *Create Project from Service*.
+1.  Click *Create Project*.
 
     The template wizard displays the projects that you can create from a service. For example, an HTML5 project or an SAP Fiori application. See [Create an HTML5 Project](https://help.sap.com/viewer/0e2ec06ee34742fd9054fabe09c12d35/Cloud/en-US/e46be902c7b54f9baaab1870ca553303.html) or [SAP Fiori Elements](https://help.sap.com/viewer/17d50220bcd848aa854c9c182d65b699/Latest/en-US/1488469a315c442fa116ab4449d4ad27.html) for more information.
 
@@ -406,7 +399,7 @@ If you don’t have the SAP Business Application Studio Administrator role, the 
 
 You can add a service to an empty SAP Fiori project or to an SAP Fiori project that doesn't have a service:
 
-1.  Click *Service Actions* \> *Add External Service to SAP Fiori Project*.
+1.  Click *Add to SAP Fiori Project*.
 
     If you only have one empty project:
 
@@ -423,19 +416,23 @@ You can add a service to an empty SAP Fiori project or to an SAP Fiori project t
 
 
 
-### Add an External Data Model to a CAP Project
+### Add an External Service to a CAP Project
 
-You can select a service from the Service Center and add it as an external data model to a CAP Node project:
+You can select a service from the Service Center and add it as an external service to a CAP Node project:
 
-1.  Open a service and click *Service Actions* \> *Add External Data Model to CAP Project*.
-2.  Select the target CAP Node project to add the external data model to.
+1.  Open a service and click *Add to CAP Project*.
+2.  If prompted, select the target CAP Node project to add the external service to.
 3.  \(Optional\) You can generate a sample service and select the relevant entities.
+
     1.  Select *Yes* to add a sample service.
     2.  Select the entities that you want to add.
 
+    > ### Note:  
+    > Sample service generation is only available for a project created in the *Full Stack Cloud Application* dev space. It's not available for a project created in the *Full-Stack Application Using Productivity Tools* dev space.
+
 4.  Click *Add*.
 
-    You added the external data model to the CAP project. The following changes happen:
+    You added the external service to the CAP project. The following changes happen:
 
     -   The `<service_name>.xml` and `<service_name>.cds` files appear in the *srv* \> *external* folder of the project.
     -   A service section appears in the `package.json` file of the CAP project, which refers to the *srv* \> *external* \> *<service\_name\>.xml* file. This file has the metadata of the service:
@@ -451,6 +448,6 @@ You can select a service from the Service Center and add it as an external data 
         ```
 
     -   If you added a sample service with the relevant entities, the `<service_name>.cds` and the `<service_name>.js` files appear in the *srv* \> *external* folder of the CAP project.
-    -   The external data model is added to the the storyboard, under *External Resources*.
+    -   The external service is added to the storyboard, under *External Resources*.
 
 

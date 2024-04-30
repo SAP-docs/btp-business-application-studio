@@ -5,6 +5,9 @@
 Here's a checklist for setting up your system so you can develop applications using SAP Business Application Studio.
 
 > ### Note:  
+> If you are using this service as part of SAP Build Code, follow the SAP Build Code [Initial Setup](https://help.sap.com/docs/build_code/d0d8f5bfc3d640478854e6f4e7c7584a/07698d7c31284e4db370acdf017cfd14.html?version=SHIP) instructions instead.
+
+> ### Note:  
 > If you are working in a trial account, follow the procedure in [Getting Started with a Trial Account](getting-started-with-a-trial-account-48ed55e.md).
 
 

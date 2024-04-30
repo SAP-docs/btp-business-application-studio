@@ -9,7 +9,7 @@ You can create, modify, and run tasks for specific SAP scenarios.
 
 The Task Explorer allows you to create and edit scenario-specific tasks using a dedicated user interface. You can store your configurations and reuse them.
 
-1.  From the left sidebar, click ![Task Explorer](images/task_explorer_new_icon_ffcf6c6.png) to open the *Task Explorer* view.
+1.  From the left sidebar, click ![Open the Task Explorer view](images/task_explorer_icon_416db7c.png) to open the *Task Explorer* view.
 2.  Click *\+*.
 
     ![Create Task](images/add_task_75fa72e.png)

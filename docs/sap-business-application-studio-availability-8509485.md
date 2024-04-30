@@ -647,6 +647,38 @@ ap21-trial
 <tr>
 <td valign="top">
 
+Switzerland North
+
+</td>
+<td valign="top">
+
+Azure
+
+</td>
+<td valign="top">
+
+ch20
+
+</td>
+<td valign="top">
+
+20.208.136.62
+
+51.107.1.253
+
+51.103.220.138
+
+20.208.138.3
+
+51.107.5.175
+
+51.103.222.158
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
 US Central \(Iowa\)
 
 </td>
@@ -687,6 +719,8 @@ in30
 <td valign="top">
 
 34.93.211.137
+
+34.93.194.189
 
 </td>
 </tr>
@@ -1414,6 +1448,35 @@ https://connectivity.ap21.applicationstudio.cloud.sap
 <tr>
 <td valign="top">
 
+Switzerland North
+
+</td>
+<td valign="top">
+
+Azure
+
+</td>
+<td valign="top">
+
+ch20
+
+</td>
+<td valign="top">
+
+https://connectivity.ch20.applicationstudio.cloud.sap
+
+</td>
+<td valign="top">
+
+20.250.123.150
+
+4.226.16.64
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
 US Central \(Iowa\)
 
 </td>
@@ -1464,6 +1527,8 @@ https://connectivity.in30.applicationstudio.cloud.sap
 <td valign="top">
 
 34.93.97.128
+
+34.93.245.49
 
 </td>
 </tr>

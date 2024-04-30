@@ -59,7 +59,7 @@ The Unified Customer Landscape service provider includes packages and services f
     </td>
     <td valign="top">
     
-    Enter the URL of the the SAP S/4HANA Cloud target system.
+    Enter the URL of the SAP S/4HANA Cloud target system.
 
     This value is displayed in the *System Landscape* \> *System Details* \> *URL* field in the SAP BTP cockpit.
 
@@ -189,33 +189,30 @@ The Unified Customer Landscape service provider includes packages and services f
 
 ## Explore Unified Customer Landscape Services
 
-1.  Click the arrow to display the available systems \(![System icon](images/SC_API_Hub_product_icon_a999bc7.png)\) for the account.
+1.  From the *Select Provider* dropdown list, select *Unified Customer Landscape*.
 
-    To explore events, see[Explore SAP S/4HANA or SAP S/4HANA Cloud Events](https://help.sap.com/docs/bas/developing-cap-application-in-sap-business-application-studio/adding-sap-s-4hana-cloud-events-to-your-project#explore-sap-s%2F4hana-or-sap-s%2F4hana-cloud-events) for the *Full Stack Cloud Application* dev space and [Explore SAP S/4HANA or SAP S/4HANA Cloud Events](https://help.sap.com/docs/bas/developing-business-applications-using-productivity-tools/add-sap-s-4hana-cloud-events#explore-sap-s%2F4hana-or-sap-s%2F4hana-cloud-events) for the *Full-Stack Application Using Productivity Tools* dev space.
+    To explore events, choose the *Event* radio button at the top of the Service Center. For more information, see [Explore SAP S/4HANA or SAP S/4HANA Cloud Events](https://help.sap.com/docs/bas/developing-cap-application-in-sap-business-application-studio/adding-sap-s-4hana-cloud-events-to-your-project#explore-sap-s%2F4hana-or-sap-s%2F4hana-cloud-events) for the *Full Stack Cloud Application* dev space and [Explore SAP S/4HANA or SAP S/4HANA Cloud Events](https://help.sap.com/docs/bas/developing-business-applications-using-productivity-tools/add-sap-s-4hana-cloud-events#explore-sap-s%2F4hana-or-sap-s%2F4hana-cloud-events) for the *Full-Stack Application Using Productivity Tools* dev space.
 
-2.  Click the arrow to display the packages \(![Package icon](images/SC_system_icon_5178796.png)\) under a system.
+2.  Select a system to display its packages \(![Package icon](images/SC_system_icon_5178796.png)\) under a system.
 
-    If the package is available and connected \(![Available Package icon](images/SC-_system_connected_icon_1c4c936.png)\), you can search for services within it. Click the search icon \(![Search icon](images/service_center_search_a1d4e5e.png)\) and select the relevant service from the command palette.
+    If the package is available and connected \(![Connected Package icon](images/SC-_system_connected_icon_1c4c936.png)\), you can search for services within it.
 
-3.  Click the arrow to display the services under a package.
-4.  Click a service \(![Service icon](images/SC-_service_icon_fc5c112.png)\) to see its properties, including the service name, protocol, version, URL, and status.
+3.  Click a package to display its services.
+4.  Click a service \(![Service icon](images/SC-_service_icon_fc5c112.png)\) to display its properties, including the service name, protocol, version, URL, and status.
 
     In the *Connectivity Information*, you can see the consumption bundle name, ID, and correlation ID. If there is a destination, you can select it and see its name and authentication.
 
-    If a service is available, there's a dot next to the icon \(![Available Service](images/green_dot-_system_available_ac1aa72.jpg)\).
+    If a service is connected, there's a dot next to the icon \(![Connected Service](images/green_dot-_system_available_ac1aa72.jpg)\).
 
-5.  Click an entity to see the service details, including entity data and live data:
-    1.  You can see the entity's metadata from the *Entity Details* tab.
-    2.  You can see a preview of the live production data associated with the entity set from the *Live Data* tab.
-
-        This helps you choose an entity for your application.
+5.  Click an entity to see the service details, including entity details and live data:
+    1.  You can see the entity's metadata, details, and live data in the *Entities* tab. This helps you choose an entity for your application.
 
         > ### Note:  
-        > The live data only displays:
-        > 
-        > -   Up to 20 rows of data
-        > -   Data for simple data types
+        > The live data only displays up to 20 rows of data for simple data types.
 
+        You can also search for an entity.
+
+    2.  You can see details about the service in the *Properties* tab.
 
 6.  You can click *View Diagram* to see the service entities, their properties, and the relationships between the entities in a new tab.
 
@@ -229,7 +226,7 @@ The Unified Customer Landscape service provider includes packages and services f
 
 ### Create a Project from a Service
 
-1.  Click *Service Actions* \> *Create Project from Service*.
+1.  Click *Create Project*.
 
     The template wizard displays the projects that you can create from a service. For example, an HTML5 project or an SAP Fiori application. See [Create an HTML5 Project](https://help.sap.com/viewer/0e2ec06ee34742fd9054fabe09c12d35/Cloud/en-US/e46be902c7b54f9baaab1870ca553303.html) or [SAP Fiori Elements](https://help.sap.com/viewer/17d50220bcd848aa854c9c182d65b699/Latest/en-US/1488469a315c442fa116ab4449d4ad27.html) for more information.
 
@@ -241,7 +238,7 @@ The Unified Customer Landscape service provider includes packages and services f
 
 You can add a service to an empty SAP Fiori project or to an SAP Fiori project that doesn't have a service:
 
-1.  Click *Service Actions* \> *Add External Service to SAP Fiori Project*.
+1.  Click *Add to SAP Fiori Project*.
 
     If you only have one empty project:
 
@@ -258,19 +255,23 @@ You can add a service to an empty SAP Fiori project or to an SAP Fiori project t
 
 
 
-### Add an External Data Model to a CAP Project
+### Add an External Service to a CAP Project
 
-You can select a service from the Service Center and add it as an external data model to a CAP Node project:
+You can select a service from the Service Center and add it as an external service to a CAP Node project:
 
-1.  Open a service and click *Service Actions* \> *Add External Data Model to CAP Project*.
-2.  Select the target CAP Node project to add the external data model to.
+1.  Open a service and click *Add to CAP Project*.
+2.  If prompted, select the target CAP Node project to add the external service to.
 3.  \(Optional\) You can generate a sample service and select the relevant entities.
+
     1.  Select *Yes* to add a sample service.
     2.  Select the entities that you want to add.
 
+    > ### Note:  
+    > Sample service generation is only available for a project created in the *Full Stack Cloud Application* dev space. It's not available for a project created in the *Full-Stack Application Using Productivity Tools* dev space.
+
 4.  Click *Add*.
 
-    You added the external data model to the CAP project. The following changes happen:
+    You added the external service to the CAP project. The following changes happen:
 
     -   The `<service_name>.xml` and `<service_name>.cds` files appear in the *srv* \> *external* folder of the project.
     -   A service section appears in the `package.json` file of the CAP project, which refers to the *srv* \> *external* \> *<service\_name\>.xml* file. This file has the metadata of the service:
@@ -286,7 +287,7 @@ You can select a service from the Service Center and add it as an external data 
         ```
 
     -   If you added a sample service with the relevant entities, the `<service_name>.cds` and the `<service_name>.js` files appear in the *srv* \> *external* folder of the CAP project.
-    -   The external data model is added to the the storyboard, under *External Resources*.
+    -   The external service is added to the storyboard, under *External Resources*.
 
 
 

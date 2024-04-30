@@ -64,7 +64,7 @@ Create service instance in your current Cloud Foundry org and space. You can lat
 > ### Note:  
 > You can create a service instance in the *CLOUD FOUNDRY: TARGETS* view. The *CLOUD FOUNDRY: TARGETS* view opens.
 > 
-> 1.  Click ![Cloud Foundry](images/cf_targets_a1ad998.png) from the activity bar.
+> 1.  From the activity bar, click ![Cloud Foundry](images/cf_icon_36bbb85.png).
 > 2.  Click ![create service instance](images/New_Target_e1681d1.png) \(*Create a service instance*\) next to the *Services* folder under the active target.
 
 
@@ -75,7 +75,7 @@ Create service instance in your current Cloud Foundry org and space. You can lat
 
 With a user-provided service instance, you can use services that are not available in the marketplace.
 
-1.  From the activity bar, click ![Cloud Foundry](images/cf_targets_a1ad998.png). The *CLOUD FOUNDRY: TARGETS* view opens.
+1.  From the activity bar, click ![Cloud Foundry](images/cf_icon_36bbb85.png). The *CLOUD FOUNDRY: TARGETS* view opens.
 2.  Click ![new service instance](images/Git_Stage_changes_icon_67e32ee.png) next to the *Services* node under the active target.
 
     ![create a service instance](images/create_user_provided_target_23243f7.png)
@@ -107,7 +107,7 @@ With a user-provided service instance, you can use services that are not availab
 
 You can create a list of frequently used Cloud Foundry targets. You can then move from one target to the next with only one click.
 
-1.  From the activity bar, click ![Cloud Foundry](images/cf_targets_a1ad998.png). The *CLOUD FOUNDRY: TARGETS* view opens.
+1.  From the activity bar, click ![Cloud Foundry](images/cf_icon_36bbb85.png). The *CLOUD FOUNDRY: TARGETS* view opens.
 2.  Click ![create Cloud Foundry target](images/New_Target_e1681d1.png) \(Create a Cloud Foundry target\)
 3.  Click *Create New* in the command center. The target is based on the current org and space to which you are connected.
 4.  Provide a name for the target.

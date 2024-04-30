@@ -4,6 +4,11 @@
 
 General overview of the advanced Git view, the *SOURCE CONTROL* view, in SAP Business Application Studio.
 
+> ### Note:  
+> SAP Business Application Studio opens with the [Simplified Git](https://help.sap.com/docs/bas/sap-business-application-studio/using-simplified-git-view?version=Cloud&q=simplified) view enabled by default. If you want to use the Advanced Git view, right-click on the activity bar, deselect *Simplified Git*, and select *Source Control*.
+> 
+> ![](images/source_control_ae9870d.png)
+
 SAP Business Application Studio provides a graphical user interface for executing Git commands and managing your source control and versioning. You can also manually perform other Git commands from the terminal. This view contains all the options for Git source control.
 
 
@@ -12,7 +17,7 @@ SAP Business Application Studio provides a graphical user interface for executin
 
 ## Source Control View
 
-To open the *SOURCE CONTROL* view, click ![Open Source Control view](images/Open_Source_Control_view_abdab3a.png) from the activity bar.
+To open the *SOURCE CONTROL* view, click ![Open Source Control view](images/simplified_git_icon_5915e79.png) from the activity bar.
 
 ![Source Control View](images/Git_View_df291d4.png)
 

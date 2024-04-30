@@ -19,7 +19,7 @@ Run a Java module on the local Apache Tomcat server and allow binding the module
 
 ## Add a New Configuration
 
-1.  Click ![Run Configurations View](images/run_config_view_icon_13c7190.png) from the activity bar to open the *Run Configurations* view.
+1.  Click ![Run Configurations View](images/Open_Run_Config_view_ce3aa9b.png) from the activity bar to open the *Run Configurations* view.
 2.  Click **\+** \(Create Configuration\).
 
     ![Create Configuration](images/New_Run_Config_af5e36a.png)

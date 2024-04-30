@@ -4,7 +4,7 @@
 
 Connect to a remote Git repository to enable contributions from other developers and to track changes in your project.
 
-1.  Click ![Simplified Git](images/simplified_git_icon_f658a91.png) from the activity bar to open the *SIMPLIFIED GIT* view.
+1.  Click ![Simplified Git icon](images/simplified_git_icon_5915e79.png) from the activity bar to open the *SIMPLIFIED GIT* view.
 
     If you haven’t created a project, click *Create Project* to create one from a template. See [Creating a Project Using the Wizard](creating-a-project-using-the-wizard-75ff480.md).
 
