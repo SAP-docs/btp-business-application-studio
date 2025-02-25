@@ -1,0 +1,10 @@
+version = 1
+SPDX-PackageName = "btp-business-application-studio"
+SPDX-PackageSupplier = "Paola Laufer (paola.laufer@sap.com)"
+SPDX-PackageDownloadLocation = "https://github.com/sap-docs/btp-business-application-studio"
+
+[[annotations]]
+path = "**"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2021-2023 SAP SE or an SAP affiliate company and btp-business-application-studio contributors"
+SPDX-License-Identifier = "CC-BY-4.0"
