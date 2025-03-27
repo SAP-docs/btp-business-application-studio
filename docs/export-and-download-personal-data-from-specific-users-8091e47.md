@@ -2,7 +2,7 @@
 
 # Export and Download Personal Data from Specific Users
 
-You can export and download personal data from specific users from your workspace.
+You can export and download personal data from the dev spaces of specific users.
 
 1.  In your browser, get a list of all workspaces contained in a specific subaccount:
 
@@ -22,5 +22,8 @@ You can export and download personal data from specific users from your workspac
     ```
     https://<sap-business-application-studio-url>/login?e=<runtime-url>/wsmaintain/export
     ```
+
+    > ### Note:  
+    > Use the downloaded data with care as it contains unprotected personal data.
 
 

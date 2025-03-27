@@ -1,12 +1,12 @@
 <!-- loio328519b3b7c04871b63a41350190d4d5 -->
 
-# API Business Hub Enterprise Service Provider
+# Developer Hub Service Provider
 
-The API business hub enterprise service provider offers products and services that are published in the API business hub enterprise. You can use the services as data sources in your application or for application development.
+The Developer Hub service provider offers products and services that are published in the Developer Hub. You can use the services as data sources in your application or for application development.
 
 **Prerequisite**
 
-You created a service instance in the API business hub enterprise. See [Creating a Service Instance in the API Management, API business hub enterprise](https://help.sap.com/docs/SAP_CLOUD_PLATFORM_API_MANAGEMENT/66d066d903c2473f81ec33acfe2ccdb4/dabee6e347f645a6805ec5b29f5d578c.html?locale=en-US#creating-a-service-instance-in-the-api-management%2C-api-business-hub-enterprise-).
+You created a service instance in the Developer Hub. See [Creating a Service Instance in the API Management, Developer Hub](https://help.sap.com/docs/sap-api-management/sap-api-management/api-access-plan-for-api-business-hub-enterprise?version=Cloud#creating-a-service-instance-in-the-api-management%2C-developer-hub).
 
 
 
@@ -14,13 +14,13 @@ You created a service instance in the API business hub enterprise. See [Creating
 
 ## Add a System
 
-You can add a new system, referring to the API business hub enterprise instance, from the SAP BTP cockpit in the SAP Business Application Studio subaccount. This destination will be used **to register new developers to API business hub enterprise and to subscribe them to products**.
+You can add a new system, referring to the Developer Hub instance, from the SAP BTP cockpit in the SAP Business Application Studio subaccount. This destination will be used **to register new developers to the Developer Hub and to subscribe them to new products**, if needed.
 
 > ### Note:  
 > To add a system, you must meet these criteria:
 > 
 > -   You're assigned the *Business\_Application\_Studio\_Administrator* role in the cockpit. See [**Manage Authorizations and Roles**](https://help.sap.com/docs/bas/sap-business-application-studio/manage-authorizations-and-roles?version=Cloud).
-> -   You're connected to a space with a subscription to the API business hub enterprise.
+> -   You're connected to a space with a subscription to the Developer Hub.
 
 1.  Hover over the subaccount and click ![Add system icon](images/Add_system-_service_center-_plus_icon_3701d6b.jpg) \(Add system\).
 
@@ -80,11 +80,11 @@ You can add a new system, referring to the API business hub enterprise instance,
     </td>
     <td valign="top">
     
-    Use the `url` value from the service key of the API business hub enterprise instance.
+    Use the `url` value from the service key of the Developer Hub instance.
 
-    You can find the service key for the service instance that you created \(in the Prerequisite\) in the SAP BTP cockpit, under the *API Management, API Business Hub Enterprise* service.
+    You can find the service key for the service instance that you created \(in the Prerequisite\) in the SAP BTP cockpit, under the *API Management,***Developer Hub** service.
 
-    ![URL value from the service key of the API business hub enterprise instance](images/service_instance_key-_ABHE-_cropped_9439c8c.png)
+    ![URL value from the service key of the Developer Hub instance](images/service_instance_key-_ABHE-_cropped_9439c8c.png)
     
     </td>
     </tr>
@@ -120,7 +120,7 @@ You can add a new system, referring to the API business hub enterprise instance,
     </td>
     <td valign="top">
     
-    Use the `clientId` value from the service key of the API business hub enterprise instance.
+    Use the `clientId` value from the service key of the Developer Hub instance.
     
     </td>
     </tr>
@@ -132,7 +132,7 @@ You can add a new system, referring to the API business hub enterprise instance,
     </td>
     <td valign="top">
     
-    Use the `clientSecret` value from the service key of the API business hub enterprise instance.
+    Use the `clientSecret` value from the service key of the Developer Hub instance.
     
     </td>
     </tr>
@@ -144,7 +144,7 @@ You can add a new system, referring to the API business hub enterprise instance,
     </td>
     <td valign="top">
     
-    Use the `tokenUrl` value from the service key of the API business hub enterprise instance.
+    Use the `tokenUrl` value from the service key of the Developer Hub instance.
     
     </td>
     </tr>
@@ -212,7 +212,7 @@ You can add a new system, referring to the API business hub enterprise instance,
     
     Adding this property is optional.
 
-    This property enables navigation from the Service Center to the API business hub enterprise.
+    This property enables navigation from the Service Center to the Developer Hub.
 
     Use the following format:
 
@@ -242,7 +242,7 @@ You can add a new system, referring to the API business hub enterprise instance,
     </td>
     <td valign="top">
     
-    Use the first part of the `tokenUrl` from the destination system of API business hub enterprise.
+    Use the first part of the `tokenUrl` from the destination system of the Developer Hub.
 
     For example, if the URL is https://abcd123trial.authentication.eu10.hana.ondemand.com/oauth/token
 
@@ -294,31 +294,60 @@ You can add a new system, referring to the API business hub enterprise instance,
 
 <a name="loio328519b3b7c04871b63a41350190d4d5__section_fpr_sx3_qqb"/>
 
-## Explore API Business Hub Enterprise Services
+## Explore Developer Hub Services
 
 > ### Note:  
-> The Service Center only shows API business hub enterprise systems and products with OData services.
+> The Service Center only shows Developer Hub systems and products with OData services.
 
-1.  In the Service Center, from the *Select System* dropdown list, select *API business hub enterprise*.
+1.  If it's not already selected, use the *Service* radio button in the Service Center to filter for the relevant providers.
+2.  From the *Select a Provider* dropdown list, select Developer Hub.
 
-    Each system points to an API business hub enterprise instance.
+    Each system points to a Developer Hub instance.
 
-2.  Select a system from the dropdown list to display the products within it.
+3.  Select a system from the dropdown list to display the products within it.
+
+    There are 2 types of products:
+
+    -   *SAP S/4HANA Cloud Products*
+
+        These products are created from the SAP S/4HANA Cloud business system, which has been connected to the Developer Hub.
+
+        To see the list of products, the following prerequisites apply:
+
+        1.  The Global Account Administrator registered the SAP S/4HANA Cloud system in the SAP BTP cockpit and linked it to the Integration Suite. See [How to discover APIs from business systems in Developer Hub](https://help.sap.com/docs/integration-suite/sap-integration-suite/discover-apis-within-integration-suite-from-various-business-systems#how-to-discover-apis-from-business-systems-in-developer-hub-).
+        2.  You have created products from the SAP S/4HANA Cloud system in the Developer Hub. See [Create Products from Business Systems](https://help.sap.com/docs/integration-suite/sap-integration-suite/create-products-from-consumption-bundles).
+
+    -   *Custom Products*
+
+        You must be onboarded to the Developer Hub and subscribed to access the service details for these products.
+
 
     Multiple APIs are grouped into a product.
 
     If the product is available and connected \(![Connected Product icon](images/SC-_system_connected_icon_1c4c936.png)\), you can search for services within it.
 
-3.  Click a product \(![Product icon](images/ABHE_product_icon_c456c90.png)\) to display the services \(APIs\).
-4.  Click a service \(![Service icon](images/SC-_service_icon_fc5c112.png)\) to see its properties, including the service name, protocol, and status.
+4.  Click a product \(![Product icon](images/ABHE_product_icon_c456c90.png)\) to display the services \(APIs\).
+5.  Click a service \(![Service icon](images/SC-_service_icon_fc5c112.png)\) to see its properties, including the service name, protocol, and status.
 
-    To see the service details, you must be onboarded to the API business hub enterprise and subscribed to the selected product:
+    **SAP S/4HANA Cloud Products**
 
-    -   If you aren't onboarded to the API business hub enterprise, enter your first name, last name, and subscription name and click *Subscribe*.
+    You can see the *Entity Details*, *Service Properties*, and *Connectivity Information*, which lets you connect to the live data of the service, if there is a matching destination. The destination is copied from the target system in the Developer Hub to the SAP Business Application Studio account whenever you fetch live data or when you add a service to the project.
+
+    > ### Note:  
+    > -   You must have an SAP Business Application Studio Administrator role to create a new destination while fetching live date or adding a service to a project.
+    > -   Only destinations created with *BasicAuthentication* are supported.
+
+    If a service is connected, there's a dot next to the icon \(![Connected Service icon](images/green_dot-_system_available_ac1aa72.jpg)\).
+
+    **Custom Products**
+
+    To see the service details, you must be onboarded to the Developer Hub and subscribed to the selected product:
+
+    -   If you aren't onboarded to the Developer Hub, enter your first name, last name, and subscription name and click *Subscribe*.
 
         You're now subscribed to the product and all services associated with it.
 
-    -   If you're onboarded to the API business hub enterprise, but you aren't subscribed to the product, enter a subscription name and click *Subscribe*.
+    -   If you're onboarded to the Developer Hub, but you aren't subscribed to the product, enter a subscription name and click *Subscribe*.
 
         You can now access the service.
 
@@ -327,7 +356,7 @@ You can add a new system, referring to the API business hub enterprise instance,
 
     -   Subscription details
 
-        This section includes a link to the product in the API business hub enterprise, the subscription name with a link to the subscription in the API business hub enterprise, and the subscription date.
+        This section includes a link to the product in the Developer Hub, the subscription name with a link to the subscription in the Developer Hub, and the subscription date.
 
     -   Service properties
 
@@ -340,17 +369,17 @@ You can add a new system, referring to the API business hub enterprise instance,
     > -   If a service is unavailable and the target endpoint of the service requires authentication, make sure that the target endpoint is configured to be authenticated via [Basic Authentication](https://help.sap.com/docs/SAP_CLOUD_PLATFORM_API_MANAGEMENT/66d066d903c2473f81ec33acfe2ccdb4/693c0d1720644d57918ed77acc6a95ef.html?locale=en-US&version=Cloud). See the "Configure API Management to Use the Basic Authentication Policy" section in this [blog post](https://blogs.sap.com/2019/05/23/securing-your-microservice-on-sap-cloud-platform-using-api-management-with-basic-authentication-for-last-mile-security/).
     > -   We recommend using the [verify API key](https://help.sap.com/docs/SAP_CLOUD_PLATFORM_API_MANAGEMENT/66d066d903c2473f81ec33acfe2ccdb4/4d15a0427494452dbb42a319e9bb420f.html?locale=en-US&version=Cloud) policy to ensure secure access to the service. This policy is added in the PreFlow of the ProxyEndpoint of the corresponding API proxy.
 
-5.  Click an entity to see the service details, including entity data and live data:
-    1.  You can see the entity's metadata, details, and live data in the *Entities* tab. This helps you choose an entity for your application.
+6.  Click an entity to see the service details, including entity details and live data:
+    1.  You can see the *Entity Details* and *Live Data* in the *Entities* tab. This helps you choose an entity for your application.
 
         > ### Note:  
-        > The live data only displays up to 20 rows of data for simple data types.
+        > The *Live Data* only displays up to 20 rows of data for simple data types.
 
         You can also search for an entity.
 
-    2.  You can see details about the service in the *Properties* tab.
+    2.  You can see *Service Properties* in the *Properties* tab.
 
-6.  You can click *View Diagram* to see the service entities, their properties, and the relationships between the entities in a new tab.
+7.  You can click *View Diagram* from the *Entities* tab to see the service entities, their properties, and the relationships between the entities in a new tab.
 
 
 
@@ -358,7 +387,7 @@ You can add a new system, referring to the API business hub enterprise instance,
 
 ## Service Actions for Development
 
-If the SAP Business Application Studio Administrator role is assigned to you, after creating a project or adding a data model, the destination to the selected product subscription is generated in the SAP BTP cockpit. The destination enables you to preview live data and run your deployed application. The destination includes information about the product subscription, including the subscription's API key and the subscription's ID.
+If the SAP Business Application Studio Administrator role is assigned to you, after creating a project or adding an external service, the destination to the selected product subscription is generated in the SAP BTP cockpit. The destination enables you to preview live data and run your deployed application. For *Custom Products*, the destination includes information about the product subscription, including the subscription's API key and the subscription's ID.
 
 If you don’t have the SAP Business Application Studio Administrator role, the destination isn't generated with your subscription.
 
@@ -373,7 +402,7 @@ If you don’t have the SAP Business Application Studio Administrator role, the 
 2.  Use the template wizard to create the relevant project.
 
 > ### Note:  
-> If the deployed application to Cloud Foundry fails to bring data from the service, make sure that the [Assign Message](https://help.sap.com/docs/SAP_CLOUD_PLATFORM_API_MANAGEMENT/66d066d903c2473f81ec33acfe2ccdb4/523efe6d0a9d43beb5d62ad07937578f.html?locale=en-US&version=Cloud) policy is used in the PreFlow of the ProxyEndpoint of the API proxy.
+> For *Custom Products* only: If the deployed application to Cloud Foundry fails to bring data from the service, make sure that in the Developer Hub, the [Assign Message](https://help.sap.com/docs/SAP_CLOUD_PLATFORM_API_MANAGEMENT/66d066d903c2473f81ec33acfe2ccdb4/523efe6d0a9d43beb5d62ad07937578f.html?locale=en-US&version=Cloud) policy is used in the PreFlow of the ProxyEndpoint of the API proxy.
 > 
 > We use the Assign Message policy to override the HTTP request Accept-Encoding header:
 > 
@@ -435,19 +464,56 @@ You can select a service from the Service Center and add it as an external servi
     You added the external service to the CAP project. The following changes happen:
 
     -   The `<service_name>.xml` and `<service_name>.cds` files appear in the *srv* \> *external* folder of the project.
-    -   A service section appears in the `package.json` file of the CAP project, which refers to the *srv* \> *external* \> *<service\_name\>.xml* file. This file has the metadata of the service:
+    -   A service section appears in the `package.json` file of the CAP project, which refers to the *srv* \> *external* \> *<service\_name\>.cds* file. This file has the metadata of the service:
 
         ```
         "<service_name>": {
           "kind": "odata",
           "model": "srv/external/<service_name>"
+          "[production]": {
           "credentials": {
-            "destination": "<service_name>"
+            "destination": "<service_name>",
+            "path": "<service_path>"
           }
+        },
+        "csrf": true,
+        "csrfInBatch": true
         }
         ```
 
     -   If you added a sample service with the relevant entities, the `<service_name>.cds` and the `<service_name>.js` files appear in the *srv* \> *external* folder of the CAP project.
     -   The external service is added to the storyboard, under *External Resources*.
+
+
+
+
+### Add an External Service to a Java Project
+
+You can select an OData service from the Service Center and add it as an external resource to a CAP Java project:
+
+1.  From the *Project Overview*, click ![Create new element icon](images/Create_New_icon_5bf149a.png) on the *External Resources* row to add an external resource to the project.
+
+    The Service Center opens.
+
+2.  Click on an OData service to open it and click the *Add to Project* button.
+
+    You added the external service to the Java project. The following changes happen:
+
+    -   The external service is added under the *srv* \> *external* folder.
+
+        You can also see the new service in the *Project Overview*.
+
+    -   The `application.yaml` configuration file is updated for the productive profile and for the local preview, and includes the new service and its destination.
+    -   A Maven dependency named `cds-feature-remote-odata`, which is required to enable Remote Services for OData V2 or V4 APIs in the application, is added to the project's `pom.xml` file.
+
+    For more information about what is configured by the Service Center when adding the service to your project, see [Configuring Remote Services](https://cap.cloud.sap/docs/java/cqn-services/remote-services#configuring-remote-services).
+
+    Once the service has been added to the project, you can do the following:
+
+    -   Continue modeling your service. See [Project Overview](https://help.sap.com/docs/bas/developing-cap-application-in-sap-business-application-studio/project-overview-9c8a4d616ab8482a9fc6b0ad660d2257).
+    -   Implement a custom handler and consume your external service. See [Consuming Remote Services](https://cap.cloud.sap/docs/java/cqn-services/remote-services#consuming-remote-services).
+    -   Test your project. See [Creating Run Configurations for CAP Java Applications](https://help.sap.com/docs/bas/developing-cap-application-in-sap-business-application-studio/creating-run-configurations-for-cap-java-applications).
+
+    For more information, see [CAP Service SDK for Java](https://cap.cloud.sap/docs/java/).
 
 

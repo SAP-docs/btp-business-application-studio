@@ -12,19 +12,19 @@ With SAP Business Application Studio, you can develop business applications for 
 -   **[Dev Spaces in SAP Business Application Studio](dev-spaces-in-sap-business-application-studio-6053df8.md "A dev space is a development environment with the tools, capabilities, and resources
 		needed for developing your application.")**  
 A dev space is a development environment with the tools, capabilities, and resources needed for developing your application.
--   **[Working in SAP Business Application Studio](working-in-sap-business-application-studio-bfc5178.md "SAP Business Application Studio provides the
+-   **[Working in SAP Business Application Studio](working-in-sap-business-application-studio-bfc5178.md "SAP Business Application
+                            Studio provides the
 		features needed for the entire life cycle of your application, from the moment you create
 		the project until it is ready to be deployed. ")**  
 SAP Business Application Studio provides the features needed for the entire life cycle of your application, from the moment you create the project until it is ready to be deployed.
--   **[Working with a Trial Account](working-with-a-trial-account-2cf6ec0.md "Get a trial account to experience SAP Business Application Studio for free.")**  
-Get a trial account to experience SAP Business Application Studio for free.
--   **[Restrictions](restrictions-76db362.md "When using SAP Business Application Studio,
-		there are user restrictions on computing resources and project components to ensure optimal
-		performance.")**  
-When using SAP Business Application Studio, there are user restrictions on computing resources and project components to ensure optimal performance.
--   **[Troubleshooting](troubleshooting-73e1a38.md "Explore the Guided Answers for troubleshooting issues in SAP Business Application Studio.")**  
-Explore the Guided Answers for troubleshooting issues in SAP Business Application Studio.
--   **[Contact SAP Support](contact-sap-support-a3467fe.md "We suggest you report an incident or error through the SAP Support
-		Portal.")**  
-We suggest you report an incident or error through the SAP Support Portal.
+-   **[Working with a Trial Account](working-with-a-trial-account-2cf6ec0.md "Get a trial account to experience SAP Business Application
+                            Studio for evaluation
+		purposes.")**  
+Get a trial account to experience SAP Business Application Studio for evaluation purposes.
+-   **[Restrictions](restrictions-76db362.md "Learn about the restrictions for working in the different service plans.")**  
+Learn about the restrictions for working in the different service plans.
+-   **[Troubleshooting](troubleshooting-73e1a38.md "Here
+			are some common troubleshooting issues in SAP Business Application
+                            Studio.")**  
+Here are some common troubleshooting issues in SAP Business Application Studio.
 

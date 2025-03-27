@@ -125,11 +125,13 @@ If you open a folder that is a Git repository and begin making changes, annotati
 
 -   **[Connecting an Existing Project to Git](connecting-an-existing-project-to-git-0930e56.md "You can add an existing project to Git.")**  
 You can add an existing project to Git.
--   **[Understanding the UI](understanding-the-ui-d14646a.md "SAP Business Application Studio provides a
+-   **[Understanding the UI](understanding-the-ui-d14646a.md "SAP Business Application
+                            Studio provides a
 		graphical user interface for executing Git commands and managing your source control and
 		versioning. ")**  
 SAP Business Application Studio provides a graphical user interface for executing Git commands and managing your source control and versioning.
--   **[Git Commands](git-commands-5914548.md "SAP Business Application Studio supports Git
+-   **[Git Commands](git-commands-5914548.md "SAP Business Application
+                            Studio supports Git
 		commands from the Git view and from the command palette.")**  
 SAP Business Application Studio supports Git commands from the Git view and from the command palette.
 -   **[Setting Up Git to Work with Gerrit](setting-up-git-to-work-with-gerrit-82a5dfe.md "Gerrit is a web-based software code review tool for reviewing, approving, or

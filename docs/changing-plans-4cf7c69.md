@@ -2,7 +2,7 @@
 
 # Changing Plans
 
-Learn about the options and restrictions for moving to different service plans.
+Learn about the options for moving to different service plans.
 
 You can change the service plan for your SAP Business Application Studio subscription according to the rules described in the table.
 
@@ -42,7 +42,7 @@ SAP Business Application Studio, standard plan
 </td>
 <td valign="top">
 
-This transition is possible only if the subaccount is not subscribed to SAP Build Code.
+See [Upgrading from the free or build-code plan to the standard plan](https://help.sap.com/docs/bas/sap-business-application-studio-daa8adb7947848d8af8fc62e838e830e/changing-plans?state=DRAFT#upgrading-from-the-free-plan-to-the-standard-plan).
 
 </td>
 </tr>
@@ -59,7 +59,7 @@ SAP Business Application Studio, build-code plan
 </td>
 <td valign="top">
 
-This transition is possible only if there already is an SAP Build Code subscription in the subaccount.
+This transition is possible only if there already is an SAP Build Code subscription in the subaccount. See [Upgrading from the standard or free plan to the build-code plan](https://help.sap.com/docs/bas/sap-business-application-studio/changing-plans?version=Cloud#upgrading-from-the-standard-or-free-plan-to-the-build-code-plan).
 
 </td>
 </tr>
@@ -76,7 +76,7 @@ SAP Business Application Studio, build-code plan
 </td>
 <td valign="top">
 
-This transition is possible only if there already is an SAP Build Code subscription in the subaccount.
+This transition is possible only if there already is an SAP Build Code subscription in the subaccount. See [Upgrading from the standard or free plan to the build-code plan](https://help.sap.com/docs/bas/sap-business-application-studio/changing-plans?version=Cloud#upgrading-from-the-standard-or-free-plan-to-the-build-code-plan).
 
 </td>
 </tr>
@@ -110,7 +110,7 @@ SAP Business Application Studio, standard plan
 </td>
 <td valign="top">
 
-This scenario is not supported.
+See [Upgrading from the free or build-code plan to the standard plan](https://help.sap.com/docs/bas/sap-business-application-studio-daa8adb7947848d8af8fc62e838e830e/changing-plans?state=DRAFT#upgrading-from-the-free-plan-to-the-standard-plan).
 
 </td>
 </tr>
@@ -170,7 +170,7 @@ This scenario is not supported.
 
 <a name="loio4cf7c698045346c5a9378c76016c72da__section_gpl_y5c_1bc"/>
 
-## Upgrading from the free plan to the standard plan
+## Upgrading from the free or build-code plan to the standard plan
 
 1.  Open your global account in the cockpit.
 2.  Go to your subaccount.

@@ -6,6 +6,22 @@ You can create, delete, stop, and start dev spaces. You can also download dev sp
 
 
 
+<a name="loioad40d52d0bea4d79baaf9626509caf33__section_jds_wk2_5dc"/>
+
+## Accessing the Dev Space Manager
+
+To open the Dev Space Manager, click the relevant link in the *Quick Links* section of the *Get Started* page.
+
+You can also open the *Dev Space Manager* from the lobby.
+
+1.  Click the Product Switch icon \(![Product Switch icon](images/product_switch_icon_5de8959.png)\) on the upper-right corner of the lobby.
+2.  Select the *Dev Space Manager* tile.
+
+    ![Opening the Dev Space Manager](images/open_ds_manager_d5d68fe.png)
+
+
+
+
 <a name="loioad40d52d0bea4d79baaf9626509caf33__section_bpd_nst_njb"/>
 
 ## Create a Dev Space
@@ -29,14 +45,14 @@ You can generate a dev space to create and manage applications. You can select t
 > ### Note:  
 > Dev Space creation is influenced by the application plan you are using.
 > 
-> -   If you are using a productive account, see SAP Business Application Studio [Restrictions](https://help.sap.com/docs/bas/sap-business-application-studio/restrictions?version=Cloud).
+> -   If you are using a productive account, see [Standard Plan Restrictions](standard-plan-restrictions-e4211ef.md)
 > 
-> -   If you are using a free account, see [Free Plan Restrictions](https://help.sap.com/docs/SAP%20Business%20Application%20Studio/9d1db9835307451daa8c930fbd9ab264/2c72917df87e47c290e061a556d92398.html/#free-plan-restrictions).
+> -   If you are using a free account, see [Free Plan Restrictions](free-plan-restrictions-02e3226.md)
 > 
-> -   If you are using a trial account, see [Trial Account Restrictions](https://help.sap.com/docs/bas/sap-business-application-studio/trial-account-restrictions?version=Cloud).
+> -   If you are using a trial account, see [Trial Plan Restrictions](trial-plan-restrictions-c3a2c3e.md)
 
 > ### Note:  
-> The maximum size limit of the dev space is 10 GB of disk space for productive accounts in the standard-edition plan. For trial accounts and accounts using the free plan, the maximum size limit of the dev space is 4 GB. Exceeding the maximum size limit can cause loss of data and other issues, including the inability to start the dev space. Note that additional restrictions apply to dev spaces in trial accounts. See [Trial Account Restrictions](trial-account-restrictions-a45742a.md).
+> The maximum size limit of the dev space is 10 GB of disk space for productive accounts in the standard-edition plan. For trial accounts and accounts using the free plan, the maximum size limit of the dev space is 4 GB. Exceeding the maximum size limit can cause loss of data and other issues, including the inability to start the dev space. Note that additional restrictions apply to dev spaces in trial accounts.
 
 
 
@@ -89,7 +105,7 @@ After the dev space changes to *SAFE MODE*, it's not possible to return to the *
 When the export process is complete, the `tar` file, with the dev space content, is downloaded.
 
 > ### Note:  
-> After exporting the dev space content, check the size of the dev space before uploading. Make sure that the size doesn't exceed 10 GB.
+> After exporting the dev space content, check the size of the dev space before uploading. Make sure that the size doesn't exceed 10 GB of disk space.
 
 
 

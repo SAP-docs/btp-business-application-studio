@@ -11,7 +11,7 @@ This scenario is useful in the following situations:
 
 Develop an app with two subaccounts as follows:
 
-1.  From your global account in the SAP BTP cockpit, create two subaccounts in two different regions. See [Create a Subaccount \[Feature Set B\]](https://help.sap.com/products/BTP/65de2977205c403bbc107264b8eccf4b/05280a123d3044ae97457a25b3013918.html?locale=en-US#create-a-subaccount-%5Bfeature-set-b%5D).
+1.  From your global account in the SAP BTP cockpit, create two subaccounts in two different regions.
 
     One subaccount is for the design time environment and the other is for the runtime environment.
 

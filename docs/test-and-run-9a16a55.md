@@ -14,8 +14,11 @@ Running an application in Incognito mode allows you to test it with different us
 Each application runs on a specific port. If you want to open a new browser tab with your running application, use the `Ports: Preview` command.
 -   **[Cloud Foundry Tools](cloud-foundry-tools-9ad5cf8.md "Connect and perform actions on the Cloud Foundry environment.")**  
 Connect and perform actions on the Cloud Foundry environment.
--   **[Debugging](debugging-b8587eb.md "SAP Business Application Studio has built-in
+-   **[Debugging](debugging-b8587eb.md "SAP Business Application
+                            Studio has built-in
 		debugging support for the Node.js runtime and can debug JavaScript, TypeScript, or any other
 		language that gets transpiled to JavaScript.")**  
 SAP Business Application Studio has built-in debugging support for the Node.js runtime and can debug JavaScript, TypeScript, or any other language that gets transpiled to JavaScript.
+-   **[Stopping a Process](stopping-a-process-c4476db.md "An application may continue to run in the background even if the debugger or and the explorer show it has been stopped. ")**  
+An application may continue to run in the background even if the debugger or and the explorer show it has been stopped.
 

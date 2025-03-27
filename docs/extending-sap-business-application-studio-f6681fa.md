@@ -36,7 +36,8 @@ You can install VS Code extensions from the [Open VSX Registry](../../../../../.
 -   **[Explore and Install Generators](explore-and-install-generators-7865b5e.md "Use external open source generators to add the most suitable templates for your
 		wizards.")**  
 Use external open source generators to add the most suitable templates for your wizards.
--   **[Create and Deploy an SAP Business Application Studio Extension](create-and-deploy-an-sap-business-application-studio-extension-2064b4e.md "Create an SAP Business Application Studio
+-   **[Create and Deploy an SAP Business Application Studio Extension](create-and-deploy-an-sap-business-application-studio-extension-2064b4e.md "Create an SAP Business Application
+                            Studio
 		extension that includes VS Code extensions and Yeoman generators and deploy it to your
 		subaccount.")**  
 Create an SAP Business Application Studio extension that includes VS Code extensions and Yeoman generators and deploy it to your subaccount.

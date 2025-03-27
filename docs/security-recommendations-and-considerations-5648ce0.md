@@ -65,19 +65,24 @@ More Information
 <tr>
 <td valign="top">
 
-Use caution when installing third-party extensions while using a remote connection to SAP Business Application Studio.
+Use caution when installing third-party extensions while using SAP Business Application Studio, when working on a browser or using a remote connection.
 
 </td>
 <td valign="top">
 
-See [Access SAP Business Application Studio from VS Code](access-sap-business-application-studio-from-vs-code-6b18cc8.md).
+See [Access SAP Business Application Studio from VS Code](access-sap-business-application-studio-from-vs-code-6b18cc8.md) and [Explore and Install VS Code Extensions](explore-and-install-vs-code-extensions-d83a580.md).
 
 </td>
 </tr>
 <tr>
 <td valign="top">
 
-When connecting to corporate Git source control systems, use PATs whenever possible.
+When connecting to corporate Git source control systems, use Personal Access Tokens \(PATs\) whenever possible.
+
+> ### Note:  
+> PATs are an alternative to using passwords for authentication to Git, and as such, they should be frequently renewed. See [Managing your personal access tokens](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens).
+
+
 
 </td>
 <td valign="top">
@@ -107,6 +112,32 @@ Make sure you only install secured artifacts with your custom SAP Business Appli
 <td valign="top">
 
 See [Create and Deploy an SAP Business Application Studio Extension](create-and-deploy-an-sap-business-application-studio-extension-2064b4e.md).
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+When exporting personal data from specific dev spaces, use the downloaded data with care as it contains unprotected personal data.
+
+</td>
+<td valign="top">
+
+See [Export and Download Personal Data from Specific Users](export-and-download-personal-data-from-specific-users-8091e47.md).
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**If you are using the build-code service plan:**
+
+When using features with Generative AI, the project’s source code files can be used as context for AI, to improve accuracy. Therefore, please ensure these files do not contain any personal data.
+
+</td>
+<td valign="top">
+
+See [Generative AI-Powered Development](https://help.sap.com/docs/build_code/d0d8f5bfc3d640478854e6f4e7c7584a/337848fc83f24738a9f3a15a88f1fa76.html?version=SHIP).
 
 </td>
 </tr>

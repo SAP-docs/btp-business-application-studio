@@ -13,7 +13,7 @@ To ensure the best functionality, make sure you are always working \(locally\) o
 The remote connection to SAP Business Application Studio allows you to:
 
 -   Work in your SAP Business Application Studio tailored dev spaces directly from your local VS Code installation, including the tools and configurations that are not available on your local OS.
--   Connect to your different centrally managed SAP environments \(for example, API Business Hub Enterprise, subaccount destinations, etc.\) via the SAP Business Application Studio Service Center.
+-   Connect to your different centrally managed SAP environments \(for example, Developer Hub, subaccount destinations, etc.\) via the SAP Business Application Studio Service Center.
 -   Develop directly on SAP BTP.
 -   Separate your development environment to avoid impacting your local machine configuration.
 -   Access an existing dev space from multiple machines or locations.

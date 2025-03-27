@@ -30,7 +30,7 @@ You can change the state of a dev space to *Running*.
 8.  In the REST API tool, send a PUT HTTP request to the following API:
 
     ```
-    PUT https://<sap-business-application-studio-url>/ws-manager/api/v1/workspace/<ws-id>?all=true
+    PUT https://<sap-business-application-studio-url>/ws-manager/api/v1/workspace/<ws-id>?all=false&username=<ws-user-name>
     
     Request Header:
     X-Approuter-Authorization: Bearer <JWT_Token>

@@ -7,7 +7,7 @@ You can create projects based on your development scenario and the extensions in
 1.  Open the wizard in one of the following ways:
 
     -   From the menu, navigate to *File* \> *New Project from Template*.
-    -   Select *Start from template* from the *Get Started* page.
+    -   Select *New Project from Template* from the *Get Started* page.
     -   Enter `New Project` in the command palette and select *SAP Business Application Studio: New Project from Template*.
 
     The Project Wizard opens showing the project templates that are relevant based on the dev space and additional extensions that you selected.

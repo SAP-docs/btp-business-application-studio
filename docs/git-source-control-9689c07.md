@@ -30,12 +30,24 @@ Using Git is easy. The basic workflow is as follows:
 4.  **Push:** Add your changes to the remote repository.
 
 
+
+
+<a name="loio9689c07b64364bbea43725dad9f27320__section_rtx_gbt_32c"/>
+
+## Disclaimer
+
+Dev space owners are responsible for maintaining any code cloned from source control systems. Open-source repositories are maintained and supported according to their open-source licenses and documentation.
+
+SAP Business Application Studio supports only specific versions of runtime tools \(such as NPM and Java\). If your code isn't supported by the default dev space configurations, you can either use a [different runtime version](https://help.sap.com/docs/bas/sap-business-application-studio/runtime-version-management) or contact the repository owner to adjust the code.
+
 -   **[Using the Simplified Git View](using-the-simplified-git-view-16eaaa6.md "Use the
 		SIMPLIFIED GIT view to perform Git operations and manage Git
-		repositories in SAP Business Application Studio.")**  
+		repositories in SAP Business Application
+                            Studio.")**  
 Use the *SIMPLIFIED GIT* view to perform Git operations and manage Git repositories in SAP Business Application Studio.
 -   **[Using the Advanced Git View](using-the-advanced-git-view-265962e.md "General overview of the advanced Git view, the SOURCE CONTROL
-		view, in SAP Business Application Studio.")**  
+		view, in SAP Business Application
+                            Studio.")**  
 General overview of the advanced Git view, the *SOURCE CONTROL* view, in SAP Business Application Studio.
 -   **[Providing Authentication to Git](providing-authentication-to-git-8b1d618.md "You can use Basic or OAuth to authenticate your Git user.")**  
 You can use Basic or OAuth to authenticate your Git user.

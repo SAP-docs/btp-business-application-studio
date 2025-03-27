@@ -11,8 +11,12 @@ The SAP Business Accelerator Hub \(formerly known as the SAP API Business Hub\) 
 
 ## Explore SAP Business Accelerator Hub Services
 
-1.  In the Service Center, from the *Select Provider* dropdown list, select *SAP Business Accelerator Hub*.
-2.  The following products are available in the *Select Product* dropdown list:
+1.  Use the *Service* or *Event* radio button in the Service Center to filter for the relevant providers.
+
+    For more information about exploring events, see [Explore SAP S/4HANA or SAP S/4HANA Cloud Events](https://help.sap.com/docs/bas/developing-cap-application-in-sap-business-application-studio/adding-sap-s-4hana-cloud-events-to-your-project#explore-sap-s%2F4hana-or-sap-s%2F4hana-cloud-events) for the *Full Stack Cloud Application* dev space and [Explore SAP S/4HANA or SAP S/4HANA Cloud Events](https://help.sap.com/docs/bas/developing-business-applications-using-productivity-tools/add-sap-s-4hana-cloud-events#explore-sap-s%2F4hana-or-sap-s%2F4hana-cloud-events) for the *Full-Stack Application Using Productivity Tools* dev space.
+
+2.  From the *Select a Provider* dropdown list, select **SAP Business Accelerator Hub**.
+3.  The following products are available in the *Select Product* dropdown list:
 
     -   SAP S/4HANA Cloud
     -   SAP S/4HANA
@@ -22,7 +26,6 @@ The SAP Business Accelerator Hub \(formerly known as the SAP API Business Hub\) 
 
     Select a product to display its packages.
 
-3.  To explore events, choose the *Event* radio button at the top of the Service Center. For more information, see [Explore SAP S/4HANA or SAP S/4HANA Cloud Events](https://help.sap.com/docs/bas/developing-cap-application-in-sap-business-application-studio/adding-sap-s-4hana-cloud-events-to-your-project#explore-sap-s%2F4hana-or-sap-s%2F4hana-cloud-events) for the *Full Stack Cloud Application* dev space and [Explore SAP S/4HANA or SAP S/4HANA Cloud Events](https://help.sap.com/docs/bas/developing-business-applications-using-productivity-tools/add-sap-s-4hana-cloud-events#explore-sap-s%2F4hana-or-sap-s%2F4hana-cloud-events) for the *Full-Stack Application Using Productivity Tools* dev space.
 4.  Click the package to display the services \(APIs\).
 5.  Click a service \(![Service icon](images/SC-_service_icon_fc5c112.png)\) and log in with your SAP Business Accelerator Hub credentials, if needed.
 
@@ -80,7 +83,7 @@ You can add a service to an empty SAP Fiori project or to an SAP Fiori project t
     If you only have one empty project:
 
     -   The service is added and is displayed in the *External Resources* section of the storyboard.
-    -   The `.service.metadata` file is added to the project folder in the file explorer.
+    -   The `` file is added to the project folder in the file explorer.
 
         You can then add a UI and integrate the service.
 
@@ -125,6 +128,38 @@ You can select a service from the Service Center and add it as an external servi
 
     -   If you added a sample service with the relevant entities, the `<service_name>.cds` and the `<service_name>.js` files appear in the *srv* \> *external* folder of the CAP project.
     -   The external service is added to the storyboard, under *External Resources*.
+
+
+
+
+### Add an External Service to a Java Project
+
+You can select an OData service from the Service Center and add it as an external resource to a CAP Java project:
+
+1.  From the *Project Overview*, click ![Create new element icon](images/Create_New_icon_5bf149a.png) on the *External Resources* row to add an external resource to the project.
+
+    The Service Center opens.
+
+2.  Click on an OData service to open it and click the *Add to Project* button.
+
+    You added the external service to the Java project. The following changes happen:
+
+    -   The external service is added under the *srv* \> *external* folder.
+
+        You can also see the new service in the *Project Overview*.
+
+    -   The `application.yaml` configuration file is updated for the productive profile and for the local preview, and includes the new service and its destination.
+    -   A Maven dependency named `cds-feature-remote-odata`, which is required to enable Remote Services for OData V2 or V4 APIs in the application, is added to the project's `pom.xml` file.
+
+    For more information about what is configured by the Service Center when adding the service to your project, see [Configuring Remote Services](https://cap.cloud.sap/docs/java/cqn-services/remote-services#configuring-remote-services).
+
+    Once the service has been added to the project, you can do the following:
+
+    -   Continue modeling your service. See [Project Overview](https://help.sap.com/docs/bas/developing-cap-application-in-sap-business-application-studio/project-overview-9c8a4d616ab8482a9fc6b0ad660d2257).
+    -   Implement a custom handler and consume your external service. See [Consuming Remote Services](https://cap.cloud.sap/docs/java/cqn-services/remote-services#consuming-remote-services).
+    -   Test your project. See [Creating Run Configurations for CAP Java Applications](https://help.sap.com/docs/bas/developing-cap-application-in-sap-business-application-studio/creating-run-configurations-for-cap-java-applications).
+
+    For more information, see [CAP Service SDK for Java](https://cap.cloud.sap/docs/java/).
 
 
 

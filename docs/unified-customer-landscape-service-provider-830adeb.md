@@ -189,22 +189,23 @@ The Unified Customer Landscape service provider includes packages and services f
 
 ## Explore Unified Customer Landscape Services
 
-1.  From the *Select Provider* dropdown list, select *Unified Customer Landscape*.
+1.  Use the *Service* or *Event* radio button in the Service Center to filter for the relevant providers.
 
-    To explore events, choose the *Event* radio button at the top of the Service Center. For more information, see [Explore SAP S/4HANA or SAP S/4HANA Cloud Events](https://help.sap.com/docs/bas/developing-cap-application-in-sap-business-application-studio/adding-sap-s-4hana-cloud-events-to-your-project#explore-sap-s%2F4hana-or-sap-s%2F4hana-cloud-events) for the *Full Stack Cloud Application* dev space and [Explore SAP S/4HANA or SAP S/4HANA Cloud Events](https://help.sap.com/docs/bas/developing-business-applications-using-productivity-tools/add-sap-s-4hana-cloud-events#explore-sap-s%2F4hana-or-sap-s%2F4hana-cloud-events) for the *Full-Stack Application Using Productivity Tools* dev space.
+    For more information, see [Explore SAP S/4HANA or SAP S/4HANA Cloud Events](https://help.sap.com/docs/bas/developing-cap-application-in-sap-business-application-studio/adding-sap-s-4hana-cloud-events-to-your-project#explore-sap-s%2F4hana-or-sap-s%2F4hana-cloud-events) for the *Full Stack Cloud Application* dev space and [Explore SAP S/4HANA or SAP S/4HANA Cloud Events](https://help.sap.com/docs/bas/developing-business-applications-using-productivity-tools/add-sap-s-4hana-cloud-events#explore-sap-s%2F4hana-or-sap-s%2F4hana-cloud-events) for the *Full-Stack Application Using Productivity Tools* dev space.
 
-2.  Select a system to display its packages \(![Package icon](images/SC_system_icon_5178796.png)\) under a system.
+2.  From the *Select a Provider* dropdown list, select *Unified Customer Landscape*.
+3.  Select a system to display its packages \(![Package icon](images/SC_system_icon_5178796.png)\) under a system.
 
     If the package is available and connected \(![Connected Package icon](images/SC-_system_connected_icon_1c4c936.png)\), you can search for services within it.
 
-3.  Click a package to display its services.
-4.  Click a service \(![Service icon](images/SC-_service_icon_fc5c112.png)\) to display its properties, including the service name, protocol, version, URL, and status.
+4.  Click a package to display its services.
+5.  Click a service \(![Service icon](images/SC-_service_icon_fc5c112.png)\) to display its properties, including the service name, protocol, version, URL, and status.
 
     In the *Connectivity Information*, you can see the consumption bundle name, ID, and correlation ID. If there is a destination, you can select it and see its name and authentication.
 
     If a service is connected, there's a dot next to the icon \(![Connected Service](images/green_dot-_system_available_ac1aa72.jpg)\).
 
-5.  Click an entity to see the service details, including entity details and live data:
+6.  Click an entity to see the service details, including entity details and live data:
     1.  You can see the entity's metadata, details, and live data in the *Entities* tab. This helps you choose an entity for your application.
 
         > ### Note:  
@@ -214,7 +215,7 @@ The Unified Customer Landscape service provider includes packages and services f
 
     2.  You can see details about the service in the *Properties* tab.
 
-6.  You can click *View Diagram* to see the service entities, their properties, and the relationships between the entities in a new tab.
+7.  You can click *View Diagram* to see the service entities, their properties, and the relationships between the entities in a new tab.
 
 
 
@@ -288,6 +289,38 @@ You can select a service from the Service Center and add it as an external servi
 
     -   If you added a sample service with the relevant entities, the `<service_name>.cds` and the `<service_name>.js` files appear in the *srv* \> *external* folder of the CAP project.
     -   The external service is added to the storyboard, under *External Resources*.
+
+
+
+
+### Add an External Service to a Java Project
+
+You can select an OData service from the Service Center and add it as an external resource to a CAP Java project:
+
+1.  From the *Project Overview*, click ![Create new element icon](images/Create_New_icon_5bf149a.png) on the *External Resources* row to add an external resource to the project.
+
+    The Service Center opens.
+
+2.  Click on an OData service to open it and click the *Add to Project* button.
+
+    You added the external service to the Java project. The following changes happen:
+
+    -   The external service is added under the *srv* \> *external* folder.
+
+        You can also see the new service in the *Project Overview*.
+
+    -   The `application.yaml` configuration file is updated for the productive profile and for the local preview, and includes the new service and its destination.
+    -   A Maven dependency named `cds-feature-remote-odata`, which is required to enable Remote Services for OData V2 or V4 APIs in the application, is added to the project's `pom.xml` file.
+
+    For more information about what is configured by the Service Center when adding the service to your project, see [Configuring Remote Services](https://cap.cloud.sap/docs/java/cqn-services/remote-services#configuring-remote-services).
+
+    Once the service has been added to the project, you can do the following:
+
+    -   Continue modeling your service. See [Project Overview](https://help.sap.com/docs/bas/developing-cap-application-in-sap-business-application-studio/project-overview-9c8a4d616ab8482a9fc6b0ad660d2257).
+    -   Implement a custom handler and consume your external service. See [Consuming Remote Services](https://cap.cloud.sap/docs/java/cqn-services/remote-services#consuming-remote-services).
+    -   Test your project. See [Creating Run Configurations for CAP Java Applications](https://help.sap.com/docs/bas/developing-cap-application-in-sap-business-application-studio/creating-run-configurations-for-cap-java-applications).
+
+    For more information, see [CAP Service SDK for Java](https://cap.cloud.sap/docs/java/).
 
 
 

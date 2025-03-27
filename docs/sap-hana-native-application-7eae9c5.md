@@ -31,7 +31,7 @@ The SAP HANA Native Application scenario contains the following predefined exten
 
     Allows you to access and inspect SAP HANA run-time objects. The extension includes a command that opens the SAP HANA Database Explorer in a new browser tab.
 
-    See [SAP HANA Database Explorer](https://help.sap.com/viewer/a2cea64fa3ac4f90a52405d07600047b/cloud/en-US/7fa981c8f1b44196b243faeb4afb5793.html).
+    See [SAP HANA Database Explorer](https://help.sap.com/docs/SAP_HANA_COCKPIT/f69e86dc57384ca7be4b8005a3f2d4ab/7fa981c8f1b44196b243faeb4afb5793.html).
 
 -   **SAP HANA Tools**
 

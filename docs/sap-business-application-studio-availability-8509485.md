@@ -93,32 +93,6 @@ AWS
 </td>
 <td valign="top">
 
-eu10-trial
-
-</td>
-<td valign="top">
-
-18.192.169.180
-
-18.193.190.210
-
-18.193.190.236
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-Europe \(Frankfurt\)
-
-</td>
-<td valign="top">
-
-AWS
-
-</td>
-<td valign="top">
-
 eu11
 
 </td>
@@ -225,6 +199,44 @@ us10-trial
 34.198.58.151
 
 54.172.162.6
+
+18.204.131.117
+
+34.204.127.13
+
+34.224.231.39
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+US West \(Oregon\)
+
+</td>
+<td valign="top">
+
+AWS
+
+</td>
+<td valign="top">
+
+us11
+
+</td>
+<td valign="top">
+
+54.244.126.169
+
+52.11.153.145
+
+35.80.182.215
+
+44.236.127.164
+
+50.112.18.212
+
+52.39.54.142
 
 </td>
 </tr>
@@ -647,6 +659,38 @@ ap21-trial
 <tr>
 <td valign="top">
 
+Brazil \(Sao Paolo\)
+
+</td>
+<td valign="top">
+
+Azure
+
+</td>
+<td valign="top">
+
+br20
+
+</td>
+<td valign="top">
+
+4.228.117.252
+
+4.228.118.232
+
+4.228.24.28
+
+4.228.114.141
+
+4.228.25.65
+
+4.228.29.0
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
 Switzerland North
 
 </td>
@@ -673,6 +717,30 @@ ch20
 51.107.5.175
 
 51.103.222.158
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+Australia \(Sydney\)
+
+</td>
+<td valign="top">
+
+Google Cloud
+
+</td>
+<td valign="top">
+
+ap30
+
+</td>
+<td valign="top">
+
+35.201.17.27
+
+34.87.246.116
 
 </td>
 </tr>
@@ -721,6 +789,78 @@ in30
 34.93.211.137
 
 34.93.194.189
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+Israel \(Tel Aviv\)
+
+</td>
+<td valign="top">
+
+Google Cloud
+
+</td>
+<td valign="top">
+
+il30
+
+</td>
+<td valign="top">
+
+34.165.4.154
+
+34.165.181.118
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+Europe \(Frankfurt\)
+
+</td>
+<td valign="top">
+
+Google Cloud
+
+</td>
+<td valign="top">
+
+eu30
+
+</td>
+<td valign="top">
+
+34.89.237.178
+
+35.234.91.117
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+Saudi-Arabia \(Dammam\)
+
+</td>
+<td valign="top">
+
+Google Cloud
+
+</td>
+<td valign="top">
+
+sa30
+
+</td>
+<td valign="top">
+
+34.166.78.79
+
+34.166.33.194
 
 </td>
 </tr>
@@ -1187,7 +1327,7 @@ https://connectivity.jp10.applicationstudio.cloud.sap
 <tr>
 <td valign="top">
 
-Europe \(Frankfurt\)
+US West \(Oregon\)
 
 </td>
 <td valign="top">
@@ -1197,33 +1337,27 @@ AWS
 </td>
 <td valign="top">
 
-eu10-trial
+us11
 
 </td>
 <td valign="top">
 
-https://connectivity.eu10cf.trial.applicationstudio.cloud.sap
+https://connectivity.us11.applicationstudio.cloud.sap
 
 </td>
-<td valign="top" rowspan="3">
+<td valign="top">
 
-> ### Note:  
-> SAP Business Application Studio doesn't currently support static inbound IPs for trial environments.
+44.235.6.187
 
-To determine the inbound IP address, perform the following steps:
+52.41.148.215
 
-1.  Open the command prompt.
-2.  Enter the following command:
+54.186.52.114
 
-    ```
-    $ nslookup <connectivity_service_host>
-    ```
+34.213.22.105
 
+52.33.205.233
 
-> ### Note:  
-> The inbound IPs may change over time. If you have trouble connecting from an outside system to SAP Business Application Studio, perform the steps in the previous note to determine the new inbound IP address.
-
-
+54.189.191.113
 
 </td>
 </tr>
@@ -1248,6 +1382,27 @@ us10-trial
 https://connectivity.us10cf.trial.applicationstudio.cloud.sap
 
 </td>
+<td valign="top" rowspan="2">
+
+> ### Note:  
+> SAP Business Application Studio doesn't currently support static inbound IPs for trial environments.
+
+To determine the inbound IP address, perform the following steps:
+
+1.  Open the command prompt.
+2.  Enter the following command:
+
+    ```
+    $ nslookup <connectivity_service_host>
+    ```
+
+
+> ### Note:  
+> The inbound IPs may change over time. If you have trouble connecting from an outside system to SAP Business Application Studio, perform the steps in the previous note to determine the new inbound IP address.
+
+
+
+</td>
 </tr>
 <tr>
 <td valign="top">
@@ -1268,6 +1423,35 @@ ap21-trial
 <td valign="top">
 
 https://connectivity.ap21cf.trial.applicationstudio.cloud.sap
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+Brazil \(Sao Paolo\)
+
+</td>
+<td valign="top">
+
+Azure
+
+</td>
+<td valign="top">
+
+br20
+
+</td>
+<td valign="top">
+
+https://connectivity.br20.applicationstudio.cloud.sap
+
+</td>
+<td valign="top">
+
+4.228.79.107
+
+4.228.79.97
 
 </td>
 </tr>
@@ -1477,6 +1661,35 @@ https://connectivity.ch20.applicationstudio.cloud.sap
 <tr>
 <td valign="top">
 
+Australia \(Sydney\)
+
+</td>
+<td valign="top">
+
+Google Cloud
+
+</td>
+<td valign="top">
+
+ap30
+
+</td>
+<td valign="top">
+
+https://connectivity.ap30.applicationstudio.cloud.sap
+
+</td>
+<td valign="top">
+
+34.87.246.207
+
+34.116.94.14
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
 US Central \(Iowa\)
 
 </td>
@@ -1529,6 +1742,93 @@ https://connectivity.in30.applicationstudio.cloud.sap
 34.93.97.128
 
 34.93.245.49
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+Israel \(Tel Aviv\)
+
+</td>
+<td valign="top">
+
+Google Cloud
+
+</td>
+<td valign="top">
+
+il30
+
+</td>
+<td valign="top">
+
+https:///connectivity.il30.applicationstudio.cloud.sap
+
+</td>
+<td valign="top">
+
+34.165.194.231
+
+34.165.25.29
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+Europe \(Frankfurt\)
+
+</td>
+<td valign="top">
+
+Google Cloud
+
+</td>
+<td valign="top">
+
+eu30
+
+</td>
+<td valign="top">
+
+https://connectivity.eU30.applicationstudio.cloud.sap
+
+</td>
+<td valign="top">
+
+34.159.43.99
+
+35.234.124.188
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+Saudi-Arabia \(Dammam\)
+
+</td>
+<td valign="top">
+
+Google Cloud
+
+</td>
+<td valign="top">
+
+sa30
+
+</td>
+<td valign="top">
+
+https://connectivity.sa30.applicationstudio.cloud.sap
+
+</td>
+<td valign="top">
+
+34.166.74.169
+
+34.166.67.156
 
 </td>
 </tr>

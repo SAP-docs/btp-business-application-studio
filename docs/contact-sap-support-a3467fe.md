@@ -2,11 +2,11 @@
 
 # Contact SAP Support
 
-We suggest you report an incident or error through the SAP Support Portal.
+If you did not find an answer in the troubleshooting section, you can report an incident or error through the SAP Support Portal.
 
 1.  Create a new incident. See [Getting Support](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/5dd739823b824b539eee47b7860a00be.html).
 
-    Select the relevant component from the list:
+    Select the relevant component:
 
 
     <table>
@@ -30,7 +30,7 @@ We suggest you report an incident or error through the SAP Support Portal.
     </td>
     <td valign="top">
     
-    SAP Business Application Studio issues.
+    SAP Business Application Studio 
     
     </td>
     </tr>
@@ -121,7 +121,7 @@ We suggest you report an incident or error through the SAP Support Portal.
     <tr>
     <td valign="top">
     
-    CA-BAS-TPL-FIORI
+    CA-BAS-TPL-HTML5
     
     </td>
     <td valign="top">
@@ -174,7 +174,7 @@ We suggest you report an incident or error through the SAP Support Portal.
     </td>
     <td valign="top">
     
-    Fiori development \(code assist, validations, i18n\) - SAP Business Application Studio 
+    SAP Fiori development \(code assist, validations, i18n\) - SAP Business Application Studio 
     
     </td>
     </tr>
@@ -326,7 +326,7 @@ We suggest you report an incident or error through the SAP Support Portal.
     
 
 > ### Note:  
-> Contact the Customer Interaction Center \(CIC\) in order to ask for a speed-up to your request. You will find additional information in SAP Note [560499](https://me.sap.com/notes/560499).
+> For more information about contacting support see SAP Note [560499](https://me.sap.com/notes/560499).
 > 
-> We invite you to participate in the SAP Product Support Accreditation Program. This program will show you how you can work best with Product Support to get faster, easier closure to your incidents. For additional information see the SAP KBA [2911278](https://me.sap.com/notes/2911278).
+> We invite you to participate in the SAP Product Support Accreditation Program. This program will show you how you can work best with Product Support to get faster, easier closure for your incidents.
 

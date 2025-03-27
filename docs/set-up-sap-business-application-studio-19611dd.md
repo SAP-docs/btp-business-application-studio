@@ -65,11 +65,7 @@ Create a subaccount in the SAP BTP, Cloud Foundry environment.
 <tr>
 <td valign="top">
 
-**2. Configure the SAP Business Application Studio entitlement in your global account.**
-
-Relevant for Feature Set B accounts only.
-
-To check if your global account belongs to Feature Set A or Feature Set B, see [Cloud Management Tools — Feature Set Overview](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/caf4e4e23aef4666ad8f125af393dfb2.html).
+**2. Configure the SAP Business Application Studio entitlement in your global account.** 
 
 </td>
 <td valign="top">

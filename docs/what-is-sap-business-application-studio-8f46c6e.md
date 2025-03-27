@@ -73,9 +73,10 @@ You can find the regions where SAP Business Application Studio is available in t
 
 ![The graphic is explained in the accompanying text.](images/Regions_cacf286.png)
 
--   **[Accessibility Features in SAP Business Application Studio](accessibility-features-in-sap-business-application-studio-704ce0a.md "To optimize your experience, SAP Business Application Studio provides features and settings that help
+-   **[Accessibility Features in SAP Business Application Studio](accessibility-features-in-sap-business-application-studio-704ce0a.md "To optimize your experience, SAP Business Application
+                            Studio provides features and settings that help
 		you use the software efficiently.")**  
 To optimize your experience, SAP Business Application Studio provides features and settings that help you use the software efficiently.
--   **[Commercial Information](commercial-information-58a858c.md)**  
+-   **[Service Plans and Metering](service-plans-and-metering-58a858c.md)**  
 
 
