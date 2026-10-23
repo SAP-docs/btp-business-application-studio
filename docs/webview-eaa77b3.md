@@ -44,3 +44,8 @@ Disable the *AdBlock* feature.
 2.  Select the *AdBlock* extension.
 3.  Select *Always*.
 
+**Related Information**  
+
+
+[SAP KBA 2658310 - How to open SAP Business Application Studio in debug mode](https://me.sap.com/notes/0002658310)
+

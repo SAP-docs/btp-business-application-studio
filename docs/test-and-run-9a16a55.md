@@ -15,7 +15,7 @@ Each application runs on a specific port. If you want to open a new browser tab 
 -   **[Cloud Foundry Tools](cloud-foundry-tools-9ad5cf8.md "Connect and perform actions on the Cloud Foundry environment.")**  
 Connect and perform actions on the Cloud Foundry environment.
 -   **[Debugging](debugging-b8587eb.md "SAP Business Application
-                            Studio has built-in
+                                Studio has built-in
 		debugging support for the Node.js runtime and can debug JavaScript, TypeScript, or any other
 		language that gets transpiled to JavaScript.")**  
 SAP Business Application Studio has built-in debugging support for the Node.js runtime and can debug JavaScript, TypeScript, or any other language that gets transpiled to JavaScript.

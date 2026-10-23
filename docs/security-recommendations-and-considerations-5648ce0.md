@@ -77,6 +77,18 @@ See [Access SAP Business Application Studio from VS Code](access-sap-business-ap
 <tr>
 <td valign="top">
 
+Use caution when installing third-party tools or running third-party code and scripts in a dev space.
+
+</td>
+<td valign="top">
+
+See [Using Additional Tools](https://help.sap.com/docs/bas/sap-business-application-studio/dev-spaces-in-sap-business-application-studio#using-additional-tools), [Explore and Install Generators](https://help.sap.com/docs/bas/sap-business-application-studio/explore-and-install-generators), and [Terminal](https://help.sap.com/docs/bas/sap-business-application-studio/terminal).
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
 When connecting to corporate Git source control systems, use Personal Access Tokens \(PATs\) whenever possible.
 
 > ### Note:  
@@ -99,19 +111,7 @@ Always protect your access to an external system.
 </td>
 <td valign="top">
 
-See [Connecting to External Systems](connecting-to-external-systems-7e49887.md).
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-Make sure you only install secured artifacts with your custom SAP Business Application Studio extension.
-
-</td>
-<td valign="top">
-
-See [Create and Deploy an SAP Business Application Studio Extension](create-and-deploy-an-sap-business-application-studio-extension-2064b4e.md).
+See [Connect to External Systems](connect-to-external-systems-7e49887.md).
 
 </td>
 </tr>
@@ -130,14 +130,12 @@ See [Export and Download Personal Data from Specific Users](export-and-download-
 <tr>
 <td valign="top">
 
-**If you are using the build-code service plan:**
-
 When using features with Generative AI, the project’s source code files can be used as context for AI, to improve accuracy. Therefore, please ensure these files do not contain any personal data.
 
 </td>
 <td valign="top">
 
-See [Generative AI-Powered Development](https://help.sap.com/docs/build_code/d0d8f5bfc3d640478854e6f4e7c7584a/337848fc83f24738a9f3a15a88f1fa76.html?version=SHIP).
+See [Generative AI-Powered Development](https://help.sap.com/docs/build_code/d0d8f5bfc3d640478854e6f4e7c7584a/337848fc83f24738a9f3a15a88f1fa76.html?version=SHIP), [AI Chat](https://help.sap.com/docs/bas/sap-business-application-studio/ai-chat), and [Enable or Disable AI Features](https://help.sap.com/docs/bas/sap-business-application-studio/enable-or-disable-ai-features).
 
 </td>
 </tr>

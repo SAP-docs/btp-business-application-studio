@@ -17,13 +17,13 @@ You can create projects based on your development scenario and the extensions in
 		Git.")**  
 Add an existing project to your local workspace by cloning its repository from Git.
 -   **[Importing Projects](importing-projects-2ada2be.md "Import projects from your local file system to SAP Business Application
-                            Studio. ")**  
+                                Studio. ")**  
 Import projects from your local file system to SAP Business Application Studio.
 -   **[Project Visibility in SAP Business Application Studio](project-visibility-in-sap-business-application-studio-0919ce1.md " Projects are displayed in the file explorer within a workspace or as stand-alone
 		folders.")**  
  Projects are displayed in the file explorer within a workspace or as stand-alone folders.
 -   **[Template Wizard](template-wizard-ba59cb6.md "SAP Business Application
-                            Studio allows you to
+                                Studio allows you to
 		use any type of Yeoman generator including project and module generators.")**  
 SAP Business Application Studio allows you to use any type of Yeoman generator including project and module generators.
 

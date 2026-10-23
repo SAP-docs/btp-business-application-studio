@@ -33,7 +33,6 @@ The Developer and Administrator role collections together with their correspondi
 -   Your subaccount is subscribed to SAP Business Application Studio. See [Subscribe to SAP Business Application Studio](subscribe-to-sap-business-application-studio-6331319.md).
 
 -   You must be a subaccount administrator to assign roles.
--   You're using a SAML 2.0 standard compliant identity provider. See[Trust and Federation with SAML 2.0 Identity Providers](https://help.sap.com/products/BTP/65de2977205c403bbc107264b8eccf4b/cb1bc8f1bd5c482e891063960d7acd78.html).
 -   If you live in the China \(Shanghai\) region, you must create a new role collection before assigning permissions. See [Manage Role Collections](manage-role-collections-7870faf.md).
 
 

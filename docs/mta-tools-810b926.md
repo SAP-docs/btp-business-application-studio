@@ -76,13 +76,3 @@ The `cf-cli-service-info-plugin` is a Cloud Foundry plugin which enables the fol
 -   Provides service credentials.
 -   Calculates a VCAP\_SERVICES json, compatible with how Cloud Foundry binds services to apps and persists to file.
 
-
-
-<a name="loio810b926be6094728a199c6ca3d289678__section_d2n_gt3_1mb"/>
-
-## Chisel
-
-Chisel is a fast TCP tunnel, transported over HTTP, secured via SSH.
-
-For more information, see the [documentation](https://github.com/jpillora/chisel).
-

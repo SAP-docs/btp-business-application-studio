@@ -76,6 +76,8 @@ The Full-Stack Application Using Productivity Tools scenario contains the follow
 
     -   Fiori elements Yeoman Generator
 
+    -   SAPUI5 Adaptation Project Yeoman Generator
+
     -   Application Modeler
 
     -   Guided Development
@@ -87,9 +89,9 @@ The Full-Stack Application Using Productivity Tools scenario contains the follow
 
     See [SAP Fiori Tools](https://help.sap.com/viewer/product/SAP_FIORI_tools/Latest/en-US).
 
--   **Startup Server**
+-   **Service Center**
 
-    Allows you to leverage a trigger and perform an action.
+    Allows you to explore services from various providers, use the services as data sources in your application, and trigger application development.
 
 -   **SAPUI5 Layout Editor & Extensibility**
 

@@ -12,24 +12,13 @@ If you have projects that were created using SAP Web IDE, you can migrate them t
 
 The SAP Fiori scenario contains the following predefined extensions:
 
--   **SAPUI5 Adaptation Project**
-
-    Allows you to extend SAPUI5 applications, using the Adaptation Project and the Visual Editor. See [Extending SAP Fiori Applications](https://help.sap.com/docs/SAP%20Business%20Application%20Studio/584e0bcbfd4a4aff91c815cefa0bce2d/ada9567b767941aba8d49fdb4fdedea7.html).
-
 -   **Basic Tools**
 
-    Allows you to optimize your web development workflow. The extension includes capabilities such as a code editor, file management capabilities, split view and window management, preferences and settings.
+    Allows you to perform operations such as build and deployment of multitarget applications, while optimizing your web development workflow. The extension includes capabilities such as the Cloud Foundry CLI, a code editor, file management capabilities, split view and window management, preferences and settings.
 
 -   **Fiori Freestyle Tools**
 
-    Allows you to optimize your Fiori-based development. This extension provides Fiori templates with the following tools:
-
-    -   UI5 CLI
-
-    -   Grunt CLI
-
-    -   abap-deploy CLI
-
+    Allows you to optimize your Fiori-based development.
 
 -   **HTML5 Runner**
 
@@ -58,6 +47,7 @@ The SAP Fiori scenario contains the following predefined extensions:
 
     -   Fiori elements Yeoman Generator
 
+    -   SAPUI5 Adaptation Project Yeoman Generator
     -   Application Modeler
 
     -   Guided Development
@@ -69,9 +59,13 @@ The SAP Fiori scenario contains the following predefined extensions:
 
     See [Getting Started with SAP Fiori tools](https://help.sap.com/docs/bas/developing-sap-fiori-app-in-sap-business-application-studio/getting-started-with-sap-fiori-tools).
 
--   **Startup Server**
+-   **Development Tools for SAP Build Work Zone**
 
-    Allows you to leverage a trigger and perform an action.
+    The development tools allow you to build UI Integration cards, which are user interface elements that present new means to provide application information to the end user in a unified way. The business information are represented compactly and allows interaction on it being executed. This editor allows the user to create new cards or build cards from available samples, edit card properties and preview the changes. Finally, users can bundle and deploy the cards into different systems.
+
+-   **Service Center**
+
+    Allows you to explore services from various providers, use the services as data sources in your application, and trigger application development.
 
 -   **SAPUI5 Layout Editor & Extensibility**
 

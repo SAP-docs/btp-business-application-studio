@@ -216,7 +216,7 @@ Make sure to use the same host and port as defined in the destination URL proper
 
 
 > ### Note:  
-> To start consuming the new configurations, users can either restart their dev space or reload the destinations into the dev space. See [Accessing On Premise Systems](accessing-on-premise-systems-e72930c.md).
+> To start consuming the new configurations, users can either restart their dev space or reload the destinations into the dev space. See [Access On Premise Systems](access-on-premise-systems-e72930c.md).
 
 
 

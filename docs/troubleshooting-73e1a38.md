@@ -13,6 +13,7 @@ Here are some common troubleshooting issues in SAP Business Application Studio.
 -   [Running Applications](running-applications-7a16488.md)
 -   [Deployment](deployment-f47e958.md)
 -   [Running Deployed HTML5 App](running-deployed-html5-app-5b489fe.md)
+-   [Open a Support Ticket](open-a-support-ticket-a3467fe.md)
 
 -   **[Git](git-08993e8.md "Steps you can take if you have trouble using Git. ")**  
 Steps you can take if you have trouble using Git.
@@ -33,7 +34,7 @@ Steps you can take if you have trouble deploying an application.
 -   **[Running Deployed HTML5 App](running-deployed-html5-app-5b489fe.md "Steps you can take if you have trouble running your deployed HTML5
 		application.")**  
 Steps you can take if you have trouble running your deployed HTML5 application.
--   **[Contact SAP Support](contact-sap-support-a3467fe.md "If you did not find an answer in the troubleshooting section, you can report an incident
-		or error through the SAP Support Portal.")**  
+-   **[Open a Support Ticket](open-a-support-ticket-a3467fe.md "If you did not find an answer in the troubleshooting section, you can report an
+		incident or error through the SAP Support Portal.")**  
 If you did not find an answer in the troubleshooting section, you can report an incident or error through the SAP Support Portal.
 

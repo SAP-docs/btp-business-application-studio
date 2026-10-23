@@ -12,13 +12,13 @@
 
 ### Description
 
-SAP Business Application Studio is a powerful and modern development environment, tailored for efficient development of business applications for the Intelligent Enterprise. Available as a cloud service, it provides developers a desktop-like experience similar to market leading IDEs, while accelerating time-to-market with high-productivity development tools such as wizards and templates, graphical editors, quick deployment, and more.
+SAP Business Application Studio is a powerful and modern development environment, tailored for efficient development of business applications for the SAP Intelligent Enterprise. Available as a cloud service, it provides developers a desktop-like experience similar to market leading IDEs, while accelerating time-to-market with high-productivity development tools such as wizards and templates, graphical editors, quick deployment, and more.
 
 
 
 ### Overview
 
-![](images/Cost_Usage_Transparency_Graph_c180f1d.png)
+![Service Plan Information Diagram](images/Cost_Usage_Transparency_Graph_c180f1d.png)
 
 
 
@@ -40,7 +40,7 @@ Name in SAP BTP Cockpit
 </th>
 <th valign="top">
 
-Service Plan in SAP Discovery Center
+Service Plan in SAP Discovery Center 
 
 </th>
 <th valign="top">

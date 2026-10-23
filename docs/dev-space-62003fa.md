@@ -154,7 +154,7 @@ Dev Space inode usage is over 80%:
     2.  Export the project using Git or download the project \(right-click the project's root folder and select *Download*\).
     3.  Import the project to the new dev space using Git clone or drag the exported archive to the target location in the file explorer tree.
 
-5.  [Contact SAP Support](contact-sap-support-a3467fe.md) if you are still facing issues.
+5.  [Open a Support Ticket](open-a-support-ticket-a3467fe.md) if you are still facing issues.
 
 
 
@@ -185,4 +185,11 @@ When you open your dev space, you receive the following error message:
 
     If no component is mentioned in the log, then the component is an SAP Business Application Studio extension. Report the component on CA-BAS-FWK-EXT.
 
+
+**Related Information**  
+
+
+[SAP KBA 3197807 - How to retrieve dev space content when the developer is unavailable](https://me.sap.com/notes/0003197807)
+
+[SAP KBA 3474985 - How to restore dev spaces after changing the Identity Provider \(IdP\) or deleting the dev space](https://me.sap.com/notes/0003474985)
 

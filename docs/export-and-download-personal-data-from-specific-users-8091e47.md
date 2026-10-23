@@ -7,23 +7,19 @@ You can export and download personal data from the dev spaces of specific users.
 1.  In your browser, get a list of all workspaces contained in a specific subaccount:
 
     ```
-    https://<sap-business-application-studio-url>/ws-manager/api/v1/workspace?all=true
+    https://<landscape-url>/workspace-manager-ui/admin/index.html
     ```
 
 2.  Enter your administrator credentials in the login page.
-3.  From the list provided, identify the dev space you want to export \(for example by searching for the username property\).
-4.  Copy the `baseUrl` property under the `runtime` section in the dev space you want to export.
-
-    This URL is the `<runtime-url>` parameter used in the request in Step 6.
-
-5.  Make sure the dev space you want to export is in the *Running* state. If not, restart the dev space before exporting the data. See [Restart a Dev Space](restart-a-dev-space-1f54583.md).
-6.  Use the following request to export data:
-
-    ```
-    https://<sap-business-application-studio-url>/login?e=<runtime-url>/wsmaintain/export
-    ```
+3.  From the list provided, identify the dev space you want to download.
+4.  Click ![Download dev space.](images/download_dev_space_fe7d1b5.png) at the end of the row of the dev space you want to download.
 
     > ### Note:  
-    > Use the downloaded data with care as it contains unprotected personal data.
+    > You can download up to two dev spaces at a time.
 
+
+**Related Information**  
+
+
+[Manage Dev Spaces](manage-dev-spaces-6b8d89e.md "As an administrator, you can manage the dev spaces in your account.")
 

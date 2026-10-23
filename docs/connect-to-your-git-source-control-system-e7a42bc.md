@@ -16,7 +16,7 @@ Your account may be connected to both a public and a corporate repository.
 		OAuth has been enabled.")**  
 As an administrator, you can work with on-premise Git repositories once an appropriate destination has been created in your subaccount or OAuth has been enabled.
 -   **[Connecting to a Public Git Repository](connecting-to-a-public-git-repository-a47db8b.md "Using SAP Business Application
-                            Studio, you can
+                                Studio, you can
 		connect to all public git services, such as GitHub, GitLab, and BitBucket.")**  
 Using SAP Business Application Studio, you can connect to all public git services, such as GitHub, GitLab, and BitBucket.
 -   **[Connecting to a Public Git Server that Requires a Certificate](connecting-to-a-public-git-server-that-requires-a-certificate-3d0c374.md "You can manage the connectivity to a public Git server that requires a client

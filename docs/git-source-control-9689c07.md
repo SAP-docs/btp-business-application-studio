@@ -11,7 +11,7 @@ SAP Business Application Studio enables you to connect and interact with the Git
 -   Ask your administrator which is the recommended authentication method for your company. See [Connect to Your Git Source Control System](https://help.sap.com/docs/bas/sap-business-application-studio/connect-to-your-git-source-control-system?version=Cloud).
 
 
-You can perform all your Git tasks using the terminal, but SAP Business Application Studio allows you to use the the *SIMPLIFIED GIT* view or the *SOURCE CONTROL* view, if you prefer. See [Using the Simplified Git View](https://help.sap.com/docs/bas/sap-business-application-studio/using-simplified-git-view?version=Cloud&q=Git%20source%20control) and [Using the Advanced Git View](https://help.sap.com/docs/bas/sap-business-application-studio/using-git-view?version=Cloud&q=Git%20source%20control).
+You can perform all your Git tasks using the terminal, but SAP Business Application Studio allows you to use the *SOURCE CONTROL* view, if you prefer. See [Using the Git View](https://help.sap.com/docs/bas/sap-business-application-studio/using-git-view?version=Cloud&q=Git%20source%20control).
 
 
 
@@ -40,15 +40,10 @@ Dev space owners are responsible for maintaining any code cloned from source con
 
 SAP Business Application Studio supports only specific versions of runtime tools \(such as NPM and Java\). If your code isn't supported by the default dev space configurations, you can either use a [different runtime version](https://help.sap.com/docs/bas/sap-business-application-studio/runtime-version-management) or contact the repository owner to adjust the code.
 
--   **[Using the Simplified Git View](using-the-simplified-git-view-16eaaa6.md "Use the
-		SIMPLIFIED GIT view to perform Git operations and manage Git
-		repositories in SAP Business Application
-                            Studio.")**  
-Use the *SIMPLIFIED GIT* view to perform Git operations and manage Git repositories in SAP Business Application Studio.
--   **[Using the Advanced Git View](using-the-advanced-git-view-265962e.md "General overview of the advanced Git view, the SOURCE CONTROL
-		view, in SAP Business Application
-                            Studio.")**  
-General overview of the advanced Git view, the *SOURCE CONTROL* view, in SAP Business Application Studio.
+-   **[Using the Git View](using-the-git-view-265962e.md "General overview of the Git view, the SOURCE CONTROL view, in
+			SAP Business Application
+                                Studio.")**  
+General overview of the Git view, the *SOURCE CONTROL* view, in SAP Business Application Studio.
 -   **[Providing Authentication to Git](providing-authentication-to-git-8b1d618.md "You can use Basic or OAuth to authenticate your Git user.")**  
 You can use Basic or OAuth to authenticate your Git user.
 

@@ -4,7 +4,7 @@
 
 The Service Center provides a central entry point to explore services from various service providers.
 
-You can use the services as data sources or consume eventsand functions in your application from the Service Center. You can also create a new service based on a business object.
+You can use the services as data sources or consume events and functions in your application from the Service Center. You can also create a new service based on a business object.
 
 To explore services, navigate to the Service Center using one of the following options:
 
@@ -22,25 +22,29 @@ You can select a provider from the *Select a Provider* dropdown list. The follow
 -   [SAP System Service Provider](sap-system-service-provider-892114c.md)
 -   [SAP Business Accelerator Hub Service Provider](sap-business-accelerator-hub-service-provider-1a2f306.md)
 -   [Developer Hub Service Provider](developer-hub-service-provider-328519b.md)
--   [Unified Customer Landscape Service Provider](unified-customer-landscape-service-provider-830adeb.md)
+-   [Unified Customer Landscape Service Provider](unified-customer-landscape-service-provider-221e7a1.md)
 
 -   **[SAP System Service Provider](sap-system-service-provider-892114c.md "The SAP System service provider includes systems from your SAP Business Application
-                            Studio subaccount. You can use
+                                Studio subaccount. You can use
 		the services as data sources in your application or for application development.")**  
 The SAP System service provider includes systems from your SAP Business Application Studio subaccount. You can use the services as data sources in your application or for application development.
 -   **[SAP Business Accelerator Hub Service Provider](sap-business-accelerator-hub-service-provider-1a2f306.md "The SAP Business Accelerator
-                            Hub
+                                Hub
 		(formerly known as the SAP API Business Hub) service provider includes SAP Business Accelerator
-                            Hub products, packages,
+                                Hub products, packages,
 		services, and events. You can use the services as data sources in your application or for
 		application development.")**  
 The SAP Business Accelerator Hub \(formerly known as the SAP API Business Hub\) service provider includes SAP Business Accelerator Hub products, packages, services, and events. You can use the services as data sources in your application or for application development.
--   **[Developer Hub Service Provider](developer-hub-service-provider-328519b.md "The Developer Hub service
-		provider offers products and services that are published in the Developer Hub. You can use the
+-   **[Developer Hub Service Provider](developer-hub-service-provider-328519b.md "The Developer
+                            Hub service
+		provider offers products and services that are published in the Developer
+                            Hub. You can use the
 		services as data sources in your application or for application development.")**  
 The Developer Hub service provider offers products and services that are published in the Developer Hub. You can use the services as data sources in your application or for application development.
--   **[Unified Customer Landscape Service Provider](unified-customer-landscape-service-provider-830adeb.md "The Unified Customer Landscape service provider includes packages and services from
-		registered SAP S/4HANA Cloud systems in SAP BTP. You can use the services as
-		data sources in your application or for application development.")**  
-The Unified Customer Landscape service provider includes packages and services from registered SAP S/4HANA Cloud systems in SAP BTP. You can use the services as data sources in your application or for application development.
+-   **[Unified Customer Landscape Service Provider](unified-customer-landscape-service-provider-221e7a1.md "The Unified Customer Landscape service provider
+		includes services and events from registered SAP S/4HANA Cloud systems in SAP BTP, as well as data products for
+			SAP S/4HANA
+                            Cloud Private Edition. These
+		resources can be used as data sources or for application development.")**  
+The Unified Customer Landscape service provider includes services and events from registered SAP S/4HANA Cloud systems in SAP BTP, as well as data products for SAP S/4HANA Cloud Private Edition. These resources can be used as data sources or for application development.
 

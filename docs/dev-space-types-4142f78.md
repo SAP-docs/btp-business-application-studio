@@ -10,19 +10,28 @@ SAP Business Application Studio has the following dev space types:
 
 -   [SAP Fiori](sap-fiori-354f00c.md): Develop SAP Fiori applications based on various environments, including Cloud Foundry, ABAP Cloud, and SAP S/4HANA.
 -   [Full-Stack Application Using Productivity Tools](full-stack-application-using-productivity-tools-00ad048.md): Easily develop, test, build, and deploy apps using high productivity tools.
--   [Full Stack Cloud Application](full-stack-cloud-application-de0af65.md): Build business services, business applications, and extend S/4HANA using the SAP Cloud Application Programming Model, Fiori and [Java](https://www.java.com/) or [Node.js](https://nodejs.org/).
+-   [Full-Stack ABAP Application](full-stack-abap-application-3d1c38a.md): Develop full-stack ABAP applications for modeling business objects using the ABAP Cloud development model. This dev space contains a comprehensive set of tools, including project templates, graphical modeling and visualization, service publishing, and UI development.
+-   [Full Stack Cloud Application](full-stack-cloud-application-de0af65.md): Build business services, business applications, and extend SAP S/4HANA using the SAP Cloud Application Programming Model, SAP Fiori and [Java](https://www.java.com/) or [Node.js](https://nodejs.org/).
 -   [SAP HANA Native Application](sap-hana-native-application-7eae9c5.md): Build and deploy native SAP HANA applications or analytical models. This dev space contains a comprehensive set of editors to support the creation of database artifacts \(calculation views, tables, SQLScript procedures, and more\), as well as tools to enable an end-to-end development flow from project creation to the deployment to the SAP BTP.
 -   **SAP SME Business Application**: Use our SME programming model to build and extend SME applications based on Business Application Factory.
 -   [SAP Mobile Application](sap-mobile-application-95f86cc.md): The SAP Mobile Development Kit \(MDK\) lets you customize, deploy, and manage your customized iOS and Android apps in the cloud.
 -   **Basic**: Contains the SAP basic tools extension.
 
--   **[SAP Fiori](sap-fiori-354f00c.md "")**  
-
+-   **[SAP Fiori](sap-fiori-354f00c.md "Develop SAP Fiori applications
+		based on various environments: Cloud Foundry, ABAP on-prem, and ABAP Cloud.")**  
+Develop SAP Fiori applications based on various environments: Cloud Foundry, ABAP on-prem, and ABAP Cloud.
 -   **[Full-Stack Application Using Productivity Tools](full-stack-application-using-productivity-tools-00ad048.md "Easily develop, test, build, and deploy apps using high productivity
 		tools.")**  
 Easily develop, test, build, and deploy apps using high productivity tools.
--   **[Full Stack Cloud Application](full-stack-cloud-application-de0af65.md "")**  
-
+-   **[Full-Stack ABAP Application](full-stack-abap-application-3d1c38a.md "Develop full-stack ABAP applications for modeling business objects using the ABAP Cloud
+		development model. This dev space contains a comprehensive set of tools, including project
+		templates, graphical modeling and visualization, service publishing, and UI
+		development.")**  
+Develop full-stack ABAP applications for modeling business objects using the ABAP Cloud development model. This dev space contains a comprehensive set of tools, including project templates, graphical modeling and visualization, service publishing, and UI development.
+-   **[Full Stack Cloud Application](full-stack-cloud-application-de0af65.md "Build business services and business applications and extend SAP
+                            S/4HANA using SAP Cloud Application Programming Model (CAP), SAP Fiori, and Java or
+		Node.js.")**  
+Build business services and business applications and extend SAP S/4HANA using SAP Cloud Application Programming Model \(CAP\), SAP Fiori, and Java or Node.js.
 -   **[SAP HANA Native Application](sap-hana-native-application-7eae9c5.md "")**  
 
 -   **[SAP Mobile Application](sap-mobile-application-95f86cc.md "")**  

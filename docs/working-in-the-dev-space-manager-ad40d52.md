@@ -82,7 +82,7 @@ You can change the extensions you selected for your dev space.
     > ### Note:  
     > To edit an extension, the dev space must be in the stopped state.
 
-2.  Select the additional SAP extensions that you want to add, or clear the checkmark from extensions you want to remove.
+2.  Select the additional SAP extensions that you want to add, or clear the check mark from extensions you want to remove.
 3.  Click *Save Changes*.
 
 

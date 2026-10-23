@@ -26,6 +26,10 @@ The SAP Mobile Application scenario contains the following predefined extensions
 
     Allows you to develop and run Java applications. Includes debugging capabilities and enhanced code editors.
 
+-   **Mobile Services App Development Extended Tools**
+
+    Mobile Services App Development Extended Tools enable developers to build end to end mobile applications from modeling and generating OData services to building content for SAP Mobile Cards.
+
 -   **MTA Tools**
 
     Allows you to perform operations such as build, deployment, and validation on multitarget applications. The following tools are installed as part of the extension:
@@ -41,8 +45,8 @@ The SAP Mobile Application scenario contains the following predefined extensions
 
     See [MTA Tools](https://help.sap.com/viewer/209802f55bfd47fcaccecf1241df99f8/Cloud/en-US).
 
--   **Startup Server**
+-   **Service Center**
 
-    Allows you to leverage a trigger and perform an action.
+    Allows you to explore services from various providers, use the services as data sources in your application, and trigger application development.
 
 

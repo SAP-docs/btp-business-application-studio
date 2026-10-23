@@ -53,7 +53,13 @@ Login occurs automatically, using the SAP Business Application Studio user crede
 
 
 
-4.  Click a catalog \(![Connected catalog icon](images/SC-_system_connected_icon_1c4c936.png)\) to open it and display the list of services, or click a service \(![Service icon](images/SC-_service_icon_fc5c112.png)\) to see its properties, including the name, description, authentication type, status, and URL.
+4.  Click a catalog \(![Connected catalog icon](images/SC-_system_connected_icon_1c4c936.png)\) to open it and display the list of services organized in collapsible business groups. Click a group to expand or collapse it.
+
+    Click a service \(![Service icon](images/SC-_service_icon_fc5c112.png)\) to see its properties in the *Properties* tab, which contains two sections:
+
+    -   *System Properties* — displays the system name, authentication type, product, status, and URL.
+    -   *Service Properties* — displays the service name, version, group ID, type, protocol, status, and URL.
+
 5.  Click an entity to see the service details. You can see the entity's metadata, details, and live data in the *Entities* tab. This helps you choose an entity for your application.
 
     > ### Note:  
@@ -71,6 +77,9 @@ Login occurs automatically, using the SAP Business Application Studio user crede
 
 ## Explore SAP System Business Objects and ABAP CDS Views
 
+> ### Note:  
+> This feature is only available in an *SAP Fiori* project.
+
 If you don't find the correct UI service for your project, you can explore business objects or CDS views and their properties in SAP S/4HANA Public Cloud and then generate an OData V4 service from an ABAP business object or CDS view. The service enables you to develop an SAP Fiori application based on your own custom UI service and deploy it to SAP BTP or SAP S/4 HANA Cloud.
 
 **Prerequisites**:
@@ -83,15 +92,7 @@ To explore business objects and CDS views, make sure you have performed the foll
 
 -   You must connect to the SAP S/4HANA Development Tenant \(usually Client 80\).
 -   You must have a business user in SAP S/4HANA with the *BR\_DEVELOPER* business role.
-
-
-
-### Create an SAP Fiori Project
-
-1.  Create an SAP Fiori dev space and open it.
-2.  Create an SAP Fiori project from the Lobby and open it.
-3.  Click *\+New Project* from the *Get Started* page and enter a name for the empty project.
-4.  If the storyboard doesn't open automatically, open it.
+-   You created an SAP Fiori project. See [Create a Project](create-a-project-fa59c5a.md).
 
 
 
@@ -147,6 +148,9 @@ To explore business objects and CDS views, make sure you have performed the foll
 
 ## Explore SAP System Functions
 
+> ### Note:  
+> This feature is only available in a *Full-Stack Application Using Productivity Tools* project.
+
 A Remote Function Call \(RFC\) is the standard SAP interface for communication between SAP systems. RFC calls a function to be executed in a remote system.
 
 You can add an RFC to a *Full-Stack Application Using Productivity Tools* project and then explore functions in the Service Center.
@@ -169,33 +173,33 @@ You can add an RFC to a *Full-Stack Application Using Productivity Tools* projec
     -   `jco.client.sysnr`
 
 -   Only manual credential entry \(`CONFIGURED_USER`\) for the `Authorization Type` is supported when you log in to the system from the Service Center.
+-   You created a *Full-Stack Application Using Productivity Tools* project. See [Create a Project](create-a-project-fa59c5a.md).
 
 **Procedure**:
 
-1.  Create a *Full-Stack Application Using Productivity Tools* project.
-2.  If the storyboard doesn't open automatically, open it.
-3.  Under *External Resources* in the storyboard, click *\+*.
-4.  Use the *Function* radio button in the Service Center.
+1.  If the storyboard doesn't open automatically, open it.
+2.  In the storyboard, under *External Resources*, click *\+*.
+3.  In the Service Center, use the *Function* radio button.
 
     Systems that fit the prerequisites are displayed.
 
-5.  Click on the desired system and log in with your username and password, if needed.
+4.  Click on the desired system and log in with your username and password, if needed.
 
     A list of functions is displayed.
 
     *Classic APIs* are delivered by SAP, are stable, will not change, and are therefore recommended. See this [blog](https://community.sap.com/t5/technology-blogs-by-sap/classic-apis-for-tier-2-abap-cloud-development-in-sap-s-4hana-cloud-private/ba-p/13620329) about Classic APIs.
 
-6.  Choose the desired API to open it.
+5.  Choose the desired API to open it.
 
     The import parameters, export parameters, tables, and general information for the function are available in the Service Center editor.
 
-7.  Click the *Add to Project* button.
+6.  Click the *Add to Project* button.
 
     > ### Note:  
     > If you have several projects in your workspace, you will be prompted to select a project.
 
-8.  To preview, you must create a user in the Repository-Based Shipment Channel \(RBSC\). See [Viewing Licenses and Repository Endpoints](https://help.sap.com/docs/RBSC/0a64be17478d4f5ba45d14ab62b0d74c/74a9a6cd668842cc88e623ed39d8373c.html?locale=en-US).
-9.  When adding a function to the project for the first time, you need to enter your RBSC credentials and click *Add*. This will enable you to run the function later.
+7.  To preview, you must create a user in the Repository-Based Shipment Channel \(RBSC\). See [Viewing Licenses and Repository Endpoints](https://help.sap.com/docs/RBSC/0a64be17478d4f5ba45d14ab62b0d74c/74a9a6cd668842cc88e623ed39d8373c.html?locale=en-US).
+8.  When adding a function to the project for the first time, you need to enter your RBSC credentials and click *Add*. This will enable you to run the function later.
 
     See [Managing Technical Users in Repository-Based Shipment Channel](https://help.sap.com/docs/RBSC/0a64be17478d4f5ba45d14ab62b0d74c/7e83dfc309834942b441fc2106c5b7f5.html).
 
@@ -238,21 +242,16 @@ You can add an RFC to a *Full-Stack Application Using Productivity Tools* projec
 
 
 
-### Create a Project from a Service
-
-1.  Click *Create Project*.
-
-    The template wizard displays the projects that you can create from a service. For example, an HTML5 project or an SAP Fiori application. See [Create an HTML5 Project](https://help.sap.com/viewer/0e2ec06ee34742fd9054fabe09c12d35/Cloud/en-US/e46be902c7b54f9baaab1870ca553303.html) or [SAP Fiori Elements](https://help.sap.com/viewer/17d50220bcd848aa854c9c182d65b699/Latest/en-US/1488469a315c442fa116ab4449d4ad27.html) for more information.
-
-2.  Use the template wizard to create the relevant project.
-
-
-
 ### Add an External Service to an SAP Fiori Project
 
 You can add a service to an empty SAP Fiori project or to an SAP Fiori project that doesn't have a service:
 
-1.  Click the *Add to SAP Fiori Project* button.
+1.  From the Service Center, open a service and click the *Add to SAP Fiori Project* button.
+
+    > ### Note:  
+    > If your dev space does not have a project, click *Create Project* and follow the wizard.
+    > 
+    > The service will be added to the new project.
 
     If you only have one empty project:
 
@@ -273,9 +272,15 @@ You can add a service to an empty SAP Fiori project or to an SAP Fiori project t
 
 You can select a service from the Service Center and add it as an external service to a CAP Node project:
 
-1.  Open a service and click the *Add to Project* button.
+1.  From the Service Center, open a service and click the *Add to CAP Project* button.
+
+    > ### Note:  
+    > If your dev space does not have a project, click *Create Project* and follow the wizard.
+    > 
+    > The service will be added to the new project.
+
 2.  If prompted, select the target CAP Node project to add the external service to.
-3.  \(Optional\) You can generate a sample service and select the relevant entities.
+3.  \(Optional\) If you are using a *Full Stack Cloud Application* project, you can generate a sample service and select the relevant entities.
 
     1.  Select *Yes* to add a sample service.
     2.  Select the entities that you want to add.

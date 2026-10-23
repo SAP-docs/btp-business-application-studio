@@ -4,6 +4,9 @@
 
 Connect securely to SAP Business Application Studio dev spaces directly from a local Visual Studio Code desktop application.
 
+> ### Restriction:  
+> This extension works only on a host machine \(for example, Windows, Mac, or Linux\). It will not work from a remote machine such as WSL or a remote container.
+
 **Prerequisites**
 
 Make sure you have installed the [SAP Business Application Studio toolkit](https://marketplace.visualstudio.com/items?itemName=SAPOSS.app-studio-toolkit) extension.

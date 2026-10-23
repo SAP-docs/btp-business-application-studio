@@ -2,7 +2,7 @@
 
 # Full Stack Cloud Application
 
-Build business services and business applications and extend SAP S/4HANA using SAP Cloud Application Programming Model, SAP Fiori, and Java or Node.js.
+Build business services and business applications and extend SAP S/4HANA using SAP Cloud Application Programming Model \(CAP\), SAP Fiori, and Java or Node.js.
 
 See [Developing a CAP Application in SAP Business Application Studio](https://help.sap.com/viewer/9c36fdb911ae4cadab467a314d9e331f/Cloud/en-US/8a648174036a458688391c3ad7ee7cd5.html).
 
@@ -24,20 +24,9 @@ The Full Stack Cloud Application scenario contains the following predefined exte
 
     Allows you to develop CAP applications using the CDS command-line and tools. Includes enhanced code and graphical editors, database management capabilities, and tools for running your application.
 
--   **Fiori Application**
-
-    Allows you to create a Fiori application, using the Yeoman generator.
-
 -   **Fiori Freestyle Tools**
 
-    Allows you to optimize your Fiori-based development. This extension provides Fiori templates with the following tools:
-
-    -   UI5 CLI
-
-    -   Grunt CLI
-
-    -   abap-deploy CLI
-
+    Allows you to optimize your Fiori-based development.
 
 -   **SAP HANA Database Explorer**
 
@@ -46,6 +35,12 @@ The Full Stack Cloud Application scenario contains the following predefined exte
 -   **Java Tools**
 
     Allows you to develop, test, and run Java applications. Includes debugging capabilities and enhanced code editors.
+
+-   **SAP NetWeaver to SAP BAIP Migration Assistant**
+
+    Allows you to migrate SAP NetWeaver applications to CAP and SAP HANA Cloud.
+
+    See [SAP NetWeaver to SAP BAIP Migration Assistant](https://help.sap.com/docs/help/efe6d6ec6f084df7b6ec11cc10ffda57/41964f22df8845359f398b9e8a93f6fe.html?ai=true).
 
 -   **MTA Tools**
 
@@ -68,6 +63,7 @@ The Full Stack Cloud Application scenario contains the following predefined exte
 
     -   Fiori elements Yeoman Generator
 
+    -   SAPUI5 Adaptation Project Yeoman Generator
     -   Application Modeler
 
     -   Guided Development
@@ -79,16 +75,14 @@ The Full Stack Cloud Application scenario contains the following predefined exte
 
     See [SAP Fiori Tools](https://help.sap.com/viewer/product/SAP_FIORI_tools/Latest/en-US).
 
--   **Startup Server**
+-   **Service Center**
 
-    Allows you to leverage a trigger and perform an action.
+    Allows you to explore services from various providers, use the services as data sources in your application, and trigger application development.
 
 -   **SAPUI5 Layout Editor & Extensibility**
 
     Allows you to visually develop your XML view and extend an existing SAPUI5 application that resides in the SAPUI5 ABAP repository.
 
     See [Working with the Layout Editor](https://help.sap.com/products/SAP%20Business%20Application%20Studio/9d1db9835307451daa8c930fbd9ab264/8fbbaad310eb4712a5d8169331106b25.html?version=Cloud) and [Extend SAPUI5 Applications](https://help.sap.com/docs/SAP%20Business%20Application%20Studio/9d1db9835307451daa8c930fbd9ab264/47c6ad87909b4246a5cbfe42b604207a.html).
-
-    .
 
 

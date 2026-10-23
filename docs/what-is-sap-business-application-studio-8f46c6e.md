@@ -6,7 +6,7 @@
 
 SAP Business Application Studio is a new SAP Business Technology Platform \(SAP BTP\) service that offers a modern development environment tailored for efficient development of business applications for the SAP Intelligent Enterprise.
 
-SAP Business Application Studio is based on Code-OSS, an open source used for building Visual Studio Code. Available as a cloud service, SAP Business Application Studio provides a desktop-like experience similar to leading IDEs, with command line and optimized editors. At the heart of SAP Business Application Studio are the dev spaces. The dev spaces are comparable to isolated virtual machines in the cloud containing tailored tools and preinstalled runtimes per business scenario, such as SAP Fiori, SAP S/4HANA extensions, Workflow, Mobile and more. This simplifies and saves time in setting up your development environment and allows you to efficiently develop, test, build, and run your solution locally or in the cloud.
+SAP Business Application Studio is based on Code - OSS, an open source used for building Visual Studio Code. Available as a cloud service, SAP Business Application Studio provides a desktop-like experience similar to leading IDEs, with command line and optimized editors. At the heart of SAP Business Application Studio are the dev spaces. The dev spaces are comparable to isolated virtual machines in the cloud containing tailored tools and preinstalled runtimes per business scenario, such as SAP Fiori, SAP S/4HANA extensions, Workflow, Mobile and more. This simplifies and saves time in setting up your development environment and allows you to efficiently develop, test, build, and run your solution locally or in the cloud.
 
 
 
@@ -63,18 +63,15 @@ The following browsers are supported for working in SAP Business Application Stu
 > Unless specifically stated, only the latest browser version is supported.
 
 -   Mozilla Firefox
-
 -   Google Chrome
-
 -   Microsoft Edge
-
 
 You can find the regions where SAP Business Application Studio is available in the *Pricing* tab of the [SAP Discovery Center](https://discovery-center.cloud.sap/#/serviceCatalog/business-application-studio?region=all&tab=service_plan&licenseModel=cpea).
 
 ![The graphic is explained in the accompanying text.](images/Regions_cacf286.png)
 
 -   **[Accessibility Features in SAP Business Application Studio](accessibility-features-in-sap-business-application-studio-704ce0a.md "To optimize your experience, SAP Business Application
-                            Studio provides features and settings that help
+                                Studio provides features and settings that help
 		you use the software efficiently.")**  
 To optimize your experience, SAP Business Application Studio provides features and settings that help you use the software efficiently.
 -   **[Service Plans and Metering](service-plans-and-metering-58a858c.md)**  

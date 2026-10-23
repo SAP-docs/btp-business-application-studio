@@ -46,6 +46,78 @@ Outbound IP\*
 <tr>
 <td valign="top">
 
+UAE \(Dubai\)
+
+</td>
+<td valign="top">
+
+SAP Live
+
+</td>
+<td valign="top">
+
+ae01
+
+</td>
+<td valign="top">
+
+130.214.250.122
+
+130.214.250.99
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+Europe \(Frankfurt\)
+
+</td>
+<td valign="top">
+
+SAP Live
+
+</td>
+<td valign="top">
+
+eu01
+
+</td>
+<td valign="top">
+
+130.214.132.93
+
+130.214.132.106
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+Europe \(Rot\)
+
+</td>
+<td valign="top">
+
+SAP Live
+
+</td>
+<td valign="top">
+
+eu02
+
+</td>
+<td valign="top">
+
+130.214.90.21
+
+130.214.90.20
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
 Europe \(Frankfurt\)
 
 > ### Note:  
@@ -147,6 +219,86 @@ eu12
 <tr>
 <td valign="top">
 
+Europe \(Milan\)
+
+</td>
+<td valign="top">
+
+AWS
+
+</td>
+<td valign="top">
+
+eu13
+
+</td>
+<td valign="top">
+
+35.152.173.45
+
+35.152.76.35
+
+18.102.58.178
+
+51.118.5.23
+
+35.152.132.160
+
+18.102.141.128
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+US \(Sterling\)
+
+</td>
+<td valign="top">
+
+SAP Live
+
+</td>
+<td valign="top">
+
+us01
+
+</td>
+<td valign="top">
+
+157.133.167.134
+
+157.133.167.184
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+US West \(Colorado\)
+
+</td>
+<td valign="top">
+
+SAP Live
+
+</td>
+<td valign="top">
+
+us02
+
+</td>
+<td valign="top">
+
+130.214.207.204
+
+130.214.207.172
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
 US East \(Virginia\)
 
 </td>
@@ -226,17 +378,41 @@ us11
 </td>
 <td valign="top">
 
-54.244.126.169
-
-52.11.153.145
-
 35.80.182.215
 
 44.236.127.164
 
 50.112.18.212
 
+52.11.153.145
+
 52.39.54.142
+
+54.244.126.169
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+Australia \(Sydney\)
+
+</td>
+<td valign="top">
+
+SAP Live
+
+</td>
+<td valign="top">
+
+ap01
+
+</td>
+<td valign="top">
+
+130.214.240.132
+
+130.214.240.171
 
 </td>
 </tr>
@@ -408,6 +584,30 @@ Japan \(Tokyo\)
 </td>
 <td valign="top">
 
+SAP Live
+
+</td>
+<td valign="top">
+
+jp01
+
+</td>
+<td valign="top">
+
+130.214.244.120
+
+130.214.244.117
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+Japan \(Tokyo\)
+
+</td>
+<td valign="top">
+
 AWS
 
 </td>
@@ -461,6 +661,70 @@ eu20
 20.224.162.58
 
 20.229.177.44
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+Europe \(Frankfurt\)
+
+</td>
+<td valign="top">
+
+Azure
+
+</td>
+<td valign="top">
+
+eu22
+
+</td>
+<td valign="top">
+
+4.185.186.116
+
+72.144.90.104
+
+98.67.148.93
+
+4.185.177.242
+
+9.141.50.162
+
+131.189.146.246
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+UK South \(London\)
+
+</td>
+<td valign="top">
+
+Azure
+
+</td>
+<td valign="top">
+
+uk20
+
+</td>
+<td valign="top">
+
+4.250.178.36
+
+4.158.217.62
+
+145.133.89.131
+
+4.250.195.34
+
+145.133.67.67
+
+145.133.42.168
 
 </td>
 </tr>
@@ -525,6 +789,38 @@ us21
 20.51.200.148
 
 20.115.81.15
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+Canada \(Toronto\)
+
+</td>
+<td valign="top">
+
+Azure
+
+</td>
+<td valign="top">
+
+ca20
+
+</td>
+<td valign="top">
+
+4.174.228.235
+
+4.174.229.31
+
+4.172.21.86
+
+4.172.21.215
+
+4.174.227.20
+
+4.172.21.183
 
 </td>
 </tr>
@@ -819,6 +1115,54 @@ il30
 <tr>
 <td valign="top">
 
+Japan \(Osaka\)
+
+</td>
+<td valign="top">
+
+Google Cloud
+
+</td>
+<td valign="top">
+
+jp30
+
+</td>
+<td valign="top">
+
+34.97.212.120
+
+34.97.46.179
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+Japan \(Tokyo\)
+
+</td>
+<td valign="top">
+
+Google Cloud
+
+</td>
+<td valign="top">
+
+jp31
+
+</td>
+<td valign="top">
+
+34.84.79.181
+
+34.146.17.207
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
 Europe \(Frankfurt\)
 
 </td>
@@ -843,7 +1187,7 @@ eu30
 <tr>
 <td valign="top">
 
-Saudi-Arabia \(Dammam\)
+Saudi Arabia \(Dammam\)
 
 </td>
 <td valign="top">
@@ -861,6 +1205,30 @@ sa30
 34.166.78.79
 
 34.166.33.194
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+Saudi Arabia \(Dammam\)
+
+</td>
+<td valign="top">
+
+Google Cloud
+
+</td>
+<td valign="top">
+
+sa31
+
+</td>
+<td valign="top">
+
+34.166.147.133
+
+34.166.109.119
 
 </td>
 </tr>
@@ -916,6 +1284,93 @@ SAP Business Application Studio
 Inbound IP
 
 </th>
+</tr>
+<tr>
+<td valign="top">
+
+UAE \(Dubai\)
+
+</td>
+<td valign="top">
+
+SAP Live
+
+</td>
+<td valign="top">
+
+ae01
+
+</td>
+<td valign="top">
+
+https://connectivity.ae01.applicationstudio.cloud.sap
+
+</td>
+<td valign="top">
+
+130.214.250.113
+
+130.214.250.70
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+Europe \(Frankfurt\)
+
+</td>
+<td valign="top">
+
+SAP Live
+
+</td>
+<td valign="top">
+
+eu01
+
+</td>
+<td valign="top">
+
+https://connectivity.eu01.applicationstudio.cloud.sap
+
+</td>
+<td valign="top">
+
+130.214.132.121
+
+130.214.132.33
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+Europe \(Rot\)
+
+</td>
+<td valign="top">
+
+SAP Live
+
+</td>
+<td valign="top">
+
+eu02
+
+</td>
+<td valign="top">
+
+https://connectivity.eu02.applicationstudio.cloud.sap
+
+</td>
+<td valign="top">
+
+130.214.90.73
+
+130.214.90.230
+
+</td>
 </tr>
 <tr>
 <td valign="top">
@@ -1031,6 +1486,43 @@ https://connectivity.eu12.applicationstudio.cloud.sap
 <tr>
 <td valign="top">
 
+Europe \(Milan\)
+
+</td>
+<td valign="top">
+
+AWS
+
+</td>
+<td valign="top">
+
+eu13
+
+</td>
+<td valign="top">
+
+https://connectivity.eu13.applicationstudio.cloud.sap
+
+</td>
+<td valign="top">
+
+18.102.37.134
+
+35.152.253.231
+
+18.102.204.38
+
+15.161.77.149
+
+35.152.118.219
+
+35.152.111.15
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
 Europe \(Frankfurt\)
 
 </td>
@@ -1062,6 +1554,64 @@ https://connectivity.cry10cf.int.applicationstudio.cloud.sap
 18.156.62.37
 
 3.68.133.153
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+US \(Sterling\)
+
+</td>
+<td valign="top">
+
+SAP Live
+
+</td>
+<td valign="top">
+
+us01
+
+</td>
+<td valign="top">
+
+https://connectivity.us01.applicationstudio.cloud.sap
+
+</td>
+<td valign="top">
+
+130.214.106.2
+
+130.214.106.5
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+US West \(Colorado\)
+
+</td>
+<td valign="top">
+
+SAP Live
+
+</td>
+<td valign="top">
+
+us02
+
+</td>
+<td valign="top">
+
+https://connectivity.us02.applicationstudio.cloud.sap
+
+</td>
+<td valign="top">
+
+130.214.207.182
+
+130.214.207.250
 
 </td>
 </tr>
@@ -1295,6 +1845,35 @@ Japan \(Tokyo\)
 </td>
 <td valign="top">
 
+SAP Live
+
+</td>
+<td valign="top">
+
+jp01
+
+</td>
+<td valign="top">
+
+https://connectivity.jp01.applicationstudio.cloud.sap
+
+</td>
+<td valign="top">
+
+130.214.244.96
+
+130.214.244.119
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+Japan \(Tokyo\)
+
+</td>
+<td valign="top">
+
 AWS
 
 </td>
@@ -1429,6 +2008,35 @@ https://connectivity.ap21cf.trial.applicationstudio.cloud.sap
 <tr>
 <td valign="top">
 
+Australia \(Sydney\)
+
+</td>
+<td valign="top">
+
+SAP Live
+
+</td>
+<td valign="top">
+
+ap01
+
+</td>
+<td valign="top">
+
+https://connectivity.ap01.applicationstudio.cloud.sap
+
+</td>
+<td valign="top">
+
+130.214.240.149
+
+130.214.240.174
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
 Brazil \(Sao Paolo\)
 
 </td>
@@ -1487,6 +2095,64 @@ https://connectivity.eu20.applicationstudio.cloud.sap
 <tr>
 <td valign="top">
 
+Europe \(Frankfurt\)
+
+</td>
+<td valign="top">
+
+Azure
+
+</td>
+<td valign="top">
+
+eu22
+
+</td>
+<td valign="top">
+
+https://connectivity.eu22.applicationstudio.cloud.sap
+
+</td>
+<td valign="top">
+
+131.189.244.204
+
+9.141.122.237
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+UK South \(London\)
+
+</td>
+<td valign="top">
+
+Azure
+
+</td>
+<td valign="top">
+
+uk20
+
+</td>
+<td valign="top">
+
+https://connectivity.uk20.applicationstudio.cloud.sap
+
+</td>
+<td valign="top">
+
+4.158.184.222
+
+4.158.157.233
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
 US West \(Washington\)
 
 </td>
@@ -1539,6 +2205,35 @@ https://connectivity.us21.applicationstudio.cloud.sap
 20.81.5.143
 
 20.81.5.181
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+Canada \(Toronto\)
+
+</td>
+<td valign="top">
+
+Azure
+
+</td>
+<td valign="top">
+
+ca20
+
+</td>
+<td valign="top">
+
+https://connectivity.ca20.applicationstudio.cloud.sap
+
+</td>
+<td valign="top">
+
+4.174.213.102
+
+4.174.209.131
 
 </td>
 </tr>
@@ -1777,6 +2472,64 @@ https:///connectivity.il30.applicationstudio.cloud.sap
 <tr>
 <td valign="top">
 
+Japan \(Osaka\)
+
+</td>
+<td valign="top">
+
+Google Cloud
+
+</td>
+<td valign="top">
+
+jp30
+
+</td>
+<td valign="top">
+
+https:///connectivity.jp30.applicationstudio.cloud.sap
+
+</td>
+<td valign="top">
+
+34.97.187.153
+
+34.97.154.27
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+Japan \(Tokyo\)
+
+</td>
+<td valign="top">
+
+Google Cloud
+
+</td>
+<td valign="top">
+
+jp31
+
+</td>
+<td valign="top">
+
+https:///connectivity.jp31.applicationstudio.cloud.sap
+
+</td>
+<td valign="top">
+
+34.146.156.214
+
+34.146.197.247
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
 Europe \(Frankfurt\)
 
 </td>
@@ -1792,7 +2545,7 @@ eu30
 </td>
 <td valign="top">
 
-https://connectivity.eU30.applicationstudio.cloud.sap
+https://connectivity.eu30.applicationstudio.cloud.sap
 
 </td>
 <td valign="top">
@@ -1806,7 +2559,7 @@ https://connectivity.eU30.applicationstudio.cloud.sap
 <tr>
 <td valign="top">
 
-Saudi-Arabia \(Dammam\)
+Saudi Arabia \(Dammam\)
 
 </td>
 <td valign="top">
@@ -1829,6 +2582,35 @@ https://connectivity.sa30.applicationstudio.cloud.sap
 34.166.74.169
 
 34.166.67.156
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+Saudi Arabia \(Dammam\)
+
+</td>
+<td valign="top">
+
+Google Cloud
+
+</td>
+<td valign="top">
+
+sa31
+
+</td>
+<td valign="top">
+
+https://connectivity.sa31.applicationstudio.cloud.sap
+
+</td>
+<td valign="top">
+
+34.166.136.114
+
+34.166.68.148
 
 </td>
 </tr>

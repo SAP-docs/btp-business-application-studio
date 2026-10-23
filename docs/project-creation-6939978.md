@@ -58,5 +58,5 @@ Value
 </tr>
 </table>
 
-See [Connecting to External Systems](connecting-to-external-systems-7e49887.md) for more information.
+See [Connect to External Systems](connect-to-external-systems-7e49887.md) for more information.
 

@@ -60,8 +60,8 @@ The SAP HANA Native Application scenario contains the following predefined exten
 
     See [Modeling Guide for SAP Web IDE and SAP Business Application Studio](https://help.sap.com/viewer/cc7ebd3f344a4cdda20966a7617f52d8/latest/en-US/b72a6833d8d54aa2be4c199ac4db6996.html)
 
--   **Startup Server**
+-   **Service Center**
 
-    Allows you to leverage a trigger and perform an action.
+    Allows you to explore services from various providers, use the services as data sources in your application, and trigger application development.
 
 

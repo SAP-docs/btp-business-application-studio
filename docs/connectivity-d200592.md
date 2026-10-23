@@ -143,7 +143,7 @@ To access an on-premise system, a cloud connector must be properly configured to
 -   Retrieve the Cloud Connector logs and search for the errors that occurred when accessing the system from SAP Business Application Studio. See [Cloud Connector Troubleshooting](https://help.sap.com/docs/connectivity/sap-btp-connectivity-cf/cloud-connector-troubleshooting?version=Cloud).
 -   If the Cloud Connector fails to open a tunnel to the on-premise system, and the `Tunnel handshake failed` error is displayed in the Cloud Connector logs:
     -   Verify that no proxies or network policies block the Cloud Connector from connecting SAP Business Application Studio and the on-premise system.
-    -   Make sure that you have an internet connection to the SAP Business Application Studio connectivity service host, to which you can connect your Cloud Connector. To find theSAP Business Application Studio connectivity service host for your region, see [SAP Business Application Studio Availability](https://help.sap.com/docs/bas/sap-business-application-studio/sap-business-application-studio-availability?version=Cloud).
+    -   Make sure that you have an internet connection to the SAP Business Application Studio connectivity service host, to which you can connect your Cloud Connector. To find the SAP Business Application Studio connectivity service host for your region, see [SAP Business Application Studio Availability](https://help.sap.com/docs/bas/sap-business-application-studio/sap-business-application-studio-availability?version=Cloud).
     -   Follow the instructions described in this [SAP Note](https://me.sap.com/notes/3035686).
 
 
@@ -352,4 +352,9 @@ To find out your SAP Business Application Studio IP address, see [SAP Business A
 Make sure that your network allows a websocket connection to SAP Business Application Studio.
 
 See the [documentation](https://help.sap.com/docs/bas/sap-business-application-studio/sap-business-application-studio-availability?version=Cloud#inbound-ip-address).
+
+**Related Information**  
+
+
+[SAP KBA 3008889 - How to export destinations from the SAP BTP cockpit](https://me.sap.com/notes/0003008889)
 

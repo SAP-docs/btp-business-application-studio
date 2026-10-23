@@ -58,19 +58,8 @@ The SAP Business Accelerator Hub \(formerly known as the SAP API Business Hub\) 
 
 ## Service Actions for Development
 
-
-
-### Create a Project from a Service
-
-1.  Click *Create Project*.
-
-    The template wizard displays the projects that you can create from a service. For example, an HTML5 project or an SAP Fiori application. See [Create an HTML5 Project](https://help.sap.com/viewer/0e2ec06ee34742fd9054fabe09c12d35/Cloud/en-US/e46be902c7b54f9baaab1870ca553303.html) or [SAP Fiori Elements](https://help.sap.com/viewer/17d50220bcd848aa854c9c182d65b699/Latest/en-US/1488469a315c442fa116ab4449d4ad27.html) for more information.
-
-2.  Use the template wizard to create the relevant project.
-
-    > ### Note:  
-    > To run your project with the SAP Business Accelerator Hub sandbox, see the prerequisites in[Developing an HTML5 Application for Cloud Foundry](https://help.sap.com/viewer/0e2ec06ee34742fd9054fabe09c12d35/Cloud/en-US/3daa8d63fccb40959cdd0f52aab2d931.html).
-
+> ### Note:  
+> To run your project with the SAP Business Accelerator Hub sandbox, see the prerequisites in[Developing an HTML5 Application for Cloud Foundry](https://help.sap.com/viewer/0e2ec06ee34742fd9054fabe09c12d35/Cloud/en-US/3daa8d63fccb40959cdd0f52aab2d931.html).
 
 
 
@@ -78,12 +67,17 @@ The SAP Business Accelerator Hub \(formerly known as the SAP API Business Hub\) 
 
 You can add a service to an empty SAP Fiori project or to an SAP Fiori project that doesn't have a service:
 
-1.  Click *Add to SAP Fiori Project*.
+1.  From the Service Center, open a service and click the *Add to SAP Fiori Project* button.
+
+    > ### Note:  
+    > If your dev space does not have a project, click *Create Project* and follow the wizard.
+    > 
+    > The service will be added to the new project.
 
     If you only have one empty project:
 
     -   The service is added and is displayed in the *External Resources* section of the storyboard.
-    -   The `` file is added to the project folder in the file explorer.
+    -   The `.service.metadata` file is added to the project folder in the file explorer.
 
         You can then add a UI and integrate the service.
 
@@ -99,9 +93,15 @@ You can add a service to an empty SAP Fiori project or to an SAP Fiori project t
 
 You can select a service from the Service Center and add it as an external service to a CAP Node project:
 
-1.  Open a service and click *Add to CAP Project*.
+1.  From the Service Center, open a service and click *Add to CAP Project*.
+
+    > ### Note:  
+    > If your dev space does not have a project, click *Create Project* and follow the wizard.
+    > 
+    > The service will be added to the new project.
+
 2.  If prompted, select the target CAP Node project to add the external service to.
-3.  \(Optional\) You can generate a sample service and select the relevant entities.
+3.  \(Optional\) If you are using a *Full Stack Cloud Application* project, you can generate a sample service and select the relevant entities.
 
     1.  Select *Yes* to add a sample service.
     2.  Select the entities that you want to add.
